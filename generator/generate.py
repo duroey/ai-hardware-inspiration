@@ -12,7 +12,7 @@ import anthropic
 
 BASE_URL = os.environ.get("ANTHROPIC_BASE_URL", "https://api.anthropic.com")
 API_KEY = os.environ.get("ANTHROPIC_AUTH_TOKEN", os.environ.get("ANTHROPIC_API_KEY", ""))
-MODEL = os.environ.get("ANTHROPIC_DEFAULT_HAIKU_MODEL", "claude-haiku-4-5-20251001")
+MODEL = os.environ.get("ANTHROPIC_DEFAULT_OPUS_MODEL", "claude-opus-4-7")
 
 PROJECT_ROOT = Path(__file__).parent.parent
 CATALOG_DIR = PROJECT_ROOT / "catalog"
