@@ -28,7 +28,24 @@
     "model": "Text-to-3D",
     "actuator": "触摸屏",
     "carrier": "理发器",
-    "combination_id": "人体传感器__Text-to-3D__触摸屏__理发器"
+    "combination_id": "人体传感器__Text-to-3D__触摸屏__理发器",
+    "market_research": {
+      "exists": "partial",
+      "similar_products": [
+        {
+          "name": "Smart Mirror",
+          "brand": "HiMirror",
+          "description": "HiMirror 是一款智能镜子，可以通过摄像头扫描用户的面部，提供皮肤分析和虚拟化妆效果预览，但主要用于美容而非理发场景。"
+        },
+        {
+          "name": "AR Haircut Simulator",
+          "brand": "YouCam Makeup",
+          "description": "YouCam Makeup 是一款基于 AR 技术的手机应用，支持用户上传照片后尝试不同的发型效果，但不涉及实时头部轮廓感知和理发器硬件结合。"
+        }
+      ],
+      "difference": "本创意结合了实时头部轮廓感知、Text-to-3D 技术以及理发器硬件，专注于理发场景下的 3D 发型预览，相比现有产品更聚焦于理发体验的精准性和硬件集成，而非单纯的虚拟试妆或静态发型模拟。",
+      "market": "微创新空间"
+    }
   },
   {
     "scene": "该组合无法构成有意义的硬件产品",
@@ -58,7 +75,24 @@
     "model": "Token Classification",
     "actuator": "电子墨水屏",
     "carrier": "折纸",
-    "combination_id": "力传感器__Token Classification__电子墨水屏__折纸"
+    "combination_id": "力传感器__Token Classification__电子墨水屏__折纸",
+    "market_research": {
+      "exists": "partial",
+      "similar_products": [
+        {
+          "name": "Tiggly Words",
+          "brand": "Tiggly",
+          "description": "一款针对儿童的互动学习玩具，通过物理字母块与平板电脑应用结合，触发屏幕上的互动内容，帮助儿童学习单词和拼写。"
+        },
+        {
+          "name": "Osmo Genius Starter Kit",
+          "brand": "Osmo",
+          "description": "一款结合物理互动与数字内容的教育工具，使用实体卡片或拼图与iPad应用互动，涵盖数学、拼写和绘图等学习内容。"
+        }
+      ],
+      "difference": "本创意独特地结合了折纸结构与力传感器，通过按压折纸触发电子墨水屏显示互动故事内容，强调可折叠性和物理交互的创新体验。而现有产品更多依赖平板电脑屏幕和实体物件（如字母块或卡片）与数字内容的结合，缺乏折纸结构和电子墨水屏的低功耗、类纸质阅读体验。",
+      "market": "微创新空间"
+    }
   },
   {
     "scene": "餐厅收餐车感知残余食物成分，机械臂自动分类回收厨余",
@@ -75,7 +109,29 @@
     "model": "Token Classification",
     "actuator": "机械臂",
     "carrier": "收餐车",
-    "combination_id": "土壤传感器__Token Classification__机械臂__收餐车"
+    "combination_id": "土壤传感器__Token Classification__机械臂__收餐车",
+    "market_research": {
+      "exists": "partial",
+      "similar_products": [
+        {
+          "name": "Smart Waste Sorting Robot",
+          "brand": "ZenRobotics",
+          "description": "ZenRobotics 提供基于AI的废物分拣机器人，主要用于工业废物处理，通过传感器和机械臂对废物进行分类，但未专门针对餐厅厨余场景。"
+        },
+        {
+          "name": "Bin-e Smart Waste Bin",
+          "brand": "Bin-e",
+          "description": "Bin-e 是一款智能垃圾桶，能够通过图像识别技术自动分类垃圾，适用于公共场所和办公室，但不具备机械臂和针对餐厅收餐车的特定设计。"
+        },
+        {
+          "name": "TrashBot",
+          "brand": "CleanRobotics",
+          "description": "TrashBot 是一款智能垃圾分类机器人，使用AI和传感器技术自动分拣垃圾，适用于公共场所，但未针对餐厅厨余残余食物成分感知和分类。"
+        }
+      ],
+      "difference": "本创意专注于餐厅收餐车场景，结合土壤传感器和Token Classification技术对残余食物成分进行精准感知，并通过机械臂实现自动化分类回收。现有产品多为通用垃圾分类机器人，未针对餐厅厨余场景优化，且缺乏对食物成分的具体分析功能。",
+      "market": "微创新空间"
+    }
   },
   {
     "scene": "语音指令控制家电开关，实现智能家居语音自动化",
@@ -91,7 +147,29 @@
     "model": "Text Generation",
     "actuator": "继电器",
     "carrier": "大容量",
-    "combination_id": "音频录音模块__Text Generation__继电器__大容量"
+    "combination_id": "音频录音模块__Text Generation__继电器__大容量",
+    "market_research": {
+      "exists": "yes",
+      "similar_products": [
+        {
+          "name": "Echo Dot",
+          "brand": "Amazon",
+          "description": "一款智能音箱，通过语音助手Alexa实现对智能家居设备的语音控制，支持多种家电设备的开关控制，无需改造线路，只需连接兼容的智能设备或智能插座。"
+        },
+        {
+          "name": "Google Nest Mini",
+          "brand": "Google",
+          "description": "一款智能音箱，内置Google Assistant，可通过语音指令控制智能家居设备，支持与智能插座、灯泡等设备联动，实现家电自动化控制。"
+        },
+        {
+          "name": "HomePod Mini",
+          "brand": "Apple",
+          "description": "一款智能音箱，搭载Siri语音助手，支持通过语音控制HomeKit兼容的智能家居设备，实现家电开关等自动化功能。"
+        }
+      ],
+      "difference": "本创意强调通过音频录音模块和Text Generation技术直接控制任意电器，并结合继电器和大容量设计，可能是为了支持更广泛的非智能家电（无需智能插座或设备兼容性）。而现有产品大多依赖智能家居生态系统和兼容设备（如智能插座或内置智能模块的家电），对非智能家电的支持需要额外硬件（如智能插座）。本创意的‘无需改造线路’和‘任意电器’控制可能涉及更直接的继电器控制方案，技术实现上可能有创新，但具体实现方式和成本控制需进一步明确。",
+      "market": "红海"
+    }
   },
   {
     "scene": "钻铣床加工时通过电流监测刀具状态自动调整进给",
@@ -107,7 +185,24 @@
     "model": "Feature Extraction",
     "actuator": "轮子",
     "carrier": "钻铣床",
-    "combination_id": "电流传感器__Feature Extraction__轮子__钻铣床"
+    "combination_id": "电流传感器__Feature Extraction__轮子__钻铣床",
+    "market_research": {
+      "exists": "partial",
+      "similar_products": [
+        {
+          "name": "ToolMonitor",
+          "brand": "Sandvik Coromant",
+          "description": "ToolMonitor 是一种刀具监控系统，通过传感器监测刀具状态和加工过程中的振动、电流等参数，实时分析刀具磨损情况，并提供优化建议，但未明确提及自动调整进给功能。"
+        },
+        {
+          "name": "iTENDO",
+          "brand": "Schunk",
+          "description": "iTENDO 是一款智能刀柄，集成传感器监测刀具振动和加工参数，能够实时反馈刀具状态并与机床控制系统联动调整参数，但主要聚焦于振动分析，未明确强调电流监测。"
+        }
+      ],
+      "difference": "本创意聚焦于通过电流监测刀具状态并自动调整进给参数，而现有产品更多依赖振动或其他传感器数据，且部分产品未实现完全自动化的进给调整。此外，本创意提及的'轮子'元素（可能指移动性或模块化设计）在现有产品中未见明显体现，可能为独特创新点。",
+      "market": "微创新空间"
+    }
   },
   {
     "scene": "鸭舌帽感知环境光线自动调节帽檐补光或遮光功率",
@@ -123,7 +218,11 @@
     "model": "Any-to-Any",
     "actuator": "功率控制模块",
     "carrier": "鸭舌帽",
-    "combination_id": "光学传感器__Any-to-Any__功率控制模块__鸭舌帽"
+    "combination_id": "光学传感器__Any-to-Any__功率控制模块__鸭舌帽",
+    "market_research": {
+      "exists": "error",
+      "error": "HTTPSConnectionPool(host='api.x.ai', port=443): Read timed out. (read timeout=60)"
+    }
   },
   {
     "scene": "投影机监测供电质量并分类显示电网健康状态报告",
@@ -137,7 +236,24 @@
     "model": "Tabular Classification",
     "actuator": "LED显示屏",
     "carrier": "投影机",
-    "combination_id": "电压传感器__Tabular Classification__LED显示屏__投影机"
+    "combination_id": "电压传感器__Tabular Classification__LED显示屏__投影机",
+    "market_research": {
+      "exists": "partial",
+      "similar_products": [
+        {
+          "name": "Power Quality Analyzer",
+          "brand": "Fluke",
+          "description": "Fluke 的电力质量分析仪可以监测电压、电流等参数，并通过设备屏幕或软件显示电力质量报告，用于工业和商业环境中的电网健康分析。"
+        },
+        {
+          "name": "PQube 3",
+          "brand": "Power Standards Lab",
+          "description": "PQube 3 是一款紧凑型电力质量监测设备，能够记录电压波动、谐波等数据，并通过网络或本地显示提供详细的电力质量报告。"
+        }
+      ],
+      "difference": "本创意将电力质量监测与投影机和LED显示屏结合，强调大屏可视化和直观呈现，面向更广泛的用户群体（如家庭或小型企业），而现有产品多为专业设备，面向工业用户，注重数据分析而非直观显示。",
+      "market": "微创新"
+    }
   },
   {
     "scene": "雨靴感知雨量大小，LED灯变色提示积水深度警示安全",
