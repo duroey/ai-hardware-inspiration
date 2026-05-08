@@ -1,0 +1,707 @@
+[
+  {
+    "id": "any-to-any",
+    "name": "Any-to-Any",
+    "category": "其他",
+    "task": "Any-to-Any task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "keypoint-detection",
+    "name": "Keypoint Detection",
+    "category": "其他",
+    "task": "Keypoint Detection task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "mask-generation",
+    "name": "Mask Generation",
+    "category": "其他",
+    "task": "Mask Generation task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "unconditional-image-generation",
+    "name": "Unconditional Image Generation",
+    "category": "其他",
+    "task": "Unconditional Image Generation task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "reinforcement-learning",
+    "name": "Reinforcement Learning",
+    "category": "决策与控制",
+    "task": "Reinforcement Learning task",
+    "input": {
+      "data_type": "环境状态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "动作决策",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "feature-extraction",
+    "name": "Feature Extraction",
+    "category": "多模态/通用",
+    "task": "Feature Extraction task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "特征向量",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "tabular-classification",
+    "name": "Tabular Classification",
+    "category": "结构化数据",
+    "task": "Tabular Classification task",
+    "input": {
+      "data_type": "表格数据",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "tabular-regression",
+    "name": "Tabular Regression",
+    "category": "结构化数据",
+    "task": "Tabular Regression task",
+    "input": {
+      "data_type": "表格数据",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "数值",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "document-question-answering",
+    "name": "Document Question Answering",
+    "category": "自然语言处理",
+    "task": "Document Question Answering task",
+    "input": {
+      "data_type": "文档图像+文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本答案",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "fill-mask",
+    "name": "Fill-Mask",
+    "category": "自然语言处理",
+    "task": "Fill-Mask task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "question-answering",
+    "name": "Question Answering",
+    "category": "自然语言处理",
+    "task": "Question Answering task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本答案",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "sentence-similarity",
+    "name": "Sentence Similarity",
+    "category": "自然语言处理",
+    "task": "Sentence Similarity task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "相似度分数",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "summarization",
+    "name": "Summarization",
+    "category": "自然语言处理",
+    "task": "Summarization task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "table-question-answering",
+    "name": "Table Question Answering",
+    "category": "自然语言处理",
+    "task": "Table Question Answering task",
+    "input": {
+      "data_type": "多模态",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本答案",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-classification",
+    "name": "Text Classification",
+    "category": "自然语言处理",
+    "task": "Text Classification task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-generation",
+    "name": "Text Generation",
+    "category": "自然语言处理",
+    "task": "Text Generation task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-ranking",
+    "name": "Text Ranking",
+    "category": "自然语言处理",
+    "task": "Text Ranking task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-to-3d",
+    "name": "Text-to-3D",
+    "category": "自然语言处理",
+    "task": "Text-to-3D task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-to-image",
+    "name": "Text-to-Image",
+    "category": "自然语言处理",
+    "task": "Text-to-Image task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "图像",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-to-speech",
+    "name": "Text-to-Speech",
+    "category": "自然语言处理",
+    "task": "Text-to-Speech task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "音频",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "text-to-video",
+    "name": "Text-to-Video",
+    "category": "自然语言处理",
+    "task": "Text-to-Video task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "视频",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "token-classification",
+    "name": "Token Classification",
+    "category": "自然语言处理",
+    "task": "Token Classification task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "token级标签序列",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "translation",
+    "name": "Translation",
+    "category": "自然语言处理",
+    "task": "Translation task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "zero-shot-classification",
+    "name": "Zero-Shot Classification",
+    "category": "自然语言处理",
+    "task": "Zero-Shot Classification task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "zero-shot-image-classification",
+    "name": "Zero-Shot Image Classification",
+    "category": "自然语言处理",
+    "task": "Zero-Shot Image Classification task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "zero-shot-object-detection",
+    "name": "Zero-Shot Object Detection",
+    "category": "自然语言处理",
+    "task": "Zero-Shot Object Detection task",
+    "input": {
+      "data_type": "文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "video-classification",
+    "name": "Video Classification",
+    "category": "视频理解",
+    "task": "Video Classification task",
+    "input": {
+      "data_type": "视频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "video-text-to-text",
+    "name": "Video-Text-to-Text",
+    "category": "视频理解",
+    "task": "Video-Text-to-Text task",
+    "input": {
+      "data_type": "视频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "video-to-video",
+    "name": "Video-to-Video",
+    "category": "视频理解",
+    "task": "Video-to-Video task",
+    "input": {
+      "data_type": "视频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "depth-estimation",
+    "name": "Depth Estimation",
+    "category": "计算机视觉",
+    "task": "Depth Estimation task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "深度图",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-classification",
+    "name": "Image Classification",
+    "category": "计算机视觉",
+    "task": "Image Classification task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-feature-extraction",
+    "name": "Image Feature Extraction",
+    "category": "计算机视觉",
+    "task": "Image Feature Extraction task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-segmentation",
+    "name": "Image Segmentation",
+    "category": "计算机视觉",
+    "task": "Image Segmentation task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "分割掩码",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-text-to-image",
+    "name": "Image-Text-to-Image",
+    "category": "计算机视觉",
+    "task": "Image-Text-to-Image task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-text-to-text",
+    "name": "Image-Text-to-Text",
+    "category": "计算机视觉",
+    "task": "Image-Text-to-Text task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-text-to-video",
+    "name": "Image-Text-to-Video",
+    "category": "计算机视觉",
+    "task": "Image-Text-to-Video task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-to-3d",
+    "name": "Image-to-3D",
+    "category": "计算机视觉",
+    "task": "Image-to-3D task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-to-image",
+    "name": "Image-to-Image",
+    "category": "计算机视觉",
+    "task": "Image-to-Image task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "图像",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-to-text",
+    "name": "Image-to-Text",
+    "category": "计算机视觉",
+    "task": "Image-to-Text task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "image-to-video",
+    "name": "Image-to-Video",
+    "category": "计算机视觉",
+    "task": "Image-to-Video task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "视频",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "object-detection",
+    "name": "Object Detection",
+    "category": "计算机视觉",
+    "task": "Object Detection task",
+    "input": {
+      "data_type": "图像",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "边界框+类别",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "visual-document-retrieval",
+    "name": "Visual Document Retrieval",
+    "category": "计算机视觉",
+    "task": "Visual Document Retrieval task",
+    "input": {
+      "data_type": "图像+文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "visual-question-answering",
+    "name": "Visual Question Answering",
+    "category": "计算机视觉",
+    "task": "Visual Question Answering task",
+    "input": {
+      "data_type": "图像+文本",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本答案",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "audio-classification",
+    "name": "Audio Classification",
+    "category": "音频处理",
+    "task": "Audio Classification task",
+    "input": {
+      "data_type": "音频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "类别标签",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "audio-text-to-text",
+    "name": "Audio-Text-to-Text",
+    "category": "音频处理",
+    "task": "Audio-Text-to-Text task",
+    "input": {
+      "data_type": "音频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "结构化输出",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "audio-to-audio",
+    "name": "Audio-to-Audio",
+    "category": "音频处理",
+    "task": "Audio-to-Audio task",
+    "input": {
+      "data_type": "音频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "音频",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  },
+  {
+    "id": "automatic-speech-recognition",
+    "name": "Automatic Speech Recognition",
+    "category": "音频处理",
+    "task": "Automatic Speech Recognition task",
+    "input": {
+      "data_type": "音频",
+      "requirement": ""
+    },
+    "output": {
+      "data_type": "文本",
+      "description": ""
+    },
+    "source": "Hugging Face Tasks"
+  }
+]
