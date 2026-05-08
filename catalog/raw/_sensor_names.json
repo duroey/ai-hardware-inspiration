@@ -1,0 +1,2778 @@
+[
+  {
+    "name": "Grove - Vision AI Module V2 -  Arm Cortex-M55 & Ethos-U55, TensorFlow and PyTorch supported, Arduino, Raspberry Pi, Seeed Studio XIAO, ESP-based dev board compatible",
+    "description": "It is an MCU-based vision AI module powered by Himax WiseEye2, featuring Arm Cortex-M55 &amp; Ethos-"
+  },
+  {
+    "name": "Grove - Temp&Humi&Barometer Sensor (BME280)",
+    "description": "\r\n\r\nGrove - Temp&amp;Humi&amp;Barometer Sensor (BME280) is a breakout board for Bosch BMP280, a high"
+  },
+  {
+    "name": "Grove Vision AI v2 Kit - with optional Raspberry Pi OV5647 Camera Module, Seeed Studio XIAO; Arm Cortex-M55 & Ethos-U55, TensorFlow and PyTorch supported",
+    "description": "It is an MCU-based vision AI module powered by Himax WiseEye2, featuring Arm Cortex-M55 &amp; Ethos-"
+  },
+  {
+    "name": "Grove - Capacitive Soil Moisture Sensor (Corrosion Resistant)",
+    "description": "The Grove - Capacitive Moisture Sensor (Corrosion Resistant) is a soil moisture sensor based on capa"
+  },
+  {
+    "name": "Grove - CO2 & Temperature & Humidity Sensor（SCD41）- photoacoustic NDIR technology, algorithms, ideal for Smart Ventilation System",
+    "description": "The Grove - SCD41 is a compact yet powerful 3-in-1 environmental sensor for CO2, Humidity and Temper"
+  },
+  {
+    "name": "Grove -  AHT20 I2C Industrial Grade Temperature and Humidity Sensor",
+    "description": "Grove - AHT20 I2C industrial grade temperature and humidity sensor is equipped with a new generation"
+  },
+  {
+    "name": "Grove - Ultrasonic Distance Sensor",
+    "description": "The Grove - Ultrasonic Distance Sensor is an ultrasonic transducer that utilizes ultrasonic waves to"
+  },
+  {
+    "name": "Grove - Temperature, Humidity, Pressure and Gas Sensor for Arduino - BME680",
+    "description": "\r\n\r\nGrove BME680 sensor is a 4-in-1 environmental sensor with strong sensing capability for Temperat"
+  },
+  {
+    "name": "Grove - Light Sensor v1.2 - LS06-S Phototransistor Compatible with Arduino",
+    "description": "The Grove - Light Sensor v1.2 is an analog module and can output various electrical signals which ca"
+  },
+  {
+    "name": "Grove - GSR sensor",
+    "description": "Grove - GSR Sensor stands for galvanic skin response and it is a method of measuring the electrical "
+  },
+  {
+    "name": "Grove Smart IR Gesture Sensor, infrared camera sensor, AI algorithm, over 15 gestures detection, I2C, SPI, support Grove, XIAO, Type-C connecting, 3.3V/5V",
+    "description": "Grove Smart IR Gesture Sensor is an intelligent gesture recognition module equipped with an infrared"
+  },
+  {
+    "name": "Grove - Analog Microphone (MEMS)",
+    "description": "\r\n\r\nThe Grove - Analog Microphone is a based on high-performance&nbsp;SiSonic MEMS&nbsp;technology, "
+  },
+  {
+    "name": "Grove - Temperature & Humidity Sensor(SHT41), I2C, ±1.8% / max. ±2.5% RH and ±0.2°C Temp, ideal for Climate Monitoring, Smart Home",
+    "description": "Grove - Temperature &amp; Humidity Sensor(SHT41) is a digital Humidity and Temperature Sensor which "
+  },
+  {
+    "name": "Grove - Temperature & Humidity Sensor Pro (DHT22/AM2302) ",
+    "description": "Grove - DHT22 is a high-accuracy temperature and humidity sensor based on the DHT22 module (also kno"
+  },
+  {
+    "name": "Grove - IMU 9DOF (ICM20600+AK09918)",
+    "description": "Grove - IMU 9DOF (lcm20600+AK09918), gyroscope, accelerometer, electronic compass"
+  },
+  {
+    "name": "Grove - Lightning Sensor (AS3935) - up to 40km range, programmable parameters, I2C, SPI, support 3.3V and 5.0V power supply",
+    "description": "\r\nThe Grove AS3935 Lightning sensor is an easy-to-use sensor built around the AS3935 IC, which can d"
+  },
+  {
+    "name": "Grove - VOC and eCO2 Gas Sensor - SGP30 - multi-pixel gas sensor with low power consumption, ideal for Air Purifier System, Smart Ventilation System",
+    "description": "The Grove-VOC and eCO2 Gas Sensor SGP30 is an air quality sensor. Based on SGP30, this module provid"
+  },
+  {
+    "name": "Grove -Smart Air Quality Sensor-SGP41,MOX gas sensor for VOCs & NOx, Air Purifier, Smart Ventilation",
+    "description": "This is a digital gas sensor that uses Sensirion's SGP41 with advanced CMOSens technology to measure"
+  },
+  {
+    "name": "Grove - Thermal Imaging Camera - MLX90641 BCB 16x12 IR Array with 55° FOV",
+    "description": "This IR thermal camera carries a 16x12 array of thermal sensors (MLX90641) and it can detect the tem"
+  },
+  {
+    "name": "Grove - Formaldehyde Sensor (SFA30) - HCHO Sensor, on-board SHT for RH, Temp - Arduino/ Raspberry Pi compatible, Easy integration into Air Purifier, Smart Ventilation System",
+    "description": "Grove- Formaldehyde Sensor based on Sensirion SFA30 offers excellent formaldehyde sensing performanc"
+  },
+  {
+    "name": "Grove - Doppler Radar (BGT24LTR11) - 24GHz Transceiver",
+    "description": "The Grove – Doppler Radar is based on the BGT24LTR11 Silicon Germanium MMIC which is a 24GHz radar t"
+  },
+  {
+    "name": "Grove - Temperature & Humidity Sensor(SHT40), I2C, ±1.8% / max. ±3.5% RH and ±0.2°C Temp, ideal for Climate Monitoring, Smart Home",
+    "description": "Grove -Temperature&amp;Humidity Sensor (SHT40) is a digital Humidity and Temperature Sensor which ha"
+  },
+  {
+    "name": "Grove - I2C High Accuracy Temp&Humi Sensor (SHT35), I2C,  ±1.5% RH and ±0.1°C, ideal for Smart Home, Industrial Automation",
+    "description": "This Grove - SHT35 is an I2C environmental sensor for temperature and humidity measurement with high"
+  },
+  {
+    "name": "Grove - CO2 & Temperature & Humidity Sensor (SCD30) - NDIR technology, algorithms, ideal for Smart Ventilation System",
+    "description": "The Grove - SCD30 is an Arduino-compatible 3-in-1 environmental sensor for CO2, temperature, and hum"
+  },
+  {
+    "name": "Grove - Soil Moisture Sensor",
+    "description": "Grove - Soil Moisture Sensor can measure soil moisture for plants. The soil moisture sensor consists"
+  },
+  {
+    "name": "Grove - Sound Sensor Based on LM358 amplifier - Arduino Compatible",
+    "description": "This Grove-Sound Sensor is based on an LM358 amplifier and an electret microphone. It detects the so"
+  },
+  {
+    "name": "Grove Temperature and Barometer Sensor(SPA06-003) - Supports I2C and SPI",
+    "description": "Grove - Temperature and Barometer Sensor(SPA06-003) is a high-precision and a low-current environmen"
+  },
+  {
+    "name": "Grove - Air Quality Sensor v1.3 - Arduino Compatible",
+    "description": "Grove - Air quality sensor v1.3&nbsp; is designed for indoor air quality testing. It can respond to "
+  },
+  {
+    "name": "Grove - Air Quality Sensor(BME688) with built-in AI, High-Performance 4-in-1, Gas, Humidity, Pressure and Temperature sensor",
+    "description": "BME688 is the first gas sensor with Artificial Intelligence(AI) and integrated high-linearity and hi"
+  },
+  {
+    "name": "Grove - Temperature & Humidity Sensor (DHT11)",
+    "description": "Grove – Temperature &amp; Humidity Sensor is based on DHT11, which has high measurement accuracy and"
+  },
+  {
+    "name": "Grove - Temperature&Humidity Sensor (SHT31), I2C, ±2% RH and ±0.3°C Temp, ideal for Smart Home, Industrial Automation ",
+    "description": "Grove - Temperature &amp; Humidity Sensor (SHT31) measures temperature and humidity with&nbsp;high a"
+  },
+  {
+    "name": "Grove - SEN55 All-in-one environmental sensor - NOx, VOC, RH, Temp, PM1.0/2.5/4/10 with proprietary algorithms, HVAC, Air Purifier",
+    "description": "The Grove-SEN55 is a comprehensive solution for measuring essential air quality parameters including"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Accelerometer, ultra-low-power and high performance linear accelerometer powered by LIS3DHTR(ST), with dynamically selectable scale and multiple digital output interfaces",
+    "description": "Grove - 3-Axis Digital Accelerometer(LIS3DHTR) is a low-cost 3 - Axis accelerometer which is based o"
+  },
+  {
+    "name": "Grove - mini PIR motion sensor",
+    "description": "The Grove – mini PIR motion sensor is a compact, low power consumption, and cost-effective PIR senso"
+  },
+  {
+    "name": "Grove - IR (Infrared) Receiver",
+    "description": "Grove - IR (Infrared) Receiver is used to receive infrared signals and also used for remote control "
+  },
+  {
+    "name": "Grove - Time of Flight Distance Sensor(VL53L0X) - (ToF) laser-ranging module,Long Range Precision ranging",
+    "description": "Grove - Time of Flight Distance Sensor-VL53L0X is a high speed, high accuracy and long-range ToF dis"
+  },
+  {
+    "name": "Grove - Laser PM2.5 Dust Sensor - Arduino Compatible - HM3301",
+    "description": "The Grove - Laser PM2.5 Sensor (HM3301) is a new generation of laser dust detection sensor,  which i"
+  },
+  {
+    "name": "Grove - Thermal Imaging Camera - MLX90621 BAB 16x4 IR Array with 60° FOV",
+    "description": "The infrared thermal imaging module has a 16x4 resolution array temperature sensor (MLX90621), which"
+  },
+  {
+    "name": "Grove - Water Level Sensor (10CM) for Arduino ",
+    "description": "The Grove Water Level Sensor is a very accurate sensor that can be helpful in water level sensing ap"
+  },
+  {
+    "name": "Grove - GPS Module",
+    "description": "The Grove - GPS module is a cost-efficient and field-programmable gadget armed with a SIM28 module a"
+  },
+  {
+    "name": "Grove - PIR Motion Sensor-Low-cost&Easy-to -use motion detector-beginners friendly",
+    "description": "The Grove - PIR Motion Sensor(Passive Infrared Sensor) is an easy-to-use motion sensor with Grove co"
+  },
+  {
+    "name": "Grove - 6-Axis Accelerometer&Gyroscope",
+    "description": "Grove - 6-Axis Accelerometer&Gyroscope is a cost-effective Grove sensor integrated with a 3-axis dig"
+  },
+  {
+    "name": "Grove - Red LED Button",
+    "description": "The Grove - Red LED Button is stable and reliable with 100 000 times long life. With the build-in LE"
+  },
+  {
+    "name": "Grove - D7S Vibration Sensor - real-time earthquake detect, I2C, Low Power Consumption",
+    "description": "The Grove - D7S Vibration Sensor is an earthquake detection module that provides real-time monitorin"
+  },
+  {
+    "name": "Grove - 6-Axis Accelerometer&Gyroscope (BMI088)",
+    "description": "\r\n\r\nThe Grove - 6-Axis Accelerometer&amp;Gyroscope(BMI088) is a 6 DoF(degrees of freedom) High-perfo"
+  },
+  {
+    "name": "Grove - ADC for Load Cell (HX711)",
+    "description": "\r\n\r\nGrove - ADC for Load Cell is born to save your time and make it easy to use load cells, based on"
+  },
+  {
+    "name": "Grove - Multichannel Gas Sensor v2 -  Besides CO, NO2, C2H5CH, VOC - MEMS gas sensor ",
+    "description": "Grove - Multichannel Gas Sensor V2 provides stable and reliable gases detecting function under the c"
+  },
+  {
+    "name": "Grove - DS1307 RTC (Real Time Clock) for Arduino ",
+    "description": "Grove - DS1307 RTC is based on the clock chip DS1307 and supports I2C communication! It uses a Lithi"
+  },
+  {
+    "name": "Grove - Rotary Angle Sensor (panel mount version), compatible with both Arduino and Raspberry Pi",
+    "description": "Grove - Rotary Angle Sensor, whose Grove connector is moved to the back compared to its&nbsp;origina"
+  },
+  {
+    "name": "Grove Temperature and Barometer Sensor (BMP280) - Supports I2C and SPI",
+    "description": "Grove - BMP280 I2C and SPI Barometric and Temperature Sensor is built around Bosch BMP280. It is a l"
+  },
+  {
+    "name": "Grove - Water Atomization Sensor: Ultrasonic atomization",
+    "description": "Grove - Water Atomization is a perfect module for you to quickly DIY a humidifier with Arduino. You "
+  },
+  {
+    "name": "Grove - ORP Sensor Kit Pro - IP68 ORP probe, ±2000 mV range, ±15mV accuracy, 5 meters, 0-80℃, Arduino, RoHS certification",
+    "description": "\r\n\r\nGrove - ORP Sensor Kit (HR-O) is a Grove sensor that measures the ORP value, detecting the quali"
+  },
+  {
+    "name": "Grove - Light Sensor (P) v1.1 - LS06-S Phototransistor Compatible with Arduino",
+    "description": "The Grove - Light sensor v1.1 integrates the LS06-S phototransistor to detect the intensity of light"
+  },
+  {
+    "name": "Grove - Temperature Sensor",
+    "description": "Grove - Temperature Sensor measure ambient temperature through a thermistor NCP18WF104F03RC which fe"
+  },
+  {
+    "name": "Grove - Rotary Angle Sensor",
+    "description": "Grove - Rotary Angle Sensor, this potentiometer twig produces analog output between 0 and Vcc (5V DC"
+  },
+  {
+    "name": "Grove - Digital Light Sensor - TSL2561 for Arduino Compatible",
+    "description": "This module is based on the I2C light-to-digital converter TSL2561 to transform light intensity into"
+  },
+  {
+    "name": "Grove - Adjustable PIR Motion Sensor",
+    "description": "Grove - Adjustable PIR Motion Sensor is an easy to use Passive Infrared motion sensor, which can det"
+  },
+  {
+    "name": "Grove - TDS Sensor/Meter For Water Quality (Total Dissolved Solids)",
+    "description": "An Arduino-compatible TDS(Total Dissolved Solids) sensor/meter for measuring TDS levels in water to "
+  },
+  {
+    "name": "Grove - Digital PIR Motion Sensor(12m)",
+    "description": "This Grove Digital PIR Sensor is the cheapest PIR sensor in the PIR families, however, it is able to"
+  },
+  {
+    "name": "Grove - 12-Channel Capacitive Touch Keypad (ATtiny1616)",
+    "description": "This Grove module is a high sensitivity, low power 12 button Capacitive Touch Keypad, it is built ar"
+  },
+  {
+    "name": "Grove - 12-bit Magnetic Rotary Position Sensor / Encoder (AS5600)",
+    "description": "Grove 12-bit Magnetic Rotary Position Sensor / Encoder (AS5600) is a programmable 12-bit high-resolu"
+  },
+  {
+    "name": "Grove - I2C High Accuracy Temperature Sensor - MCP9808",
+    "description": "The Grove - I2C High Accuracy Temperature Sensor(MCP9808) is a high accuracy digital module based on"
+  },
+  {
+    "name": "Grove - Thermal Imaging Camera / IR Array MLX90640 110 degree",
+    "description": "Grove - Thermal Imaging Camera is a thermal sensor which carries MLX90640 IR Array. The camera can p"
+  },
+  {
+    "name": "Grove - SEN54 All-in-one environmental sensor - VOC, RH, Temp, PM1.0/2.5/4/10 with proprietary algorithms, HVAC, Air Purifier",
+    "description": "The Grove-SEN54 is a comprehensive solution for measuring essential air quality parameters including"
+  },
+  {
+    "name": "Grove - Infrared Emitter",
+    "description": "The Infrared Emitter is used to transmit infrared signals through an infrared LED, while there is an"
+  },
+  {
+    "name": "Grove - Round Force Sensor (FSR402)",
+    "description": "Grove - Round Force Sensor (FSR402),touch sensor,Pressure Sensor"
+  },
+  {
+    "name": "Grove - Single-Point Infrared Thermometer - MLX90614 DCC with 35° FOV",
+    "description": "The infrared thermomometer module has a single-point medical-grade infrared temperature sensor (MLX9"
+  },
+  {
+    "name": "Grove - EMG Detector",
+    "description": "\r\n\r\nEMG detector is a bridge connects human body and electrical, the sensor gathers small muscle sig"
+  },
+  {
+    "name": "Grove - Infrared Reflective Sensor v1.2",
+    "description": "\r\n\r\nGrove - Infrared Reflective Sensor v1.2 can be used for the detection of proximity and color of "
+  },
+  {
+    "name": "Grove - Ultrasonic Sensor (US5) - ToF, distance detection, echo energy intensity value, materials distinguished, 1.6cm in diameter, 1.2cm in heigh",
+    "description": "Grove Ultrasonic Sensor (US5) features a compact design, utilizing Time-of-Flight (ToF) principle fo"
+  },
+  {
+    "name": "Grove - Dual Button",
+    "description": "Grove - Dual Button includes 2 buttons, enables you to control two signal channels with one grove mo"
+  },
+  {
+    "name": "SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI",
+    "description": "\r\n'SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI' enables you to rapidly digitize the "
+  },
+  {
+    "name": "Grove - Thermal Imaging Camera - MLX90641 BCA 16x12 IR Array with 110° FOV",
+    "description": "This IR thermal camera carries a 16x12 array of thermal sensors (MLX90641) and it can detect the tem"
+  },
+  {
+    "name": "Grove - Infrared Temperature Sensor for Arduino",
+    "description": "This Grove-Infrared temperature sensor is a non-contact temperature measure model. The sensor is com"
+  },
+  {
+    "name": "Grove - Button",
+    "description": "Grove - Button is a momentary push button. It contains one independent \"momentary on/off\" button.\r\n"
+  },
+  {
+    "name": "Grove - MLX90615 Digital Infrared Temperature Sensor",
+    "description": "The Digital Infrared temperature sensor is a non-contact temperature measurement module which bases "
+  },
+  {
+    "name": "Grove - Magnetic Switch",
+    "description": "\r\n\r\nThis is a Grove interface compatible Magnetic switch module. It is based on encapsulated dry ree"
+  },
+  {
+    "name": "Grove - Piezo Vibration Sensor",
+    "description": "\r\nGrove-Piezo Vibration Sensor is suitable for measurements of flexibility, vibration, impact and to"
+  },
+  {
+    "name": "Grove - Vibration Sensor (SW-420)",
+    "description": "\r\nThe Grove - Vibration Sensor (SW-420) is a high sensitivity non-directional vibration sensor. It i"
+  },
+  {
+    "name": "Grove - Yellow LED Button",
+    "description": "Grove - Yellow LED Button is stable and reliable with a 100 000 times long life. With the build-in L"
+  },
+  {
+    "name": "Grove - High Precision Barometric Pressure Sensor (DPS310)",
+    "description": "Grove - DPS310 is a&nbsp;high precision barometric pressure sensor,&nbsp;it can measure air pressure"
+  },
+  {
+    "name": "Grove - Gas Sensor(MQ2) - Arduino Compatible ",
+    "description": "Fast response Adjustable sensitivity Covers LPG, i-butane, methane, alcohol, Hydrogen etc Useful for"
+  },
+  {
+    "name": "Grove - ADXL335- 3-Axis Analog Accelerometer (±3g)",
+    "description": "The ADXL335 is a triple axis MEMS accelerometer with a low power consumption of 150 μA in the measur"
+  },
+  {
+    "name": "Grove - High Precision RTC (DS1307)",
+    "description": "Grove – High Precision RTC is a more accurate real-time-clock comparing to Grove – RTC with the regu"
+  },
+  {
+    "name": "Grove - Water Sensor(RC0603JR)-water leak detector",
+    "description": "The Water Sensor module is part of the Grove system. It indicates whether the sensor is dry, damp or"
+  },
+  {
+    "name": "Grove - CO2 Sensor(MH-Z16)-Carbon Dioxide Detection",
+    "description": "The Grove - CO2 Sensor(MH-Z16) is an infrared CO2 detection sensor, Which features high sensitivity "
+  },
+  {
+    "name": "Grove - Dust Sensor(PPD42NS) - measuring PM 2.5,dual PWM output",
+    "description": "This Dust Sensor gives a good indication of the air quality in an environment by measuring the dust "
+  },
+  {
+    "name": "Grove - Button(P)",
+    "description": "What does “P” mean? “P” is for “panel mount” in this product"
+  },
+  {
+    "name": "Grove - 12 Key Capacitive I2C Touch Sensor V3 (MPR121)",
+    "description": "The&nbsp;Grove - 12 Key Capacitive I2C Touch Sensor V3 (MPR121)&nbsp;is a multichannel proximity cap"
+  },
+  {
+    "name": "Grove - ADXL345 - 3-Axis Digital Accelerometer(±16g)",
+    "description": "Grove - ADXL345 is a small, thin, ultra low power 3-axis accelerometer, providing high resolution (1"
+  },
+  {
+    "name": "Grove - GUVA-S12D UV Sensor",
+    "description": "\r\nThe Grove – UV Sensor is used for detecting the intensity of incident ultraviolet(UV) radiation. I"
+  },
+  {
+    "name": "Grove - Gesture Sensor for Arduino (PAJ7620U2)",
+    "description": "The sensor on Grove - Gesture is PAJ7620U2 that integrates gesture recognition function with general"
+  },
+  {
+    "name": "Grove - 12 Key Capacitive I2C Touch Sensor V2 (MPR121)",
+    "description": "Grove - 12 Key Capacitive I2C Touch Sensor V2 (MPR121), Capacitance Sensor"
+  },
+  {
+    "name": "Grove - Touch Sensor",
+    "description": "\r\n\r\nGrove - Touch Sensor enables you to replace press with touch. It can detect the change in capaci"
+  },
+  {
+    "name": "Grove - Temperature & Humidity Sensor V2.0 (DHT20) / Upgraded DHT11/ I2C Port",
+    "description": "The&nbsp;new&nbsp;Grove&nbsp;-&nbsp;Temperature&nbsp;&amp;&nbsp;Humidity&nbsp;Sensor&nbsp;is&nbsp;ba"
+  },
+  {
+    "name": "Grove - IMU 10DOF v2.0 (MPU9250)",
+    "description": "The Grove - IMU 10DOF V2.0 is based on MPU-9250 and BMP280.MPU-9250 is still the most compatible 9-a"
+  },
+  {
+    "name": "Grove - 1-Wire Thermocouple Amplifier (MAX31850K)",
+    "description": "The Grove - 1-Wire Thermocouple Amplifier (MAX31850K) is a thermocouple-to-digital converter with 14"
+  },
+  {
+    "name": "Grove - IMU 9DOF v2.0 - MPU-9250",
+    "description": "Grove - IMU 9DOF v2.0 - MPU-9250 is a 9-axis motion tracking device that combines a 3-axis gyroscope"
+  },
+  {
+    "name": "Grove - IR Distance Interrupter v1.2",
+    "description": "\r\n\r\nGrove - IR Distance Interrupter&nbsp;is used to detect any object blocking the path of light, wh"
+  },
+  {
+    "name": "Grove - Single-Point Infrared Thermometer - MLX90614 DCI with 5° FOV",
+    "description": "This Infrared Thermometer module is equipped with a single-point medical-grade infrared temperature "
+  },
+  {
+    "name": "Grove - AC Voltage Sensor (MCP6002)",
+    "description": "\r\nGrove AC Voltage Sensor is perfect for measuring RMS AC voltages for accurate DIY energy meters. I"
+  },
+  {
+    "name": "Grove - Mech Keycap",
+    "description": "Grove - Mech Keycap, button, LED Key"
+  },
+  {
+    "name": "Grove - Capacitive Fingerprint Scanner/Sensor",
+    "description": "The Grove - Capacitive Fingerprint Scanner is a small size, low power consumption, high-reliability "
+  },
+  {
+    "name": "Grove - I2C Thermocouple Amplifier (MCP9600)",
+    "description": "\r\n\r\nThe Grove - I2C Thermocouple Amplifier (MCP9600) is a thermocouple-to-digital converter. This mo"
+  },
+  {
+    "name": "Grove - 2-Channel Inductive Sensor (LDC1612)",
+    "description": "\r\n\r\n\r\nThe Grove - 2-Channel Inductive Sensor is based on Texas Instruments(TI) LDC1612. The LDC1612 "
+  },
+  {
+    "name": "Grove - 80cm Infrared Proximity Sensor - GP2Y0A21YK",
+    "description": "The 80cm Infrared Proximity Sensor is a General Purpose Type Distance Measuring Sensor based on Shar"
+  },
+  {
+    "name": "Grove - Optical Rotary Encoder(TCUT1600X01)",
+    "description": "Grove - Optical Rotary Encoder(TCUT1600X01),motion, speed sensor, direction"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Accelerometer ±16g Ultra-low Power (BMA400)",
+    "description": "Grove - 3-Axis Digital Accelerometer ±16g Ultra-low Power (BMA400)"
+  },
+  {
+    "name": "Grove - Finger-clip Heart Rate Sensor",
+    "description": "\r\nGrove - Finger-clip Heart Rate Sensor is based on PAH8001EI-2G. Low power consumption and flexible"
+  },
+  {
+    "name": "Grove - Barometer Sensor(High-Accuracy): Measuring Barometric Pressure, Altimeter, and Temperature",
+    "description": "This Grove - Barometer (High-Accuracy) Sensor features a HP206F high-accuracy chip to detect baromet"
+  },
+  {
+    "name": "Grove - Finger-clip Heart Rate Sensor with shell",
+    "description": "Based on high performance PAH8001EI process\r\nSWD interface reserved\r\nI2C standard interface\r\nUltra-l"
+  },
+  {
+    "name": "Grove - Collision Sensor",
+    "description": "\r\n\r\n\r\nGrove - Collision Sensor is for detecting collision movement and vibration without complex alg"
+  },
+  {
+    "name": "Grove - Digital Switch(P) (Back connection) Module,Micro toggle switch",
+    "description": "\r\n\r\nThe Grove – Switch(P) is a mini SPDT slide, great for “ON/OFF” situations. It is a reliable swit"
+  },
+  {
+    "name": "Grove - Gas Sensor(MQ9)",
+    "description": "How to choose a gas sensor ? The Grove - Gas Sensor module is useful for gas leakage detecting(in ho"
+  },
+  {
+    "name": "Grove - Micro Switch",
+    "description": "\r\n\r\nThe Grove - Micro Switch is a simple, low cost micro switch that is actuated by very little phys"
+  },
+  {
+    "name": "Grove - Human Presence Sensor (AK9753)",
+    "description": "Grove - Human Presence Sensor (AK9753), IR sensor, motion detect"
+  },
+  {
+    "name": "Grove - Ear-clip/Finger-clip Heart Rate Sensor",
+    "description": "Grove - Ear/Finger-clip Heart Rate Sensor contains a clip and a receiver module. Just gently clip it"
+  },
+  {
+    "name": "Grove - Mouse Encoder",
+    "description": "Grove - Mouser Encoder is mechanical incremental rotary encoder (A, B channel) with feedback of dire"
+  },
+  {
+    "name": "Grove - Voltage Divider",
+    "description": "The Grove – Voltage Divider provides an interface for measuring extern voltage, eliminating the need"
+  },
+  {
+    "name": "Grove - Line Finder v1.1",
+    "description": "Most of automated robotic projects start from a line-following robot, Grove - Line finder v1"
+  },
+  {
+    "name": "Grove - Slide Potentiometer, compatible with both Arduino and Raspberry Pi ",
+    "description": "\r\n\r\nThe Grove - Slide Potentiometer module incorporates a linear variable resistor with a maximum re"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Accelerometer(±1.5g)",
+    "description": "\r\n\r\nThe Grove - 3-Axis Digital Accelerometer (±1.5g) is a 3-axis digital accelerometer often used fo"
+  },
+  {
+    "name": "Grove - IMU 10DOF",
+    "description": "Built on MPU-9250 and BMP180\r\nSmaller in size with less power consumption\r\nUser-programmable full-sc"
+  },
+  {
+    "name": "Grove - 2.5A DC Current Sensor(ACS70331)",
+    "description": "The Grove - 2.5A DC Current Sensor(ACS70331) can measure the DC current up to 2.5A and has a base se"
+  },
+  {
+    "name": "Grove - Gas Sensor(MQ3)",
+    "description": "How to choose a gas sensor ?The Grove - Gas Sensor module is useful for gas leakage detecting(in hom"
+  },
+  {
+    "name": "Grove - Integrated Pressure Sensor Kit (MPX5700AP)",
+    "description": "Grove - Integrated Pressure Sensor Kit (MPX5700AP) is made for measuring pressure in the range of 15"
+  },
+  {
+    "name": "Grove - IMU 9DOF",
+    "description": "Please consider Grove - IMU 9DOF v2"
+  },
+  {
+    "name": "Grove - Temperature&Humidity Sensor (High-Accuracy & Mini)",
+    "description": "\r\n\r\nGrove - Temperature&amp;Humidity Sensor is based on TH02, which has high-accuracy and mini size\r"
+  },
+  {
+    "name": "Grove - Gas Sensor(MQ5)",
+    "description": "Fast response Adjustable sensitivity Detects LPG, natural gas, town gas etc. Useful for gas leakage "
+  },
+  {
+    "name": "Grove - I2C Color Sensor",
+    "description": "Based on the color sensor TCS3414CS\r\nGrove compatible interface\r\nProgrammable interrupt function\r\nUs"
+  },
+  {
+    "name": "Grove - IR Distance Interrupter",
+    "description": "This IR Distance Interrupter features a high-sensitivity RFR-359F photoreflector to perform distance"
+  },
+  {
+    "name": "Grove - Light Sensor",
+    "description": "Analog data output\r\n3.3/5V working voltage\t\r\nEasy to use"
+  },
+  {
+    "name": "Grove - 6-Position DIP Switch",
+    "description": "\r\n\r\nThe Grove - 6-Position DIP Switch has 6 individual switch positions, which use I2C to transmit d"
+  },
+  {
+    "name": "Grove - Barometer Sensor (BMP180)",
+    "description": "This is a Grove module for the Bosch BMP180 high-precision, low-power digital barometer"
+  },
+  {
+    "name": "Grove - High Temperature Sensor",
+    "description": "Thermocouples are very sensitive, requiring a good amplifier with a cold - compensation reference"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Compass V2",
+    "description": "The Grove - 3-Axis Digital Compass is a digital compass sensor based on Bosch BMM150"
+  },
+  {
+    "name": "Grove - Color Sensor V3.0 - I2C interface - VEML6040 based",
+    "description": "It is a sensor to measure the color chromaticity of ambient light or the color of objects. With the "
+  },
+  {
+    "name": "Grove - Barometer Sensor",
+    "description": "Please consider Grove - Barometer Sensor（BMP180) as alternative product\r\n\t\r\n\t\r\n\t\t \r\n\t\r\n\t\tThis Grove-"
+  },
+  {
+    "name": "SeeedGrove -Transformers",
+    "description": "The Transformers module is based on the TA12-200 current transformer which can change large alternat"
+  },
+  {
+    "name": "Grove - Step Counter (BMA456)",
+    "description": "The Grove - Step Counter(BMA456) is based on BMA456, which is an exetremely small, triaxial, low-g h"
+  },
+  {
+    "name": "Grove - Air quality sensor",
+    "description": "Detects carbon monoxide, alcohol, acetone, thinner, formaldehyde and other slightly toxic gases\t\r\nHi"
+  },
+  {
+    "name": "Grove - Chest Strap Heart Rate Sensor",
+    "description": "The heart rate chest belt kit contains a chest belt and a 5"
+  },
+  {
+    "name": "Grove - Turbidity Sensor (Meter) for Arduino V1.0",
+    "description": "Grove - Turbidity Sensor can measure the turbidity of the water."
+  },
+  {
+    "name": "Grove - Speech Recognizer",
+    "description": "\r\n\r\nGrove speech recognizer is based on Cortex™-M0. It is designed for voice control application suc"
+  },
+  {
+    "name": "Grove - Oxygen Sensor(ME2-O2-Ф20)",
+    "description": "This Grove O2 sensor can be used to make a simple oxygen level detector and analyzer. It can measure"
+  },
+  {
+    "name": "Shop Grove - 3-Axis Digital Compass V2 at Seeed Studio, offering wide selection of electronic modules for makers to DIY projects. Quality Guarantees. Lifetime Tech Support. Full Tutorials and Projects.",
+    "description": "This product is no longer for sale, it has been replaced with Grove - Universal 4 Pin cable (5 PCs p"
+  },
+  {
+    "name": "Grove - PH Sensor",
+    "description": "Do you need to measure aqueous solution pH? Here, the Grove - PH sensor can help you do it"
+  },
+  {
+    "name": "Grove - 6-Axis Accelerometer&Compass v2.0",
+    "description": "The Grove 6 – Axis Accelerometer&Compass v2 has 3 magnetic field channels and 3 acceleration channel"
+  },
+  {
+    "name": "Grove - Digital Distance Interrupter 0.5 to 5cm(GP2Y0D805Z0F)",
+    "description": "Grove - Digital Distance Interrupter 0.5 to 5cm(GP2Y0D805Z0F), infrared distance, proximity sensor"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Compass",
+    "description": "3-Axis Compass module, a member of grove family uses I&sup2;C based Honeywell HMC5883L digital compa"
+  },
+  {
+    "name": "Shop Grove - I2C Color Sensor at Seeed Studio, offering wide selection of electronic modules for makers to DIY projects. Quality Guarantees. Lifetime Tech Support. Full Tutorials and Projects.",
+    "description": "A converter for Electronic bricks"
+  },
+  {
+    "name": "Shop Grove - Thumb Joystick at Seeed Studio, offering wide selection of electronic modules for makers to DIY projects. Quality Guarantees. Lifetime Tech Support. Full Tutorials and Projects.",
+    "description": "This a original designed module for the DS1307 Real Time Clock"
+  },
+  {
+    "name": "IMX219-130 8MP Camera with 130° FOV - Compatible with NVIDIA Jetson Nano/ Xavier NX",
+    "description": "This is an 8-megapixel camera with a FOV (field-of-view) of 130 degrees, which is suitable to use wi"
+  },
+  {
+    "name": "IMX219 M12/CS mount  CMOS Camera Module - Nvidia Jetson & Raspberry Pi CM4 Camera,  Support M12/CS mount lenses, High Image/Video Quality Camera Module",
+    "description": "This IMX 219 CMOS camera module is based on the high-resolution Sony IMX 219 sensor and supports bot"
+  },
+  {
+    "name": "IMX219-83 8MP 3D Stereo Camera Module – Compatible with Jetson Nano/ Xavier NX",
+    "description": "This is a 3D stereo camera module that features dual IMX219 cameras onboard with 8 megapixels on eac"
+  },
+  {
+    "name": "IMX219-77 8MP Camera with 77° FOV - Compatible with NVIDIA Jetson Nano/ Xavier NX",
+    "description": "This is an 8-megapixel camera with a FOV (field-of-view) of 77 degrees, which is suitable to use wit"
+  },
+  {
+    "name": "IMX219-160IR 8MP Camera with 160° FOV - Compatible with NVIDIA Jetson Nano/ Xavier NX",
+    "description": "This is an 8-megapixel camera with a FOV (field-of-view) of 160 degrees, which is suitable to use wi"
+  },
+  {
+    "name": "IMX219-160 8MP Camera with 160° FOV - Compatible with NVIDIA Jetson Nano/ Xavier NX",
+    "description": "This is an 8-megapixel camera with a FOV (field-of-view) of 160 degrees, which is suitable to use wi"
+  },
+  {
+    "name": "IMX219-77 Replacement Camera Module with 77° FOV for Raspberry Pi V2 Camera",
+    "description": "This is an 8-megapixel camera with a FOV (field-of-view) of 77 degrees, which is suitable to use wit"
+  },
+  {
+    "name": "Arduino MQ2 Gas Sensor for Detecting LPG and Smoke",
+    "description": "The Arduino MQ2 gas sensor detects LPG, i-butane, propane, methane, alcohol, hydrogen, and smoke wit"
+  },
+  {
+    "name": "Arduino CH4 Gas Sensor MQ4 for Natural Gas Detection",
+    "description": "Arduino CH4 gas sensor with MQ4 probe for detecting natural gas. Features adjustable sensitivity and"
+  },
+  {
+    "name": "MQ5 Gas Sensor for LPG and Natural Gas Detection",
+    "description": "MQ5 Gas Sensor offers reliable LPG and natural gas detection with plug-and-play Gravity interface fo"
+  },
+  {
+    "name": "Arduino MQ6 Propane Gas Sensor for Leak Detection",
+    "description": "Arduino MQ6 Propane Gas Sensor detects LPG, iso-butane, and propane with adjustable sensitivity. Eas"
+  },
+  {
+    "name": "Arduino Carbon Monoxide Sensor - MQ7 Probe",
+    "description": "Arduino CO Sensor with MQ7 probe detects CO from 20 to 2000ppm, easy plug-and-play with Gravity."
+  },
+  {
+    "name": "XL-MaxSonar-EZ0: Wide Beam Ultrasonic Sensor",
+    "description": "The XL-MaxSonar-EZ0 sensor excels in wide beam detection for indoor use, offering reliable detection"
+  },
+  {
+    "name": "XL-MaxSonar-AE0: Wide Beam Ultrasonic Rangefinder",
+    "description": "The XL-MaxSonar-AE0 provides wide beam detection with noise-free readings, ideal for reliable people"
+  },
+  {
+    "name": "Ultrasonic Scanner Kit for Robotics",
+    "description": "Ultrasonic Scanner Kit offers 120-degree scanning and 10-400 cm range for precise robotics applicati"
+  },
+  {
+    "name": "Comprehensive Arduino Sensor Kit - 27 Sensors for Endless Possibilities",
+    "description": "Arduino sensor kit with 27 sensors for experimenting and learning, featuring light, gas, sound, touc"
+  },
+  {
+    "name": "High Resolution HRLV-MaxSonar-EZ Sensors",
+    "description": "HRLV-MaxSonar-EZ sensors offer high resolution, calibrated beam patterns, and easy integration for a"
+  },
+  {
+    "name": "MQ7 Carbon Monoxide Sensor for Arduino Projects",
+    "description": "MQ7 CO sensor offers reliable 20-2000ppm detection with analog output, ideal for Arduino projects, a"
+  },
+  {
+    "name": "Versatile Touch Sensor Kit for Arduino Projects",
+    "description": "Versatile touch sensor for Arduino, integrates easily and works on metal, glass, and plastic surface"
+  },
+  {
+    "name": "Small Force Sensitive Resistor for Pressure Sensing",
+    "description": "Small force sensitive resistor with 0.16\" sensing area varies resistance based on pressure, ideal fo"
+  },
+  {
+    "name": "LSM303DLH Triple Axis Sensor: Tilt-Compensated Compass",
+    "description": "LSM303DLH: Triple axis accelerometer and magnetic sensor for tilt-compensated compassing and motion "
+  },
+  {
+    "name": "Optimize Range with SRF02 Ultrasonic Sensor",
+    "description": "The SRF02 ultrasonic sensor offers I2C and Serial interfaces with automatic tuning for optimal perfo"
+  },
+  {
+    "name": "SRF05 Ultrasonic Sensor: Enhanced Range and Precision",
+    "description": "The SRF05 ultrasonic sensor offers a range of 1 cm to 4 meters, ideal for precise obstacle detection"
+  },
+  {
+    "name": "SRF10 Ultrasonic Sensor: Wide Range Sonar with I2C",
+    "description": "The SRF10 ultrasonic sensor offers a range from 3cm to 6m, ideal for Arduino integration via I2C bus"
+  },
+  {
+    "name": "XL-MaxSonar®-WR Ultrasonic Sensor - Waterproof & Precise",
+    "description": "The XL-MaxSonar®-WR sensor provides robust long-range detection, noise-free readings, and versatile "
+  },
+  {
+    "name": "Accurate DC Voltage Meter for Robotics and Battery Display",
+    "description": "Standalone DC voltage meter, measures 3V-30V with 1% accuracy. Ideal for battery display and robotic"
+  },
+  {
+    "name": "Standalone DC Voltage Meter: Accurate & Easy to Use",
+    "description": "Standalone DC voltage meter measures 3V-30V with 1% accuracy, suitable for battery display and robot"
+  },
+  {
+    "name": "Explore Flex Sensors for Arduino Projects",
+    "description": "A 2.2\" flex sensor featuring variable resistance, used in Nintendo's Power Glove, ideal for Arduino "
+  },
+  {
+    "name": "Flex Sensor 4.5\" - Original Nintendo Power Glove Tech",
+    "description": "A 4.5\" flex sensor that increases resistance when bent, used in Nintendo Power Glove, ideal for Ardu"
+  },
+  {
+    "name": "Arduino RGB Color Sensor TCS3200: Detect Colors Precisely",
+    "description": "The TCS3200 Arduino RGB Color Sensor detects an extensive range of visible colors, ideal for various"
+  },
+  {
+    "name": "SRF08 Ultrasonic Sensor: Extended Range & Light Sensing",
+    "description": "The SRF08 sensor offers extended range, low power usage, and light sensing for versatile projects."
+  },
+  {
+    "name": "Digital Magnetic Sensor: Accurate Detection",
+    "description": "The digital magnetic sensor precisely detects nearby magnetic objects with a digital output, featuri"
+  },
+  {
+    "name": "TEMT6000 Ambient Light Sensor for Arduino Projects",
+    "description": "The TEMT6000 sensor measures light density, offering near-human eye spectral response and scalable v"
+  },
+  {
+    "name": "Arduino Slide Position Sensor: Precision Control",
+    "description": "Arduino Slide Position Sensor offers precise control with dual analog outputs and easy plug-and-play"
+  },
+  {
+    "name": "Gravity Conductivity Sensor Switch for Arduino",
+    "description": "Detect conductivity in various objects for creative interactive applications using the Gravity Condu"
+  },
+  {
+    "name": "Gravity Analog 20A Current Sensor for Arduino",
+    "description": "The Gravity Analog 20A Current Sensor offers precise AC/DC measurement, high voltage isolation, and "
+  },
+  {
+    "name": "Arduino Triple Axis Accelerometer: Ultra Low-Power Solution",
+    "description": "Arduino triple axis accelerometer with LIS2DH chip offers low power consumption, stability, and easy"
+  },
+  {
+    "name": "Arduino & Raspberry Pi Compatible HCHO Sensor Module",
+    "description": "An Arduino-compatible HCHO sensor module for accurate air quality monitoring, offering high sensitiv"
+  },
+  {
+    "name": "TF02-Pro ToF LiDAR: Accurate 40m Range Sensor",
+    "description": "TF02-Pro ToF LiDAR sensor offers high precision with a 40m range, ideal for various intelligent appl"
+  },
+  {
+    "name": "Industrial Incremental Photoelectric Rotary Encoder",
+    "description": "Industrial photoelectric rotary encoder generates 400 pulses/round, perfect for speed and angle meas"
+  },
+  {
+    "name": "Eco-Friendly Water Turbine Generator - 5V DC Output",
+    "description": "Water turbine generator with 5V DC output, ideal for eco-friendly hydro power applications like smar"
+  },
+  {
+    "name": "Air Quality Monitor with PM2.5, Temperature & Humidity Sensor",
+    "description": "Monitor air quality and environmental conditions with PM2.5, temperature, and humidity sensors. Idea"
+  },
+  {
+    "name": "VEML7700 Ambient Light Sensor: High Precision & Range",
+    "description": "The VEML7700 sensor offers high precision and wide range ambient light measurement with a 16-bit res"
+  },
+  {
+    "name": "SHT20 I2C Temperature & Humidity Sensor with Waterproof Probe",
+    "description": "The SHT20 I2C sensor measures temperature and humidity with high precision and waterproof protection"
+  },
+  {
+    "name": "EMG Sensor for Muscle Activity Detection",
+    "description": "Advanced EMG sensor for sEMG detection, reflecting muscle and neural activities, ideal for Arduino-b"
+  },
+  {
+    "name": "Arduino-Compatible Sound Level Meter for Accurate Noise Measurement",
+    "description": "Arduino-compatible sound level meter accurately measures environmental noise, featuring easy plug-an"
+  },
+  {
+    "name": "Gravity Analog Spear Tip pH Sensor for Soil & Food",
+    "description": "This kit measures pH in soil and food, aiding plant growth and food quality analysis with a spear ti"
+  },
+  {
+    "name": "HRXL-MaxSonar-WRLT: High-Resolution Waterproof Sensor",
+    "description": "The MB7386 HRXL-MaxSonar-WRLT is a rugged ultrasonic sensor offering precise measurement, long-range"
+  },
+  {
+    "name": "HRLV-MaxSonar-EZ4 MB1043: Precision Ultrasonic Sensor",
+    "description": "The MB1043 HRLV-MaxSonar-EZ4 sensor offers precise distance detection from 300mm to 5000mm with vers"
+  },
+  {
+    "name": "MB1413 HRUSB-MaxSonar-EZ1: Precision Ultrasonic Sensor",
+    "description": "The MB1413 HRUSB-MaxSonar-EZ1 is a precise ultrasonic sensor offering range detection from 300mm to "
+  },
+  {
+    "name": "MB1040 LV-MaxSonar-EZ4: Ultrasonic Distance Sensor",
+    "description": "The MB1040 LV-MaxSonar-EZ4 sensor offers 1-inch resolution and 20Hz read rate, perfect for large obj"
+  },
+  {
+    "name": "ParkSonar-EZ-144 Ultrasonic Sensor: Accurate Vehicle Detection",
+    "description": "The MB1009 ParkSonar-EZ-144 offers 1-inch resolution, 12-foot range, and multiple outputs for detect"
+  },
+  {
+    "name": "MB1414 USB-ProxSonar-EZ1 Sensor: Accurate Range Detection",
+    "description": "The MB1414 USB-ProxSonar-EZ1 sensor offers accurate proximity and range detection using a USB interf"
+  },
+  {
+    "name": "MB1360 XL-MaxSonar-AEL0: High Sensitivity Ultrasonic Sensor",
+    "description": "MB1360 sensor offers precise range detection from 25cm to 1068cm with advanced noise rejection algor"
+  },
+  {
+    "name": "MB1260 XL-MaxSonar-EZL0 Sensor: High Sensitivity Detection",
+    "description": "MB1260 XL-MaxSonar-EZL0 sensor provides precise distance detection from 25cm to 1068cm with high sen"
+  },
+  {
+    "name": "MB7139 XL-TrashSonar-WR: Waterproof Ultrasonic Sensor",
+    "description": "The MB7139 XL-TrashSonar-WR offers precise distance measurement with waterproof design and versatile"
+  },
+  {
+    "name": "MB7076 XL-MaxSonar-WRLA1 Ultrasonic Sensor: Waterproof & Reliable",
+    "description": "The MB7076 XL-MaxSonar-WRLA1 sensor provides accurate long-range distance measurements with waterpro"
+  },
+  {
+    "name": "MB7489 Sensor: High-Resolution Weather Resistant Ultrasonic",
+    "description": "The MB7489 sensor offers millimeter resolution and weather resistance for precise distance detection"
+  },
+  {
+    "name": "MB7789 Ultrasonic Sensor: Precise Range Detection",
+    "description": "The MB7789 offers precise millimeter resolution and robust design for accurate distance detection in"
+  },
+  {
+    "name": "Weather Resistant MB8450 Car Detection Sensor",
+    "description": "The MB8450 sensor provides precise vehicle detection using ultrasonic technology, with reliable long"
+  },
+  {
+    "name": "Weather Resistant MB7374 Ultrasonic Sensor",
+    "description": "The MB7374 HRXL-MaxSonar-WRST7 detects distances from 500mm to 5000mm with high sensitivity, IP67 ra"
+  },
+  {
+    "name": "Weather Resistant MB7040 Sensor: Long-range Detection",
+    "description": "The MB7040 sensor offers waterproof design, long-range detection up to 765cm, and advanced noise rej"
+  },
+  {
+    "name": "Weather Resistant Ultrasonic Sensor MB7586",
+    "description": "The MB7586 SCXL-MaxSonar-WRLT sensor offers precise detection from 500mm to 9999mm, with noise-free "
+  },
+  {
+    "name": "Rugged MB7574 Ultrasonic Sensor with Self-Cleaning",
+    "description": "MB7574 sensor offers millimeter resolution and self-cleaning for reliable distance detection in high"
+  },
+  {
+    "name": "TS01 IR Temperature Sensor: Accurate Non-Contact Measurement",
+    "description": "TS01 IR Temperature Sensor offers non-contact measurement with compensation and IP65 protection, ide"
+  },
+  {
+    "name": "Gravity: I2C Digital Wattmeter - Precision Power Measurement",
+    "description": "The Gravity: I2C Digital Wattmeter measures voltage, current, and power with high precision, ideal f"
+  },
+  {
+    "name": "URM09 Ultrasonic Sensor for Fast Ranging & Obstacle Avoidance",
+    "description": "The URM09 Ultrasonic Sensor is designed for fast ranging and obstacle avoidance with I2C, temperatur"
+  },
+  {
+    "name": "Circular Flexible Thin Film Pressure Sensor Overview",
+    "description": "The RP-C7.6-LT thin film sensor accurately detects pressure, suitable for diverse applications."
+  },
+  {
+    "name": "Flexible Thin Film Pressure Sensor: High Sensitivity Detection",
+    "description": "The RP-C7.6-ST pressure sensor offers high sensitivity detection for various applications, including"
+  },
+  {
+    "name": "Circular Flexible Thin Film Pressure Sensor - RP-C18.3-LT",
+    "description": "RP-C18.3-LT is a circular flexible thin film pressure sensor, known for its high sensitivity in dete"
+  },
+  {
+    "name": "24GHz Microwave Radar Sensor for Accurate Ranging",
+    "description": "24GHz microwave radar sensor offers precise distance measurement with FMCW modulation, ideal for har"
+  },
+  {
+    "name": "Waterproof Ultrasonic Sensor with RS232 & Analog Output",
+    "description": "This waterproof ultrasonic sensor offers high accuracy, RS232 and analog outputs, and temperature co"
+  },
+  {
+    "name": "Waterproof Ultrasonic Sensor with Multiple Outputs",
+    "description": "High-performance waterproof ultrasonic sensor with temperature compensation and multiple output mode"
+  },
+  {
+    "name": "Slamtec Mapper M2M2: Advanced Laser Mapping Sensor",
+    "description": "Slamtec Mapper M2M2 offers high-performance SLAM and real-time localization, ideal for robots and en"
+  },
+  {
+    "name": "URM08-RS485: Waterproof Ultrasonic Distance Sensor",
+    "description": "URM08-RS485 is a waterproof ultrasonic sensor offering precise distance measurement and temperature "
+  },
+  {
+    "name": "TFmini Plus: High-Performance Solid State LiDAR",
+    "description": "TFmini Plus is a compact solid-state LiDAR with high accuracy, improved range, and IP65 protection, "
+  },
+  {
+    "name": "Gravity: Analog AC Current Sensor for Easy Measurement",
+    "description": "The Gravity Analog AC Current Sensor offers easy AC current measurement without cutting wires, ideal"
+  },
+  {
+    "name": "High Precision SHT30 Temperature & Humidity Sensor",
+    "description": "The Gravity Analog SHT30 sensor offers precise temperature and humidity sensing with low power consu"
+  },
+  {
+    "name": "TFmini-S: Compact High-Performance LiDAR Sensor",
+    "description": "TFmini-S is a compact ToF LiDAR sensor offering high precision with 12m range and Arduino compatibil"
+  },
+  {
+    "name": "Discover Pixy2: Advanced Vision Sensor for Robots",
+    "description": "Pixy2, a compact vision sensor for robots, offers fast image processing and easy connectivity to Ard"
+  },
+  {
+    "name": "K-Type Digital High Temperature Sensor for Arduino",
+    "description": "The K-type digital sensor offers precise temperature readings from -270°C to 1372°C, ideal for Ardui"
+  },
+  {
+    "name": "RPLIDAR A3: High-Speed 360° Laser Scanner",
+    "description": "RPLIDAR A3 offers 360-degree scanning with a 25-meter range and 16000 samples/sec, enhancing mapping"
+  },
+  {
+    "name": "BMP388 Barometric Pressure Sensor: High Accuracy & Low Power",
+    "description": "The BMP388 sensor offers high accuracy, low power consumption, and supports Arduino. Ideal for press"
+  },
+  {
+    "name": "BNO055 and BMP280: 10DOF Sensor Module for Absolute Orientation",
+    "description": "The BNO055 and BMP280 sensors combine to form a 10DOF module, ideal for applications needing high ac"
+  },
+  {
+    "name": "Gravity Digital Shake Sensor for Hand Gesture Control",
+    "description": "The Gravity Digital Shake Sensor allows easy hand gesture control, switching lights with a shake and"
+  },
+  {
+    "name": "URM07 Ultrasonic Sensor: High Stability & Energy Efficient",
+    "description": "URM07 ultrasonic sensor: High stability, sensitivity, low power usage, built-in temperature compensa"
+  },
+  {
+    "name": "High-Temperature PT100 Sensor for Extreme Conditions",
+    "description": "Use the PT100 sensor to measure temperatures between 30-350°C, compatible with Arduino and ideal for"
+  },
+  {
+    "name": "Waterproof Ultrasonic Sensor V2.0 with Temperature Compensation",
+    "description": "Explore the V2.0 ultrasonic sensor with waterproof design and temperature compensation for accurate "
+  },
+  {
+    "name": "Gravity: Arduino Heart Rate Monitor Sensor AD8232",
+    "description": "The DFRobot Heart Rate Monitor Sensor uses AD8232 for clear ECG signals, compatible with Arduino and"
+  },
+  {
+    "name": "Monitor Water Flow with YF-S401 Sensor",
+    "description": "The YF-S401 sensor measures liquid flow rate, ideal for coffee makers and sprinklers. Control water "
+  },
+  {
+    "name": "Waterproof Digital Thermometer for Versatile Use",
+    "description": "A versatile waterproof digital thermometer suitable for greenhouses, pools, and fish tanks, measurin"
+  },
+  {
+    "name": "Raspberry Pi Camera Module: Capture HD Videos & Photos",
+    "description": "Raspberry Pi camera module captures HD videos/photos, supports multiple modes, perfect for beginners"
+  },
+  {
+    "name": "CMPS12 Tilt Compensated Compass with BNO055",
+    "description": "The CMPS12 compass, powered by BNO055, offers precise navigation with flexible power and interface o"
+  },
+  {
+    "name": "Anti-rust SHT30 Temp & Humidity Sensor for Industrial Use",
+    "description": "The SHT30 Sensor offers robust, anti-rust protection for industrial temperature and humidity monitor"
+  },
+  {
+    "name": "High Precision Laser Photoelectric Switch for Arduino",
+    "description": "Photoelectric switch with laser diode for precise detection, Arduino compatible, ideal for counting,"
+  },
+  {
+    "name": "LED Current Meter 10A: Accurate Circuit Measurement",
+    "description": "LED Current Meter 10A measures 0-9.99A DC with 2% accuracy. Ideal for circuits, easy installation, a"
+  },
+  {
+    "name": "LED Current Meter 10A - Accurate & Easy Prototyping",
+    "description": "Standard LED Current Meter 10A measures 0-9.99A with 2% accuracy, easy 4-wire setup, available in th"
+  },
+  {
+    "name": "LED Current Meter 10A: Accurate & Easy Prototyping",
+    "description": "LED Current Meter 10A measures 0-9.99A with 2% accuracy, ideal for circuit prototyping, available in"
+  },
+  {
+    "name": "LED Current Meter 50A with Reversed Connection Protection",
+    "description": "LED Current Meter 50A ensures accurate readings with reversed connection protection, ideal for circu"
+  },
+  {
+    "name": "LED Current Meter 50A with Reversed Connection Protection",
+    "description": "The LED Current Meter 50A ensures accurate readings with reversed connection protection for circuit "
+  },
+  {
+    "name": "Smart Grayscale Sensor with Dual Output Modes",
+    "description": "The Smart Grayscale Sensor features dual outputs for precise color and grayscale detection, ideal fo"
+  },
+  {
+    "name": "Adjustable Infrared Sensor for Accurate Distance Detection",
+    "description": "An adjustable infrared sensor with high-sensitivity photo reflector for distance detection. Suitable"
+  },
+  {
+    "name": "Arduino-Based Gravity CO2 Sensor for Air Quality Monitoring",
+    "description": "Explore the Arduino-based CO2 sensor with MG-811 module, ideal for air quality control and fermentat"
+  },
+  {
+    "name": "URM06-PULSE Ultrasonic Sensor for Precise Detection",
+    "description": "The URM06-PULSE Ultrasonic Sensor offers precise detection and ranging with a compact design, ideal "
+  },
+  {
+    "name": "URM06 Analog Ultrasonic Sensor: Precise Detection",
+    "description": "The URM06 sensor offers precise distance measurement with a 15-degree beam angle, perfect for roboti"
+  },
+  {
+    "name": "Arduino Fingerprint Module: Security & Versatility",
+    "description": "Arduino-compatible fingerprint module with DSP processor for security applications, supporting 1000 "
+  },
+  {
+    "name": "Advanced Leddar M16 Sensor Module for Accurate Detection",
+    "description": "The Leddar M16 Sensor Module offers accurate detection with 16 active elements, ideal for smart sens"
+  },
+  {
+    "name": "Leddar M16 Sensor Module: Advanced Sensing Solution",
+    "description": "The Leddar M16 Sensor Module offers reliable, precise distance measurement with 16 active elements, "
+  },
+  {
+    "name": "Steam Sensor SEN0121 for Arduino",
+    "description": "Steam Sensor SEN0121 for Arduino detects humidity, offers direct connectivity, ideal for rain detect"
+  },
+  {
+    "name": "Mini Robot Chassis Encoder for Precise Position Control",
+    "description": "The Mini Robot Chassis Encoder provides precise position control with AB two-phase pulse wave, ideal"
+  },
+  {
+    "name": "Flexiforce Pressure Sensor - Piezoresistive Force Detection",
+    "description": "Piezoresistive Flexiforce sensor detects pressure with resistance change, suitable for presence, wei"
+  },
+  {
+    "name": "USB-ProxSonar-EZ1 Ultrasonic Proximity Sensor",
+    "description": "The USB-ProxSonar-EZ1 provides precise ultrasonic proximity detection with USB connectivity for mult"
+  },
+  {
+    "name": "Capacitive Fingerprint Sensor Module for Arduino Projects",
+    "description": "Capacitive fingerprint sensor module with IDfinger6.0 for efficient recognition and processing, idea"
+  },
+  {
+    "name": "Advanced Gesture Recognition with GR10-30 Sensor",
+    "description": "The GR10-30 sensor recognizes 12 gestures, offering high accuracy for non-contact applications like "
+  },
+  {
+    "name": "270° 2D ToF LiDAR: Precision Scanning for Robotics",
+    "description": "The 270° 2D ToF LiDAR offers precise scanning for robotics with 2cm accuracy, high sampling rate, an"
+  },
+  {
+    "name": "270° Single-line 2D ToF LiDAR: High Precision & Versatility",
+    "description": "Explore the 270° Single-line 2D ToF LiDAR, offering precise detection, compact design, and high samp"
+  },
+  {
+    "name": "270° 2D ToF LiDAR Sensor for Precision Mapping and Security",
+    "description": "The 270° 2D ToF LiDAR sensor provides precision mapping and security applications with high sampling"
+  },
+  {
+    "name": "CS20 Dual-Resolution 3D TOF LiDAR: Efficient & Accurate",
+    "description": "CS20 LiDAR offers 640x480 resolution and precise 3D measurements up to 5m, optimizing applications l"
+  },
+  {
+    "name": "Mirror Reflection Photoelectric Sensor Switch Guide",
+    "description": "Learn about mirror reflection photoelectric sensor switches, including detection technology, SmartTu"
+  },
+  {
+    "name": "Ultrasonic ToF Sensor for Material Detection",
+    "description": "Ultrasonic ToF sensor identifies materials by echo signal differences, ideal for robotic cleaners to"
+  },
+  {
+    "name": "SDM15 ToF LiDAR Sensor: Precision Ranging Up to 15m",
+    "description": "SDM15 ToF LiDAR Sensor offers precision ranging up to 15m, adjustable frequency, and ROS compatibili"
+  },
+  {
+    "name": "STL27L 360° DTOF LIDAR: High Precision Sensor",
+    "description": "STL27L 360° DTOF LIDAR offers precision, 0.03-25m range, ROS compatibility, anti-glare, ideal for ro"
+  },
+  {
+    "name": "Ultrasonic Distance Range Sensor for Robot Automation",
+    "description": "Ultrasonic distance sensor detects up to 5m, ideal for robots. Features IP67 waterproof, RS485 outpu"
+  },
+  {
+    "name": "LPB60B ToF LiDAR Sensor: Precise Outdoor Ranging",
+    "description": "LPB60B ToF LiDAR Sensor offers precise ranging up to 60m, ideal for drones and IoT applications, wit"
+  },
+  {
+    "name": "LPB40B Single-Point Ranging LiDAR with DToF Technology",
+    "description": "LPB40B LiDAR sensor offers 40m range, ±5cm accuracy, adjustable frequency, and DToF technology for h"
+  },
+  {
+    "name": "3D TOF Depth Camera with Built-in LCD Screen",
+    "description": "The 3D TOF depth camera offers a 1.5m range and real-time depth map preview on its LCD screen, ideal"
+  },
+  {
+    "name": "Professional Formaldehyde Detector for Instant Alerts",
+    "description": "Detect hazardous formaldehyde levels instantly with versatile voltage compatibility, ensuring safety"
+  },
+  {
+    "name": "Instant-Alert CO Sensor: Factory-Calibrated Safety",
+    "description": "Instant-alert CO sensor with factory-calibrated technology offers clear danger signals, suitable for"
+  },
+  {
+    "name": "Underwater Ultrasonic Obstacle Avoidance Sensor",
+    "description": "An underwater ultrasonic sensor enabling precise obstacle avoidance and unmanned navigation with com"
+  },
+  {
+    "name": "Compact XT-S1 ToF LiDAR Sensor: Precise Ranging",
+    "description": "The XT-S1 ToF LiDAR Sensor is lightweight, efficient, and precise, with a 30m range. Ideal for UAVs,"
+  },
+  {
+    "name": "OpenMV Cam RT1060: Machine Vision Made Easy",
+    "description": "OpenMV Cam RT1060 offers an easy way to implement machine vision applications using Python, ideal fo"
+  },
+  {
+    "name": "Optimize Soil Fertility with RS485 NPK Soil Sensor",
+    "description": "RS485 Soil Sensor measures NPK levels, enhances plant growth, and supports efficient farming with du"
+  },
+  {
+    "name": "RS485 Soil EC and pH Sensor for Reliable Monitoring",
+    "description": "The RS485 soil EC and pH sensor provides accurate monitoring for agriculture, with RS485 output and "
+  },
+  {
+    "name": "Gravity: Photo Interrupter Module for Precision Detection",
+    "description": "The Gravity: Photo Interrupter Module uses the ITR9608 switch for precise detection, ideal for robot"
+  },
+  {
+    "name": "High-Precision Ultrasonic Distance Sensor with IP67",
+    "description": "Ultrasonic sensor with 15° FOV, IP67 protection, high precision for liquid level and obstacle detect"
+  },
+  {
+    "name": "Gravity BME688: Advanced Environmental Sensor with AI",
+    "description": "The Gravity BME688 sensor provides precise environmental data for smart homes, AI analysis, and port"
+  },
+  {
+    "name": "BMM350: Advanced 3-Axis Geomagnetic Sensor",
+    "description": "DFRobot's BMM350 sensor offers high precision, low power consumption, and advanced communication for"
+  },
+  {
+    "name": "IMX378-79 Camera Module: High-Resolution Industrial Imaging",
+    "description": "The IMX378-79 Camera Module offers 12.3MP resolution and seamless Raspberry Pi integration, ideal fo"
+  },
+  {
+    "name": "VL6180X ToF Sensor: Accurate Distance Measurement",
+    "description": "VL6180X ToF sensor enables precise distance and ambient light measurement up to 200mm, featuring str"
+  },
+  {
+    "name": "LIS331HH Triple Axis Accelerometer: Low Power, High Performance",
+    "description": "LIS331HH accelerometer offers low power usage, multiple scales, and diverse applications including V"
+  },
+  {
+    "name": "LIS331HH Triple Axis Accelerometer: High Precision & Low Power",
+    "description": "The LIS331HH accelerometer offers high precision with low power consumption, ideal for navigation, s"
+  },
+  {
+    "name": "H3LIS200DL Triple-Axis Accelerometer: Ultra Low-Power Sensor",
+    "description": "H3LIS200DL accelerometer offers ultra low-power consumption and selectable scales for advanced motio"
+  },
+  {
+    "name": "H3LIS200DL: Triple Axis Accelerometer Sensor",
+    "description": "The H3LIS200DL accelerometer offers high performance with scales ±100g/±200g and data rates from 0.5"
+  },
+  {
+    "name": "3-in-1 Waterproof USB Endoscope Inspection Camera",
+    "description": "A versatile 3-in-1 USB camera with HD resolution and waterproof design for inspections in narrow and"
+  },
+  {
+    "name": "Gravity: 5V Non-contact Liquid Level Sensor - SEN0485",
+    "description": "The Gravity 5V sensor detects liquid levels in non-metal containers with IP67 protection, ideal for "
+  },
+  {
+    "name": "LED Illuminated Self-lock Switch Button for Interactive Projects",
+    "description": "LED self-lock button lights up in various colors, ideal for micro:bit interactive projects, providin"
+  },
+  {
+    "name": "LED Illuminated Self-lock Switch Button for Interactive Projects",
+    "description": "LED self-lock switch button offers vibrant visual feedback for micro: bit projects, supporting inter"
+  },
+  {
+    "name": "LED Illuminated Self-Lock Switch Button for Micro:bit",
+    "description": "Simple LED-illuminated self-lock switch button with visual feedback, suitable for micro:bit projects"
+  },
+  {
+    "name": "Voice Recorder Module with Arduino Compatibility",
+    "description": "The Gravity I2C Voice Recorder Module simplifies sound integration for Arduino projects with easy re"
+  },
+  {
+    "name": "Interactive LED Button for Micro:bit Projects",
+    "description": "LED button for micro:bit projects provides visual feedback when pressed, lighting up in various colo"
+  },
+  {
+    "name": "LED Illuminated Switch Button for Micro:bit Projects",
+    "description": "Simple LED switch button with visual feedback for micro:bit projects, outputs high when pressed, ava"
+  },
+  {
+    "name": "LED Button with Visual Feedback for Interactive Projects",
+    "description": "LED switch button provides visual feedback in colors when pressed, enhancing micro:bit interactive p"
+  },
+  {
+    "name": "LED Illuminated Switch Button for Interactive Projects",
+    "description": "LED-illuminated switch button offering visual feedback with multiple colors, ideal for micro:bit int"
+  },
+  {
+    "name": "LED Button with Visual Feedback for Interactive Projects",
+    "description": "LED switch button lights up in color when pressed, ideal for micro:bit interactive projects with 3.3"
+  },
+  {
+    "name": "High-Precision Laser Ranging Sensor with RS485",
+    "description": "Laser Ranging Sensor with RS485 offers accurate detection from 4 to 400cm, ideal for security and au"
+  },
+  {
+    "name": "Laser Ranging Sensor: Precision & Versatility",
+    "description": "Laser ranging sensor detects objects in 4-400cm with ±2cm accuracy, ideal for security systems and a"
+  },
+  {
+    "name": "6mm 3MP Wide Angle Lens for Raspberry Pi & Jetson Nano",
+    "description": "6mm 3MP lens for Raspberry Pi & Jetson Nano, ideal for CCTV and wildlife cameras."
+  },
+  {
+    "name": "16mm 10MP Telephoto Lens for Raspberry Pi HQ Camera",
+    "description": "16mm 10MP Telephoto Lens, compatible with Raspberry Pi HQ Camera and Jetson Nano, offers high zoom f"
+  },
+  {
+    "name": "12.3MP Camera Module for Jetson Nano & Raspberry Pi",
+    "description": "This 12.3MP camera module with Sony IMX477R sensor is compatible with Jetson Nano and Raspberry Pi C"
+  },
+  {
+    "name": "Digital 360° Tilt Sensor: Versatile Inclination Detection",
+    "description": "The Digital 360° Tilt Sensor provides 360° inclination detection and is compatible with Arduino, off"
+  },
+  {
+    "name": "DHT20 Temperature & Humidity Sensor: Enhanced Accuracy",
+    "description": "The DHT20 sensor enhances accuracy and stability for HVAC, automotive, and home use, with I2C output"
+  },
+  {
+    "name": "MAX30102 Heart Rate and Oximeter Sensor Module",
+    "description": "The MAX30102 sensor module provides heart rate and blood oxygen monitoring with easy I2C/UART integr"
+  },
+  {
+    "name": "Megapixel 720p USB Wide-angle Camera for Raspberry Pi",
+    "description": "This 720p USB wide-angle camera supports 140-degree FOV, ideal for Raspberry Pi and Jetson Nano for "
+  },
+  {
+    "name": "Infrared PIR Motion Sensor Switch for Automatic Control",
+    "description": "Infrared PIR motion sensor switch with 5-8m range, high sensitivity, adjustable delay, ideal for lig"
+  },
+  {
+    "name": "MCP9808: High-Precision I2C Temperature Sensor",
+    "description": "The MCP9808 sensor offers high precision and programmable alerts, ideal for monitoring applications "
+  },
+  {
+    "name": "Sensirion STS35 High Accuracy Temperature Sensor",
+    "description": "The Sensirion STS35 sensor provides high accuracy temperature measurement with ±0.1°C precision, sui"
+  },
+  {
+    "name": "Digital Laser Proximity Sensor: Accurate & Versatile Detection",
+    "description": "The Digital Laser Proximity Sensor provides 1-400cm detection with ±4% accuracy, IP67 rating, ideal "
+  },
+  {
+    "name": "Electrochemical O2 Sensor with I2C Output",
+    "description": "Full-scale AO2 CiTiceL® oxygen sensor offers high sensitivity and I2C output for applications like o"
+  },
+  {
+    "name": "GM73 Code Reader: Fast, Versatile Barcode & QR Scanner",
+    "description": "The GM73 code reader scans 1D/2D codes rapidly with advanced features like secure settings and multi"
+  },
+  {
+    "name": "AHT20 Sensor: High Precision Temperature & Humidity Monitoring",
+    "description": "AHT20 sensor: high-precision I2C temperature & humidity sensor for home and automotive use."
+  },
+  {
+    "name": "AHT20 Temperature and Humidity Sensor: Precision & Stability",
+    "description": "The AHT20 sensor offers high precision and stability in temperature and humidity measurements, ideal"
+  },
+  {
+    "name": "Gravity: Liquid Flow Sensor - Reliable, Easy-to-Install",
+    "description": "Gravity liquid flow sensor with G1/4 connectors, ideal for measuring high concentration liquids usin"
+  },
+  {
+    "name": "Gravity Liquid Flow Sensor for High-Concentration Liquids",
+    "description": "Gravity Liquid Flow Sensor offers reliable flow measurement for high-concentration, low-viscosity li"
+  },
+  {
+    "name": "RPLiDAR S2: 360° High-Performance Laser Range Scanner",
+    "description": "RPLiDAR S2 offers 360° scanning, 30m range, and 32000 samples/second, perfect for robotic navigation"
+  },
+  {
+    "name": "RPLiDAR S2L 360° Laser Range Scanner: High Performance",
+    "description": "RPLiDAR S2L offers 360° scanning, 18m range, and 32000 samples/sec for advanced navigation in variou"
+  },
+  {
+    "name": "RPLIDAR S2E: 360° Laser Range Scanner with DTOF Technology",
+    "description": "RPLIDAR S2E uses DTOF for precise 360° scanning up to 30m. Ideal for navigation, it resists sunlight"
+  },
+  {
+    "name": "URM15 RS485 Ultrasonic Sensor - Precise and Reliable",
+    "description": "URM15 sensor's IP65 waterproof design, RS485 interface, and temperature compensation ensure precise "
+  },
+  {
+    "name": "ENS160 Air Quality Sensor: Accurate IAQ Monitoring",
+    "description": "ENS160 offers precise indoor air quality monitoring with TVOC, eCO2, AQI detection using TrueVOC™ te"
+  },
+  {
+    "name": "Optimize Your Arduino Projects with Bosch BMM150 Magnetometer",
+    "description": "Bosch's BMM150 sensor enhances Arduino projects with precise 3-axis magnetic field measurement, idea"
+  },
+  {
+    "name": "TFmini-i LiDAR: Industrial Grade Laser Ranging Sensor",
+    "description": "TFmini-i LiDAR offers a 12m detection range and RS485 interface, ideal for industrial applications w"
+  },
+  {
+    "name": "Smart Color Mark Photoelectric Sensor with 8-16mm Range",
+    "description": "Smart Color Mark Sensor offers precise detection with 3 modes, easy color data saving, and multiple "
+  },
+  {
+    "name": "TF02-i LiDAR: 40m Range Industrial Sensor",
+    "description": "TF02-i LiDAR: 40m range, RS485, IP65, ideal for UAVs & smart systems."
+  },
+  {
+    "name": "Industrial MEMS Gas Sensor for Multi-Gas Detection",
+    "description": "MEMS sensor detects 8 gases including CO and ethanol, ideal for industrial use with low power and hi"
+  },
+  {
+    "name": "ICG-20660L 6-Axis IMU Module: High Precision & Sensitivity",
+    "description": "ICG-20660L is a high-precision 6-axis IMU module with low noise, ideal for anti-shaking and image st"
+  },
+  {
+    "name": "Industrial MEMS Gas Sensor MiCS-2714 for NOx & H2 Detection",
+    "description": "Industrial-grade MiCS-2714 sensor detects H2 and NOx gases, ideal for safety systems. Offers low-pow"
+  },
+  {
+    "name": "TMF8801 ToF Distance Sensor: Precise & Versatile",
+    "description": "TMF8801 ToF sensor offers precise 2-250cm measurements. Ideal for object detection and collision avo"
+  },
+  {
+    "name": "Capacitive Liquid Level Sensor for High-Viscosity Detection",
+    "description": "This sensor detects high-viscosity and low-corrosive liquids with adjustable sensitivity and dual ou"
+  },
+  {
+    "name": "TMF8701 ToF Sensor: Precise Distance Measurement",
+    "description": "TMF8701 ToF sensor offers precise distance measurement with ±5% accuracy, suitable for various appli"
+  },
+  {
+    "name": "Non-contact Capacitive Liquid Level Sensor Features",
+    "description": "Flexible non-contact sensor for liquid level detection, with waterproof design for diverse applicati"
+  },
+  {
+    "name": "High Sensitivity Capacitive Liquid Level Sensor",
+    "description": "High sensitivity capacitive sensor for non-metallic tubes. Ideal for beverage machines and infusion "
+  },
+  {
+    "name": "High-Efficiency GM77 Barcode and QR Code Scanning Module",
+    "description": "The GM77 Barcode Scanner offers high-efficiency recognition and auto-sensing, ideal for mobile payme"
+  },
+  {
+    "name": "Waterproof SMD DS18B20 Digital Temperature Sensor Guide",
+    "description": "Waterproof SMD DS18B20 sensor is perfect for HVAC and monitoring systems, offering 9-12 bit resoluti"
+  },
+  {
+    "name": "Integrated QR Code Scanner with Gravity Interface",
+    "description": "Compact QR code scanner supports 1D/2D codes, easy integration with Gravity Interface, compatible wi"
+  },
+  {
+    "name": "Arduino I2C Air Pressure Sensor 15-700kPa MPX5700AP",
+    "description": "Arduino air pressure sensor with I2C output, measures 15-700kPa for pipeline and experiment applicat"
+  },
+  {
+    "name": "LED Button Switch for Arduino Projects",
+    "description": "LED Button Switch: Ideal for Arduino projects, offers five colors and digital output for interactive"
+  },
+  {
+    "name": "Chlorine Sensor: Accurate Detection with I2C & UART",
+    "description": "Sensor detects chlorine concentration using I2C & UART, suitable for chemical, pharmaceutical, and e"
+  },
+  {
+    "name": "Factory-Calibrated SO2 Sensor with Multiple Output Modes",
+    "description": "A factory-calibrated SO2 sensor with analog, I2C, and UART outputs for accurate sulfur dioxide detec"
+  },
+  {
+    "name": "Electrochemical NO2 Sensor: Accurate Air Quality Monitoring",
+    "description": "Explore the electrochemical NO2 sensor for accurate air quality monitoring in industrial and environ"
+  },
+  {
+    "name": "Factory-Calibrated Electrochemical Ozone Sensor",
+    "description": "High sensitivity, factory-calibrated ozone sensor for precise environmental monitoring. Ideal for in"
+  },
+  {
+    "name": "Calibrated Hydrogen Sensor for Accurate Detection",
+    "description": "Calibrated hydrogen sensor with electrochemical principle, offering high sensitivity and multiple ou"
+  },
+  {
+    "name": "Hydrogen Fluoride Sensor: Accurate Detection with I2C",
+    "description": "Calibrated HF sensor for precise detection with analog, I2C, UART outputs. Ideal for industrial and "
+  },
+  {
+    "name": "PH3 Gas Sensor: Accurate Phosphine Detection",
+    "description": "PH3 Gas Sensor detects phosphine with high sensitivity, stability, and anti-interference. Ideal for "
+  },
+  {
+    "name": "Multifunctional Environmental Sensor for Accurate Monitoring",
+    "description": "Monitor temperature, humidity, pressure, light, and UV with the multifunctional sensor, ideal for en"
+  },
+  {
+    "name": "ENS160 Sensor: Accurate Air Quality Measurements",
+    "description": "ENS160 provides accurate TVOC, eCO2, and AQI readings with fast warm-up and smart integration for he"
+  },
+  {
+    "name": "ICP-10111 Barometric Pressure Sensor with High Accuracy",
+    "description": "The ICP-10111 sensor provides high accuracy, low power, and temperature stability, perfect for UAVs "
+  },
+  {
+    "name": "ICP-10111 Barometric Pressure Sensor: High Precision & Stability",
+    "description": "The ICP-10111 sensor offers precise pressure measurement, low power, and temperature stability for U"
+  },
+  {
+    "name": "Arduino-Compatible Electrochemical Oxygen Sensor",
+    "description": "Accurate O2 measurement with high sensitivity and I2C support for various applications including air"
+  },
+  {
+    "name": "URM12: Long Range Ultrasonic Sensor for RS485 & ModBus-RTU",
+    "description": "The URM12 ultrasonic sensor offers up to 1500cm detection, RS485 communication, and ModBus-RTU suppo"
+  },
+  {
+    "name": "F1031V Mass Air Flow Sensor for Precise Gas Flow Detection",
+    "description": "F1031V Sensor offers precise gas flow detection with temperature compensation, ideal for ventilators"
+  },
+  {
+    "name": "8421 Absolute Position Encoder: Reliable and Interference-Free",
+    "description": "8421 encoder provides absolute position accuracy, improved anti-interference, and is widely used in "
+  },
+  {
+    "name": "8421 Absolute Position Encoder with 16-Gear Code",
+    "description": "The 8421 encoder provides unique position control with 16-gear coding, enhancing data reliability an"
+  },
+  {
+    "name": "Non-contact Liquid Level Sensor with Adjustable Sensitivity",
+    "description": "A non-contact liquid level sensor with adjustable sensitivity for water detection in non-metallic co"
+  },
+  {
+    "name": "BMP388 Digital Pressure Sensor: High Accuracy Module",
+    "description": "BMP388 sensor offers precise pressure and temperature measurement with low power usage, ideal for Ar"
+  },
+  {
+    "name": "SHT31 Weatherproof Temperature & Humidity Sensor",
+    "description": "The SHT31 sensor provides precise outdoor temperature and humidity measurement with waterproof featu"
+  },
+  {
+    "name": "URM13 Ultrasonic Sensor: Compact, Precise, Versatile",
+    "description": "The URM13 is a compact ultrasonic sensor supporting UART, I2C, RS485, ideal for Arduino and Raspberr"
+  },
+  {
+    "name": "Capacitive Fingerprint Sensor with ID809 Processor",
+    "description": "Capacitive fingerprint sensor with ID809 processor offers fast recognition and high security, ideal "
+  },
+  {
+    "name": "Gravity UV Index Sensor: Accurate UV Measurement",
+    "description": "The Gravity UV Index Sensor offers direct UV index measurements across 240-370nm, ideal for skin hea"
+  },
+  {
+    "name": "Raspberry Pi AI Camera with Sony IMX500 Sensor",
+    "description": "Raspberry Pi AI Camera with Sony IMX500 sensor excels in vision-based AI applications, offering seam"
+  },
+  {
+    "name": "High Precision RS485 PAR Sensor for Plant Growth",
+    "description": "The RS485 PAR Sensor accurately measures light essential for photosynthesis, ensuring reliable readi"
+  },
+  {
+    "name": "High-Precision ToF Laser Ranging Sensor for Robotics",
+    "description": "Ultra-lightweight ToF sensor with dToF technology for precise measurements up to 7.8m, ideal for rob"
+  },
+  {
+    "name": "SLAMTEC Aurora: Revolutionizing Robot Navigation",
+    "description": "SLAMTEC Aurora combines LiDAR, vision, IMU, and AI for seamless 3D mapping and navigation, revolutio"
+  },
+  {
+    "name": "YDLIDAR GS5: Reliable Solid-State LiDAR for Robotics",
+    "description": "YDLIDAR GS5: Solid-state LiDAR sensor with 85° FOV, 1000mm range, ideal for AGVs and robotics, ensur"
+  },
+  {
+    "name": "Infrared CO2 Sensor: Precise Monitoring 400-5000 PPM",
+    "description": "Infrared CO2 sensor using NDIR tech for 400-5000 PPM detection, ideal for various environmental moni"
+  },
+  {
+    "name": "CS30 RGBD ToF Depth Camera: High-Fidelity 3D Vision",
+    "description": "The CS30 RGBD ToF Depth Camera integrates ToF and HD imaging for precise 3D perception, ideal for ro"
+  },
+  {
+    "name": "RDK Stereo Camera Module -- 2960",
+    "description": "DFRobot's RDK Stereo Camera Module -- 2960"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 1000kg -- 2968",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 1000kg -- 2968"
+  },
+  {
+    "name": "Gravity CT1780: 1-Wire K-Type Thermocouple Amplifier",
+    "description": "The CT1780 amplifier features cold-junction compensation and 1-Wire protocol for precise temperature"
+  },
+  {
+    "name": "URM14 RS485 Ultrasonic Distance Sensor: Precision & Durability",
+    "description": "The URM14 RS485 ultrasonic sensor offers 1mm accuracy and IP65 protection for reliable industrial me"
+  },
+  {
+    "name": "Reliable Magnetic Switch for Smart Home & Security",
+    "description": "Magnetic switch for smart home and security. Reliable, wide voltage range, low power, high frequency"
+  },
+  {
+    "name": "HPS-3D160-U High-Performance Solid-State LiDAR",
+    "description": "HPS-3D160-U LiDAR sensor offers advanced detection capabilities with ToF technology, 12m range, and "
+  },
+  {
+    "name": "Versatile Voice Recorder Module with 40 Minutes Storage",
+    "description": "A voice recorder module offering 40 minutes of storage, multi-segment recording, and versatile contr"
+  },
+  {
+    "name": "Arduino Compatible Alcohol Sensor Module 0-5ppm",
+    "description": "Arduino alcohol sensor measures 0-5ppm, supports I2C/UART, ideal for breathalyzers and smart vehicle"
+  },
+  {
+    "name": "8000K Pixel USB Camera with Microphone",
+    "description": "The 8000K pixel USB camera offers HD video/photo with Sony IMX179 sensor, autofocus, and plug-and-pl"
+  },
+  {
+    "name": "2MP USB Night Camera with Sony IMX662 Sensor",
+    "description": "A 2MP USB camera with Sony IMX662 sensor for HDR imaging, ideal for facial recognition and smart ven"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Precise Metal Detection",
+    "description": "Inductive Ring Proximity Sensor detects metal objects efficiently with high accuracy, ideal for smal"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Metal Detection",
+    "description": "Inductive ring proximity sensors offer high accuracy and fast response for detecting metal objects, "
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Metal Detection",
+    "description": "Inductive Ring Proximity Sensors offer high accuracy and swift response for detecting metal objects,"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Metal Detection",
+    "description": "Inductive Ring Proximity Sensor detects metal objects with high precision, fast response, and rugged"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Metal Detection",
+    "description": "Detect metal objects with high accuracy using the Inductive Ring Proximity Sensor, suitable for indo"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor 30mm",
+    "description": "Inductive Ring Proximity Sensors detect metal objects with high accuracy, fast response, and IP66 pr"
+  },
+  {
+    "name": "SGP40 Air Quality Sensor: Accurate Indoor Monitoring",
+    "description": "SGP40 Air Quality Sensor offers reliable VOC detection for indoor air monitoring. Ideal for air puri"
+  },
+  {
+    "name": "XYZ Tristimulus Color Sensor for True Tone Devices",
+    "description": "TCS3430 Sensor offers precise color and light measurement for devices, improving color matching and "
+  },
+  {
+    "name": "High Sensitivity Vibration Sensor for Security Systems",
+    "description": "Cost-effective vibration sensor with high sensitivity, digital output. Ideal for Arduino security sy"
+  },
+  {
+    "name": "High-Precision Inductive Ring Proximity Sensor",
+    "description": "Inductive ring proximity sensor detects metal objects swiftly with 1ms response time, adjustable sen"
+  },
+  {
+    "name": "Inductive Ring Proximity Sensor for Metal Detection",
+    "description": "The Inductive Ring Proximity Sensor detects metal objects with high accuracy and IP66 protection, id"
+  },
+  {
+    "name": "Industrial Background Suppression Photoelectric Sensor",
+    "description": "Industrial photoelectric sensor offers 30-120mm detection range, rapid response, and protection feat"
+  },
+  {
+    "name": "URM06 UART Ultrasonic Sensor: Precise Detection",
+    "description": "The URM06 UART Ultrasonic Sensor offers precise detection from 20cm to 10m with a 15° beam angle, id"
+  },
+  {
+    "name": "SHT40 Temperature & Humidity Sensor: High Accuracy & Low Power",
+    "description": "The SHT40 sensor delivers high accuracy in temperature and humidity readings, ideal for IoT applicat"
+  },
+  {
+    "name": "RS485 Fluorescence Dissolved Oxygen Sensor for Freshwater",
+    "description": "RS485 Fluorescence Dissolved Oxygen Sensor: Accurate DO measurements for freshwater with IP68 waterp"
+  },
+  {
+    "name": "RS485 Water Conductivity Sensor K=10 | DFRobot Wiki",
+    "description": "Industrial RS485 water conductivity sensor (K=10) with IP68, Modbus-RTU, salinity/TDS conversion, au"
+  },
+  {
+    "name": "RS485 Industrial Conductivity Sensor K=1 | DFRobot Wiki",
+    "description": "Industrial RS485 EC sensor K=1 with 1–2000 μS/cm range, TDS, salinity and temperature output, IP68 w"
+  },
+  {
+    "name": "RS485 Chlorine Residual Sensor 0–10mg/L High Precision | DFRobot Wiki",
+    "description": "Industrial RS485 chlorine residual sensor, 0–10mg/L range, 0.01mg/L resolution, IP68, factory-calibr"
+  },
+  {
+    "name": "Circular Flexible Thin Film Pressure Sensor: High Sensitivity",
+    "description": "Circular flexible thin film pressure sensor offers high sensitivity for detecting static and dynamic"
+  },
+  {
+    "name": "STL-19P LiDAR Sensor: High Precision and Compact",
+    "description": "The STL-19P LiDAR sensor offers precise 12m ranging and 360° scanning, ideal for robotic mapping and"
+  },
+  {
+    "name": "SHT35 High Precision Temperature & Humidity Sensor",
+    "description": "The SHT35 sensor offers high precision temperature and humidity measurement, perfect for smart home "
+  },
+  {
+    "name": "IMX219-120-4Lane 8MP Camera for Raspberry Pi 5",
+    "description": "The IMX219-120-4Lane 8MP Camera offers high-resolution imaging for Raspberry Pi 5, ideal for surveil"
+  },
+  {
+    "name": "360° Rotary Encoder Module with I2C Output",
+    "description": "360° rotary encoder with I2C, 20 pulses, LED indicators. Perfect for Arduino, smart home, and automo"
+  },
+  {
+    "name": "RS485 Soil Sensor: Accurate Soil Monitoring Solution",
+    "description": "The RS485 Soil Sensor offers accurate monitoring of soil temperature, moisture, and EC levels, ideal"
+  },
+  {
+    "name": "Flexible Thin Film Pressure Sensor RP-S40-ST",
+    "description": "RP-S40-ST is a flexible thin film sensor for sensitive pressure detection, suitable for medical devi"
+  },
+  {
+    "name": "PM2.5 Air Quality Sensor: Accurate Particle Measurement",
+    "description": "This sensor employs laser scattering to measure air particle concentration, ideal for Arduino projec"
+  },
+  {
+    "name": "Offline Speech Recognition Module for Arduino",
+    "description": "Offline Speech Recognition Module supports Arduino with 121 commands, real-time feedback, and offlin"
+  },
+  {
+    "name": "Arduino Vibration Sensor: Simple Digital Integration",
+    "description": "Learn to use a digital vibration sensor with Arduino for simple and effective signal detection and c"
+  },
+  {
+    "name": "ME007YS Waterproof Ultrasonic Sensor for Precise Ranging",
+    "description": "The ME007YS Waterproof Ultrasonic Sensor provides precise distance measurements, suitable for Arduin"
+  },
+  {
+    "name": "LattePanda 5MP USB Camera - High Quality UVC Sensor",
+    "description": "LattePanda 5MP USB camera with OV5640 sensor, auto-focus, UVC compatibility, and more for multiple p"
+  },
+  {
+    "name": "TF03 Long-Distance ToF LiDAR: Industrial-Grade Precision",
+    "description": "TF03 is a robust 100m range industrial-grade LiDAR sensor, ideal for drones, transportation, and saf"
+  },
+  {
+    "name": "TF03 LiDAR: Industrial Grade Long-Distance Range Finder",
+    "description": "TF03 LiDAR provides up to 180m range, IP67 protection, and interfaces like UART, CAN, and IO for ver"
+  },
+  {
+    "name": "High Sensitivity Microphone Array with I2S Output",
+    "description": "The MSM261S4030H0 microphone array offers I2S digital output for efficient noise suppression and sou"
+  },
+  {
+    "name": "SEN0326 Dual Camera Module for AI Vision",
+    "description": "The SEN0326 dual camera module is designed for AI vision with high sensitivity and low voltage opera"
+  },
+  {
+    "name": "TF-Luna: Compact ToF Single-Point LiDAR Solution",
+    "description": "TF-Luna LiDAR offers precise, sensitive range measurement, easy integration, and wide application in"
+  },
+  {
+    "name": "High-Speed GM65 QR & Barcode Scanner Module",
+    "description": "The GM65 scanner quickly reads barcodes and QR codes in low-light, ideal for self-service and paymen"
+  },
+  {
+    "name": "TOF Sense Laser Ranging Sensor: 5m Detection Range",
+    "description": "TOF Sense laser ranging sensor offers a 1cm-5m detection range, adjustable FOV, and supports UART an"
+  },
+  {
+    "name": "High Precision SHT30 Digital Temperature & Humidity Sensor",
+    "description": "The SHT30 sensor offers high precision and reliability for temperature and humidity monitoring in va"
+  },
+  {
+    "name": "High Precision SHT31-F Temperature & Humidity Sensor",
+    "description": "The SHT31-F sensor provides precise temperature and humidity measurement, low power use, and IP67 pr"
+  },
+  {
+    "name": "TC01 Non-contact Infrared Temperature Sensor",
+    "description": "TC01 infrared sensor offers non-contact temperature detection with 16x4 pixels, waterproof design, a"
+  },
+  {
+    "name": "5V Metal Proximity Switch: Compact and Reliable",
+    "description": "Compact 5V proximity switch with NPN output and IP67 rating, ideal for automation and security uses."
+  },
+  {
+    "name": "Gravity: PAV3015 Air Velocity Sensor for Precise Airflow Measurement",
+    "description": "The Gravity: PAV3015 Air Velocity Sensor is compact and efficient, ideal for precise airflow measure"
+  },
+  {
+    "name": "Fermion BMV080 PM2.5 Air Quality Sensor: Compact Precision",
+    "description": "The Fermion BMV080 sensor offers precise, compact, and energy-efficient air quality monitoring for I"
+  },
+  {
+    "name": "RS485 Industrial pH Sensor for Arduino IoT | DFRobot Wiki",
+    "description": "Industrial RS485 water pH sensor with Modbus-RTU, ATC, IP68 rating, 0–14 pH range and Arduino suppor"
+  },
+  {
+    "name": "RS485 Industrial ORP Sensor, IP68, ModBus-RTU | DFRobot Wiki",
+    "description": "Industrial RS485 ORP sensor with ModBus-RTU, IP68 protection, automatic temperature compensation and"
+  },
+  {
+    "name": "High-Precision Sensor Module for DIY Projects | DFRobot Wiki",
+    "description": "High-precision sensor module ideal for DIY, robotics and IoT, offering easy integration with popular"
+  },
+  {
+    "name": "S485 Water Quality Chlorophyll Sensor -- 3105",
+    "description": "DFRobot's S485 Water Quality Chlorophyll Sensor -- 3105"
+  },
+  {
+    "name": "RS485 Water Quality Blue Green Algae Sensor -- 3106",
+    "description": "DFRobot's RS485 Water Quality Blue Green Algae Sensor -- 3106"
+  },
+  {
+    "name": "RS485 Water Quality Ammonia Nitrogen &amp; pH Sensor -- 3107",
+    "description": "DFRobot's RS485 Water Quality Ammonia Nitrogen &amp; pH Sensor -- 3107"
+  },
+  {
+    "name": "WIAnode Sensor Kit for Interactive Installations | DFRobot Wiki",
+    "description": "Plug-and-play WIAnode Sensor Kit with 10 interaction modes for new media art, immersive exhibitions,"
+  },
+  {
+    "name": "Capacitive Fingerprint Sensor SEN0348 for Secure ID",
+    "description": "SEN0348 capacitive fingerprint sensor offers fast, secure recognition with self-learning and 360-deg"
+  },
+  {
+    "name": "Sensirion SGP40 VOC Sensor: Instant Air Quality Monitoring",
+    "description": "Sensirion SGP40 VOC sensor delivers real-time air quality monitoring, ideal for smart homes, kitchen"
+  },
+  {
+    "name": "24GHz Human Presence Sensing Radar Module: High Sensitivity Detection",
+    "description": "This high-sensitivity radar module detects human presence using FMCW technology, offering real-time "
+  },
+  {
+    "name": "Thin Film Pressure Sensor 170mm - High Sensitivity Detection",
+    "description": "RP-L-170 thin film pressure sensor offers high sensitivity detection for static and dynamic pressure"
+  },
+  {
+    "name": "ADKey Board: Simplify MP3 & Voice Module Control",
+    "description": "ADKey Board drives DFPlayer and voice modules via 10-key AD keypad, reducing complexity and saving I"
+  },
+  {
+    "name": "LIS2DW12 Triple Axis Accelerometer Sensor",
+    "description": "LIS2DW12 accelerometer sensor offers low power, high performance, motion detection, and programmable"
+  },
+  {
+    "name": "RS485 Wind Direction Sensor: Precision & Durability",
+    "description": "The RS485 wind direction sensor accurately measures wind direction in 16 points, suitable for divers"
+  },
+  {
+    "name": "Ultrasonic RS485 7-in-1 Weather Station Sensor",
+    "description": "The RS485 7-in-1 Weather Station Sensor provides accurate environmental data, simplifying integratio"
+  },
+  {
+    "name": "Ultrasonic RS485 9-in-1 Weather Station Sensor",
+    "description": "The Ultrasonic RS485 9-in-1 Weather Station Sensor provides accurate data on nine meteorological par"
+  },
+  {
+    "name": "Mini Non-Contact Capacitive Liquid Level Sensor | DFRobot Wiki",
+    "description": "Miniature non-contact capacitive liquid level sensor with one-touch auto calibration, IP67 waterproo"
+  },
+  {
+    "name": "Intelligent Non-contact Liquid Level Sensor | DFRobot Wiki",
+    "description": "Industrial non-contact capacitive liquid level sensor with one-touch auto calibration, IP67 PC-V0 ho"
+  },
+  {
+    "name": "Triple Axis Accelerometer ADXL345 Overview",
+    "description": "The ADXL345 accelerometer is a compact, low-power device offering high resolution and versatile moti"
+  },
+  {
+    "name": "High Accuracy IR Laser Distance Sensor 50m/80m",
+    "description": "This IR laser distance sensor offers accurate long-distance detection, compatible with Arduino, idea"
+  },
+  {
+    "name": "AS7341 11-Channel Visible Light Sensor Overview",
+    "description": "The AS7341 sensor provides advanced spectral detection for precise color analysis and ambient light "
+  },
+  {
+    "name": "BH1750 Light Sensor: Precise Lux Measurement",
+    "description": "The BH1750 sensor offers accurate lux measurement and simplifies calculations with a built-in AD con"
+  },
+  {
+    "name": "MLX90614: Accurate Non-contact Infrared Thermometer",
+    "description": "The MLX90614 sensor provides accurate non-contact infrared temperature measurement suitable for vari"
+  },
+  {
+    "name": "5.8GHz Microwave Radar Module for Human Presence Detection",
+    "description": "A 5.8GHz microwave sensor module with high reliability and sensitivity for detecting small movements"
+  },
+  {
+    "name": "High-Precision Linear Array Solid LiDAR for Robots",
+    "description": "High-precision Linear Array Solid LiDAR with 100° FOV for robotic applications like obstacle avoidan"
+  },
+  {
+    "name": "GR10-30 Gesture Sensor: Recognize 12 Gestures",
+    "description": "The GR10-30 sensor recognizes 12 gestures, offers high accuracy at 30cm, ideal for non-contact appli"
+  },
+  {
+    "name": "Advanced MEMS Ethanol Sensor for Industrial Safety",
+    "description": "Advanced MEMS ethanol sensor offers reliable alcohol vapor detection (1-500ppm) for breathalyzers an"
+  },
+  {
+    "name": "MEMS H2 Sensor: Compact and Efficient Hydrogen Detection",
+    "description": "MEMS H2 sensor offers compact hydrogen detection with low power usage and quick response, ideal for "
+  },
+  {
+    "name": "Benewake TFS20-L ToF LiDAR Sensor for Drones & Robots",
+    "description": "The Benewake TFS20-L LiDAR sensor provides precise, long-range distance measurement ideal for UAVs a"
+  },
+  {
+    "name": "Explore 64x8 Matrix DTOF LiDAR - Wide FOV Sensor",
+    "description": "The 64x8 Matrix DTOF LiDAR offers wide FOV and high accuracy for robot obstacle avoidance and blind "
+  },
+  {
+    "name": "TOFSense F2P: 50m High Precision Laser Sensor",
+    "description": "TOFSense F2P offers 50m range, ±3cm accuracy, and 100Hz refresh rate, ideal for drone mapping, traff"
+  },
+  {
+    "name": "Triple Axis Accelerometer BMA220: Compact Motion Sensor",
+    "description": "The Bosch BMA220 is a compact accelerometer for motion detection in mobile and VR applications, offe"
+  },
+  {
+    "name": "Gravity: AS7341 Visible Light Sensor Overview",
+    "description": "The Gravity: AS7341 sensor reveals accurate color detection using spectral sensors and handles ambie"
+  },
+  {
+    "name": "URM09 Ultrasonic Sensor: High-Performance Ranging Solution",
+    "description": "URM09 Ultrasonic Sensor provides 1% accuracy and easy Arduino/Raspberry Pi integration for precise 2"
+  },
+  {
+    "name": "Gravity: Voice Recorder Module - High Fidelity Audio",
+    "description": "Compact module for easy audio recording and playback, featuring 20-second capacity, 16KHz frequency,"
+  },
+  {
+    "name": "Arduino 9 Axes Motion Shield with BNO055 Sensor",
+    "description": "Arduino 9 Axes Motion Shield integrates BNO055 for advanced motion data and sensor fusion, enhancing"
+  },
+  {
+    "name": "Rubber Ring for Ultrasonic Sensors - Perfect Fit",
+    "description": "Rubber ring for ultrasonic sensors like URM37 & URM04. Ensure compatibility by checking sensor dimen"
+  },
+  {
+    "name": "OpenMV Cam H7 Plus: AI-Powered Machine Vision Board",
+    "description": "OpenMV Cam H7 Plus is a microcontroller board enabling machine vision applications with Python and T"
+  },
+  {
+    "name": "HUSKYLENS 2 IR Night Vision Camera Module | DFRobot Wiki",
+    "description": "850nm infrared night vision module for HUSKYLENS 2, enabling 0 lux black-and-white imaging for AI re"
+  },
+  {
+    "name": "TF-NOVA Line Laser LiDAR: Enhanced Detection",
+    "description": "TF-NOVA Line Laser LiDAR offers enhanced detection with a 14° laser FoV, stable outdoor performance,"
+  },
+  {
+    "name": "Gravity: Analog pH Meter V2 - Precision Water Quality Monitoring",
+    "description": "Gravity: Analog pH Meter V2 offers precision for aquaponics, aquaculture, and water testing with eas"
+  },
+  {
+    "name": "HX711 Weight Sensor Kit for Easy Pressure Detection",
+    "description": "The HX711 Weight Sensor Kit enables easy electronic scale creation with a built-in calibration featu"
+  },
+  {
+    "name": "TCS34725 I2C Color Sensor Overview",
+    "description": "TCS34725 sensor detects RGB colors using optical techniques, ideal for diverse lighting conditions w"
+  },
+  {
+    "name": "TS01 IR Temperature Sensor: Precise Non-Contact Measurement",
+    "description": "The TS01 IR sensor provides non-contact, precise temperature measurement with IP65 protection, suita"
+  },
+  {
+    "name": "Non-contact Optical Turbidity Sensor for Arduino",
+    "description": "A non-contact turbidity sensor designed for water quality monitoring, featuring high reliability and"
+  },
+  {
+    "name": "RS485 Soil Sensor: Temperature, Humidity, pH Monitoring",
+    "description": "RS485 soil sensor with MODBUS-RTU ensures optimal pH, moisture, and temperature levels, ideal for hy"
+  },
+  {
+    "name": "BMP585 High-Precision Barometric Pressure Sensor",
+    "description": "The BMP585 Sensor excels in precision, integration, and durability for drones, wearables, and enviro"
+  },
+  {
+    "name": "Multifunctional Environmental Sensor with Multiple Outputs",
+    "description": "A multifunctional sensor combining SHTC3, BMP280, VEML7700, LTR390 for accurate environmental monito"
+  },
+  {
+    "name": "Intelligent Rain Detection Sensor Module for Accurate Weather Monitoring",
+    "description": "Smart rain sensor for real-time rainfall detection, filters ambient effects, ideal for smart home, a"
+  },
+  {
+    "name": "IMX219-77-4Lane 8MP Camera Module for Raspberry Pi 5",
+    "description": "IMX219-77-4Lane 8MP Camera Module offers high-quality imaging for Raspberry Pi 5 with MIPI-CSI-4Lane"
+  },
+  {
+    "name": "Unlock High-Resolution Imaging with OV5648 5MP USB Camera",
+    "description": "The OV5648 5MP USB Camera delivers high-resolution imaging with autofocus and UVC compliance, ideal "
+  },
+  {
+    "name": "Circular Flexible Potentiometer: Advanced Graphene Sensor",
+    "description": "Circular Flexible Potentiometer: 0.45mm graphene sensor for precise angular feedback in robotics, we"
+  },
+  {
+    "name": "Graphene Circular Flex Force Sensor: High Precision & Durability",
+    "description": "Graphene Circular Flex Force Sensor withstands up to 120°C, offering precision for robotics and indu"
+  },
+  {
+    "name": "Gravity: BMP585 High-Precision Barometric Pressure Sensor",
+    "description": "The Gravity: BMP585 sensor offers high precision, waterproof design, and versatile compatibility, id"
+  },
+  {
+    "name": "Gravity BMP581: High Precision Barometric Sensor",
+    "description": "Explore the BMP581 sensor's precision with ±0.3 hPa accuracy and ultra-low noise, perfect for drones"
+  },
+  {
+    "name": "Fermion BMP581: High-Precision Barometric Sensor",
+    "description": "Fermion BMP581 offers high precision and ultra-low noise for environmental monitoring, ideal for dro"
+  },
+  {
+    "name": "Graphene-Based Linear Flexible Potentiometer",
+    "description": "Graphene-based potentiometer offers ±2mm accuracy, ultra-thin design, compatible with Arduino for sm"
+  },
+  {
+    "name": "Explore RGB-D Camera: High-Resolution 3D ToF Imaging",
+    "description": "Explore RGB-D camera with 3D ToF technology, seamless Linux compatibility, Python SDK, and ROS1/ROS2"
+  },
+  {
+    "name": "Wide Range NDIR CO2 Sensor for Arduino",
+    "description": "Explore the wide range NDIR CO2 sensor for Arduino, offering high sensitivity, easy integration, and"
+  },
+  {
+    "name": "Gravity: Adjustable Infrared Proximity Sensor for Arduino",
+    "description": "Gravity IR sensor provides 0-200cm detection for industrial and robotic applications, ensuring accur"
+  },
+  {
+    "name": "URM09 Ultrasonic Sensor: Fast Ranging & Obstacle Avoidance",
+    "description": "URM09 ultrasonic sensor offers fast ranging and obstacle avoidance, compatible with Arduino and Rasp"
+  },
+  {
+    "name": "Comprehensive Sensor Kit for Arduino & Raspberry Pi",
+    "description": "A comprehensive 37-sensor kit compatible with Arduino and Raspberry Pi, perfect for interactive proj"
+  },
+  {
+    "name": "PAJ7620U2 Gesture Sensor: Interactive 3D Recognition",
+    "description": "Discover the PAJ7620U2 Gesture Sensor for 3D gesture recognition, ideal for interactive applications"
+  },
+  {
+    "name": "High Precision SHT31 Digital Temp & Humidity Sensor",
+    "description": "The SHT31 Digital Sensor offers high precision and reliability for temperature and humidity measurem"
+  },
+  {
+    "name": "BME680 Sensor: Monitor Air Quality & Environment",
+    "description": "BME680 is a compact MEMS sensor for monitoring temperature, humidity, VOCs, and pressure, suitable f"
+  },
+  {
+    "name": "BMP390L High Precision Barometric Pressure Sensor",
+    "description": "Bosch's BMP390L sensor offers high precision and stability, ideal for indoor positioning without GPS"
+  },
+  {
+    "name": "Gravity ENS160 Air Quality Sensor: Accurate IAQ Monitoring",
+    "description": "The Gravity ENS160 Sensor provides accurate IAQ monitoring with fast response and long-term stabilit"
+  },
+  {
+    "name": "Digital Push Button with LED and Immersion Gold",
+    "description": "Digital push button with LED and immersion gold surface. Durable and ideal for interactive projects."
+  },
+  {
+    "name": "DS18B20 Arduino Temperature Sensor: High Accuracy & Reliability",
+    "description": "DS18B20 Arduino Temperature Sensor offers high accuracy and reliability, ideal for developing temper"
+  },
+  {
+    "name": "HUSKYLENS 2 Adjustable Focus Camera 1–150cm | DFRobot Wiki",
+    "description": "2MP GC2093 adjustable focus camera module for HUSKYLENS 2, enabling 1–150cm macro to mid‑range barco"
+  },
+  {
+    "name": "Force Sensitive Resistor: 0.5\" Diameter Sensor",
+    "description": "A 0.5\" diameter force sensitive resistor varying resistance by applied pressure, perfect for pressur"
+  },
+  {
+    "name": "Arduino Rotation Potentiometer Sensor - 300-Degree Range",
+    "description": "This Arduino rotation potentiometer offers 300-degree rotations for interactive projects. Ideal for "
+  },
+  {
+    "name": "TCS3430 Tristimulus Color Sensor: High Precision",
+    "description": "TCS3430 Tristimulus Color Sensor offers high precision in color and brightness detection, ideal for "
+  },
+  {
+    "name": "Gravity: Liquid Flow Sensor for High-Concentration Liquids",
+    "description": "Gravity liquid flow sensor measures high-concentration liquids accurately, fits G3/4 connectors, and"
+  },
+  {
+    "name": "Offline Edge AI Gesture & Face Detection Sensor",
+    "description": "Offline Edge AI sensor for intuitive gesture control and face detection, ensuring privacy without cl"
+  },
+  {
+    "name": "Gravity MQ9 CO & Combustible Gas Sensor for Arduino",
+    "description": "Gravity MQ9 sensor detects CO and combustible gases using thermal cycling, crucial for home and indu"
+  },
+  {
+    "name": "LIS2DW12 3-Axis Ultra-Low-Power Accelerometer",
+    "description": "The LIS2DW12 is an ultra-low-power accelerometer for motion and orientation detection with high perf"
+  },
+  {
+    "name": "Enhanced Industrial ORP Sensor for Accurate Monitoring",
+    "description": "Upgraded ORP probe with platinum electrode offers 24-hour online monitoring for enhanced water quali"
+  },
+  {
+    "name": "Flexible Thin Film Pressure Sensor Strip - 400mm",
+    "description": "A 400mm thin film sensor for sensitive pressure detection, offering high response speed for varied a"
+  },
+  {
+    "name": "High-Precision Infrared CO2 Sensor for Arduino",
+    "description": "High-precision NDIR CO2 sensor for Arduino, measuring 400-5000ppm with high sensitivity and stabilit"
+  },
+  {
+    "name": "Advanced Ambient Light Sensor with 0-200klx Range",
+    "description": "This ambient light sensor offers a 0-200klx detection range, I2C communication, and optimized spectr"
+  },
+  {
+    "name": "SHT31-F Digital Temperature & Humidity Sensor Guide",
+    "description": "SHT31-F Digital Sensor ensures high precision and reliability in temperature and humidity measuremen"
+  },
+  {
+    "name": "Non-contact Liquid Level Sensor for Small Pipes",
+    "description": "This sensor detects liquid levels in non-metal tubes with adjustable sensitivity, real-time feedback"
+  },
+  {
+    "name": "AI Binocular Vision Sensor with 3-in-1 Recognition",
+    "description": "AI binocular vision sensor with face, palm vein, and QR code recognition, offering 3D liveness detec"
+  },
+  {
+    "name": "Omnipolar Hall Sensor for Magnetic Detection",
+    "description": "The Hall sensor detects magnetic objects with digital output, offering omnipolar detection without d"
+  },
+  {
+    "name": "Arduino Capacitive Touch Sensor: Interactive Upgrade",
+    "description": "This digital capacitive touch sensor enhances Arduino projects using popular tech found in mobile ph"
+  },
+  {
+    "name": "Standalone DC Voltage Meter for Robotics",
+    "description": "Standalone DC voltage meter measures 3V-40V, 1% accuracy, ideal for battery-level display, easy to u"
+  },
+  {
+    "name": "Gravity: Analog Signal Isolator for Reliable Sensor Operation",
+    "description": "The Gravity: Analog Signal Isolator ensures stable sensor operation, preventing interference with on"
+  },
+  {
+    "name": "BME680: 4-in-1 Environmental Sensor for Air Quality",
+    "description": "The BME680 sensor offers comprehensive environmental monitoring, including VOCs, temperature, humidi"
+  },
+  {
+    "name": "Night Vision Camera Module for Raspberry Pi",
+    "description": "Raspberry Pi camera module with Sony IMX327 sensor for day/night imaging, excellent for nocturnal an"
+  },
+  {
+    "name": "High-Resolution Differential Pressure Sensor with I2C",
+    "description": "High-resolution differential pressure sensor with I2C, ideal for medical and industrial applications"
+  },
+  {
+    "name": "Versatile Text-to-Speech Module: Bilingual Support",
+    "description": "This module offers bilingual voice synthesis, supporting English and Chinese. Ideal for projects nee"
+  },
+  {
+    "name": "Diffuse Reflection Infrared Photoelectric Switch Sensor",
+    "description": "Infrared photoelectric switch detects opaque objects up to 7m, waterproof, adjustable, ideal for aut"
+  },
+  {
+    "name": "LED Switch Button: Interactive Projects with Visual Feedback",
+    "description": "LED self-lock switch button with visual feedback. Ideal for micro:bit projects. Compatible with Ardu"
+  },
+  {
+    "name": "Calibrated H2S Gas Sensor with I2C & UART",
+    "description": "Calibrated H2S sensor detects hydrogen sulfide with strong anti-interference and high sensitivity. C"
+  },
+  {
+    "name": "Calibrated NH3 Sensor: Accurate Ammonia Detection",
+    "description": "Calibrated NH3 Sensor enables accurate ammonia detection with analog, I2C, and UART outputs, suitabl"
+  },
+  {
+    "name": "Hydrogen Chloride Sensor: Accurate Detection with I2C & UART",
+    "description": "Detect hydrogen chloride precisely with this sensor, offering multiple output modes and high sensiti"
+  },
+  {
+    "name": "Geiger Counter Module: Detect Ionizing Radiation Easily",
+    "description": "The Geiger Counter Module detects ionizing radiation, ideal for educational use and principle resear"
+  },
+  {
+    "name": "Enhance Robot Navigation with RPLIDAR S3 LiDAR",
+    "description": "The RPLIDAR S3 features SLAMTEC's SL-TOF technology for precise 40m distance measurement, high-speed"
+  },
+  {
+    "name": "Lark Weather Station: Precise Atmospheric Data Collection",
+    "description": "The Lark Weather Station offers real-time atmospheric data collection and compatibility with popular"
+  },
+  {
+    "name": "Gravity: Thin-film Pressure Sensor for STEM Education",
+    "description": "Explore the Gravity: Thin-film Pressure Sensor for hands-on STEM education, offering seamless integr"
+  },
+  {
+    "name": "IMX378-190 12.3MP Raspberry Pi Camera Module",
+    "description": "The IMX378-190 12.3MP camera module offers high-resolution imaging and 190° fisheye lens, ideal for "
+  },
+  {
+    "name": "TOFSense F2: High-Precision 25m Laser Distance Sensor",
+    "description": "TOFSense F2 offers precise 25m laser sensing with ±3cm accuracy and 100Hz refresh rate, ideal for in"
+  },
+  {
+    "name": "High-Speed TFA300-L LiDAR for Drone Applications",
+    "description": "The TFA300-L LiDAR is a lightweight, high-speed sensor offering 10,000Hz frequency and 290m range fo"
+  },
+  {
+    "name": "80GHz Millimeter-Wave Sensor for Precise Liquid Level Detection",
+    "description": "80GHz millimeter-wave sensor offers precise non-contact liquid level detection with 40m range, ±5mm "
+  },
+  {
+    "name": "BMI160 6-Axis Inertial Motion Sensor for Arduino",
+    "description": "The BMI160 sensor offers 6-axis motion detection for smartphones and wearables, featuring low power "
+  },
+  {
+    "name": "Gravity STCC4 CO₂ Sensor: Accurate Air Monitoring | DFRobot Wiki",
+    "description": "The Gravity STCC4 CO₂ Sensor provides accurate CO₂ readings with temperature and humidity compensati"
+  },
+  {
+    "name": "JL-FS2 Anemometer: Precision Wind Speed Sensor",
+    "description": "JL-FS2 anemometer provides accurate wind speed measurements with 0-30m/s range and 0.1m/s resolution"
+  },
+  {
+    "name": "Analog Electrical Conductivity Sensor PRO for Water Monitoring",
+    "description": "Analog Electrical Conductivity Sensor PRO offers precise water quality monitoring, ideal for hydropo"
+  },
+  {
+    "name": "Arduino Tilt Sensor - Detect Orientation Efficiently",
+    "description": "Arduino Tilt Sensor detects orientation via a ball. Compatible with Raspberry Pi, ideal for interact"
+  },
+  {
+    "name": "URM06 RS485 Ultrasonic Sensor: Precision Detection",
+    "description": "URM06 RS485 ultrasonic sensor detects distances from 20cm to 10m with high precision and sensitivity"
+  },
+  {
+    "name": "SHARP GP2Y0A41SKOF: Precise Analog IR Distance Sensor",
+    "description": "The SHARP GP2Y0A41SKOF is a reliable analog IR sensor with a 4-30cm range, ideal for robotic navigat"
+  },
+  {
+    "name": "Digital Push Button with LED - Fun & Durable Design",
+    "description": "Redesigned digital push button with LED, wide voltage range, and durable, interactive design. Ideal "
+  },
+  {
+    "name": "Gravity Analog Ambient Light Sensor for Arduino",
+    "description": "This sensor detects light density, providing analog voltage signals, and is compatible with controll"
+  },
+  {
+    "name": "URM37 V5.0 Ultrasonic Sensor with Temp Compensation",
+    "description": "URM37 V5.0 ultrasonic sensor offers accurate measurements with built-in temperature compensation, ra"
+  },
+  {
+    "name": "Rotary Switch Module: Versatile Multi-Position Control",
+    "description": "Rotary Switch Module offers 12 positions for versatile control, ideal for Arduino users seeking effi"
+  },
+  {
+    "name": "Waterproof DS18B20 Temperature Sensor for Arduino",
+    "description": "The DS18B20 waterproof sensor provides accurate temperature readings in humid environments, ideal fo"
+  },
+  {
+    "name": "Gravity Analog TDS Sensor for Arduino: Water Quality Insight",
+    "description": "The Gravity Analog TDS Sensor for Arduino measures TDS values, providing insights into water cleanli"
+  },
+  {
+    "name": "Industrial pH Electrode with Armor Casing",
+    "description": "Enhance industrial pH monitoring with the DFRobot electrode, ideal for wastewater applications with "
+  },
+  {
+    "name": "Gravity Water Flow Sensor for Precise Liquid Measurement",
+    "description": "The Gravity Water Flow Sensor measures liquid flow using YF-S201 technology, ideal for controlling d"
+  },
+  {
+    "name": "Arduino DO Sensor Kit: Water Quality Monitoring",
+    "description": "The Arduino dissolved oxygen sensor kit offers easy water quality monitoring for aquaculture and env"
+  },
+  {
+    "name": "A01NYUB Waterproof Ultrasonic Sensor for Arduino",
+    "description": "Explore the A01NYUB Waterproof Ultrasonic Sensor, perfect for Arduino projects, offering a 7.5m rang"
+  },
+  {
+    "name": "Gravity Analog pH Sensor Pro V2 - Industrial-Grade Accuracy",
+    "description": "The Gravity Analog pH Sensor Pro V2 offers industrial-grade durability and ±0.1 pH accuracy for prec"
+  },
+  {
+    "name": "BMP280 Pressure Sensor Module for Arduino & Raspberry Pi",
+    "description": "The BMP280 breakout sensor offers high accuracy pressure and temperature measurement, suitable for A"
+  },
+  {
+    "name": "Efficient Water Leak Detection Sensor",
+    "description": "Reliable water leak sensor with relay output, high sensitivity, and IP66 protection for various envi"
+  },
+  {
+    "name": "SHTC3 Humidity and Temperature Sensor: High Accuracy",
+    "description": "The SHTC3 sensor delivers high accuracy humidity and temperature measurements, perfect for mobile ap"
+  },
+  {
+    "name": "BMM150 Triple Axis Magnetometer Sensor Guide",
+    "description": "BMM150 is a low-power 3-axis geomagnetic sensor ideal for compass applications, featuring Bosch's Fl"
+  },
+  {
+    "name": "High-Sensitivity MEMS H2S Sensor for Industrial Safety",
+    "description": "The Fermion MEMS H2S Sensor provides accurate, low-power detection of hydrogen sulfide gas in indust"
+  },
+  {
+    "name": "RS485 Ultrasonic Distance Ranging Sensor for Robots",
+    "description": "RS485 ultrasonic sensor with 3m range for robot control, featuring fast response and IP67 waterproof"
+  },
+  {
+    "name": "C1001 mmWave Human Detection Sensor: Fall & Sleep Monitoring",
+    "description": "The C1001 sensor offers advanced human detection capabilities, including fall detection and sleep mo"
+  },
+  {
+    "name": "Fermion: BMM350 3-axis Geomagnetic Sensor",
+    "description": "The BMM350 offers accurate geomagnetic measurements using Bosch's FlipCore technology, ideal for AR/"
+  },
+  {
+    "name": "Global Shutter Camera for Raspberry Pi: Capture Clarity",
+    "description": "OV9281 global shutter camera offers high-speed capture and low-light performance, ideal for Raspberr"
+  },
+  {
+    "name": "RS485 Photoelectric Solar Radiation Sensor",
+    "description": "RS485 Photoelectric Solar Radiation Sensor offers accurate solar measurement with high sensitivity a"
+  },
+  {
+    "name": "Waterproof Digital Ambient Light Sensor - High Accuracy",
+    "description": "Our Waterproof Digital Ambient Light Sensor measures up to 200,000 Lux with high accuracy, ideal for"
+  },
+  {
+    "name": "RS485 UV Sensor for Accurate UV Monitoring",
+    "description": "The RS485 UV Sensor offers precise UV measurement, suitable for environmental studies, health protec"
+  },
+  {
+    "name": "BME688 AI Sensor: Accurate Environmental Monitoring",
+    "description": "The BME688 AI sensor offers precise environmental monitoring, integrating temperature, humidity, pre"
+  },
+  {
+    "name": "Advanced Laser Lab-Grade Methane Sensor for Accurate CH₄ Data",
+    "description": "The advanced methane sensor uses TDLAS for accurate CH₄ data, offering easy Excel export and zero in"
+  },
+  {
+    "name": "3D Depth Sensing with 8*8 Matrix Time-of-Flight Sensor",
+    "description": "The 8*8 Matrix ToF Sensor offers real-time depth data for robotics, gesture control, and smart autom"
+  },
+  {
+    "name": "High-Precision Serial 6-Axis Accelerometer Sensor",
+    "description": "Explore the Serial 6-Axis Accelerometer sensor featuring gyroscopes, accelerometer, and Kalman filte"
+  },
+  {
+    "name": "High-Accuracy USB GPS Module with Ublox Chip",
+    "description": "Ublox chip-based USB GPS module offers high accuracy and fast positioning for various applications w"
+  },
+  {
+    "name": "High Accuracy USB GPS Module for Precise Positioning",
+    "description": "This USB GPS module offers fast and accurate positioning, compatible with Raspberry Pi, NVIDIA, and "
+  },
+  {
+    "name": "Gravity CO Sensor: Factory Calibrated, High Sensitivity",
+    "description": "Detect CO with precision using our calibrated sensor, compatible with Arduino, ESP32, and Raspberry "
+  },
+  {
+    "name": "Calibrated Oxygen Sensor: Accurate O2 Detection",
+    "description": "Factory-calibrated oxygen sensor with analog, I2C, and UART outputs for accurate O2 detection. Ideal"
+  },
+  {
+    "name": "Arduino Voltage Divider Module V2: Wide Range Detection",
+    "description": "Analog Voltage Divider V2 detects voltages from 0.0245V to 25V, ideal for reducing input voltage by "
+  },
+  {
+    "name": "Heart Rate Monitor Sensor for Arduino",
+    "description": "DFRobot heart rate sensor uses PPG techniques, ideal for Arduino, offering easy integration for IoT "
+  },
+  {
+    "name": "Lab Grade EC Sensor for Arduino 10~100 mS/cm Range",
+    "description": "The DFRobot EC sensor offers high-precision liquid measurement, ideal for seawater, with easy setup "
+  },
+  {
+    "name": "HuskyLens AI Vision Sensor: Easy Machine Learning",
+    "description": "HuskyLens AI sensor offers face recognition and object tracking. Connect with popular boards for inn"
+  },
+  {
+    "name": "Accurate Ozone Detection with Gravity I2C Sensor",
+    "description": "The Gravity I2C Ozone Sensor offers accurate ozone concentration measurement, ideal for air quality "
+  },
+  {
+    "name": "Arduino Hydrogen Gas Sensor MQ8: High Sensitivity Detection",
+    "description": "The Arduino MQ8 sensor detects hydrogen with high sensitivity and adjustable detection, ideal for mo"
+  },
+  {
+    "name": "RPLIDAR A1: Affordable 360° 2D Laser Scanner",
+    "description": "RPLIDAR A1 is a low-cost 360° laser scanner for mapping and localization, ideal for robotics and SLA"
+  },
+  {
+    "name": "Gravity Analog AC Current Sensor: Easy AC Measurement",
+    "description": "Measure AC currents easily with Gravity Analog AC Current Sensor, offering non-contact measurement f"
+  },
+  {
+    "name": "Arduino Water Pressure Sensor: Smart Control Solution",
+    "description": "Water pressure sensor with Gravity interface for Arduino, supports smart home and IoT systems, offer"
+  },
+  {
+    "name": "Industrial Submersible Pressure Level Sensor",
+    "description": "Stainless steel submersible sensor with precise liquid measurement, suitable for diverse environment"
+  },
+  {
+    "name": "Explore HuskyLens AI Vision Sensor With Mobile Robot",
+    "description": "HuskyLens AI vision sensor simplifies face recognition and object tracking, easily integrating with "
+  },
+  {
+    "name": "Compact MEMS CO Sensor with Low Power Consumption",
+    "description": "Advanced MEMS CO sensor offers compact design, low power use, and efficient CO detection."
+  },
+  {
+    "name": "Fermion: MEMS Smoke Detection Sensor - 10-1000ppm Range (Ethanol Compatible, Breakout) -- 2698",
+    "description": "DFRobot's Fermion: MEMS Smoke Detection Sensor - 10-1000ppm Range (Ethanol Compatible, Breakout) -- "
+  },
+  {
+    "name": "High Sensitivity MEMS Formaldehyde Sensor for Air Quality",
+    "description": "The Fermion MEMS Formaldehyde Sensor ensures safe air quality by detecting 0-3ppm HCHO levels, suita"
+  },
+  {
+    "name": "Fermion MEMS NH3 Sensor: Accurate Ammonia Detection",
+    "description": "Detect ammonia concentrations (1-300ppm) with the Fermion MEMS NH3 Sensor, perfect for cold storage "
+  },
+  {
+    "name": "Advanced MEMS Methane CH4 Gas Detection Sensor",
+    "description": "Fermion MEMS Methane CH4 Gas Sensor offers compact design, low power use, and swift response for eff"
+  },
+  {
+    "name": "Fermion: MEMS NO2 Gas Detection Sensor for Air Quality",
+    "description": "Compact MEMS NO2 Gas Sensor offers low power, high sensitivity detection for air quality and automot"
+  },
+  {
+    "name": "Compact Laser Distance Sensor for Accurate Measurement",
+    "description": "Compact laser distance sensor with 4m range, fast response, and IP67 rating, perfect for smart syste"
+  },
+  {
+    "name": "C4001 mmWave Presence Sensor - Human Detection & Monitoring",
+    "description": "C4001 mmWave sensor excels in human detection with 25m range and FMCW technology for precise monitor"
+  },
+  {
+    "name": "Enhance Detection with 24GHz mmWave Sensor",
+    "description": "The Gravity: C4001 sensor offers accurate human presence detection using 24GHz mmWave technology, pe"
+  },
+  {
+    "name": "4-in-1 Soil Sensor: Temperature, Humidity, EC, and pH",
+    "description": "The 4-in-1 soil sensor offers accurate measurement of temperature, humidity, EC, and pH, enhancing s"
+  },
+  {
+    "name": "I2C RGB LED Button Module for Arduino Projects",
+    "description": "This I2C RGB LED Button Module enhances Arduino projects with independent control of button status a"
+  },
+  {
+    "name": "50A Analog AC/DC Current Sensor for Energy Saving",
+    "description": "Use the Gravity: Analog 50A Current Sensor for precise AC/DC measurement, ideal for motor control an"
+  },
+  {
+    "name": "IR Break Beam Sensor Arduino - 4m Range",
+    "description": "IR break beam sensor offers 4m range, fast response, and Arduino compatibility for motion detection."
+  },
+  {
+    "name": "Waterproof Digital Ambient Light Sensor for Harsh Conditions",
+    "description": "A waterproof sensor for accurate light measurement in harsh environments, ideal for greenhouses, sma"
+  },
+  {
+    "name": "Arduino Compatible Piezo Film Vibration Sensor",
+    "description": "This Arduino-compatible sensor uses piezo film to detect vibration, impact, and touch, with easy int"
+  },
+  {
+    "name": "Huskylens: AI Vision Sensor for Creative Projects",
+    "description": "Huskylens offers AI vision capabilities like face and object recognition, ideal for creative project"
+  },
+  {
+    "name": "Hall Angle Sensor: 360 Degree Precision, Robust Design",
+    "description": "The Hall Angle Sensor offers 360-degree precision with robust design, compatible with Arduino, ideal"
+  },
+  {
+    "name": "Analog AD Keyboard for Arduino Projects",
+    "description": "Analog AD Keyboard uses analog input for five key states, saving Arduino IO resources for interactiv"
+  },
+  {
+    "name": "URM04 RS485 Ultrasonic Sensor for Precise Distance Measurement",
+    "description": "URM04 ultrasonic sensor uses RS485 for precise distance measurement, enabling up to 32 sensors to wo"
+  },
+  {
+    "name": "Enhance Your Project with Arduino Touch Sensor Kit",
+    "description": "Discover the Arduino capacitive touch sensor kit with three unique touchpads for enhanced interactiv"
+  },
+  {
+    "name": "Explore Arduino Grayscale Sensor for Light Measurement",
+    "description": "Arduino grayscale sensor measures light intensity, ideal for automation and light-sensitive applicat"
+  },
+  {
+    "name": "Arduino Alcohol Sensor MQ3 for Accurate Detection",
+    "description": "The MQ3-based Arduino Alcohol Sensor provides high sensitivity detection ideal for breathalysers, wi"
+  },
+  {
+    "name": "Sharp GP2Y0A21 IR Distance Sensor for Accurate Measurement",
+    "description": "The Sharp GP2Y0A21 IR sensor is ideal for projects needing accurate distance measurements, offering "
+  },
+  {
+    "name": "Gravity: Analog pH Sensor/Meter Kit for Arduino",
+    "description": "Gravity Analog pH Sensor/Meter Kit for Arduino: precise, easy-to-use solution for water quality moni"
+  },
+  {
+    "name": "Arduino Turbidity Sensor for Water Quality Monitoring",
+    "description": "Arduino turbidity sensor detects water quality by measuring turbidity, useful for stream and wastewa"
+  },
+  {
+    "name": "DHT22 Temperature & Humidity Sensor for Arduino",
+    "description": "The DHT22 sensor provides high reliability and precision in temperature and humidity sensing, ideal "
+  },
+  {
+    "name": "Arduino Sensor Set for Beginners",
+    "description": "Basic Arduino sensor set includes light, touch, temperature, magnetic, vibration, and tilt sensors f"
+  },
+  {
+    "name": "RPLIDAR A2M12: Advanced 360° LiDAR for Robotics",
+    "description": "RPLIDAR A2M12 provides 360-degree scanning with high precision for robotics, featuring low noise and"
+  },
+  {
+    "name": "Efficient DHT11 Temperature & Humidity Sensor for Arduino",
+    "description": "DHT11 sensor provides accurate temperature readings with low power consumption, compatible with Ardu"
+  },
+  {
+    "name": "Sensitive Lever Switch for Automation and DIY Projects",
+    "description": "A sensitive lever switch for industrial automation and DIY projects, used as a bumper sensor or tamp"
+  },
+  {
+    "name": "Miniature Snap-Action Micro Switch for Arduino",
+    "description": "A versatile micro switch for Arduino with easy connectivity, onboard LED, and broad applications."
+  },
+  {
+    "name": "Digital Push Button with LED & Gold Surface - DFR0029-G",
+    "description": "The DFR0029-G digital push button offers LED indicators, gold surface, and a durable design, perfect"
+  },
+  {
+    "name": "Gravity Digital Push Button: Durable & Fun Interaction",
+    "description": "The Gravity Digital Push Button offers LED, immersion gold surface, and wide voltage range for fun, "
+  },
+  {
+    "name": "Digital Push Button: Durable and Fun Sensor",
+    "description": "Revamped digital push button with LED, gold surface, colorful caps, durable and fun for interactive "
+  },
+  {
+    "name": "Waterproof DS18B20 Temperature Sensor Kit for Arduino",
+    "description": "The DS18B20 waterproof temperature sensor kit offers easy Arduino integration with accurate reading "
+  },
+  {
+    "name": "10.525GHz Microwave Motion Sensor: Doppler Effect",
+    "description": "SEN0192 microwave sensor uses Doppler effect for motion detection, ideal for diverse applications wi"
+  },
+  {
+    "name": "BME280 Environmental Sensor: High Precision IoT Solution",
+    "description": "BME280 sensor offers high precision monitoring of temperature, humidity, and air pressure, ideal for"
+  },
+  {
+    "name": "Gravity: Analog AC Current Sensor - SEN0287",
+    "description": "Measure AC currents easily with Gravity: Analog AC Current Sensor, no wire cutting needed, compatibl"
+  },
+  {
+    "name": "Waterproof Ultrasonic Sensor for Arduino & Raspberry Pi",
+    "description": "A02YYUW ultrasonic sensor: waterproof, reliable, Arduino & Raspberry Pi compatible, offering accurat"
+  },
+  {
+    "name": "High Sensitivity I2S MEMS Microphone Module",
+    "description": "Explore the MSM261S4030H0 MEMS microphone with I2S output, RGB LED, and DSP compatibility for enhanc"
+  },
+  {
+    "name": "Analog Waterproof Capacitive Soil Moisture Sensor",
+    "description": "The Gravity Capacitive Soil Moisture Sensor is waterproof, corrosion-resistant, and compatible with "
+  },
+  {
+    "name": "Infrared Photoelectric Switch with Fast Response",
+    "description": "Photoelectric switch with 1.5m detection range and <1ms response, suitable for automation and roboti"
+  },
+  {
+    "name": "Innovative IR Proximity Sensor with Button Adjustment",
+    "description": "This IR sensor offers 0-200cm detection range, button calibration, and smart control ideal for secur"
+  },
+  {
+    "name": "BNO055 Intelligent 9-axis Sensor Overview",
+    "description": "BNO055 is a compact sensor hub with accelerometer, gyroscope, and geomagnetic sensors for intelligen"
+  },
+  {
+    "name": "VL53L3CX ToF Distance Sensor: Accurate Ranging Up to 3m",
+    "description": "The VL53L3CX is a Time-of-Flight sensor offering 25-3000mm range and multi-target detection, using S"
+  },
+  {
+    "name": "Discover the Power of mmWave Radar Sensors",
+    "description": "mmWave radar sensors provide accurate human detection with strong anti-interference and easy integra"
+  },
+  {
+    "name": "4-Wire Slot Photoelectric Switch: Stable & Versatile",
+    "description": "A versatile 4-wire slot type photoelectric switch with optical transceiver, stable performance, and "
+  },
+  {
+    "name": "RS485 Wind Speed Sensor for Precise Measurement",
+    "description": "Accurate RS485 wind speed sensor measures up to 32.4m/s, ideal for meteorological and industrial use"
+  },
+  {
+    "name": "Magnetic Contact Switch: Compact & Long-lasting",
+    "description": "Compact magnetic switch for proximity sensing, ideal for confined spaces and long-lasting use in sma"
+  },
+  {
+    "name": "LED Illuminated Self-Lock Switch Button",
+    "description": "Easy-to-use LED self-lock switch button offers visual feedback for micro:bit projects with various c"
+  },
+  {
+    "name": "LED Illuminated Self-Lock Switch Button for Interactive Projects",
+    "description": "LED self-lock switch offers visual feedback and suits micro:bit projects. Lights up in multiple colo"
+  },
+  {
+    "name": "Infrared Break Beam Sensor for Precise Motion Detection",
+    "description": "Compact IR break beam sensor detects motion up to 50cm with fast response, ideal for Arduino project"
+  },
+  {
+    "name": "MEMS Gas Sensor for CO, Alcohol, NO2 & NH3 Detection",
+    "description": "Versatile MEMS sensor detects CO, Alcohol, NO2, NH3. Compatible with popular controllers and offers "
+  },
+  {
+    "name": "High-Precision I2C Temperature & Humidity Sensor",
+    "description": "This I2C temperature & humidity sensor offers enhanced accuracy, stainless steel durability, and ver"
+  },
+  {
+    "name": "Ultra-Fast IR Proximity Sensor for Precise Detection",
+    "description": "Infrared Proximity Sensor: 100µs response, waterproof, ideal for smart devices and automation."
+  },
+  {
+    "name": "Tipping Bucket Rainfall Sensor for Precise Monitoring",
+    "description": "Reliable tipping bucket sensor measures rainfall in millimeters, compatible with Raspberry Pi and Ar"
+  },
+  {
+    "name": "RS485 Soil Sensor for Precise Agriculture Monitoring",
+    "description": "RS485 Soil Sensor: Real-time soil monitoring for agriculture, featuring MODBUS-RTU protocol and IP68"
+  },
+  {
+    "name": "Gravity: Linear/Analog Hall Sensor for Precise Magnetic Detection",
+    "description": "The Gravity: Linear/Analog Hall Sensor offers precise magnetic field detection, ideal for industrial"
+  },
+  {
+    "name": "ESP32-S3 AI Camera: Intelligent IoT Solutions",
+    "description": "The ESP32-S3 AI Camera is designed for edge AI, video processing, and voice interaction in IoT appli"
+  },
+  {
+    "name": "High-Stability RS485 Fluorescence Dissolved Oxygen Sensor",
+    "description": "The RS485 Fluorescence Dissolved Oxygen Sensor offers high-accuracy DO measurement for freshwater, f"
+  },
+  {
+    "name": "HUSKYLENS 2 ACCESSORY -- 3012",
+    "description": "DFRobot's HUSKYLENS 2 ACCESSORY -- 3012"
+  },
+  {
+    "name": "Arduino LM35 Temperature Sensor Guide",
+    "description": "Learn about the LM35 temperature sensor for Arduino, featuring precise ambient air temperature detec"
+  },
+  {
+    "name": "Analog Sound Sensor for Arduino Projects",
+    "description": "Analog Sound Sensor, compatible with Arduino, detects ambient sound for interactive projects like 'c"
+  },
+  {
+    "name": "Arduino Rotation Potentiometer Sensor: Precision & Versatility",
+    "description": "This Arduino Rotation Potentiometer Sensor offers up to 10 laps of precision for accurate readings a"
+  },
+  {
+    "name": "Sharp GP2Y1010AU0F Optical Dust Sensor for Air Quality",
+    "description": "Sharp GP2Y1010AU0F detects smoke and dust using infrared technology, ideal for air quality monitorin"
+  },
+  {
+    "name": "Plug-and-Play Dust Sensor Adapter for Sharp GP2Y1010AU",
+    "description": "Adapter converts Sharp GP2Y1010AU sensors to plug-and-play modules with dual output options and Grav"
+  },
+  {
+    "name": "Arduino Weight Sensor with HX711 for Precision Measurement",
+    "description": "The Arduino weight sensor with HX711 offers precise 1kg measurement, improving electronic scale perf"
+  },
+  {
+    "name": "Miniature Micro Switch Crash Sensor for Arduino",
+    "description": "Miniature micro switch crash sensor for versatile applications, featuring roller lever and status LE"
+  },
+  {
+    "name": "Arduino Line Tracking Sensor for Robots",
+    "description": "A line tracking sensor for Arduino that enhances robot navigation by distinguishing white from black"
+  },
+  {
+    "name": "TT Motor Encoder Kit for Precise Wheel Rotation",
+    "description": "TT Motor Encoder Kit provides precise wheel rotation measurement, compatible with Arduino and Raspbe"
+  },
+  {
+    "name": "Non-contact Liquid Level Sensor for Arduino",
+    "description": "Non-contact liquid level sensor for Arduino, featuring XKC-Y25-T12V chip, suitable for hazardous app"
+  },
+  {
+    "name": "3D Gesture Sensor: Interactive Control with MGC3030",
+    "description": "DFRobot 3D Gesture Sensor utilizes MGC3030 chip for gesture control, suitable for IoT, smart home, a"
+  },
+  {
+    "name": "MLX90614 Non-contact IR Temperature Sensor for Arduino",
+    "description": "Learn about the MLX90614 sensor's infrared technology for accurate non-contact temperature measureme"
+  },
+  {
+    "name": "10 DOF Mems IMU Sensor: Compact and Versatile",
+    "description": "A compact 10 DOF Mems IMU Sensor integrating accelerometer, gyro, compass, and pressure sensor for v"
+  },
+  {
+    "name": "Gravity: SFA40 HCHO Sensor – Precision Indoor Air Quality Monitoring",
+    "description": "The Gravity SFA40 HCHO Sensor offers precise formaldehyde detection, reducing false alarms in smart "
+  },
+  {
+    "name": "MPU6050: Advanced 6-Axis MotionTracking Sensor",
+    "description": "The MPU6050 is a 6-axis motion tracking sensor ideal for smartphones, wearables, and Arduino project"
+  },
+  {
+    "name": "Arduino Infrared Distance Sensor Guide",
+    "description": "An adjustable Arduino infrared sensor ideal for robotics and indoor projects. Easy assembly, perfect"
+  },
+  {
+    "name": "Gravity Digital Infrared Motion Sensor for Arduino",
+    "description": "The Gravity Digital Infrared Motion Sensor is perfect for Arduino automation, detecting movement via"
+  },
+  {
+    "name": "Professional Arduino pH Sensor Meter Kit for Water Quality",
+    "description": "Discover the Arduino pH Sensor Kit for accurate water monitoring with industrial electrode, long-ter"
+  },
+  {
+    "name": "Gravity: Digital PIR Motion Sensor for Home Automation",
+    "description": "Gravity: Digital PIR Motion Sensor offers precise detection for home automation, security, and energ"
+  },
+  {
+    "name": "Gravity: Laser PM2.5 Air Quality Sensor for Arduino",
+    "description": "PM2.5 laser dust sensor accurately measures air particles from 0.3 to 10 microns with digital output"
+  },
+  {
+    "name": "UV Sensor with GUVA-S12SD Chip for Accurate Detection",
+    "description": "UV Sensor with GUVA-S12SD chip detects UV radiation, ideal for UV monitoring and projects, covering "
+  },
+  {
+    "name": "5MP Night Vision Camera for Raspberry Pi: Infrared Capability",
+    "description": "5MP Night Vision Camera for Raspberry Pi with infrared lights, adjustable focus, compatible with all"
+  },
+  {
+    "name": "Build Your Own IoT Weather Station Kit",
+    "description": "Build your own weather station with anemometer, wind vane, and rain bucket, ideal for environmental "
+  },
+  {
+    "name": "Gravity: Capacitive Soil Moisture Sensor for Arduino",
+    "description": "Gravity Capacitive Soil Moisture Sensor is corrosion-resistant, ideal for Arduino, providing reliabl"
+  },
+  {
+    "name": "Photoelectric Liquid Level Sensor for Arduino",
+    "description": "The FS-IR02 photoelectric sensor offers high sensitivity, no mechanical parts, and compatibility wit"
+  },
+  {
+    "name": "RPLIDAR C1: Compact DTOF Laser Scanner for Robotics",
+    "description": "RPLIDAR C1 is a compact DTOF laser scanner offering 12m range for precise robot mapping and navigati"
+  },
+  {
+    "name": "Precise CCT & ALS Meter for Photographers",
+    "description": "The Gravity CCT & ALS Meter delivers precise lighting measurements for professional photography and "
+  },
+  {
+    "name": "ZL9NSQ Wireless IMU Sensor: High Precision Motion Capture",
+    "description": "The ZL9NSQ 9-axis IMU sensor provides high precision motion capture for VR and robotics, featuring w"
+  },
+  {
+    "name": "Upgrade Your Water Quality Monitoring with EC Meter V2",
+    "description": "The upgraded EC Meter V2 offers precise conductivity measurement for water quality analysis, ideal f"
+  },
+  {
+    "name": "360 Degree EC11 Rotary Encoder Module",
+    "description": "The EC11 rotary encoder module provides 360-degree rotation, suitable for volume control and prototy"
+  },
+  {
+    "name": "VL53L0X Laser Rangefinder: Precision ToF Sensor",
+    "description": "VL53L0X laser rangefinder offers precise 2m distance measurement, low power usage, and Gravity-I2C c"
+  },
+  {
+    "name": "Innovative Lightning Sensor for Accurate Thunderstorm Detection",
+    "description": "The Gravity Lightning Sensor detects lightning up to 40km, features electrical interference rejectio"
+  },
+  {
+    "name": "Driver-Free USB Camera for Raspberry Pi & NVIDIA",
+    "description": "Driver-free USB camera with 640x480 resolution, compatible with Raspberry Pi and NVIDIA, suitable fo"
+  },
+  {
+    "name": "MAX30102 Heart Rate & Oximeter Sensor V2.0 Overview",
+    "description": "MAX30102 sensor offers heart rate and oximetry data with integrated algorithms, easy I2C/UART output"
+  },
+  {
+    "name": "Capacitive Proximity Sensor: Accurate Detection for Diverse Applications",
+    "description": "Capacitive proximity sensor detects non-metal objects, offers adjustable range, IP67 protection, ide"
+  },
+  {
+    "name": "I2S MEMS Microphone for Arduino & ESP32 Projects",
+    "description": "I2S MEMS Microphone: Low noise, high sensitivity for ESP32 and Arduino projects like voice recogniti"
+  },
+  {
+    "name": "Gravity LTR390-UV Sensor: Ambient & UV Light Detection",
+    "description": "The Gravity LTR390-UV sensor offers high sensitivity ambient and UV light detection from 280nm to 43"
+  },
+  {
+    "name": "Underwater Ultrasonic Obstacle Avoidance Sensor",
+    "description": "Underwater ultrasonic sensor for obstacle avoidance in underwater robots, featuring IP68 protection "
+  },
+  {
+    "name": "HUSKYLENS2 -- 2995",
+    "description": "DFRobot's HUSKYLENS2 -- 2995"
+  },
+  {
+    "name": "Infrared Positioning Camera for Robotics and Navigation",
+    "description": "Versatile IR camera for tracking heat sources, navigation, and flame detection. Compatible with Ardu"
+  },
+  {
+    "name": "Digital Self-Locking Switch Module for Arduino",
+    "description": "The Digital Self-Locking Switch module offers seamless integration with Arduino through a Gravity 3-"
+  },
+  {
+    "name": "Analog Piezo Disk Vibration Sensor for Arduino",
+    "description": "Analog piezo disk vibration sensor measures vibration extent, ideal for Arduino with 3.3V-5V range a"
+  },
+  {
+    "name": "Compact Analog ORP Meter for Arduino: Accurate Monitoring",
+    "description": "Compact Analog ORP Meter for Arduino provides accurate water quality monitoring without additional c"
+  },
+  {
+    "name": "Arduino Flame Sensor: Detect Fire & Light Wavelengths",
+    "description": "Arduino flame sensor detects fire and light from 760nm to 1100nm, perfect for fire-fighting robots."
+  },
+  {
+    "name": "ENS160 & BME280 Sensor: Multi-Parameter Air Quality Monitor",
+    "description": "The ENS160 & BME280 sensor provides comprehensive air quality monitoring with advanced TrueVOC techn"
+  },
+  {
+    "name": "High Accuracy SCD41 Infrared CO2 Sensor for Arduino",
+    "description": "The SCD41 sensor provides accurate CO2, temperature, and humidity measurements for indoor air qualit"
+  },
+  {
+    "name": "Fermion MEMS VOC Sensor: High-Sensitivity Air Monitor",
+    "description": "Fermion MEMS VOC Sensor detects VOCs with high sensitivity, enhancing air quality in homes, offices,"
+  },
+  {
+    "name": "MEMS Odor Smell Gas Detection Sensor",
+    "description": "The MEMS Odor Smell Gas Detection Sensor offers compact design and efficient odor detection using ad"
+  },
+  {
+    "name": "Gravity Analog Soil Moisture Sensor for Arduino",
+    "description": "The Gravity Analog Soil Moisture Sensor offers accurate resistive moisture detection for smart home "
+  },
+  {
+    "name": "C4002 mmWave Motion &amp; Static Presence -- 3081",
+    "description": "DFRobot's C4002 mmWave Motion &amp; Static Presence -- 3081"
+  }
+]

@@ -1,0 +1,2842 @@
+[
+  {
+    "name": "Grove - OLED Display 0.96\" (SSD1315)  I2C Interface Compatible with Arduino",
+    "description": "The Grove - OLED Display 0.96\" (SSD1315) is a monochrome(white) 128×64 pixels passive display matrix"
+  },
+  {
+    "name": "Grove - Relay High current 5V/10A small 1-way mechanical relay switch Arduino ",
+    "description": "The Grove-Relay module is a digital normally-open switch that can handle the current up to 5A at 250"
+  },
+  {
+    "name": "Grove - RGB LED Stick (10 - WS2813 Mini 3535) : Full-Color RGB LED Lighting",
+    "description": "\r\n\r\nThe Grove RGB LED Stick (10 - WS2813 Mini)&nbsp;is a full color LED which integrated 10 full-col"
+  },
+  {
+    "name": "Grove - OLED Yellow&Blue Display 0.96 (SSD1315) - SPI/IIC -3.3V/5V",
+    "description": "Grove - OLED Yellow&amp;Blue Display 0.96 is built 128*64 resolution with a blue and yellow bi-color"
+  },
+  {
+    "name": "Grove - OLED Display 0.66\" (SSD1306)- IIC - 3.3V/5V",
+    "description": "\r\nThe Grove - OLED Display 0.66\" (SSD1306) is a monochrome display with 64×48 resolution. It contain"
+  },
+  {
+    "name": "Grove - I2C Motor Driver (L298P)",
+    "description": "Grove - I2C Motor Driver(L298P) is a common-use motor driver for stepping motor and servo motor. It "
+  },
+  {
+    "name": "Grove - LED Pack on-board potentiometer with red, green, blue, and white LEDs",
+    "description": "\r\n\r\nThis Grove - LED Pack includes 4 kinds of different colors of LED which are red, green, blue, an"
+  },
+  {
+    "name": "Grove - MOSFET for Arduino",
+    "description": "Grove – MOSFET enables you to control higher voltage project, say 15VDC, with low voltage, say 5V, o"
+  },
+  {
+    "name": "Grove - Servo",
+    "description": "The Servo motor is a rotary actuator that allows for precise control of angular position which makes"
+  },
+  {
+    "name": "Grove - 8×8 RGB LED Matrix w/Driver",
+    "description": "\r\nGrove - RGB LED Matrix w/Driver is based on 64 KTR-3528RGB LEDs to form an 8x8 RGB LED Matrix, whi"
+  },
+  {
+    "name": "Grove - 4-Channel SPDT Relay",
+    "description": "The Grove - 4-Channel SPDT Relay has four single pole - double throw (SPDT) switches. It only requir"
+  },
+  {
+    "name": "Grove - OLED Display 0.96\"",
+    "description": "128×64 dot resolution High brightness,self-emission and high contrast ratio Big screen on a compact "
+  },
+  {
+    "name": "Grove - Speaker",
+    "description": "The Grove- Speaker is a module which consists of power amplification and voice outputs.\r\n"
+  },
+  {
+    "name": "Grove - Vibration Motor",
+    "description": "Grove - Vibration Motor consists of one coin type motor which is a permanent magnet coreless DC moto"
+  },
+  {
+    "name": "Grove - WS2813 RGB LED Strip Waterproof - 60 LED/m - 1m",
+    "description": "Grove - WS2813 RGB LED Strip Waterproof is an LED strip based on WS2813 with up to 60 LED lights and"
+  },
+  {
+    "name": "Grove - 16X2 LCD RGB Backlight  - Full Color Display",
+    "description": "Grove - 16X2 LCD RGB Backlight is a full-color backlight 16x2 LCD display for Arduino. High contrast"
+  },
+  {
+    "name": "Grove - I2C Motor Driver (TB6612FNG)",
+    "description": "Grove - I2C Motor Driver (TB6612FNG), DC motor, stepper motor"
+  },
+  {
+    "name": "Grove - OLED Display 1.12'' V2",
+    "description": "The Grove - OLED Display 1"
+  },
+  {
+    "name": "Grove LED Bar v2.0 - MY9221with 10 segment LED",
+    "description": "\r\n\r\nGrove – LED Bar is comprised of a 10 segment LED gauge bar and an MY9221 LED controlling chip. I"
+  },
+  {
+    "name": "Grove - Speaker Plus: Sound Amplifier, Removable loudspeaker",
+    "description": "The Grove Speaker Plus includes a powerful amplifier driver board and a fancy speaker. With the help"
+  },
+  {
+    "name": "Grove - Triple Color E-Ink Display 2.13''",
+    "description": "The Grove - Triple Color E-Ink Display 2.13'' is a screen that can still be displayed after power of"
+  },
+  {
+    "name": "Grove - I2C Motor Driver with L298",
+    "description": "\r\n\r\nGrove - I2C Motor Driver is based on L298. It can directly control Stepper Motor or DC Motor.\r\n\r"
+  },
+  {
+    "name": "Grove - Red LED Matrix w/Driver",
+    "description": "\r\n\r\nGrove - Red LED Matrix w/Driver is based on HT16K33. It is the combination of the 20mm 8*8 squar"
+  },
+  {
+    "name": "Grove - RGB LED (WS2813 Mini)-Breakpoint Resume with programming",
+    "description": "Grove - RGB LED (WS2813 Mini) is a full color LED with programmable function."
+  },
+  {
+    "name": "Grove - Piezo Buzzer/Active Buzzer - Arduino/Raspberry Pi Compatible",
+    "description": "Grove - Buzzer is a simple yet enjoyable twig to use. It can output noise at a volume over 85 dB and"
+  },
+  {
+    "name": "Grove - WS2813 RGB LED Strip Waterproof - 30 LED/m - 1m",
+    "description": "Grove - WS2813 RGB LED Strip Waterproof is a Grove compatible LED strip. It can be lighted by Grove "
+  },
+  {
+    "name": "Grove - RGB LED Ring (16-WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (16-WS2813 Mini) is a cost-effective full color LED ring with 16 chainable and "
+  },
+  {
+    "name": "Grove - LED Strip Driver -  LED Control and Compatible with Arduino and MEGA",
+    "description": "\r\n\r\nGrove - LED Strip Driver with 4-pin Grove interface provides easy connectivity to your standard "
+  },
+  {
+    "name": "Grove - OLED Display 1.12 (SH1107) V3.0 - SPI/IIC -3.3V/5V",
+    "description": "The Grove - OLED Display 1.12 V3.0 (SH1107) is a monochrome display with 128*128 resolution. It has "
+  },
+  {
+    "name": "Grove - RGB LED Ring (24-WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (24-WS2813 Mini) is a cost-effective full color LED ring with 24 chainable and "
+  },
+  {
+    "name": "Grove - Optocoupler Relay (M281)",
+    "description": "\r\n\r\nThis module is a bi-directional SPSD(single-pole, single-throw), normally open solid state relay"
+  },
+  {
+    "name": "Grove - 2-Coil Latching Relay",
+    "description": "\r\n\r\nThis module is based on 2-Coil Latching Relay. Contrast to the ordinary relay, this latching rel"
+  },
+  {
+    "name": "Grove - I2C Mini Motor Driver",
+    "description": "The Grove – Mini I2C motor driver is a very tiny motor driver with I2C interface, and it includes tw"
+  },
+  {
+    "name": "Grove - LED Matrix Driver (HT16K33)",
+    "description": "LED Matrix is low cost and usually used to display simple numbers and images. The Grove - LED Matrix"
+  },
+  {
+    "name": "Grove - 16x2 LCD (White on Blue)",
+    "description": "Grove - 16 x 2 LCD is a perfect I2C LCD display for Arduino and Raspberry Pi with high contrast and "
+  },
+  {
+    "name": "Grove - Passive Buzzer",
+    "description": "Grove Passive Buzzer is a low cost tunable passive buzzer."
+  },
+  {
+    "name": "Grove – Chainable RGB LED V2.0 - P9813:1024 cascade point light and  full-color LED",
+    "description": "\r\n\r\nGrove - Chainable RGB LED is based on a P9813 chip which is a full-color LED driver. It provides"
+  },
+  {
+    "name": "Grove - RGB LED Stick (20-WS2813 Mini)",
+    "description": "Grove - RGB LED Stick (20-WS2813 Mini)&nbsp;is a cost-effective full color LED stick with 20 chainab"
+  },
+  {
+    "name": "Grove - RGB LED Ring (20 - WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (20 - WS2813 Mini)  is a cost-effective full color LED ring with 20 chainable a"
+  },
+  {
+    "name": "Grove - SPDT Relay(30A) - High Current and Normally closed",
+    "description": "The Single Pole Double Throw SPDT relay is quite useful in certain applications because it has one c"
+  },
+  {
+    "name": "Grove - 8-Channel Solid State Relay",
+    "description": "\r\n\r\nThe Grove - 8-Channel Solid State Relay is based on the high-quality G3MC202P module, which allo"
+  },
+  {
+    "name": "Grove - 16 x 2 LCD (Black on Yellow)",
+    "description": "Grove - 16 x 2 LCD is a perfect I2C LCD display for Arduino and Raspberry Pi with high contrast and "
+  },
+  {
+    "name": "Grove - Encoder",
+    "description": "Incremental encoder\r\nGrove Interface.\r\n360 degree rotary"
+  },
+  {
+    "name": "Grove - Chainable RGB LED",
+    "description": "Chainable RGB LED Twig is based on P9813 chip which is a full-color light source LED driver chip,can"
+  },
+  {
+    "name": "Grove - Thumb Joystick",
+    "description": "\r\n\r\nGrove - Thumb Joystick is a Grove compatible module which is very similar to the 'analog' joysti"
+  },
+  {
+    "name": "Grove - RGB LED Stick (15-WS2813 Mini)",
+    "description": "Grove - RGB LED Stick (15-WS2813 Mini) is a cost-effective full color LED stick with 15 chainable an"
+  },
+  {
+    "name": "Grove - Variable Color LED V1.1",
+    "description": "\r\n\r\nThe Grove - Variable Color LED is an RGB LED that can be controlled by both digital and PWM sign"
+  },
+  {
+    "name": "Grove - 3-Axis Digital Accelerometer ±200g (ADXL372)",
+    "description": "The Grove - 3-Axis Digital Accelerometer ±200g (ADXL372) is a ultra-low power digital output MEMS Ac"
+  },
+  {
+    "name": "Grove - Circular LED with 24 LEDs:Lamp circle",
+    "description": "\r\n\r\nThe Grove-circular LED is a circular shaped lamp circle with 24 LEDs and about 5.5 mA drive curr"
+  },
+  {
+    "name": "Grove - 4-Digit Display,Nixie Tube",
+    "description": "Grove - 4-Digit Display module is a 12-pin module. For projects that require alpha-numeric display, "
+  },
+  {
+    "name": "Grove - 16 x 2 LCD (Black on Red)",
+    "description": "Grove - 16 x 2 LCD (Black on Red),16x2 LCD"
+  },
+  {
+    "name": "Grove - Mini Fan",
+    "description": "Grove connector\r\nSoft fan-leafed\r\nArduino compatible\r\nUser-friendly"
+  },
+  {
+    "name": "Grove - Green LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - OLED Display 1.12\"",
+    "description": "96×96 pixel dot matrix \r\nSupports Continuous Horizontal Scrolling\r\n16 color grayscale\r\n3.3V and 5V d"
+  },
+  {
+    "name": "Grove - Mini Fan v1.1",
+    "description": "Kid-friendly cartoon style mini fan Built-in programmable microcontroller that uses Arduino IDE Harm"
+  },
+  {
+    "name": "Grove -1.22 Inch IPS Display - 240x240 resolution, IPS(SCK and SDA), full-view angle, 65 colors show up, -20 to 70 degrees",
+    "description": "The Grove-1.22 Inch IPS Display is a compact and easy-to-use display that offers colorful, clear, an"
+  },
+  {
+    "name": "Grove - Haptic Motor",
+    "description": "More vibration effects\r\nFacilitate the process of prototyping\r\nEasy-to-use library with 123 kinds of"
+  },
+  {
+    "name": "Grove - Electromagnet",
+    "description": "An electromagnet is a type of magnet in which the magnetic field is produced by electric current"
+  },
+  {
+    "name": "Grove - Offline Voice Recognition Module",
+    "description": "\r\nThis is a low-power pure-offline voice recognition module with less than 100ms identification time"
+  },
+  {
+    "name": "Grove - LED Bar",
+    "description": "Please consider Grove LED Bar v2"
+  },
+  {
+    "name": "Grove - White LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - Dry-Reed Relay",
+    "description": "The Grove-Dry-Reed Relay is a relay module which works through magnetizing the vibration reed via th"
+  },
+  {
+    "name": "Grove - Purple LED (3mm)",
+    "description": "A standard LED module in Grove form factor in purple color. Support adjustable LED orientation and t"
+  },
+  {
+    "name": "Grove - Ultimate RGB LED Ring",
+    "description": "Grove - Ultimate RGB LED Ring is a cost-effective full color LED ring with 42 chainable and programm"
+  },
+  {
+    "name": "Grove - LED String Light",
+    "description": "5M \r\n50 RGB LEDs \r\nJST 2.0 Interface \r\nGrove Interface \r\nColorful "
+  },
+  {
+    "name": "Grove - Blue LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - 0.54' Red Quad Alphanumeric Display,Nixie Tube",
+    "description": "This module is a 4 digit alphanumeric display with high brightness and red backlight, each digit is "
+  },
+  {
+    "name": "Grove - 0.54\" Red Dual Alphanumeric Display,Nixie Tube",
+    "description": "This module is a 2 digit alphanumeric display with high brightness and red backlight, each digit is "
+  },
+  {
+    "name": "Grove - Serial LCD",
+    "description": "this product is replaced by Grove - LCD RGB Backlight Serial LCD Driver twig is an UART based LCD160"
+  },
+  {
+    "name": "Grove - Recorder v3.0",
+    "description": "This is the latest version of Grove-recorder, and also the best version"
+  },
+  {
+    "name": "Grove - Multi Color Flash LED (5mm)",
+    "description": "\r\n\r\nGrove - Multi Color Flash LED is a general purpose LED module in Grove form factor, available in"
+  },
+  {
+    "name": "Feetech ST3215-C047 12V 30Kg Servo",
+    "description": "STS3215 C047 is a 12V 30Kg. cm serial bus smart servo, with plastic case, core motor, 1:345 metal ge"
+  },
+  {
+    "name": "Damiao 4310 Actuator Motor, CAN, OpenArm, ROS2, Python, C++",
+    "description": "The Damiao 43-series CAN bus joint motors have been widely adopted in numerous open-source robotic a"
+  },
+  {
+    "name": "Damiao 4340P Actuator Motor, CAN, OpenArm, ROS2, Python, C++",
+    "description": "The Damiao 43-series CAN bus joint motors have been widely adopted in numerous open-source robotic a"
+  },
+  {
+    "name": "Feetech SCS0009 Ultra-Compact Servo 6V 2.3kg for Amazing Hand and HopeJR",
+    "description": "SCS0009 is 6V 2.3kg serial bus ultra-compact smart servo, with plastic case, core motor, 1:416 metal"
+  },
+  {
+    "name": "RobStride EduLite 05 QDD 6N.m integrated actuator module",
+    "description": "RobStride EduLite 05 is a highly-integrated QDD actuator module that includes a motor, driver circui"
+  },
+  {
+    "name": "Feetech ST3215 C046 Servo 7.4V 1:147 Gear Ratio",
+    "description": "STS3215 C046 is a 7.4V serial bus smart servo, with plastic case, core motor, 1:147 metal gearbox an"
+  },
+  {
+    "name": "Feetech ST3215 C001 Servo 7.4V 1:345 Gear Ratio",
+    "description": "STS3215 C001 is 7.4V 19kg serial bus smart servo, with plastic case, core motor, 1:345 metal gearbox"
+  },
+  {
+    "name": "RobStride 05 QDD 5.5N.m integrated actuator module",
+    "description": "RobStride 05 is a highly-integrated QDD actuator module that includes a motor, driver circuitry, pla"
+  },
+  {
+    "name": "RobStride 06 QDD 36 N.m integrated actuator module",
+    "description": "RobStride 06 is a highly-integrated QDD actuator module that includes a motor, driver circuitry, pla"
+  },
+  {
+    "name": "Feetech ST3215 C044 Servo 7.4V 1:191 Gear Ratio",
+    "description": "STS3215 C044 is a 7.4V serial bus smart servo, with plastic case, core motor, 1:191 metal gearbox an"
+  },
+  {
+    "name": "Hightorque HTDW-5047-36-NE-JC 1:36 Gear Motor CAN",
+    "description": "Hightorque HTDW-5047-36-NE-JC motor is a highly-integrated planetary actuator module that includes f"
+  },
+  {
+    "name": "Hightorque HTDW-6056-36-NE-JC 1:36 Gear Motor CAN",
+    "description": "Hightorque HTDW-6056-36-NE-JC motor is a highly-integrated planetary actuator module that includes f"
+  },
+  {
+    "name": "Fashionstar RX18-U100H-M Servo",
+    "description": "Fashionstar RX18-U100H-M Servo is a 12V 100kg dual-shaft serial bus servo with bracket that integrat"
+  },
+  {
+    "name": "Fashionstar RP6-U15H-M Servo",
+    "description": "Fashionstar RP6-U15H-M Servo is a 12V 15kg dual-shaft serial bus servo that integrates brushless mot"
+  },
+  {
+    "name": "Hightorque HTDW-6056-36-NE 1:36 Gear Motor CAN",
+    "description": "Hightorque HTDW-6056-36 motor is a highly-integrated planetary actuator module that includes framele"
+  },
+  {
+    "name": "Fashionstar HX8-U50H-M servo",
+    "description": "Fashionstar HX8-U50H-M Servo is a 12V 50kg single-shaft serial bus servo with bracket that integrate"
+  },
+  {
+    "name": "Fashionstar TTL-USB Converter UC-01",
+    "description": "It's a versatile communication hub, designed for seamless integration of CAN and TTL devices. The UC"
+  },
+  {
+    "name": "Fashionstar HP6-U15H-M Servo",
+    "description": "Fashionstar HP6-U15H-M Servo is a 12V 15kg single-shaft serial bus servo with bracket that integrate"
+  },
+  {
+    "name": "Fashionstar HX8-U51H-M Servo",
+    "description": "Fashionstar HX8-U51H-M Servo is a 12V 50kg D-shaft serial bus servo with bracket that integrates bru"
+  },
+  {
+    "name": "Grove - I2C Motor Driver (L298P)",
+    "description": "Grove - I2C Motor Driver(L298P) is a common-use motor driver for stepping motor and servo motor. It "
+  },
+  {
+    "name": "Grove - Servo",
+    "description": "The Servo motor is a rotary actuator that allows for precise control of angular position which makes"
+  },
+  {
+    "name": "Grove - Vibration Motor",
+    "description": "Grove - Vibration Motor consists of one coin type motor which is a permanent magnet coreless DC moto"
+  },
+  {
+    "name": "Grove - I2C Motor Driver (TB6612FNG)",
+    "description": "Grove - I2C Motor Driver (TB6612FNG), DC motor, stepper motor"
+  },
+  {
+    "name": "Grove - I2C Motor Driver with L298",
+    "description": "\r\n\r\nGrove - I2C Motor Driver is based on L298. It can directly control Stepper Motor or DC Motor.\r\n\r"
+  },
+  {
+    "name": "Grove - I2C Mini Motor Driver",
+    "description": "The Grove – Mini I2C motor driver is a very tiny motor driver with I2C interface, and it includes tw"
+  },
+  {
+    "name": "Grove - Thumb Joystick",
+    "description": "\r\n\r\nGrove - Thumb Joystick is a Grove compatible module which is very similar to the 'analog' joysti"
+  },
+  {
+    "name": "Grove - Mini Fan",
+    "description": "Grove connector\r\nSoft fan-leafed\r\nArduino compatible\r\nUser-friendly"
+  },
+  {
+    "name": "Grove - Mini Fan v1.1",
+    "description": "Kid-friendly cartoon style mini fan Built-in programmable microcontroller that uses Arduino IDE Harm"
+  },
+  {
+    "name": "Grove - Haptic Motor",
+    "description": "More vibration effects\r\nFacilitate the process of prototyping\r\nEasy-to-use library with 123 kinds of"
+  },
+  {
+    "name": "Grove - Electromagnet",
+    "description": "An electromagnet is a type of magnet in which the magnetic field is produced by electric current"
+  },
+  {
+    "name": "Grove - OLED Display 0.96\" (SSD1315)  I2C Interface Compatible with Arduino",
+    "description": "The Grove - OLED Display 0.96\" (SSD1315) is a monochrome(white) 128×64 pixels passive display matrix"
+  },
+  {
+    "name": "Grove - OLED Yellow&Blue Display 0.96 (SSD1315) - SPI/IIC -3.3V/5V",
+    "description": "Grove - OLED Yellow&amp;Blue Display 0.96 is built 128*64 resolution with a blue and yellow bi-color"
+  },
+  {
+    "name": "Grove - OLED Display 0.66\" (SSD1306)- IIC - 3.3V/5V",
+    "description": "\r\nThe Grove - OLED Display 0.66\" (SSD1306) is a monochrome display with 64×48 resolution. It contain"
+  },
+  {
+    "name": "Grove - OLED Display 0.96\"",
+    "description": "128×64 dot resolution High brightness,self-emission and high contrast ratio Big screen on a compact "
+  },
+  {
+    "name": "Grove - 16X2 LCD RGB Backlight  - Full Color Display",
+    "description": "Grove - 16X2 LCD RGB Backlight is a full-color backlight 16x2 LCD display for Arduino. High contrast"
+  },
+  {
+    "name": "Grove - OLED Display 1.12'' V2",
+    "description": "The Grove - OLED Display 1"
+  },
+  {
+    "name": "Grove - Triple Color E-Ink Display 2.13''",
+    "description": "The Grove - Triple Color E-Ink Display 2.13'' is a screen that can still be displayed after power of"
+  },
+  {
+    "name": "Grove - OLED Display 1.12 (SH1107) V3.0 - SPI/IIC -3.3V/5V",
+    "description": "The Grove - OLED Display 1.12 V3.0 (SH1107) is a monochrome display with 128*128 resolution. It has "
+  },
+  {
+    "name": "Grove - 16x2 LCD (White on Blue)",
+    "description": "Grove - 16 x 2 LCD is a perfect I2C LCD display for Arduino and Raspberry Pi with high contrast and "
+  },
+  {
+    "name": "Grove - 16 x 2 LCD (Black on Yellow)",
+    "description": "Grove - 16 x 2 LCD is a perfect I2C LCD display for Arduino and Raspberry Pi with high contrast and "
+  },
+  {
+    "name": "Grove - 3-Axis Digital Accelerometer ±200g (ADXL372)",
+    "description": "The Grove - 3-Axis Digital Accelerometer ±200g (ADXL372) is a ultra-low power digital output MEMS Ac"
+  },
+  {
+    "name": "Grove - 4-Digit Display,Nixie Tube",
+    "description": "Grove - 4-Digit Display module is a 12-pin module. For projects that require alpha-numeric display, "
+  },
+  {
+    "name": "Grove - 16 x 2 LCD (Black on Red)",
+    "description": "Grove - 16 x 2 LCD (Black on Red),16x2 LCD"
+  },
+  {
+    "name": "Grove - OLED Display 1.12\"",
+    "description": "96×96 pixel dot matrix \r\nSupports Continuous Horizontal Scrolling\r\n16 color grayscale\r\n3.3V and 5V d"
+  },
+  {
+    "name": "Grove -1.22 Inch IPS Display - 240x240 resolution, IPS(SCK and SDA), full-view angle, 65 colors show up, -20 to 70 degrees",
+    "description": "The Grove-1.22 Inch IPS Display is a compact and easy-to-use display that offers colorful, clear, an"
+  },
+  {
+    "name": "Grove - 0.54' Red Quad Alphanumeric Display,Nixie Tube",
+    "description": "This module is a 4 digit alphanumeric display with high brightness and red backlight, each digit is "
+  },
+  {
+    "name": "Grove - 0.54\" Red Dual Alphanumeric Display,Nixie Tube",
+    "description": "This module is a 2 digit alphanumeric display with high brightness and red backlight, each digit is "
+  },
+  {
+    "name": "Grove - Serial LCD",
+    "description": "this product is replaced by Grove - LCD RGB Backlight Serial LCD Driver twig is an UART based LCD160"
+  },
+  {
+    "name": "Grove - RGB LED Stick (10 - WS2813 Mini 3535) : Full-Color RGB LED Lighting",
+    "description": "\r\n\r\nThe Grove RGB LED Stick (10 - WS2813 Mini)&nbsp;is a full color LED which integrated 10 full-col"
+  },
+  {
+    "name": "Grove - LED Pack on-board potentiometer with red, green, blue, and white LEDs",
+    "description": "\r\n\r\nThis Grove - LED Pack includes 4 kinds of different colors of LED which are red, green, blue, an"
+  },
+  {
+    "name": "Grove - 8×8 RGB LED Matrix w/Driver",
+    "description": "\r\nGrove - RGB LED Matrix w/Driver is based on 64 KTR-3528RGB LEDs to form an 8x8 RGB LED Matrix, whi"
+  },
+  {
+    "name": "Grove - WS2813 RGB LED Strip Waterproof - 60 LED/m - 1m",
+    "description": "Grove - WS2813 RGB LED Strip Waterproof is an LED strip based on WS2813 with up to 60 LED lights and"
+  },
+  {
+    "name": "Grove LED Bar v2.0 - MY9221with 10 segment LED",
+    "description": "\r\n\r\nGrove – LED Bar is comprised of a 10 segment LED gauge bar and an MY9221 LED controlling chip. I"
+  },
+  {
+    "name": "Grove - Red LED Matrix w/Driver",
+    "description": "\r\n\r\nGrove - Red LED Matrix w/Driver is based on HT16K33. It is the combination of the 20mm 8*8 squar"
+  },
+  {
+    "name": "Grove - RGB LED (WS2813 Mini)-Breakpoint Resume with programming",
+    "description": "Grove - RGB LED (WS2813 Mini) is a full color LED with programmable function."
+  },
+  {
+    "name": "Grove - WS2813 RGB LED Strip Waterproof - 30 LED/m - 1m",
+    "description": "Grove - WS2813 RGB LED Strip Waterproof is a Grove compatible LED strip. It can be lighted by Grove "
+  },
+  {
+    "name": "Grove - RGB LED Ring (16-WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (16-WS2813 Mini) is a cost-effective full color LED ring with 16 chainable and "
+  },
+  {
+    "name": "Grove - LED Strip Driver -  LED Control and Compatible with Arduino and MEGA",
+    "description": "\r\n\r\nGrove - LED Strip Driver with 4-pin Grove interface provides easy connectivity to your standard "
+  },
+  {
+    "name": "Grove - RGB LED Ring (24-WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (24-WS2813 Mini) is a cost-effective full color LED ring with 24 chainable and "
+  },
+  {
+    "name": "Grove - LED Matrix Driver (HT16K33)",
+    "description": "LED Matrix is low cost and usually used to display simple numbers and images. The Grove - LED Matrix"
+  },
+  {
+    "name": "Grove – Chainable RGB LED V2.0 - P9813:1024 cascade point light and  full-color LED",
+    "description": "\r\n\r\nGrove - Chainable RGB LED is based on a P9813 chip which is a full-color LED driver. It provides"
+  },
+  {
+    "name": "Grove - RGB LED Stick (20-WS2813 Mini)",
+    "description": "Grove - RGB LED Stick (20-WS2813 Mini)&nbsp;is a cost-effective full color LED stick with 20 chainab"
+  },
+  {
+    "name": "Grove - RGB LED Ring (20 - WS2813 Mini)",
+    "description": "Grove - RGB LED Ring (20 - WS2813 Mini)  is a cost-effective full color LED ring with 20 chainable a"
+  },
+  {
+    "name": "Grove - Chainable RGB LED",
+    "description": "Chainable RGB LED Twig is based on P9813 chip which is a full-color light source LED driver chip,can"
+  },
+  {
+    "name": "Grove - RGB LED Stick (15-WS2813 Mini)",
+    "description": "Grove - RGB LED Stick (15-WS2813 Mini) is a cost-effective full color LED stick with 15 chainable an"
+  },
+  {
+    "name": "Grove - Variable Color LED V1.1",
+    "description": "\r\n\r\nThe Grove - Variable Color LED is an RGB LED that can be controlled by both digital and PWM sign"
+  },
+  {
+    "name": "Grove - Circular LED with 24 LEDs:Lamp circle",
+    "description": "\r\n\r\nThe Grove-circular LED is a circular shaped lamp circle with 24 LEDs and about 5.5 mA drive curr"
+  },
+  {
+    "name": "Grove - Green LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - LED Bar",
+    "description": "Please consider Grove LED Bar v2"
+  },
+  {
+    "name": "Grove - White LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - Purple LED (3mm)",
+    "description": "A standard LED module in Grove form factor in purple color. Support adjustable LED orientation and t"
+  },
+  {
+    "name": "Grove - Ultimate RGB LED Ring",
+    "description": "Grove - Ultimate RGB LED Ring is a cost-effective full color LED ring with 42 chainable and programm"
+  },
+  {
+    "name": "Grove - LED String Light",
+    "description": "5M \r\n50 RGB LEDs \r\nJST 2.0 Interface \r\nGrove Interface \r\nColorful "
+  },
+  {
+    "name": "Grove - Blue LED",
+    "description": "A general-purpose LED module in Grove form factor, available in different colors. Support adjustable"
+  },
+  {
+    "name": "Grove - Multi Color Flash LED (5mm)",
+    "description": "\r\n\r\nGrove - Multi Color Flash LED is a general purpose LED module in Grove form factor, available in"
+  },
+  {
+    "name": "Grove - Relay High current 5V/10A small 1-way mechanical relay switch Arduino ",
+    "description": "The Grove-Relay module is a digital normally-open switch that can handle the current up to 5A at 250"
+  },
+  {
+    "name": "Grove - MOSFET for Arduino",
+    "description": "Grove – MOSFET enables you to control higher voltage project, say 15VDC, with low voltage, say 5V, o"
+  },
+  {
+    "name": "Grove - 4-Channel SPDT Relay",
+    "description": "The Grove - 4-Channel SPDT Relay has four single pole - double throw (SPDT) switches. It only requir"
+  },
+  {
+    "name": "Grove - Optocoupler Relay (M281)",
+    "description": "\r\n\r\nThis module is a bi-directional SPSD(single-pole, single-throw), normally open solid state relay"
+  },
+  {
+    "name": "Grove - 2-Coil Latching Relay",
+    "description": "\r\n\r\nThis module is based on 2-Coil Latching Relay. Contrast to the ordinary relay, this latching rel"
+  },
+  {
+    "name": "Grove - SPDT Relay(30A) - High Current and Normally closed",
+    "description": "The Single Pole Double Throw SPDT relay is quite useful in certain applications because it has one c"
+  },
+  {
+    "name": "Grove - 8-Channel Solid State Relay",
+    "description": "\r\n\r\nThe Grove - 8-Channel Solid State Relay is based on the high-quality G3MC202P module, which allo"
+  },
+  {
+    "name": "Grove - Encoder",
+    "description": "Incremental encoder\r\nGrove Interface.\r\n360 degree rotary"
+  },
+  {
+    "name": "Grove - Dry-Reed Relay",
+    "description": "The Grove-Dry-Reed Relay is a relay module which works through magnetizing the vibration reed via th"
+  },
+  {
+    "name": "RobStride 04 QDD 120N.m integrated actuator module",
+    "description": "\r\nRobStride 04 is a flagship high-performance QDD actuator module that features a four-in-one design"
+  },
+  {
+    "name": "Hightorque HTDW-4438-30 1:30 Gear Motor CAN",
+    "description": "Hightorque HTDW-4438-30 motor is a highly-integrated planetary actuator module that includes framele"
+  },
+  {
+    "name": "Myactuator X4-36 1:36 Motor CAN",
+    "description": "Myactuator X4-36 motor is a highly-integrated planetary actuator module that includes frameless torq"
+  },
+  {
+    "name": "Hightorque HTDW-5047-36 1:36 Gear Motor CAN",
+    "description": "Hightorque HTDW-5047-36 motor is a highly-integrated planetary actuator module that includes framele"
+  },
+  {
+    "name": "RobStride 03 QDD 60N.m integrated actuator module",
+    "description": "\r\nRobStride 03 is a high-performance QDD actuator module that features a four-in-one design integrat"
+  },
+  {
+    "name": "DM-Gripper Damiao DM4310 3D printed parts",
+    "description": "DM-Gripper is an open-soure Damiao motor 3D printed parallel gripper kit. It is based on widely popu"
+  },
+  {
+    "name": "DM-Gripper: Damiao DM4310 Parallel Gripper Kit (without 3D printed parts)",
+    "description": "For 3D printed parts, you can either buy 100007512 DM-Gripper 3D printed parts or find 3D printed pa"
+  },
+  {
+    "name": "Myactuator X4-10 1:12.6 Motor CAN",
+    "description": "Myactuator X4-10 motor is a highly-integrated planetary actuator module that includes frameless torq"
+  },
+  {
+    "name": "High Torque 12V DC Motor with Encoder",
+    "description": "Our 12V DC motor with hall encoder offers high torque and precision, ideal for robotics and automati"
+  },
+  {
+    "name": "Miga Analog Driver V5: Versatile MOSFET Switch for Actuators",
+    "description": "The Miga Analog Driver V5 safely powers shape memory alloy actuators for robotics, automotive, and c"
+  },
+  {
+    "name": "USB-RLY16L: 16 Channel Low Power USB Relay Module",
+    "description": "USB-RLY16L is a 16 channel USB relay module with 16Amp SPCO contacts and LED indicators for efficien"
+  },
+  {
+    "name": "Sabertooth 2x12 Motor Driver: Efficient Dual Control",
+    "description": "Sabertooth 2x12 offers efficient dual DC motor control with regenerative drive, multiple operating m"
+  },
+  {
+    "name": "Sabertooth 2x32 Motor Driver: Power and Flexibility",
+    "description": "Sabertooth 2x32 motor driver delivers 32A continuous and 64A peak per channel. Versatile inputs, reg"
+  },
+  {
+    "name": "Micro Metal Gearmotor 50:1 with D-shaped Shaft",
+    "description": "Micro Metal Gearmotor 50:1 offers high-speed and torque, perfect for Pololu wheels, with solid mount"
+  },
+  {
+    "name": "Ethernet Controlled 8 Channel Relay - Up to 16A",
+    "description": "The ETH008-B offers Ethernet control, TCP/IP interface, eight 16A relays, and LED indicators, ideal "
+  },
+  {
+    "name": "Convenient Mounting Bracket for Micro Metal Gearmotors",
+    "description": "Compact bracket for micro metal gearmotors, easy installation, compatible with 49x12 Wheels."
+  },
+  {
+    "name": "High Torque DSS-M15 Metal Gear Servo 15Kg",
+    "description": "DSS-M15 servo offers 180° angle, 15Kg torque power, ensuring stability and durability for demanding "
+  },
+  {
+    "name": "High-Efficiency 6V DC Motor with Encoder & Gearbox",
+    "description": "Metal geared 6V DC motor with encoder, 341.2 counts/revolution, ideal for mobile robot applications."
+  },
+  {
+    "name": "6V Metal Geared DC Motor with Encoder: Ideal for Robotics",
+    "description": "A 6V metal geared DC motor with encoder, providing high precision and ideal for mobile robotics proj"
+  },
+  {
+    "name": "Gravity IO Expansion Shield with Motor Driver for Arduino",
+    "description": "Gravity IO Expansion Shield combines IO Expansion and DC Motor Driver Shields for Arduino, featuring"
+  },
+  {
+    "name": "12V Solenoid Valve DN15 for Precise Water Control",
+    "description": "Automated 12V solenoid valve DN15 with high torque and low noise for precise water control in smart "
+  },
+  {
+    "name": "12V Solenoid Valve DN20: Control Liquid Flow Efficiently",
+    "description": "Automate liquid flow control using the 12V Solenoid Valve DN20, ideal for smart home and agriculture"
+  },
+  {
+    "name": "Dual Channel DC Motor Driver: Compact & Powerful",
+    "description": "Compact dual channel DC motor driver with 12A output, 290W max power, and built-in protection for ef"
+  },
+  {
+    "name": "12V Electromagnetic Lock - Durable & Versatile Use",
+    "description": "12V electromagnetic lock with nickel plating, copper bolt, and versatile use for smart homes, cabine"
+  },
+  {
+    "name": "Versatile Immersible Water Pump for Aquatic Applications",
+    "description": "Ideal for watering, fountains, and aquariums, the pump operates quietly and securely with a suction "
+  },
+  {
+    "name": "PPM Signal Motor Driver for Aero Modeling",
+    "description": "PPM signal motor driver for aeromodelling, supports 7-12V input and provides 2-way motor drive with "
+  },
+  {
+    "name": "6V DC Gearmotor with Integrated Lead Screw",
+    "description": "Compact 6V DC gearmotor with integrated lead screw offers precise linear actuation at 98RPM, suitabl"
+  },
+  {
+    "name": "High-Torque DC Gear Motor with Lead Screw - 6V 98RPM",
+    "description": "Featuring a 6V voltage and 98RPM speed, this DC gear motor with lead screw offers precise linear mot"
+  },
+  {
+    "name": "Compact Mini DC Gear Motor with Metal Gears",
+    "description": "Mini DC motor with 1:35 reduction box, metal gears, low noise, and compact design for tight spaces."
+  },
+  {
+    "name": "Mini DC Motor with 1:35 Reduction Box - Compact & Durable",
+    "description": "Mini DC motor with 1:35 reduction box; compact, durable, low noise, 570rpm."
+  },
+  {
+    "name": "360 Degree Micro Servo for Arduino - Versatile Motor",
+    "description": "The 360-degree micro servo offers continuous rotation for Arduino, ideal for micro robots with 0.7kg"
+  },
+  {
+    "name": "130 DC Motor with Built-in Transistor for DIY Projects",
+    "description": "130 DC motor with integrated transistor, no driver needed, uses Gravity 3-pin for easy wiring in DIY"
+  },
+  {
+    "name": "Micro Metal Gear Motor with Encoder: High Resolution",
+    "description": "Micro metal gear motor with encoder offers real-time speed measurement and high resolution, compatib"
+  },
+  {
+    "name": "Micro Metal Gear Motor with Hall Encoder",
+    "description": "A micro metal gear motor with built-in Hall encoder, offering real-time speed measurement, 150:1 gea"
+  },
+  {
+    "name": "Micro Metal Gear Motor with Built-in Encoder",
+    "description": "Micro metal gear motor with encoder offers precision speed feedback, ideal for robotics. Compatible "
+  },
+  {
+    "name": "Micro Metal Gear Motor with Encoder for Precision Control",
+    "description": "Micro metal gear motor with built-in encoder offers real-time speed measurement and high precision, "
+  },
+  {
+    "name": "Micro Metal Gear Motor with Hall Encoder for Precision Control",
+    "description": "Our micro metal gear motor features a Hall encoder for precise speed measurement, ideal for robotics"
+  },
+  {
+    "name": "Gear Motor with Encoder: Ideal for Mobile Robot Projects",
+    "description": "This 12V DC gear motor with encoder is perfect for mobile robots, offering precise control with Ardu"
+  },
+  {
+    "name": "Powerful 45:1 Metal DC Geared Motor with 4.5kg.cm Torque",
+    "description": "Metal DC geared motor with 45:1 ratio offers 4.5kg.cm torque, operates from 2-7.5V, and runs at 133 "
+  },
+  {
+    "name": "DC Gear Motor with Lead Screw: 6V 150RPM",
+    "description": "Explore the 6V DC gear motor featuring a lead screw, 150RPM speed, and reduction ratio of 100:1, ide"
+  },
+  {
+    "name": "Turbo Worm Gear Motor: High Torque and Self-Locking",
+    "description": "Turbo worm gear motor with self-locking output, 160RPM, 2.8kg/cm torque, and durable metal gearbox f"
+  },
+  {
+    "name": "Turbo Metal Gear Worm Motor for High Torque Output",
+    "description": "High torque turbo metal gear worm motor with self-locking shaft, PWM speed control, durable for prec"
+  },
+  {
+    "name": "High Torque Turbo Worm Gear Motor - 12V 160RPM",
+    "description": "Turbo worm gear motor with metal gearbox provides high torque and self-locking output at 12V, 160RPM"
+  },
+  {
+    "name": "Turbo Metal Gear Worm Motor: High Torque & Self-Locking",
+    "description": "Turbo metal gear worm motor offers high torque, self-locking feature, and supports direction and PWM"
+  },
+  {
+    "name": "DC Micro Metal Gear Motor w/Driver - Easy Control",
+    "description": "Control the DC Micro Metal Gear Motor easily with Gravity interface for Arduino projects, combining "
+  },
+  {
+    "name": "Compact DC Motor Driver with LM2575 for 36V 15A Motors",
+    "description": "Ultra-small DC motor driver with LM2575 controls 36V@15A motors, UVLO safety, and 5V Arduino output."
+  },
+  {
+    "name": "478:1 Metal DC Geared Motor - High Torque, Compact Design",
+    "description": "Compact 478:1 metal DC motor with high torque up to 10 kg.cm, ideal for robotics due to its stabilit"
+  },
+  {
+    "name": "Metal DC Geared Motor - Compact and Powerful",
+    "description": "Compact metal DC geared motor offers 362:1 reduction, 7.5 kg.cm torque, ideal for stable application"
+  },
+  {
+    "name": "Metal DC Geared Motor: Compact, High Torque Solution",
+    "description": "A metal DC geared motor with a 99:1 reducer, providing high torque in a small, durable package. Idea"
+  },
+  {
+    "name": "Compact Metal DC Geared Motor with High Torque",
+    "description": "This metal DC geared motor features a 34:1 reduction ratio, delivering maximum torque of 1 kg.cm wit"
+  },
+  {
+    "name": "20:1 Metal DC Geared Motor - High Torque & Durability",
+    "description": "This compact metal DC geared motor offers high torque and durability with a 20:1 reduction ratio, ra"
+  },
+  {
+    "name": "Rubber Wheel & Motor Kit for Home Care Robots",
+    "description": "The kit includes a 12V DC motor and rubber wheels, ideal for home care robots. Offers low noise, hig"
+  },
+  {
+    "name": "Ethernet Relay Controller RLY-8-POE-USB for IoT",
+    "description": "RLY-8-POE-USB: An Ethernet relay controller for IoT, enabling easy remote power management with POE "
+  },
+  {
+    "name": "Smart Arduino Digital Servo Shield for AX-12",
+    "description": "Easily drive AX-12 servos with Arduino using the Smart Digital Servo Shield, perfect for robotic pro"
+  },
+  {
+    "name": "DF15RSMG 360-degree Servo Motor for Robotics",
+    "description": "DF15RSMG servo motor provides large torque and stability, ideal for robot joints and mobile robots, "
+  },
+  {
+    "name": "Herkulex DRS-0101 Smart Servo for Robotics",
+    "description": "Herkulex DRS-0101 is a modular smart servo ideal for robotics, offering integrated control, diagnost"
+  },
+  {
+    "name": "Herkulex DRS-0201: Advanced Modular Smart Servo",
+    "description": "Herkulex DRS-0201 smart servo offers 24kg.cm torque, advanced control algorithms, and easy assembly,"
+  },
+  {
+    "name": "Arduino Motor Shield: Dual DC Motor Driver",
+    "description": "The Arduino Motor Shield drives two DC motors using Arduino, with independent speed and direction co"
+  },
+  {
+    "name": "Micro Metal Gear Motor 30:1 with PH2.0 Connector",
+    "description": "Compact Micro Metal Gear Motor with 30:1 ratio, PH2.0 port, and anti-jamming circuit for robotics."
+  },
+  {
+    "name": "Micro Metal Gear Motor with Connector 50:1",
+    "description": "Compact gear motor with PH2.0 connector, anti-jamming capabilities, and 50:1 gear ratio, suitable fo"
+  },
+  {
+    "name": "Powerful DF15RMG Servo Motor for Robotics",
+    "description": "DF15RMG servo motor provides high torque and precision for robotics, with versatile shell options, p"
+  },
+  {
+    "name": "SyRen 10A DC Motor Driver for Efficient Robotics",
+    "description": "SyRen 10A DC Motor Driver offers regenerative drive, thermal protection, and versatile input modes f"
+  },
+  {
+    "name": "SyRen 25A DC Motor Driver for Versatile Robotics",
+    "description": "SyRen 25A motor driver powers medium robots. Offers regenerative braking, multiple control modes, an"
+  },
+  {
+    "name": "SyRen 50A DC Motor Driver: Versatile & Efficient",
+    "description": "SyRen 50A motor driver offers versatile control for DC motors, with regenerative capabilities and ro"
+  },
+  {
+    "name": "Micro Metal Gearmotor 30:1 for Mini Platforms",
+    "description": "Micro Metal Gearmotor 30:1 provides high torque for mini platforms, compatible with various chassis "
+  },
+  {
+    "name": "Magnetic Latching Relay: Energy Efficient Switching Solution",
+    "description": "Magnetic latching relays offer energy efficiency and noiseless operation, ideal for smart home appli"
+  },
+  {
+    "name": "Arduino Opta: Secure Micro PLC with IoT Capabilities",
+    "description": "Arduino Opta is a secure micro PLC designed for industrial IoT, offering support for Arduino sketche"
+  },
+  {
+    "name": "Arduino Opta RS485 Micro PLC for Industrial IoT",
+    "description": "Arduino Opta is a secure micro PLC for industrial IoT, supporting RS485 and PLC programming, ideal f"
+  },
+  {
+    "name": "Arduino Opta Lite: Secure Micro PLC for Industrial IoT",
+    "description": "Arduino Opta Lite is a secure micro PLC with STM32H747XI, perfect for industrial IoT and real-time c"
+  },
+  {
+    "name": "35kg Waterproof Digital Servo with Metal Gears",
+    "description": "The 35kg waterproof digital servo offers high torque, metal gears, and safety features, ideal for ro"
+  },
+  {
+    "name": "High-Torque Waterproof Coreless Digital Servo 35kg",
+    "description": "A 35kg waterproof coreless digital servo with metal gears, precise control, and enhanced durability "
+  },
+  {
+    "name": "High Torque Waterproof Servo with Magnetic Encoder",
+    "description": "A 25kg waterproof servo with a 12-bit magnetic encoder for precise 360-degree control, exceptional p"
+  },
+  {
+    "name": "Direct Drive Servo Motor V2.0: High Precision & Quiet",
+    "description": "Upgrade your robotics with the direct-drive servo motor V2.0, featuring wide voltage, IPX4 rating, a"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "description": "Compact 6mm coreless motors offer 45000rpm power at 3.7V, ideal for DIY drone enthusiasts seeking hi"
+  },
+  {
+    "name": "High Performance Coreless Micro Motor for DIY Projects",
+    "description": "Compact coreless motors with 60,000rpm speed, perfect for DIY remote control drones."
+  },
+  {
+    "name": "High-Performance 50,000rpm Coreless Micro Motor for DIY",
+    "description": "Compact coreless motor for DIY drones, offering high performance at 50,000rpm with 3.7V voltage. Per"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "description": "Compact coreless motors ideal for DIY drones, offering 50,000rpm speed at 3.7V for high performance "
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "description": "Coreless motors deliver 46000rpm at 3.7V. Perfect for DIY drone models with compact size and high po"
+  },
+  {
+    "name": "High-Performance Coreless Motor for DIY Drones",
+    "description": "Compact coreless motors provide 50,000rpm at 3.7V, ideal for DIY drone projects and remote control a"
+  },
+  {
+    "name": "Mini Electric Push Rod 6V - 30mm Stroke & 128N Thrust",
+    "description": "Compact electric push rod with 128N thrust and 30mm stroke. Perfect for DIY projects and access cont"
+  },
+  {
+    "name": "6V Electric Push Rod with 128N Thrust - Ultra Short Stroke",
+    "description": "Explore this 6V electric push rod with 128N thrust and 10mm stroke, ideal for DIY projects and acces"
+  },
+  {
+    "name": "Mini Electric Push Rod: 6V, 50mm Stroke, 128N Thrust",
+    "description": "Compact 6V electric push rod with 128N thrust and 50mm stroke for versatile applications like DIY pr"
+  },
+  {
+    "name": "6V Electric Push Rod: Compact Power Solution",
+    "description": "Compact 6V electric push rod with 128N thrust and 100mm stroke, ideal for DIY and access application"
+  },
+  {
+    "name": "Intelligent Servo Motor with 2.3kg.cm Torque and 180° Rotation",
+    "description": "This servo motor offers 2.3kg.cm torque, 180° rotation, and real-time feedback, perfect for robotics"
+  },
+  {
+    "name": "45KG IP67 Waterproof Coreless Servo Motor for Robotics",
+    "description": "This 45KG IP67 waterproof coreless servo is perfect for robotics, offering precision, durability, an"
+  },
+  {
+    "name": "Raspberry Pi PLC with Relay Output for Industrial Use",
+    "description": "Powerful Raspberry Pi PLC with relay output, high-speed processing, secure data, and versatile conne"
+  },
+  {
+    "name": "Raspberry Pi PLC with Optoisolated Output for Industrial Use",
+    "description": "Raspberry Pi PLC with optoisolated output is ideal for industrial use, offering flexibility, Linux O"
+  },
+  {
+    "name": "M-DUINO PLC: Arduino-Based Industrial Control",
+    "description": "M-DUINO PLC harnesses Arduino Mega2560 for flexible industrial control with 17 I/Os and remote progr"
+  },
+  {
+    "name": "M-DUINO PLC: Arduino-based Industrial Controller",
+    "description": "The M-DUINO PLC is an Arduino-based controller with 21 I/Os and versatile communication ports, perfe"
+  },
+  {
+    "name": "Spartan Arduino PLC 16RDA: Easy Industrial Control",
+    "description": "Spartan Arduino PLC 16RDA provides easy USB programming, 8 inputs, 6 relay outputs, and scalable I2C"
+  },
+  {
+    "name": "Spartan Arduino PLC 16DA: Optoisolated Output Ready",
+    "description": "An Arduino-based industrial PLC with optoisolated outputs, featuring 8 inputs and outputs for stream"
+  },
+  {
+    "name": "ESP32 Devkit Industrial Controller with Relay Output",
+    "description": "ESP32 devkit controller with relay output provides flexible industrial control solutions, supporting"
+  },
+  {
+    "name": "10 I/Os ESP32 PLC Module for Industrial Automation",
+    "description": "This 10 I/Os ESP32 PLC module provides cost-effective industrial control, supporting RS485, Ethernet"
+  },
+  {
+    "name": "Arduino Nano Industrial Relay Module: 10 I/Os",
+    "description": "The 10 I/Os relay module offers Arduino Nano-based industrial monitoring and control with RS485, Eth"
+  },
+  {
+    "name": "10 I/Os Industrial PLC Module with Arduino Nano",
+    "description": "10 I/Os PLC module based on Arduino Nano for industrial control, supports RS485, Ethernet, and optoi"
+  },
+  {
+    "name": "9g Servo for Maqueen: Reliable Metal Gear",
+    "description": "9g Servo for Maqueen offers metal gear, 180° rotation, and manual 360° rotation for smooth movement "
+  },
+  {
+    "name": "9g 300° Clutch Servo: Safe and Reliable Operation",
+    "description": "The 9g 300° Clutch Servo offers clutch function and electronic protection, preventing damage under c"
+  },
+  {
+    "name": "6Kg 180° Clutch Servo with Electronic Protection",
+    "description": "The 6Kg 180° clutch servo offers electronic protection to prevent damage, ideal for robotics and mod"
+  },
+  {
+    "name": "6Kg 300° Clutch Servo with Electronic Protection",
+    "description": "6Kg 300° clutch servo with electronic protection prevents damage in robotics and models, ensuring sm"
+  },
+  {
+    "name": "2Kg 300° Clutch Servo with Protection",
+    "description": "The 2Kg 300° clutch servo offers electronic protection, large torque, and smooth rotation for roboti"
+  },
+  {
+    "name": "Maqueen V5 N20 Motor Replacement Kit for Easy Repair",
+    "description": "Repair your Maqueen V5 easily with the N20 motor kit—includes all parts needed for a quick, solder-f"
+  },
+  {
+    "name": "Maqueen Plus V3 Motor Replacement Kit",
+    "description": "Effortlessly repair your Maqueen Plus V3 with the N20 motor kit, ensuring perfect compatibility and "
+  },
+  {
+    "name": "ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "description": "DFRobot's ST3215 Serial Bus Servo-12V 30kg 360° -- 2962"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967"
+  },
+  {
+    "name": "600kg Torque Industrial Servo: Precision & Durability",
+    "description": "Experience unmatched precision and reliability with the 600kg torque brushless servo, featuring IP65"
+  },
+  {
+    "name": "10mm Micro Stepper Motor: 18° per Step, No Driver Needed",
+    "description": "10mm micro stepper motor with 18° per step; ideal for Arduino and ESP32 projects such as smart home "
+  },
+  {
+    "name": "DSS-P05 Servo Gimbal: Versatile Robotics Kit",
+    "description": "The DSS-P05 gimbal offers flexible movement for camera setups and obstacle detection, ideal for robo"
+  },
+  {
+    "name": "Versatile 6V 3-Way Air Valve for Pneumatic Systems",
+    "description": "Efficient 6V 3-way air valve for pneumatic systems, offering reliable direction control and valve sw"
+  },
+  {
+    "name": "Powerful 12V Motor with Encoder GB37Y3530",
+    "description": "The GB37Y3530-12V-90EN motor with encoder offers precision with 1440 counts per gearbox revolution, "
+  },
+  {
+    "name": "20KG 180° Digital Servo with Formidable Torque",
+    "description": "The 20KG 180° waterproof digital servo offers formidable torque, copper gears, and dual ball bearing"
+  },
+  {
+    "name": "Brushless DC Motor MTO1804: Power and Efficiency",
+    "description": "The Brushless DC Motor MTO1804 is perfect for drones, offering high torque, efficiency, and durabili"
+  },
+  {
+    "name": "Brushless DC Motor MTO1804: High Efficiency for Drones",
+    "description": "Brushless DC Motor MTO1804 offers high efficiency and low noise, ideal for drones and intelligent ro"
+  },
+  {
+    "name": "9g 270° Metal Servo with Analog Feedback",
+    "description": "The 9g 270° Metal Servo offers durable metal gears and analog feedback for precise micro-robot contr"
+  },
+  {
+    "name": "2208 Three-Phase BLDC Motor with High-Precision Encoder",
+    "description": "The 2208 BLDC motor with AS5600 encoder provides high precision for FOC applications, ideal for robo"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "description": "High-performance coreless motors, 50000rpm at 3.7V, ideal for DIY drone models and remote control pr"
+  },
+  {
+    "name": "4-Channel Optocoupler Relay Shield for Arduino",
+    "description": "A 4-channel optocoupler relay shield for Arduino, controls high-power devices safely, enhancing smar"
+  },
+  {
+    "name": "16A Relay Module for Arduino Projects",
+    "description": "The 16A Relay Module offers enhanced control for high current devices, making it ideal for interacti"
+  },
+  {
+    "name": "High Torque 42BYGH40 Stepper Motor for 3D Printers",
+    "description": "The 42BYGH40 stepper motor delivers high torque for CNC and 3D printers, tested for reliability and "
+  },
+  {
+    "name": "Implementing Vibration Motors: Arduino Projects",
+    "description": "Learn to use DFRobot's Gravity Vibration Module for creative Arduino projects like alarms and vibrat"
+  },
+  {
+    "name": "Micro Metal Gear Motor for Robotics Projects",
+    "description": "Micro Metal Gear Motor with 75:1 ratio, anti-jamming, PH2.0 port, ideal for robotics."
+  },
+  {
+    "name": "Arduino Motor Shield: Drive 2A Motors with L298P Chip",
+    "description": "The Arduino Motor Shield with L298P chip drives 7-12V DC motors at 2A, ideal for high-power robotics"
+  },
+  {
+    "name": "Versatile 6V Electric Water Pump: Ideal for DIY Projects",
+    "description": "This 6V electric water pump is perfect for creating fountains, changing aquarium water, or watering "
+  },
+  {
+    "name": "PWM Motor & Light Driver Board: Versatile Control & High Load",
+    "description": "Versatile PWM driver board for DC motor and LED control, supports Python, PC, UART, potentiometer co"
+  },
+  {
+    "name": "Easy Control with DC Micro Metal Gear Motor",
+    "description": "The DC Micro Metal Gear Motor simplifies motor control, offering PWM speed control and reduced power"
+  },
+  {
+    "name": "DSS-M15S Heavy-Duty Metal Gear Servo with 270° Rotation",
+    "description": "DSS-M15S servo offers 270° rotation and 15Kg torque, ensuring superior stability and durability for "
+  },
+  {
+    "name": "83 RPM Metal DC Motor GB37Y3530 with Encoder",
+    "description": "The 83 RPM Metal DC Motor GB37Y3530-12V-83R is ideal for mobile robots with its powerful 12V operati"
+  },
+  {
+    "name": "12V Normally Closed Solenoid Valve for Water Flow Control",
+    "description": "A 12V solenoid valve for precise water flow control, ideal for agriculture and fisheries, offering r"
+  },
+  {
+    "name": "M0601 Hub Motor: Integrated Design for Robotics",
+    "description": "The M0601 hub motor integrates motor, driver, and encoder for plug-and-play deployment, offering pre"
+  },
+  {
+    "name": "M0601 Hub Motor for AGVs and AMRs: Integrated Design",
+    "description": "The M0601 hub motor offers integrated design for robots, AGVs, AMRs, with precise control, low noise"
+  },
+  {
+    "name": "DF9GMS 360 Degree Micro Servo: Compact & Versatile",
+    "description": "The DF9GMS 360 degree micro servo is compact and versatile, ideal for DIY projects like toy cars, of"
+  },
+  {
+    "name": "9g 180° Metal Servo with Feedback - Precision Control",
+    "description": "The 9g 180° Metal Servo offers analog feedback, durable metal gears, and precise control for micro-r"
+  },
+  {
+    "name": "Amphibious Micro Submersible Pump for DIY Projects",
+    "description": "Use this 3-6V amphibious pump for DIY fountains, water changers, or plant watering with low noise an"
+  },
+  {
+    "name": "Discover the 2Kg 180° Clutch Servo with Protection",
+    "description": "The 2Kg 180° Clutch Servo features clutch function and electronic protection, ideal for robotics and"
+  },
+  {
+    "name": "Industrial 4-Channel Relay Module with RS485 Interface",
+    "description": "Efficiently control devices with the Industrial 4-Channel Relay Module using RS485 and Modbus RTU pr"
+  },
+  {
+    "name": "Metal DC Geared Motor: Compact, Powerful Torque",
+    "description": "Compact metal DC geared motor with 75:1 reducer, delivering maximum torque of 1.9 kg.cm, built for s"
+  },
+  {
+    "name": "Gravity Simple Relay Module: Easy Wiring Solution",
+    "description": "Gravity's relay module offers easy wiring and compatibility with Arduino for smart home and robotics"
+  },
+  {
+    "name": "Bipolar Stepper Motor with Planet Gear Box",
+    "description": "The 42BYGH40-18-22A-C5.18 stepper motor offers precision with 18kg-cm torque and 5.18:1 gear ratio f"
+  },
+  {
+    "name": "TT Micro DC Motor with Encoder for Robotics Projects",
+    "description": "The TT Micro DC Motor with Encoder is perfect for robotics, offering a 120:1 gearbox and precise con"
+  },
+  {
+    "name": "Effortless Control with DC Micro Metal Gear Motor",
+    "description": "The DC Micro Metal Gear Motor simplifies control with Gravity interface and PWM, ideal for DIY proje"
+  },
+  {
+    "name": "Miniature Stepper Motor with 100:1 Gear Box",
+    "description": "Miniature stepper motor with metal gear box, ideal for precise rotation control in 3D printers."
+  },
+  {
+    "name": "6V Metal Geared DC Motor with Encoder for Robotics",
+    "description": "Explore the 6V metal geared DC motor with encoder, ideal for precise mobile robotics applications."
+  },
+  {
+    "name": "Mini Vibration Motor: Compact & Powerful",
+    "description": "A 10*2.7mm mini vibration motor with strong vibration, low noise, easy embedding, and long lifespan."
+  },
+  {
+    "name": "ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "description": "DFRobot's ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961"
+  },
+  {
+    "name": "Serial Bus Servo Driver Board: Control Up to 253 Servos",
+    "description": "Efficiently control up to 253 bus servos with USB/UART interfaces, real-time feedback, and advanced "
+  },
+  {
+    "name": "Gravity: Haptic Motor Driver -- 3003",
+    "description": "DFRobot's Gravity: Haptic Motor Driver -- 3003"
+  },
+  {
+    "name": "9g 180° Clutch Servo with Electronic Protection",
+    "description": "The 9g 180° Clutch Servo offers clutch function and electronic protection, preventing damage in robo"
+  },
+  {
+    "name": "45:1 Metal DC Geared Motor with High Torque",
+    "description": "Compact metal DC geared motor with 45:1 reduction ratio and 1.2 kg.cm torque. Ideal for stable and d"
+  },
+  {
+    "name": "Drive Stepper Motors Easily with DRV8825 Shield",
+    "description": "The DRV8825 stepper motor shield offers easy driving of dual motors for Arduino projects using minim"
+  },
+  {
+    "name": "MiniQ Motor Wheel Set for Robotics Education",
+    "description": "MiniQ motor wheel set designed for educational robotics with metal gear motors and PID speed control"
+  },
+  {
+    "name": "Micro DC Geared Motor with Planetary Gear Mechanism",
+    "description": "Compact micro DC geared motor with planetary gear mechanism suitable for DIY projects, featuring 6V "
+  },
+  {
+    "name": "Micro Metal Gear Motor with Built-in Encoder",
+    "description": "A micro metal gear motor with built-in encoder, providing 1400 Hall feedback resolution and enhanced"
+  },
+  {
+    "name": "Compact DC Geared Motor: 26kg.cm Torque",
+    "description": "Compact DC geared motor offers 26kg.cm torque and 100:1 reduction ratio, ensuring durability and hig"
+  },
+  {
+    "name": "Metal DC Geared Motor - 12V 100RPM, 12kg.cm Torque",
+    "description": "Metal DC geared motor, 12V, 50:1 reduction ratio, 12kg.cm torque, copper coils, stable and durable."
+  },
+  {
+    "name": "Ultra Small Dual DC Motor Driver with UVLO & ESD Protection",
+    "description": "Ultra small Dual DC motor driver with UVLO, Photo Coupler isolation, and ESD protection for safe ope"
+  },
+  {
+    "name": "Gravity Digital Peristaltic Pump for Precision Fluid Control",
+    "description": "The Gravity digital peristaltic pump offers precise liquid control for various applications, enhanci"
+  },
+  {
+    "name": "High-Performance 2804 BLDC Motor with AS5600 Encoder",
+    "description": "2804 BLDC motor with AS5600 encoder offers high efficiency and precision, ideal for robotics and cam"
+  },
+  {
+    "name": "SimpleFOCmini: Compact BLDC Motor Control with FOC",
+    "description": "SimpleFOCmini offers compact, high-performance BLDC motor control with advanced FOC for precise torq"
+  },
+  {
+    "name": "Super-Easy Mini Air Pump for Beginners",
+    "description": "Effortlessly create pneumatic projects with our mini air pump, featuring 2.2 LPM flow and -58kpa suc"
+  },
+  {
+    "name": "Gravity: Efficient MOSFET Power Controller for MCUs",
+    "description": "Gravity MOSFET Power Controller drives high current devices with limited GPIO, compatible with Ardui"
+  },
+  {
+    "name": "Powerful 2.5kg Metal Gear Servo for Robotics",
+    "description": "Compact 2.5kg metal gear servo ideal for robotics and aviation use, offering durability and strength"
+  },
+  {
+    "name": "Enhance Your Projects with 9g Micro Servo Motor",
+    "description": "Explore the 9g micro servo motor's capabilities in small robotics, offering 1.6kg torque ideal for A"
+  },
+  {
+    "name": "12V Gear Motor w/Encoder GB37Y3530-12V-251R",
+    "description": "The 12V GB37Y3530 Gear Motor w/Encoder delivers precision and power, perfect for mobile robotics."
+  },
+  {
+    "name": "Efficient Immersible Pump for Aquatic Applications",
+    "description": "Versatile immersible pump for plants, fountains, aquariums. Quiet operation, suction cup stability, "
+  },
+  {
+    "name": "N20 Miniature Metal Motor: Compact, Efficient & Reliable",
+    "description": "The N20 Miniature Metal Motor is compact, reliable, and efficient, ideal for robots and mechanical m"
+  },
+  {
+    "name": "Arduino Motor Shield (L298P) for Efficient Motor Control",
+    "description": "The Arduino Motor Shield (L298P) allows control of two DC motors with 2A current using PWM and exter"
+  },
+  {
+    "name": "Drive Two DC Motors with L293 Arduino Shield",
+    "description": "This shield uses L293 chip to drive two DC motors with 7-12V and 1A current each, stackable on Ardui"
+  },
+  {
+    "name": "TT Micro DC Geared Motor with Back Shaft - 6V, 160rpm",
+    "description": "TT Micro DC Geared Motor: 6V, 160rpm, ideal for DIY robots, easy installation, DFRobot Encoder compa"
+  },
+  {
+    "name": "Gravity Digital Relay Module for Arduino & Raspberry Pi",
+    "description": "Gravity Digital Relay Module offers 3.3V and 5V compatibility, handling up to 10A current with no so"
+  },
+  {
+    "name": "Micro Dual DC Motor Driver TB6612FNG Guide",
+    "description": "TB6612FNG motor driver enables dual-channel motor control for Arduino projects, offering efficient, "
+  },
+  {
+    "name": "DSS-M15S 270° Metal Servo with Feedback Control",
+    "description": "The DSS-M15S servo features 270° control and analog feedback, compatible with Arduino for precise lo"
+  },
+  {
+    "name": "Micro Metal DC Geared Motor: High Precision & Efficiency",
+    "description": "Micro Metal DC Geared Motor, ideal for mini platforms, offers 6V 50RPM with high precision and effic"
+  },
+  {
+    "name": "High Performance Coreless Micro Motor for DIY Drones",
+    "description": "Explore powerful coreless motors for DIY drones, offering 55,000rpm speed and perfect for remote con"
+  },
+  {
+    "name": "Waterproof High Torque Servo with Metal Gear for Robotics",
+    "description": "Waterproof high-torque metal gear servo with IP67 rating, ideal for robotics and remote applications"
+  },
+  {
+    "name": "45KG Torque Brushless IP67 Waterproof Servo Motor",
+    "description": "A robust 45KG Torque Brushless Servo with IP67 waterproofing, ensuring precision and durability for "
+  },
+  {
+    "name": "35kg Metal Waterproof Servo with Magnetic Encoder",
+    "description": "High-torque 35kg waterproof digital servo with magnetic encoder for precise control, ideal for robot"
+  },
+  {
+    "name": "28BYJ-48 Stepper Motor Module with A4988 Driver",
+    "description": "The 28BYJ-48 Stepper Motor Module integrates a geared motor with an A4988 driver for easy motion con"
+  },
+  {
+    "name": "2804 Brushless DC Motor with AS5600 Encoder for FOC",
+    "description": "Explore the 2804 brushless DC motor with AS5600 encoder for precise FOC control, perfect for robotic"
+  },
+  {
+    "name": "2A Dual Motor Controller with Enhanced Heat Dissipation",
+    "description": "The 2A Dual Motor Controller offers improved performance with L298N chip, enhanced heat dissipation,"
+  },
+  {
+    "name": "Ultra Compact Dual-H-Bridge DC Motor Driver HR8833",
+    "description": "HR8833 motor driver supports two 1.5A motors up to 10V, fits tight spaces, and features XH2.54 pins."
+  },
+  {
+    "name": "Powerful Mini Metal Servo for Small Robotics Projects",
+    "description": "The DMS-MG90 micro servo with metal gears provides 1.8kg*cm torque, perfect for small robotics proje"
+  },
+  {
+    "name": "TMC260 Stepper Motor Driver Shield for Arduino",
+    "description": "The TMC260 stepper motor driver shield offers high precision and energy efficiency for Arduino proje"
+  },
+  {
+    "name": "Brushless DC Motor with Encoder: Easy Control & High Efficiency",
+    "description": "Introducing the brushless DC motor with built-in driver for easy Arduino integration, featuring PWM "
+  },
+  {
+    "name": "Micro Metal Gearmotor 50:1 w/Encoder for Precise Control",
+    "description": "Micro Metal Gearmotor 50:1 offers precise control with Hall encoder, real-time speed measurement, an"
+  },
+  {
+    "name": "Micro DC Motor with Encoder for Robotics Projects",
+    "description": "DFRobot TT Micro DC motor with encoder, 120:1 gearbox, 960 pulses/round, ideal for mobile robots, co"
+  },
+  {
+    "name": "TB6600 Arduino Stepper Motor Driver: Easy Control",
+    "description": "TB6600 Arduino driver simplifies stepper motor control with adjustable micro steps and current setti"
+  },
+  {
+    "name": "Quad Motor Driver Shield for Arduino with TB6612FNG",
+    "description": "Quad motor driver shield for Arduino with TB6612FNG chips, control four DC motors with PWM speed con"
+  },
+  {
+    "name": "DSS-P05 Standard Servo: High Torque & Precision",
+    "description": "DSS-P05 Standard Servo offers high torque for robotics, ideal for head, arm, and biped robots with 1"
+  },
+  {
+    "name": "Versatile Gravity Relay Module for Arduino Control",
+    "description": "The DFRobot Relay Module is perfect for Arduino projects, enabling easy control of high-power device"
+  },
+  {
+    "name": "Micro:bit Motor Driver Expansion Board Guide",
+    "description": "Micro:bit Driver Expansion Board provides I2C motor control for dual motor and servo use, ideal for "
+  },
+  {
+    "name": "Ultra Thin 5V Ice Blue LED Strip - 60 LEDs/m",
+    "description": "Ultra-thin 5V Ice Blue LED strip with 60 LEDs/m, ideal for narrow spaces and DIY projects."
+  },
+  {
+    "name": "10 Segment LED Bar Graph for Easy Prototyping",
+    "description": "10 segment bar graph LEDs offer easy prototyping for audio equipment and more, featuring low power c"
+  },
+  {
+    "name": "Standard 16x2 Character LCD Display",
+    "description": "Standard 16x2 LCD with blue background and white text, compatible with I2C backpack."
+  },
+  {
+    "name": "Standard 16x2 Character LCD Display - 5V",
+    "description": "Explore the 16x2 character LCD with 5V supply, yellow background, and black characters. Ideal for di"
+  },
+  {
+    "name": "Green LED Light Module for Arduino Beginners",
+    "description": "Green LED module for Arduino starters, safe setup with IO/Sensor shield. Includes digital sensor cab"
+  },
+  {
+    "name": "Optimize Your Arduino Projects with Piranha LED",
+    "description": "Piranha LED module enhances Arduino projects with PWM brightness control and ambient sensor interact"
+  },
+  {
+    "name": "8x8 RGB LED Matrix Module with WS2812 Control",
+    "description": "8x8 RGB LED Matrix with WS2812 LEDs offers 16777216 colors, 256 brightness levels, and supports casc"
+  },
+  {
+    "name": "Flexible 8x32 RGB LED Matrix Module - Gravity",
+    "description": "A flexible 8x32 RGB LED Matrix module, compatible with Arduino, features WS2812/SK6812 LEDs and supp"
+  },
+  {
+    "name": "Flexible 8x8 RGB LED Matrix: Cascade Control",
+    "description": "Explore the Flexible 8x8 RGB LED Matrix, featuring WS2812 or SK6812 LEDs, offering cascade control a"
+  },
+  {
+    "name": "Flexible 16x16 RGB LED Matrix: Full Color Control",
+    "description": "The Flexible 16x16 RGB LED Matrix offers full color control with WS2812 or SK6812 LEDs, compatible w"
+  },
+  {
+    "name": "Control 64x32 RGB LED Matrix Panel with Raspberry Pi",
+    "description": "The 64x32 RGB LED Matrix Panel with 2048 LEDs is ideal for dynamic displays with Raspberry Pi, perfe"
+  },
+  {
+    "name": "FireBeetle 24x8 LED Matrix: IoT Display Solution",
+    "description": "FireBeetle 24x8 LED Matrix is perfect for IoT projects, offering low power consumption, Arduino comp"
+  },
+  {
+    "name": "FireBeetle 24x8 LED Matrix: Low Power IoT Display",
+    "description": "The FireBeetle 24x8 LED Matrix offers low-power consumption and compatibility with Arduino, making i"
+  },
+  {
+    "name": "FireBeetle 24x8 LED Matrix: Low Power IoT Display",
+    "description": "FireBeetle 24x8 LED Matrix offers low-power use, ideal for IoT with HT1632C driver and Arduino compa"
+  },
+  {
+    "name": "FireBeetle 24x8 LED Matrix Display for IoT Applications",
+    "description": "FireBeetle 24x8 LED Matrix is designed for IoT, featuring low-power HT1632C chip, Arduino compatibil"
+  },
+  {
+    "name": "Gravity Colorful LED: Easy Cascade Control",
+    "description": "Gravity Colorful LED module offers seven colors, easy cascade control, and creates a harmonious atmo"
+  },
+  {
+    "name": "Colorful I2C 16x2 Arduino LCD with RGB Backlight",
+    "description": "DFR0464 I2C 16x2 Arduino LCD offers RGB backlight with 16 million colors, utilizing I2C interface fo"
+  },
+  {
+    "name": "32x32 RGB LED Matrix Panel - High Brightness Display",
+    "description": "1024 full-color RGB LEDs make up this versatile 32x32 matrix panel, ideal for high brightness displa"
+  },
+  {
+    "name": "64x64 RGB LED Matrix Panel - High Brightness & Versatile",
+    "description": "The 64x64 RGB LED Matrix Panel offers vibrant, pollution-free displays with 4096 LEDs, suitable for "
+  },
+  {
+    "name": "10.1\" IPS Display for LattePanda V1: High-Resolution Monitor",
+    "description": "10.1\" IPS display designed for LattePanda V1, connects via FPC cable, freeing HDMI for dual-screen p"
+  },
+  {
+    "name": "Enhance Your Space with 5050 RGB LED Strip Lights",
+    "description": "5050 RGB LED strips offer vibrant, flexible lighting for decor and projects, with 300 LEDs and stunn"
+  },
+  {
+    "name": "Flexible RGB LED Matrix Panel - 64x32, 256x128mm",
+    "description": "Flexible 64x32 RGB LED Matrix Panel offers creative freedom with 4mm pitch and 256x128mm size. Ideal"
+  },
+  {
+    "name": "Digital RGB LED Strip - Bright, Flexible and Easy to Use",
+    "description": "Explore the WS2812 RGB LED strip with 256 brightness levels and 16 million colors. Perfect for DIY a"
+  },
+  {
+    "name": "Gravity: Digital RGB LED Module - High Performance & Flexibility",
+    "description": "Gravity Digital RGB LED Module offers cascading WS2812 LEDs with low power consumption, compatible w"
+  },
+  {
+    "name": "Flexible RGB LED Matrix: 64x32 P5 Panel",
+    "description": "Discover the flexible 64x32 RGB LED Matrix Panel, ideal for creative projects with Raspberry Pi or M"
+  },
+  {
+    "name": "2*16 RGB LCD Keypad HAT for Raspberry Pi",
+    "description": "This 2*16 RGB LCD+Keypad plate for Raspberry Pi offers I2C interface and adjustable RGB backlight fo"
+  },
+  {
+    "name": "Enhanced LCD1602 Module: I2C Gravity Series Display",
+    "description": "Optimized LCD1602 module with I2C, 3.3V/5V compatibility, green backlight. Ideal for electronics ent"
+  },
+  {
+    "name": "Optimized Gravity I2C LCD1602 Display Module",
+    "description": "The Gravity I2C LCD1602 module features adjustable contrast and voltage compatibility for improved f"
+  },
+  {
+    "name": "Gravity: I2C 8x16 RGB LED Matrix Panel - Versatile Display",
+    "description": "Gravity: I2C 8x16 RGB LED Matrix Panel supports custom images and easy control, ideal for robots and"
+  },
+  {
+    "name": "RGB LCD1602: A New Visual Experience",
+    "description": "RGB LCD1602 offers full-color font support, 16 million colors, easy Arduino integration via Gravity "
+  },
+  {
+    "name": "FireBeetle OLED12864 Display for IoT Projects",
+    "description": "The FireBeetle OLED12864 Display is perfect for IoT projects, offering 128x64 resolution, SSD1360 dr"
+  },
+  {
+    "name": "5\" Raspberry Pi LCD Touchscreen: High Resolution, Multiple Touch Points",
+    "description": "5\" Raspberry Pi LCD touchscreen with 800x480 resolution, DSI interface, capacitive touch panel, and "
+  },
+  {
+    "name": "Battery Capacity Indicator for Easy Monitoring",
+    "description": "User-friendly Battery Capacity Indicator for clear battery info with 3.3V-5.5V operation and 8 brigh"
+  },
+  {
+    "name": "10.1\" IPS Display for Raspberry Pi & LattePanda",
+    "description": "The 10.1 inch 1280x800 IPS display is compatible with Raspberry Pi and LattePanda, offering HDMI/VGA"
+  },
+  {
+    "name": "Bright LED Module for Special Applications",
+    "description": "The Bright LED Module offers intense lighting for special applications, compatible with gravity 3-Pi"
+  },
+  {
+    "name": "Portable OLED Display for Raspberry Pi Projects",
+    "description": "A portable 0.96\" OLED display for Raspberry Pi projects, featuring high contrast and wide viewing an"
+  },
+  {
+    "name": "Warm White LED String Lights for Versatile Decoration",
+    "description": "Warm white LED string lights for versatile decoration. Compatible with Arduino and Raspberry Pi, sui"
+  },
+  {
+    "name": "Colorful LED String Lights - Versatile Decor",
+    "description": "Colorful LED string lights offer versatile decoration for indoor and outdoor spaces, compatible with"
+  },
+  {
+    "name": "2.7 Inch OLED Display for Arduino: High Quality & Affordable",
+    "description": "2.7 inch OLED display offers 128x64 resolution, Arduino compatibility, and great image quality. Idea"
+  },
+  {
+    "name": "LattePanda V1 Touch Panel Overlay",
+    "description": "Capacitive touch panel overlay for LattePanda V1, offering improved interface. Pre-installed drivers"
+  },
+  {
+    "name": "Programmable RGB LED Module for Arduino",
+    "description": "Programmable RGB LED module for dynamic displays, ideal for hobbyists and designers. Easy to integra"
+  },
+  {
+    "name": "Flexible LED Filament: Perfect for DIY Lighting Projects",
+    "description": "Explore the 1200mm flexible LED filament, ideal for DIY lighting, with 640 LEDs, 360° illumination, "
+  },
+  {
+    "name": "Flexible LED Filament: 360° Lighting Solution",
+    "description": "1200mm flexible LED filament with 640 LEDs, ideal for DIY lighting with 360° coverage and adjustable"
+  },
+  {
+    "name": "High-Brightness Flexible LED Filament for DIY Projects",
+    "description": "1200mm LED filament with 640 LEDs for DIY lighting, offering 360° coverage, adjustable brightness, a"
+  },
+  {
+    "name": "Flexible LED Filament: Perfect for DIY Lighting",
+    "description": "640 LEDs in a 1200mm flexible filament, perfect for 360° DIY lighting, requires 21-24V power supply."
+  },
+  {
+    "name": "Arduino GIGA Display Shield: Touchscreen Solution",
+    "description": "The Arduino GIGA Display Shield enhances projects with a touchscreen, digital mic, 6-axis IMU, and A"
+  },
+  {
+    "name": "8.8-inch Raspberry Pi Bar Touch Display: Features & Applications",
+    "description": "A unique 8.8-inch capacitive touch bar display, perfect for Raspberry Pi applications with versatile"
+  },
+  {
+    "name": "16-inch Portable Touch Display with 4K OLED",
+    "description": "The 16-inch Portable Touch Display features Samsung OLED tech, 3840x2400 resolution, HDMI/Type-C por"
+  },
+  {
+    "name": "Enhance Your Workspace with a 14-inch 4K Touch Display",
+    "description": "The 14-inch 4K IPS bar touch screen offers a unique 3.5:1 ratio, ideal for multitasking and enhancin"
+  },
+  {
+    "name": "ESP32 E Ink Display: Enhanced Reading & Low Power",
+    "description": "The ESP32 E Ink Display features a 4.7-inch screen, 540x960 resolution, ESP32-S3 controller, perfect"
+  },
+  {
+    "name": "3V 260mm Flexible LED Filament Chip for DIY Lighting",
+    "description": "Flexible LED filament chip with 3V power supply for DIY lighting, bendable and 360° illumination."
+  },
+  {
+    "name": "Flexible 260mm LED Filament for DIY Lighting",
+    "description": "Flexible 260mm LED filament with 3V power for DIY lighting. Bendable and emits 360° light, perfect f"
+  },
+  {
+    "name": "Flexible LED Filament 260mm for DIY Lighting Projects",
+    "description": "Flexible 260mm LED filament offers 360° light emission at 3V, ideal for DIY lighting and decoration "
+  },
+  {
+    "name": "260mm Flexible LED Filament Chip for DIY Projects",
+    "description": "Flexible 260mm LED filament chip emits 360-degree light, ideal for DIY lighting with a bendable desi"
+  },
+  {
+    "name": "Ultra Slim 5V Flexible LED Strip - Green",
+    "description": "Ultra slim 5V LED strip with 60 LEDs per meter for DIY and narrow space decoration."
+  },
+  {
+    "name": "Ultra-Slim 5V Flexible LED Strip - 60 LEDs Per Meter",
+    "description": "Ultra-slim 5V LED strip with 60 LEDs per meter, ideal for narrow spaces, compatible with Arduino."
+  },
+  {
+    "name": "Ultra Thin 3V Flexible LED Strip - 2.5mm Width",
+    "description": "Ultra thin 3V LED strip, 2.5mm wide, with 138 LEDs/m, perfect for tight spaces and DIY projects. Com"
+  },
+  {
+    "name": "Ultra Slim 12V Flexible LED Strip: Ice Blue",
+    "description": "Ultra slim Ice Blue LED strip with 120 LEDs per meter, 2.5mm width, ideal for narrow spaces and DIY "
+  },
+  {
+    "name": "Ultra Thin 2.5mm Flexible LED Strip - 120 LEDs",
+    "description": "Ultra-slim 2.5mm LED strip, 120 LEDs/meter, ideal for narrow space lighting and DIY projects."
+  },
+  {
+    "name": "Ultra-Slim Flexible LED Strip - 2.5mm Wide, 3V",
+    "description": "Ultra-slim 2.5mm flexible LED strip, 138 LEDs/meter, ideal for narrow spaces, DIY lighting. Operates"
+  },
+  {
+    "name": "Ultra-Thin Flexible LED Strip - 5V Blue 60 LEDs",
+    "description": "Ultra-thin 2.5mm LED strip with 60 LEDs for DIY projects, operates at 5V, ideal for narrow spaces an"
+  },
+  {
+    "name": "Ultra-Slim 2.5mm Flexible LED Strip - Purple",
+    "description": "Ultra-slim 2.5mm LED strip, 60 LEDs/m, 5V, perfect for narrow spaces and DIY projects, available in "
+  },
+  {
+    "name": "Create Interactive Projects with WS2812 RGB LED Ring",
+    "description": "Explore the WS2812 RGB LED Ring for creative, interactive projects with full-color control and easy "
+  },
+  {
+    "name": "WS2812 RGB LED Ring: Interactive Full-Color Lighting",
+    "description": "The WS2812 RGB LED Ring provides full-color, interactive lighting with cascading control for versati"
+  },
+  {
+    "name": "1.8\" 128x160 IPS TFT Display with MicroSD",
+    "description": "ST7735S 1.8\" TFT Display offers 128x160 resolution, SPI communication, and SD card slot for versatil"
+  },
+  {
+    "name": "1.47\" IPS LCD Display Module for Arduino Projects",
+    "description": "1.47\" IPS LCD Display Module with 172x320 pixels and SPI interface for dynamic Arduino projects."
+  },
+  {
+    "name": "10.1-Inch Raspberry Pi Industrial Touchscreen for IoT Projects",
+    "description": "10.1-inch Raspberry Pi industrial touchscreen with 1280*800 resolution, LVDS multi-touch. Ideal for "
+  },
+  {
+    "name": "5V COB LED Strip Light - Purple for Versatile Decoration",
+    "description": "Versatile 5V COB LED strip lights offer high brightness and purple glow, ideal for indoor decoration"
+  },
+  {
+    "name": "5V COB LED Strip Light - Warm White with High Brightness",
+    "description": "5V COB LED Strip Light provides high brightness and uniform luminosity for indoor decoration."
+  },
+  {
+    "name": "5V COB LED Strip Light - High Brightness & Versatile",
+    "description": "The 5V COB LED strip light offers high brightness and versatile powering options for indoor decorati"
+  },
+  {
+    "name": "5V COB LED Strip Light - High Brightness, No Shadows",
+    "description": "The 5V COB LED strip light features high brightness, no shadows, and versatile powering options for "
+  },
+  {
+    "name": "COB LED Strip Light: High Brightness, 5V Power Supply",
+    "description": "5V COB LED strip with 16 LEDs offers high brightness, no shadows, and versatile indoor applications."
+  },
+  {
+    "name": "5V COB LED Strip Light - Red: Bright, Versatile & Durable",
+    "description": "The 5V COB LED Strip Light provides bright, shadow-free illumination, perfect for various indoor lig"
+  },
+  {
+    "name": "5V COB LED Strip Light: High Brightness & Versatile Decor",
+    "description": "High brightness 5V COB LED strip light, perfect for indoor decor and lighting. Suitable for wardrobe"
+  },
+  {
+    "name": "12.5\" 4K IPS Touch Display for Raspberry Pi & LattePanda",
+    "description": "12.5\" 4K IPS touchscreen display for Raspberry Pi and LattePanda, offering vivid colors and smooth t"
+  },
+  {
+    "name": "2.0” LCD Display with ST7789V Driver Chip",
+    "description": "2.0” LCD display with ST7789V chip, 320x240 resolution, SPI & GDI interfaces, perfect for various di"
+  },
+  {
+    "name": "1.54” IPS TFT LCD Display Module with MicroSD",
+    "description": "High-resolution 1.54” IPS TFT LCD with SPI and MicroSD slot for versatile electronic applications."
+  },
+  {
+    "name": "WS2812B RGB LED Ring Lamp: 93 LEDs, Full Control",
+    "description": "The WS2812B RGB LED ring lamp offers 93 LEDs in 6 rings, customizable brightness and full-color disp"
+  },
+  {
+    "name": "Extremely Bright Flexible LED Strip - Warm White",
+    "description": "Flexible LED strip with 160 LEDs per 50cm, high brightness, cuttable, easy mounting, perfect for ind"
+  },
+  {
+    "name": "2.8” LCD Display Module with SPI and Touchscreen",
+    "description": "The 2.8” LCD module offers high resolution, SPI communication, and a resistive touchscreen, suitable"
+  },
+  {
+    "name": "High Brightness COB Programmable LED Strip",
+    "description": "COB Programmable LED strip provides high brightness, uniform light, and flexible design for creative"
+  },
+  {
+    "name": "Piranha LED Light Module for Arduino Projects",
+    "description": "Piranha LED module for Arduino offers RGB colors and PWM control for interactive light projects."
+  },
+  {
+    "name": "7&quot; Touch Display for LattePanda IOTA -- 2993",
+    "description": "DFRobot's 7&quot; Touch Display for LattePanda IOTA -- 2993"
+  },
+  {
+    "name": "4-Digital LED Segment Display Module Features",
+    "description": "Learn about the 4-Digital LED Segment Display Module, featuring I2C communication and 8-level bright"
+  },
+  {
+    "name": "8-Digital LED Segment Display Module: Features & Specs",
+    "description": "The 8-Digital LED Segment Display Module offers 8x8 segments, 16-level brightness, and I2C communica"
+  },
+  {
+    "name": "8-Digital LED Segment Display Module - Green",
+    "description": "The 8-Digital LED Segment Display Module features 8 segment×8 digit display, 16-level brightness adj"
+  },
+  {
+    "name": "High-Contrast 0.91\" OLED Display Module: SSD1306",
+    "description": "The SSD1306-driven 0.91-inch OLED display module offers 128x32 pixels, low power, and I2C compatibil"
+  },
+  {
+    "name": "0.91\" 128x32 I2C OLED Display Module with SSD1306",
+    "description": "0.91\" OLED display with SSD1306 offers low power, high contrast, and is perfect for wearables and mi"
+  },
+  {
+    "name": "6.67'' Flexible AMOLED Display -- 3113",
+    "description": "DFRobot's 6.67'' Flexible AMOLED Display -- 3113"
+  },
+  {
+    "name": "0.96\" OLED Display Module with SSD1306 Driver",
+    "description": "The 0.96\" OLED display module with SSD1306 driver offers high contrast, supports I2C/SPI communicati"
+  },
+  {
+    "name": "0.96\" 160x80 Color TFT Display for Diverse Projects",
+    "description": "Small 0.96\" TFT screen with 160x80 resolution, supports GDI interface, ideal for wearables and smart"
+  },
+  {
+    "name": "RGB LED Module for Arduino Lighting Projects",
+    "description": "Explore a 7 SMD RGB LED module ideal for Arduino projects, offering USB power compatibility and impr"
+  },
+  {
+    "name": "Gravity I2C OLED 128x64 Display: Compact, Efficient & Durable",
+    "description": "The Gravity OLED 128x64 display is ideal for mobile devices, featuring SSD1306 chip, I2C interface, "
+  },
+  {
+    "name": "Flexible LED Strip: 160 LEDs, High Brightness",
+    "description": "This flexible LED strip features 160 LEDs per 50cm for bright, even light. Cuttable, it suits indoor"
+  },
+  {
+    "name": "WS2812 RGB LED Ring: Brighten Your Projects",
+    "description": "WS2812 RGB LED Ring offers full-color control, cascading, and supports various programming platforms"
+  },
+  {
+    "name": "Arduino-Compatible RGB LED Strip Driver Board",
+    "description": "Arduino-compatible RGB LED strip driver board with MOS tubes, IR control, optimized interfaces for e"
+  },
+  {
+    "name": "Red LED Light Module for Arduino Starter",
+    "description": "Red LED module ideal for Arduino starters, ensures safe usage with easy plug-in on IO/Sensor expansi"
+  },
+  {
+    "name": "8 Digital Bits Serial LED Display with SPI Interface",
+    "description": "8 digital bits serial LED display with SPI interface, flick-free, supports multiple module connectio"
+  },
+  {
+    "name": "Digital RGB LED Strip - WS2812 RGB LED, Flexible Lighting",
+    "description": "The WS2812 RGB LED strip offers vibrant displays with 256 brightness levels. Ideal for home decor, D"
+  },
+  {
+    "name": "0.5\" Micro OLED Display for Arduino - High Contrast",
+    "description": "0.5\" micro OLED display, 450cd/m^2 brightness, SPI/I2C interfaces, ideal for Arduino, high contrast,"
+  },
+  {
+    "name": "128x64 LCD Display for Arduino Projects",
+    "description": "128x64 graphic LCD display with ST7920 controller for Arduino, supports Chinese/English characters a"
+  },
+  {
+    "name": "7” Raspberry Pi LCD Touchscreen - 800x480 DSI Display",
+    "description": "This 7” Raspberry Pi LCD touchscreen features 800x480 resolution, DSI interface, capacitive touch pa"
+  },
+  {
+    "name": "Piranha LED Light Module - Red for Arduino Projects",
+    "description": "The Piranha LED light module connects to Arduino for digital control and PWM brightness, offering vi"
+  },
+  {
+    "name": "3.5\" ILI9488 LCD Display Module with Touch Support",
+    "description": "3.5\" LCD display with ILI9488 and GT911 chips, offering high resolution, SPI communication, and capa"
+  },
+  {
+    "name": "Flexible LED Filament Chip: 260mm, 3V Power",
+    "description": "Flexible 260mm LED filament chip with 3V power for DIY lighting, high brightness, and 360-degree ill"
+  },
+  {
+    "name": "7\" eDP Touch Display for LattePanda: High Res & Versatile",
+    "description": "7-inch eDP touch display with IPS screen technology, ideal for LattePanda, offers high resolution an"
+  },
+  {
+    "name": "3-Wire Serial LCD Module for Arduino - 128x64 Display",
+    "description": "128x64 LCD module compatible with Arduino, supports SPI and parallel modes with adjustable contrast "
+  },
+  {
+    "name": "Enhance Arduino Projects with 7 Segment LED Keypad Shield",
+    "description": "Upgrade your Arduino setup with the 7 segment LED Keypad Shield featuring easy I2C control and a 4 d"
+  },
+  {
+    "name": "7'' HDMI Display with Capacitive Touchscreen for Raspberry Pi",
+    "description": "The 7'' HDMI display with capacitive touchscreen supports Raspberry Pi and HDMI devices. Enjoy drive"
+  },
+  {
+    "name": "Optimized LCD1602 Module: Enhanced Display Features",
+    "description": "Discover the optimized LCD1602 module with adjustable backlight and dual voltage compatibility for a"
+  },
+  {
+    "name": "5.5\" FHD AMOLED Touchscreen Display for Raspberry Pi",
+    "description": "5.5\" FHD AMOLED display with HDMI output, capacitive touchscreen, multi-touch support, USB powered, "
+  },
+  {
+    "name": "4-Digital LED Segment Display Module Features",
+    "description": "The 4-Digital LED Segment Display features I2C communication and adjustable brightness, ideal for ve"
+  },
+  {
+    "name": "ESP32 E-Ink Display Module for IoT Applications",
+    "description": "Discover the ESP32 E-Ink display module ideal for IoT applications like price tags and weather displ"
+  },
+  {
+    "name": "1.51” Transparent OLED Display: High-Resolution Module",
+    "description": "1.51” SSD1309 transparent OLED display offers high-resolution, full-view, blue display ideal for sma"
+  },
+  {
+    "name": "Enhance Your Projects with 1602 RGB LCD Keypad Shield",
+    "description": "The 1602 RGB LCD Keypad Shield offers easy Arduino integration, programmable keys, and vibrant displ"
+  },
+  {
+    "name": "Flexible LED Filament: 640 LEDs for 360° Lighting",
+    "description": "1200mm flexible LED filament with 640 LEDs for DIY lighting and 360° illumination. Power supply: 21-"
+  },
+  {
+    "name": "15.6-Inch IPS Touch Screen: Clear Display & Versatility",
+    "description": "Explore the 15.6-inch IPS touch screen with high resolution and compatibility for multiple devices."
+  },
+  {
+    "name": "7\" Touch Display with eDP Interface for HMI Projects",
+    "description": "The 7-inch touch display with eDP interface offers vibrant IPS screen visuals, perfect for HMI and p"
+  },
+  {
+    "name": "11.6-inch eDP Touch Display for LattePanda Projects",
+    "description": "11.6-inch eDP touch display with 1920x1080 resolution, multi-touch, full-view design, ideal for HMI "
+  },
+  {
+    "name": "3.5 Inch IPS Capacitive Touch Screen with Optical Bonding",
+    "description": "3.5-inch IPS Capacitive Touch Screen with optical bonding offers clarity, reduced glare, and seamles"
+  },
+  {
+    "name": "5-Inch IPS Touchscreen for Raspberry Pi with DSI Interface",
+    "description": "A 5-inch IPS touchscreen for Raspberry Pi with high brightness, full lamination, and anti-glare, ide"
+  },
+  {
+    "name": "I2C LCD Backpack for Easy LCD Control",
+    "description": "The I2C LCD Backpack simplifies LCD control via I2C, supporting various LCDs like LCD1602, and reduc"
+  },
+  {
+    "name": "LCD12864 Shield for Arduino Projects",
+    "description": "LCD12864 Shield for Arduino features LED backlight, joystick control, and supports English/Chinese d"
+  },
+  {
+    "name": "Piranha RGB LED Module for Arduino Projects",
+    "description": "Piranha RGB LED Module for Arduino offers adjustable brightness, ideal for DIY, toys, and indicators"
+  },
+  {
+    "name": "2.0\" Color IPS Display: Versatile I2C & UART Support",
+    "description": "The 2.0\" Color IPS Display Screen supports I2C and UART, ideal for vibrant, interactive visuals on A"
+  },
+  {
+    "name": "10.5-Inch Portable HD Touch Display with Speakers",
+    "description": "The 10.5-inch HD touch display offers vibrant visuals, stereo sound, and versatile connectivity, ide"
+  },
+  {
+    "name": "Ultra Slim 5V Flexible LED Strip: Perfect for Tight Spaces",
+    "description": "Ultra slim 5V LED strip with 60 LEDs/meter, 2.5mm wide, ideal for DIY and tight spaces."
+  },
+  {
+    "name": "Programmable RGB LED Breakout for Prototyping",
+    "description": "Small RGB LED breakout for easy dynamic lighting in projects, controlled by PWM channels."
+  },
+  {
+    "name": "32x16 RGB LED Matrix Panel - High Brightness LED Display",
+    "description": "The 32x16 RGB LED Matrix Panel boasts 512 RGB LEDs, perfect for vibrant indoor and outdoor displays."
+  },
+  {
+    "name": "Arduino Blue LED Module Guide: Plug and Play",
+    "description": "Explore the Blue LED module for Arduino, perfect for starters with easy setup and wiring tips to pre"
+  },
+  {
+    "name": "Powerful 275nm UVC LED Strip Light for Germicidal Use",
+    "description": "A 275nm UVC LED strip offering powerful germicidal abilities for small-scale applications like mite "
+  },
+  {
+    "name": "Flexible LED Filament for DIY Lighting Decoration",
+    "description": "Explore flexible LED filament with 320 LEDs, 360° lighting, and adjustable brightness for DIY decora"
+  },
+  {
+    "name": "Piranha LED Light Module - Blue for Arduino Projects",
+    "description": "The Piranha LED Light Module (Blue) supports Arduino projects with 3.3~5v voltage and PWM control, p"
+  },
+  {
+    "name": "20x4 I2C Arduino LCD Display Module: Save Pins",
+    "description": "20x4 I2C LCD module for Arduino, saves pins, adjustable contrast, blue LED backlight. Perfect for ef"
+  },
+  {
+    "name": "Rainbow LED Ring V3: Upgrade Your Arduino Projects",
+    "description": "Rainbow LED Ring V3 enhances projects with 12 RGB LEDs, Arduino programming, and I2C/Serial communic"
+  },
+  {
+    "name": "7\" IPS Display for LattePanda V1: High-Resolution Screen",
+    "description": "Explore a 7\" IPS display for LattePanda V1, offering high resolution and easy connectivity for enhan"
+  },
+  {
+    "name": "Arduino-Compatible White LED Light Module",
+    "description": "White LED module for Arduino, easy integration, shiny white light, ideal for starters."
+  },
+  {
+    "name": "Optimize Arduino Projects with I2C 16x2 LCD Display",
+    "description": "Explore the benefits of a 16x2 I2C LCD display for simplifying Arduino projects with fewer pins and "
+  },
+  {
+    "name": "Arduino 1602 RGB LCD Shield: Enhanced Display & Control",
+    "description": "The 1602 RGB LCD Shield enhances Arduino projects with vivid color displays and programmable keys, i"
+  },
+  {
+    "name": "Flexible RGB LCD Backlight Module: Versatile Illumination",
+    "description": "The Flexible RGB LCD Backlight Module offers versatile illumination with 16 million colors and high "
+  },
+  {
+    "name": "Inductive Wireless LEDs: Ultra-Low Power Lighting Solution",
+    "description": "Innovative inductive wireless LEDs offer ultra-low power, safe, and efficient lighting using magneti"
+  },
+  {
+    "name": "LCD Keypad Shield for Arduino: Easy Menu Selection & Control",
+    "description": "The LCD Keypad Shield for Arduino provides a 2x16 display and 5 buttons for menu navigation, perfect"
+  },
+  {
+    "name": "High Torque 12V DC Motor with Encoder",
+    "description": "Our 12V DC motor with hall encoder offers high torque and precision, ideal for robotics and automati"
+  },
+  {
+    "name": "Waterproof DC-DC Converter: Ideal for Robots",
+    "description": "Waterproof DC-DC converter with 12V/24V input for 7.5V@5A output, designed for robotics with high ef"
+  },
+  {
+    "name": "Waterproof 45W DC-DC Converter for Robotics",
+    "description": "Waterproof DC-DC converter, 16-36V input to 9V@5A output, ideal for robotics with safety features."
+  },
+  {
+    "name": "Waterproof DC-DC Converter 24V 10A Ideal for Robots",
+    "description": "Waterproof DC-DC converter, 8-18V input to 24V@10A, ideal for robots with multiple protections and h"
+  },
+  {
+    "name": "Romeo All-in-One Controller for Robotics",
+    "description": "Romeo is an all-in-one robot control board designed for robotics applications with Arduino compatibi"
+  },
+  {
+    "name": "A4WD Mobile Platform Wheel Specifications",
+    "description": "Wheel for A4WD and 2WD Arduino platforms, mounts on micro gear motors, sold in pairs. Ideal for robo"
+  },
+  {
+    "name": "Advanced HCR Mobile Robot Kit",
+    "description": "The HCR Mobile Robot Kit offers advanced features like high-torque motors and ultrasonic sensors for"
+  },
+  {
+    "name": "6-DOF Robotic Arm V2: Efficient and Compact",
+    "description": "Explore the efficient and compact 6-DOF Robotic Arm V2, featuring high-torque servos and aluminum al"
+  },
+  {
+    "name": "4WD Arduino-Compatible Robot Platform w/Encoders",
+    "description": "DFRobot 4WD Arduino-Compatible Platform features encoders for precise control, strong obstacle climb"
+  },
+  {
+    "name": "TF02-Pro ToF LiDAR: Accurate 40m Range Sensor",
+    "description": "TF02-Pro ToF LiDAR sensor offers high precision with a 40m range, ideal for various intelligent appl"
+  },
+  {
+    "name": "Bionic Robot Hand with Servo Control for DIY Projects",
+    "description": "Bionic robot hand with servo control for each finger, spring damping protection. Compatible with Ard"
+  },
+  {
+    "name": "Bionic Robot Hand with Arduino Control",
+    "description": "Bionic robot hand with acrylic build, separate finger control, and Arduino compatibility for DIY rob"
+  },
+  {
+    "name": "Li-ion Battery Holder for micro:bit Maqueen",
+    "description": "Li-ion Battery Holder for micro:bit Maqueen. Holds CR123A battery, 8+ hours power, USB charging and "
+  },
+  {
+    "name": "Multi-functional Line-tracking Map for Robotics",
+    "description": "A 120cm×90cm map designed for Maqueen robots, featuring calibration and advanced line-tracking patte"
+  },
+  {
+    "name": "Weather Resistant MB8450 Car Detection Sensor",
+    "description": "The MB8450 sensor provides precise vehicle detection using ultrasonic technology, with reliable long"
+  },
+  {
+    "name": "Yuewalker Agile Tracked Chassis for DIY Robots",
+    "description": "Yuewalker tracked chassis is ideal for DIY robots with high-strength aluminium base and quality moto"
+  },
+  {
+    "name": "Dual Channel DC Motor Driver: Compact & Powerful",
+    "description": "Compact dual channel DC motor driver with 12A output, 290W max power, and built-in protection for ef"
+  },
+  {
+    "name": "Maqueen: micro:bit Educational Robot for STEM Learning",
+    "description": "Maqueen is a micro:bit robot for STEAM education, supporting Makecode and Mind+ to foster kids' inte"
+  },
+  {
+    "name": "24GHz Microwave Radar Sensor for Accurate Ranging",
+    "description": "24GHz microwave radar sensor offers precise distance measurement with FMCW modulation, ideal for har"
+  },
+  {
+    "name": "TFmini Plus: High-Performance Solid State LiDAR",
+    "description": "TFmini Plus is a compact solid-state LiDAR with high accuracy, improved range, and IP65 protection, "
+  },
+  {
+    "name": "TFmini-S: Compact High-Performance LiDAR Sensor",
+    "description": "TFmini-S is a compact ToF LiDAR sensor offering high precision with 12m range and Arduino compatibil"
+  },
+  {
+    "name": "RPLIDAR A3: High-Speed 360° Laser Scanner",
+    "description": "RPLIDAR A3 offers 360-degree scanning with a 25-meter range and 16000 samples/sec, enhancing mapping"
+  },
+  {
+    "name": "Max:Bot DIY Robot Kit for Kids - Learn Robotics",
+    "description": "Max:Bot is a DIY robot kit for kids aged 8+, teaching robotics with micro:bit using Scratch, MakeCod"
+  },
+  {
+    "name": "Sparki Robot: Affordable Intro to Robotics and Programming",
+    "description": "Sparki is an affordable robot for learning programming, electronics, and robotics. Perfect for kids,"
+  },
+  {
+    "name": "Turn miniQ 2WD into Sumo Fighter with Bumper Add-on",
+    "description": "Sumo Bumper for miniQ 2WD turns your robot into a sumo fighter with durable aluminum alloy."
+  },
+  {
+    "name": "Gear Motor with Encoder: Ideal for Mobile Robot Projects",
+    "description": "This 12V DC gear motor with encoder is perfect for mobile robots, offering precise control with Ardu"
+  },
+  {
+    "name": "Compact DC Motor Driver with LM2575 for 36V 15A Motors",
+    "description": "Ultra-small DC motor driver with LM2575 controls 36V@15A motors, UVLO safety, and 5V Arduino output."
+  },
+  {
+    "name": "Rubber Wheel & Motor Kit for Home Care Robots",
+    "description": "The kit includes a 12V DC motor and rubber wheels, ideal for home care robots. Offers low noise, hig"
+  },
+  {
+    "name": "Mr. NEON: Light Chaser Beam Robot for Beginners",
+    "description": "Mr. NEON is a light chaser robot for learning soldering and circuits. It moves faster with stronger "
+  },
+  {
+    "name": "136mm Rubber Wheel Kit for Indoor Robots",
+    "description": "DFRobot's rubber wheel kit offers anti-slip 136mm tires with couplings, screws, and washers for indo"
+  },
+  {
+    "name": "2 DOF Robot Gripper with Servo Motion Control",
+    "description": "2 DOF robot gripper offers servo-controlled opening and rotation. Compatible with various servos, li"
+  },
+  {
+    "name": "Cherokey 4WD Mobile Robot Platform for Arduino",
+    "description": "Cherokey 4WD robot is a versatile platform for Arduino-based projects, featuring integrated motor dr"
+  },
+  {
+    "name": "270° 2D ToF LiDAR: Precision Scanning for Robotics",
+    "description": "The 270° 2D ToF LiDAR offers precise scanning for robotics with 2cm accuracy, high sampling rate, an"
+  },
+  {
+    "name": "270° Single-line 2D ToF LiDAR: High Precision & Versatility",
+    "description": "Explore the 270° Single-line 2D ToF LiDAR, offering precise detection, compact design, and high samp"
+  },
+  {
+    "name": "270° 2D ToF LiDAR Sensor for Precision Mapping and Security",
+    "description": "The 270° 2D ToF LiDAR sensor provides precision mapping and security applications with high sampling"
+  },
+  {
+    "name": "CS20 Dual-Resolution 3D TOF LiDAR: Efficient & Accurate",
+    "description": "CS20 LiDAR offers 640x480 resolution and precise 3D measurements up to 5m, optimizing applications l"
+  },
+  {
+    "name": "ROCK 5B: Powerful ARM SBC with Rockchip RK3588",
+    "description": "ROCK 5B is a high-performing ARM SBC with Rockchip RK3588, 8GB RAM, dual HDMI, and 8K display suppor"
+  },
+  {
+    "name": "Explore the Powerful ROCK 5B ARM Single Board Computer",
+    "description": "The ROCK 5B is a high-performance ARM SBC with Rockchip RK3588, dual HDMI ports for 8K displays, ver"
+  },
+  {
+    "name": "STL27L 360° DTOF LIDAR: High Precision Sensor",
+    "description": "STL27L 360° DTOF LIDAR offers precision, 0.03-25m range, ROS compatibility, anti-glare, ideal for ro"
+  },
+  {
+    "name": "LPB60B ToF LiDAR Sensor: Precise Outdoor Ranging",
+    "description": "LPB60B ToF LiDAR Sensor offers precise ranging up to 60m, ideal for drones and IoT applications, wit"
+  },
+  {
+    "name": "LPB40B Single-Point Ranging LiDAR with DToF Technology",
+    "description": "LPB40B LiDAR sensor offers 40m range, ±5cm accuracy, adjustable frequency, and DToF technology for h"
+  },
+  {
+    "name": "High-Performance ROCK 4SE Heat Sink for Optimal Cooling",
+    "description": "The ROCK 4SE heat sink ensures efficient cooling for the ROCK Pi 4SE, offering stable performance wi"
+  },
+  {
+    "name": "ROCK 5B Metal Case: Easy Installation & Effective Cooling",
+    "description": "ROCK 5B metal case offers strength, easy installation, and efficient cooling for your single-board c"
+  },
+  {
+    "name": "3D TOF Depth Camera with Built-in LCD Screen",
+    "description": "The 3D TOF depth camera offers a 1.5m range and real-time depth map preview on its LCD screen, ideal"
+  },
+  {
+    "name": "Romeo ESP32-S3: Advanced Robotics Development Board",
+    "description": "Romeo ESP32-S3 is a robust development board for robotics, featuring ESP32-S3, OV2640 camera, and du"
+  },
+  {
+    "name": "35kg Waterproof Digital Servo with Metal Gears",
+    "description": "The 35kg waterproof digital servo offers high torque, metal gears, and safety features, ideal for ro"
+  },
+  {
+    "name": "High-Torque Waterproof Coreless Digital Servo 35kg",
+    "description": "A 35kg waterproof coreless digital servo with metal gears, precise control, and enhanced durability "
+  },
+  {
+    "name": "High Torque Waterproof Servo with Magnetic Encoder",
+    "description": "A 25kg waterproof servo with a 12-bit magnetic encoder for precise 360-degree control, exceptional p"
+  },
+  {
+    "name": "Romeo Mini ESP32-C3: Compact Robot Control Board",
+    "description": "Compact and powerful, the Romeo Mini ESP32-C3 offers Wi-Fi, Bluetooth 5, and versatile motor & servo"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "description": "Compact 6mm coreless motors offer 45000rpm power at 3.7V, ideal for DIY drone enthusiasts seeking hi"
+  },
+  {
+    "name": "High-Performance 50,000rpm Coreless Micro Motor for DIY",
+    "description": "Compact coreless motor for DIY drones, offering high performance at 50,000rpm with 3.7V voltage. Per"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "description": "Compact coreless motors ideal for DIY drones, offering 50,000rpm speed at 3.7V for high performance "
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "description": "Coreless motors deliver 46000rpm at 3.7V. Perfect for DIY drone models with compact size and high po"
+  },
+  {
+    "name": "High-Performance Coreless Motor for DIY Drones",
+    "description": "Compact coreless motors provide 50,000rpm at 3.7V, ideal for DIY drone projects and remote control a"
+  },
+  {
+    "name": "micro: Maqueen Lite - STEAM Educational Programming Robot",
+    "description": "micro: Maqueen Lite offers a fun, educational experience for kids, supporting micro:bit V1 & V2 with"
+  },
+  {
+    "name": "Maqueen Lite: STEAM Educational Robot Platform for Kids",
+    "description": "Maqueen Lite is a micro:bit-compatible STEAM robot, ideal for teaching kids programming with its vib"
+  },
+  {
+    "name": "Maqueen Lite: Engage Kids with STEAM Learning",
+    "description": "Maqueen Lite is a micro:bit robot offering STEAM education with features like line tracking and RGB "
+  },
+  {
+    "name": "Maqueen Lite: STEAM Educational Robot Kit for Kids",
+    "description": "Maqueen Lite is a STEAM educational robot kit for kids, compatible with micro:bit, featuring rich pe"
+  },
+  {
+    "name": "Maqueen Lite Skin: Colorful Protection for Kids",
+    "description": "Maqueen Lite skin offers vibrant protection, engaging kids and safeguarding circuits, ideal for STEM"
+  },
+  {
+    "name": "Colorful ABS Shell for Maqueen Lite Robot",
+    "description": "ABS shell for Maqueen Lite in four colors, supports Maqueen 3.0, easy installation, popular with chi"
+  },
+  {
+    "name": "Maqueen Lite Skin Kit: Vibrant Protection for Robots",
+    "description": "Enhance Maqueen Lite with vibrant, protective ABS skins for STEM education."
+  },
+  {
+    "name": "Maqueen Lite Skin: Vibrant Protection for STEM Robots",
+    "description": "Vibrant Maqueen Lite skin adds appeal and protection for Maqueen 3.0, ideal for kids in STEM. Availa"
+  },
+  {
+    "name": "Intelligent Servo Motor with 2.3kg.cm Torque and 180° Rotation",
+    "description": "This servo motor offers 2.3kg.cm torque, 180° rotation, and real-time feedback, perfect for robotics"
+  },
+  {
+    "name": "45KG IP67 Waterproof Coreless Servo Motor for Robotics",
+    "description": "This 45KG IP67 waterproof coreless servo is perfect for robotics, offering precision, durability, an"
+  },
+  {
+    "name": "Micro:bit Maqueen Robot Kit for STEAM Education",
+    "description": "The micro:bit Maqueen Robot Kit is designed for STEAM education, offering creative programming with "
+  },
+  {
+    "name": "Explore Robotics with Raspberry Pi Six-axis Arm",
+    "description": "The Raspberry Pi Six-axis Robotic Arm offers independent operation, multi-language support, and vers"
+  },
+  {
+    "name": "Explore Raspberry Pi Six-axis Robotic Arm",
+    "description": "Raspberry Pi Six-axis Robotic Arm: 280mm range, independent, multi-platform support for research and"
+  },
+  {
+    "name": "Raspberry Pi Six-axis Robotic Arm: Compact & Powerful",
+    "description": "The Raspberry Pi Six-axis Robotic Arm is versatile, supporting multi-language coding and independent"
+  },
+  {
+    "name": "TFmini-i LiDAR: Industrial Grade Laser Ranging Sensor",
+    "description": "TFmini-i LiDAR offers a 12m detection range and RS485 interface, ideal for industrial applications w"
+  },
+  {
+    "name": "TF02-i LiDAR: 40m Range Industrial Sensor",
+    "description": "TF02-i LiDAR: 40m range, RS485, IP65, ideal for UAVs & smart systems."
+  },
+  {
+    "name": "Micro: Maqueen Lite Educational Robot Kit",
+    "description": "Micro: Maqueen Lite is a micro:bit robot kit for STEAM education, ideal for ages 8+, supports Mind+ "
+  },
+  {
+    "name": "18650 Battery Protection Module: Safety & Efficiency",
+    "description": "The 18650 Battery Protection Module offers essential safeguards like overcharge and short-circuit pr"
+  },
+  {
+    "name": "Maqueen Plus V2: Enhanced STEM Robot for K12",
+    "description": "Maqueen Plus V2 offers advanced STEM education features, including expanded ports and micro:bit comp"
+  },
+  {
+    "name": "Maqueen Plus V2: Enhanced STEAM Robot",
+    "description": "Maqueen Plus V2 is an advanced micro:bit robot tailored for STEM education, featuring enhanced senso"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEAM Robot Kit",
+    "description": "Maqueen Plus V2 is a versatile robot kit for K12 STEM education, featuring easy assembly and enhance"
+  },
+  {
+    "name": "9g Servo for Maqueen: Reliable Metal Gear",
+    "description": "9g Servo for Maqueen offers metal gear, 180° rotation, and manual 360° rotation for smooth movement "
+  },
+  {
+    "name": "9g 300° Clutch Servo: Safe and Reliable Operation",
+    "description": "The 9g 300° Clutch Servo offers clutch function and electronic protection, preventing damage under c"
+  },
+  {
+    "name": "6Kg 180° Clutch Servo with Electronic Protection",
+    "description": "The 6Kg 180° clutch servo offers electronic protection to prevent damage, ideal for robotics and mod"
+  },
+  {
+    "name": "6Kg 300° Clutch Servo with Electronic Protection",
+    "description": "6Kg 300° clutch servo with electronic protection prevents damage in robotics and models, ensuring sm"
+  },
+  {
+    "name": "Transform Your Maqueen Plus with Mechanic-Push Kit",
+    "description": "Mechanic-Push kit transforms Maqueen Plus into a bulldozer, ideal for football and cleaning tasks, w"
+  },
+  {
+    "name": "Transform Maqueen into a Mechanic Beetle Kit",
+    "description": "Convert Maqueen Lite or Plus into a Mechanic Beetle with metal servo and parts. Ideal for educationa"
+  },
+  {
+    "name": "Maqueen Mechanic-Forklift Kit: Transform Your Robot",
+    "description": "Equip Maqueen Plus with the Mechanic-Forklift kit for forklift simulations, enabling hands-on mechan"
+  },
+  {
+    "name": "DC-DC Buck Converter Module: High Efficiency & Protection",
+    "description": "DC-DC buck converter provides 5V output, up to 16A, over 90% efficiency, with robust protection, ide"
+  },
+  {
+    "name": "Efficient DC-DC Step-Down Converter Module for 12V Output",
+    "description": "DC-DC converter reduces 15-24V to 12V with 95% efficiency, featuring protection and thermal manageme"
+  },
+  {
+    "name": "High-Precision ToF Laser Ranging Sensor for Robotics",
+    "description": "Ultra-lightweight ToF sensor with dToF technology for precise measurements up to 7.8m, ideal for rob"
+  },
+  {
+    "name": "Maqueen Plus V3: Advanced STEM Educational Robot Kit",
+    "description": "Maqueen Plus V3 is designed for STEM education, offering features like laser sensors and PID control"
+  },
+  {
+    "name": "Maqueen Lite V5: Effortless STEM Learning with Micro:bit",
+    "description": "Maqueen Lite V5 is a micro:bit-compatible STEM robot with effortless setup, powerful multitasking, a"
+  },
+  {
+    "name": "SLAMTEC Aurora: Revolutionizing Robot Navigation",
+    "description": "SLAMTEC Aurora combines LiDAR, vision, IMU, and AI for seamless 3D mapping and navigation, revolutio"
+  },
+  {
+    "name": "YDLIDAR GS5: Reliable Solid-State LiDAR for Robotics",
+    "description": "YDLIDAR GS5: Solid-state LiDAR sensor with 85° FOV, 1000mm range, ideal for AGVs and robotics, ensur"
+  },
+  {
+    "name": "Maqueen V5 N20 Motor Replacement Kit for Easy Repair",
+    "description": "Repair your Maqueen V5 easily with the N20 motor kit—includes all parts needed for a quick, solder-f"
+  },
+  {
+    "name": "Maqueen Plus V3 Motor Replacement Kit",
+    "description": "Effortlessly repair your Maqueen Plus V3 with the N20 motor kit, ensuring perfect compatibility and "
+  },
+  {
+    "name": "CS30 RGBD ToF Depth Camera: High-Fidelity 3D Vision",
+    "description": "The CS30 RGBD ToF Depth Camera integrates ToF and HD imaging for precise 3D perception, ideal for ro"
+  },
+  {
+    "name": "ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "description": "DFRobot's ST3215 Serial Bus Servo-12V 30kg 360° -- 2962"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966"
+  },
+  {
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967"
+  },
+  {
+    "name": "GNSS-RTK High Precision Positioning Kit(US) -- 2970",
+    "description": "DFRobot's GNSS-RTK High Precision Positioning Kit(US) -- 2970"
+  },
+  {
+    "name": "GNSS-RTK Kit: Centimeter-Level Positioning Accuracy",
+    "description": "Achieve high-precision positioning with GNSS-RTK Kit, featuring LoRa communication and multi-constel"
+  },
+  {
+    "name": "600kg Torque Industrial Servo: Precision & Durability",
+    "description": "Experience unmatched precision and reliability with the 600kg torque brushless servo, featuring IP65"
+  },
+  {
+    "name": "URM14 RS485 Ultrasonic Distance Sensor: Precision & Durability",
+    "description": "The URM14 RS485 ultrasonic sensor offers 1mm accuracy and IP65 protection for reliable industrial me"
+  },
+  {
+    "name": "Optimize Your Robot with Mecanum Wheels: 60mm Design",
+    "description": "Explore Mecanum wheels for robots, offering low noise, flexible control, and omnidirectional movemen"
+  },
+  {
+    "name": "Mecanum Wheel for Robot Cars: Omnidirectional Movement",
+    "description": "Mecanum wheels offer robot cars omnidirectional movement with low noise and high friction for stable"
+  },
+  {
+    "name": "Ultimate Mecanum Wheel for Omnidirectional Robot Cars",
+    "description": "Mecanum wheels offer omnidirectional movement for robots, allowing precision control even in tight s"
+  },
+  {
+    "name": "Optimize Your Robot with 97mm Mecanum Wheels",
+    "description": "97mm Mecanum wheels offer omnidirectional movement for robots with low noise and durable silicone ro"
+  },
+  {
+    "name": "Insectbot Hexa: The Ultimate DIY Six-legged Robot Kit",
+    "description": "Insectbot Hexa is a DIY robot kit with advanced features like Bluetooth connectivity and enhanced ob"
+  },
+  {
+    "name": "Explore Maqueen: Micro:bit Programming Robot for STEAM",
+    "description": "Maqueen is a micro:bit programming robot for STEAM education, enabling fun and engaging graphical pr"
+  },
+  {
+    "name": "Discover Maqueen: The Ultimate micro:bit Robot for STEM Learning",
+    "description": "Maqueen is a micro:bit robot for STEM education, offering easy programming and fostering logical thi"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Education Robot",
+    "description": "Maqueen Plus V2 is a versatile STEM robot optimized for micro:bit V2, enhancing educational experien"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "description": "Maqueen Plus V2 enhances STEM learning with micro:bit compatibility, improved sensors, and expansion"
+  },
+  {
+    "name": "20KG 180° Digital Servo with Formidable Torque",
+    "description": "The 20KG 180° waterproof digital servo offers formidable torque, copper gears, and dual ball bearing"
+  },
+  {
+    "name": "Brushless DC Motor MTO1804: Power and Efficiency",
+    "description": "The Brushless DC Motor MTO1804 is perfect for drones, offering high torque, efficiency, and durabili"
+  },
+  {
+    "name": "TF03 Long-Distance ToF LiDAR: Industrial-Grade Precision",
+    "description": "TF03 is a robust 100m range industrial-grade LiDAR sensor, ideal for drones, transportation, and saf"
+  },
+  {
+    "name": "TF-Luna: Compact ToF Single-Point LiDAR Solution",
+    "description": "TF-Luna LiDAR offers precise, sensitive range measurement, easy integration, and wide application in"
+  },
+  {
+    "name": "Transform Your Maqueen into a Loader with Mechanic Kit",
+    "description": "Maqueen Loader Kit allows simple transformation into a loader, ideal for K12 STEM education and hand"
+  },
+  {
+    "name": "Maqueen Loader Kit for Micro:bit STEM Education",
+    "description": "Maqueen Loader kit includes mechanical parts for transforming Maqueen into a loader, enhancing STEM "
+  },
+  {
+    "name": "Mecanum Wheel Right (48mm) for Omnidirectional Robots",
+    "description": "48mm Mecanum Wheel enables omnidirectional movement for robots with durable, low-noise operation and"
+  },
+  {
+    "name": "Explore the Versatile Mecanum Wheels for Robots",
+    "description": "Mecanum wheels enable robots to move in any direction, offering flexibility, low noise, and stabilit"
+  },
+  {
+    "name": "Discover Mecanum Wheels for Omnidirectional Robots",
+    "description": "Mecanum wheels enable omnidirectional movement for robots, perfect for versatile navigation in tight"
+  },
+  {
+    "name": "Mecanum Wheel Kit: 80mm Omnidirectional Control",
+    "description": "Mecanum wheels offer 80mm omnidirectional movement for robots, ideal for tight spaces with rugged, l"
+  },
+  {
+    "name": "2208 Three-Phase BLDC Motor with High-Precision Encoder",
+    "description": "The 2208 BLDC motor with AS5600 encoder provides high precision for FOC applications, ideal for robo"
+  },
+  {
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "description": "High-performance coreless motors, 50000rpm at 3.7V, ideal for DIY drone models and remote control pr"
+  },
+  {
+    "name": "Benewake TFS20-L ToF LiDAR Sensor for Drones & Robots",
+    "description": "The Benewake TFS20-L LiDAR sensor provides precise, long-range distance measurement ideal for UAVs a"
+  },
+  {
+    "name": "Metal Ball Caster - 15KG Load Lightweight Design",
+    "description": "Metal ball caster supports 15KG payload, offering smooth movement with 40 bearing balls and lightwei"
+  },
+  {
+    "name": "Devastator Tank Mobile Robot Platform: Durable & Swift",
+    "description": "Devastator Tank Mobile Platform is a durable, swift robot compatible with Arduino and Raspberry Pi, "
+  },
+  {
+    "name": "Maqueen: Easy-to-Use micro:bit Robot for STEAM Education",
+    "description": "Maqueen is a micro:bit robot for STEAM education, supporting Makecode and enhancing programming skil"
+  },
+  {
+    "name": "2WD Mobile Robot Platform for Arduino",
+    "description": "The 2WD Mobile Robot Platform for Arduino is a versatile, affordable kit for creating robots, featur"
+  },
+  {
+    "name": "Enhance Your Robot with LG-NS Gripper",
+    "description": "LG-NS robot gripper enhances small arms with 1.3\" clamp and 180-degree rotation, compatible with hob"
+  },
+  {
+    "name": "AA Battery Holder Case with DC 2.1 Jack and Switch",
+    "description": "Hold four AA batteries securely with a DC 2.1 jack, removable cover, and ON/OFF switch. Eco-friendly"
+  },
+  {
+    "name": "TF-NOVA Line Laser LiDAR: Enhanced Detection",
+    "description": "TF-NOVA Line Laser LiDAR offers enhanced detection with a 14° laser FoV, stable outdoor performance,"
+  },
+  {
+    "name": "2x3A DC Motor Driver Carrier for UNIHIKER M10",
+    "description": "Versatile 2x3A DC Motor Driver Carrier for UNIHIKER M10 with flexible power options, RGB lights, and"
+  },
+  {
+    "name": "83 RPM Metal DC Motor GB37Y3530 with Encoder",
+    "description": "The 83 RPM Metal DC Motor GB37Y3530-12V-83R is ideal for mobile robots with its powerful 12V operati"
+  },
+  {
+    "name": "Enhance Robot Mobility with 65mm Metal Mecanum Wheels",
+    "description": "Explore 65mm Metal Mecanum Wheels for flexible robot control. Easy installation, high-friction rolle"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "description": "Maqueen Plus V2 is a versatile robot optimized for STEM education, ideal for primary and secondary s"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Educational Robot",
+    "description": "Maqueen Plus V2 is a powerful STEM educational robot, ideal for students with enhanced features and "
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEAM Robot for Education",
+    "description": "Maqueen Plus V2, a STEAM robot with micro:bit compatibility, ideal for education and competitions, o"
+  },
+  {
+    "name": "Graphene Circular Flex Force Sensor: High Precision & Durability",
+    "description": "Graphene Circular Flex Force Sensor withstands up to 120°C, offering precision for robotics and indu"
+  },
+  {
+    "name": "M0601 Hub Motor: Integrated Design for Robotics",
+    "description": "The M0601 hub motor integrates motor, driver, and encoder for plug-and-play deployment, offering pre"
+  },
+  {
+    "name": "M0601 Hub Motor for AGVs and AMRs: Integrated Design",
+    "description": "The M0601 hub motor offers integrated design for robots, AGVs, AMRs, with precise control, low noise"
+  },
+  {
+    "name": "Explore RGB-D Camera: High-Resolution 3D ToF Imaging",
+    "description": "Explore RGB-D camera with 3D ToF technology, seamless Linux compatibility, Python SDK, and ROS1/ROS2"
+  },
+  {
+    "name": "Discover the Upgraded Maqueen Plus V2 for STEM Education",
+    "description": "Maqueen Plus V2 is a STEM educational robot featuring enhanced expansion ports, larger power supply,"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "description": "Maqueen Plus V2 is an upgraded STEM educational robot, optimized for micro:bit, with enhanced sensor"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "description": "Maqueen Plus V2 is an educational STEM robot optimized for micro:bit, offering expanded features and"
+  },
+  {
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "description": "Maqueen Plus V2 enhances STEM education with micro:bit compatibility and rich features, ideal for cl"
+  },
+  {
+    "name": "65mm Metal Mecanum Wheel - Left for Robot Cars",
+    "description": "65mm Metal Mecanum Wheel offers omnidirectional movement for robot cars, ensuring stability and easy"
+  },
+  {
+    "name": "Waterproof DC-DC Converter: 8-40V to 12V@6A",
+    "description": "Waterproof DC-DC converter transforms 8-40V to 12V@6A, ideal for embedded PC and robot power with hi"
+  },
+  {
+    "name": "Discover the 2Kg 180° Clutch Servo with Protection",
+    "description": "The 2Kg 180° Clutch Servo features clutch function and electronic protection, ideal for robotics and"
+  },
+  {
+    "name": "Waterproof DC-DC Converter: 12V@10A Supply",
+    "description": "Waterproof DC-DC converter with 15-40V input converts to 12V@10A, ideal for PCs and robots."
+  },
+  {
+    "name": "Waterproof DC-DC Converter: 8-40V to 24V@6A",
+    "description": "Waterproof DC-DC converter with 8-40V input, converts to 24V@6A, ideal for mobile robots and motors "
+  },
+  {
+    "name": "Maqueen Plus V3: Cutting-Edge STEM Robot Kit",
+    "description": "Maqueen Plus V3 is an advanced STEM robot with matrix laser sensors, PID control, and built-in algor"
+  },
+  {
+    "name": "Mini Vibration Motor: Compact & Powerful",
+    "description": "A 10*2.7mm mini vibration motor with strong vibration, low noise, easy embedding, and long lifespan."
+  },
+  {
+    "name": "Enhance Robot Navigation with RPLIDAR S3 LiDAR",
+    "description": "The RPLIDAR S3 features SLAMTEC's SL-TOF technology for precise 40m distance measurement, high-speed"
+  },
+  {
+    "name": "RDK X5 AI Board: Transform AI Robotics",
+    "description": "The RDK X5 AI Board empowers ROS robotics with 10 TOPS NPU, enabling real-time AI execution and seam"
+  },
+  {
+    "name": "High-Speed TFA300-L LiDAR for Drone Applications",
+    "description": "The TFA300-L LiDAR is a lightweight, high-speed sensor offering 10,000Hz frequency and 290m range fo"
+  },
+  {
+    "name": "ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "description": "DFRobot's ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961"
+  },
+  {
+    "name": "Serial Bus Servo Driver Board: Control Up to 253 Servos",
+    "description": "Efficiently control up to 253 bus servos with USB/UART interfaces, real-time feedback, and advanced "
+  },
+  {
+    "name": "Gravity: Haptic Motor Driver -- 3003",
+    "description": "DFRobot's Gravity: Haptic Motor Driver -- 3003"
+  },
+  {
+    "name": "9g 180° Clutch Servo with Electronic Protection",
+    "description": "The 9g 180° Clutch Servo offers clutch function and electronic protection, preventing damage in robo"
+  },
+  {
+    "name": "Versatile 2WD MiniQ Robot Platform for Education",
+    "description": "2WD MiniQ robot platform is compact, versatile, and ideal for educational use, featuring powerful me"
+  },
+  {
+    "name": "MiniQ Motor Wheel Set for Robotics Education",
+    "description": "MiniQ motor wheel set designed for educational robotics with metal gear motors and PID speed control"
+  },
+  {
+    "name": "Ultra Small Dual DC Motor Driver with UVLO & ESD Protection",
+    "description": "Ultra small Dual DC motor driver with UVLO, Photo Coupler isolation, and ESD protection for safe ope"
+  },
+  {
+    "name": "High-Quality Silicone Wheel for TT Motors",
+    "description": "Silicone wheel with ABS hub, designed for TT motors, enhances robot projects with soft tire and stun"
+  },
+  {
+    "name": "3D Depth Sensing with 8*8 Matrix Time-of-Flight Sensor",
+    "description": "The 8*8 Matrix ToF Sensor offers real-time depth data for robotics, gesture control, and smart autom"
+  },
+  {
+    "name": "High-Performance 2804 BLDC Motor with AS5600 Encoder",
+    "description": "2804 BLDC motor with AS5600 encoder offers high efficiency and precision, ideal for robotics and cam"
+  },
+  {
+    "name": "SimpleFOCmini: Compact BLDC Motor Control with FOC",
+    "description": "SimpleFOCmini offers compact, high-performance BLDC motor control with advanced FOC for precise torq"
+  },
+  {
+    "name": "DIY Spider Robot: Build Your Own Robotic Creature",
+    "description": "Create a DIY Spider Robot, customize its features, and learn robotic science. Perfect for children t"
+  },
+  {
+    "name": "Devastator Tank Mobile Robot Platform: Shock Absorption & Easy Programming",
+    "description": "The Devastator tank mobile robot platform offers robust construction, shock absorption, easy program"
+  },
+  {
+    "name": "20W Adjustable DC-DC Boost Converter with Display",
+    "description": "20W adjustable DC-DC boost converter with digital display offers high efficiency and protective func"
+  },
+  {
+    "name": "Micro:Maqueen - Educational Robot for STEM Learning",
+    "description": "Maqueen is a micro:bit robot platform for STEAM education, promoting science interest and logical th"
+  },
+  {
+    "name": "HCR Mobile Robot Kit: Versatile Home Care Robot Platform",
+    "description": "The HCR Mobile Robot Kit offers a versatile home care robot platform with enhanced sensors and expan"
+  },
+  {
+    "name": "DFRobot 4WD Mobile Platform for Arduino",
+    "description": "The DFRobot 4WD Mobile Platform for Arduino offers robust construction, flexibility for sensors, and"
+  },
+  {
+    "name": "RPLIDAR A1: Affordable 360° 2D Laser Scanner",
+    "description": "RPLIDAR A1 is a low-cost 360° laser scanner for mapping and localization, ideal for robotics and SLA"
+  },
+  {
+    "name": "Explore HuskyLens AI Vision Sensor With Mobile Robot",
+    "description": "HuskyLens AI vision sensor simplifies face recognition and object tracking, easily integrating with "
+  },
+  {
+    "name": "N20 Miniature Metal Motor: Compact, Efficient & Reliable",
+    "description": "The N20 Miniature Metal Motor is compact, reliable, and efficient, ideal for robots and mechanical m"
+  },
+  {
+    "name": "2-Way 18650 Battery Holder with USB-C & Protection",
+    "description": "A versatile 2-way 18650 battery holder with USB-C input, offering multiple outputs with protective f"
+  },
+  {
+    "name": "RPLIDAR A2M12: Advanced 360° LiDAR for Robotics",
+    "description": "RPLIDAR A2M12 provides 360-degree scanning with high precision for robotics, featuring low noise and"
+  },
+  {
+    "name": "20W LM2596 Buck Converter with Digital Display",
+    "description": "Adjustable 20W buck converter with LM2596, featuring digital display for precise voltage adjustments"
+  },
+  {
+    "name": "20W DC-DC Buck Converter Power Module 5V/4A Output",
+    "description": "20W DC-DC buck converter with 7-24V input and 5V/4A output, ideal for servos and LED strips, featuri"
+  },
+  {
+    "name": "High Performance Coreless Micro Motor for DIY Drones",
+    "description": "Explore powerful coreless motors for DIY drones, offering 55,000rpm speed and perfect for remote con"
+  },
+  {
+    "name": "Waterproof High Torque Servo with Metal Gear for Robotics",
+    "description": "Waterproof high-torque metal gear servo with IP67 rating, ideal for robotics and remote applications"
+  },
+  {
+    "name": "45KG Torque Brushless IP67 Waterproof Servo Motor",
+    "description": "A robust 45KG Torque Brushless Servo with IP67 waterproofing, ensuring precision and durability for "
+  },
+  {
+    "name": "ROCK 4 SE: Superior ARM SBC Performance",
+    "description": "ROCK 4 SE offers superior performance with Rockchip RK3399-T, extensive storage, and multimedia capa"
+  },
+  {
+    "name": "35kg Metal Waterproof Servo with Magnetic Encoder",
+    "description": "High-torque 35kg waterproof digital servo with magnetic encoder for precise control, ideal for robot"
+  },
+  {
+    "name": "2804 Brushless DC Motor with AS5600 Encoder for FOC",
+    "description": "Explore the 2804 brushless DC motor with AS5600 encoder for precise FOC control, perfect for robotic"
+  },
+  {
+    "name": "Unlock UNIHIKER K10's Potential with IO Extender",
+    "description": "The IO Extender for UNIHIKER K10 enhances power and connectivity for servos and AI cameras, ideal fo"
+  },
+  {
+    "name": "TT Motor Encoder Kit for Precise Wheel Rotation",
+    "description": "TT Motor Encoder Kit provides precise wheel rotation measurement, compatible with Arduino and Raspbe"
+  },
+  {
+    "name": "HCR Mobile Platform with Omni Wheels for Robotics",
+    "description": "HCR is a mobile robot platform with omni wheels, ideal for robotics research and development with Ar"
+  },
+  {
+    "name": "10 DOF Mems IMU Sensor: Compact and Versatile",
+    "description": "A compact 10 DOF Mems IMU Sensor integrating accelerometer, gyro, compass, and pressure sensor for v"
+  },
+  {
+    "name": "MPU6050: Advanced 6-Axis MotionTracking Sensor",
+    "description": "The MPU6050 is a 6-axis motion tracking sensor ideal for smartphones, wearables, and Arduino project"
+  },
+  {
+    "name": "MiniQ 2WD Robot Kit with Upper Deck Innovation",
+    "description": "The MiniQ 2WD Robot Kit includes an upper deck for sensor installation and prototyping, ideal for ed"
+  },
+  {
+    "name": "Romeo BLE: Arduino Motor Controller with BLE",
+    "description": "Romeo BLE is an Arduino-based controller with Bluetooth 4.0, allowing wireless updates, ideal for ro"
+  },
+  {
+    "name": "Enhanced 4WD MiniQ Mobile Robot for Education",
+    "description": "Upgraded 4WD MiniQ robot with Arduino Leonardo, improved off-road capacity, and education-focused tu"
+  },
+  {
+    "name": "Cherokey 4WD Robot Kit for Arduino Beginners",
+    "description": "Cherokey 4WD Robot Kit for Arduino: Learn robotics, sensors, Bluetooth, obstacle avoidance, remote c"
+  },
+  {
+    "name": "Brushless DC Motor with Encoder: Easy Control & High Efficiency",
+    "description": "Introducing the brushless DC motor with built-in driver for easy Arduino integration, featuring PWM "
+  },
+  {
+    "name": "Romeo BLE Mini V2.0: Compact Robot Control Board",
+    "description": "Romeo BLE Mini V2.0 offers Bluetooth 4.0 and TB6612 motor driver for compact robotics solutions, ide"
+  },
+  {
+    "name": "ZL9NSQ Wireless IMU Sensor: High Precision Motion Capture",
+    "description": "The ZL9NSQ 9-axis IMU sensor provides high precision motion capture for VR and robotics, featuring w"
+  },
+  {
+    "name": "Romeo V2 Robot Control Board with Motor Driver",
+    "description": "Romeo V2 is a robot control board with Arduino compatibility, featuring motor driver and ATmega32u4 "
+  },
+  {
+    "name": "LilyPad SimpleSnap: Modular E-Textile Innovation",
+    "description": "LilyPad SimpleSnap offers modular e-textile design with a rechargeable battery, ideal for removable "
+  },
+  {
+    "name": "Intel CurieCore: Compact Bluetooth Module for Developers",
+    "description": "CurieCore is a compact Intel Curie module with Bluetooth, ideal for robotics and wearable projects, "
+  },
+  {
+    "name": "M1W Dock AI Development Kit with K210 Chip for AI Enthusiasts",
+    "description": "The M1W Dock AI Kit with K210 chip supports advanced AI tasks like face and voice recognition."
+  },
+  {
+    "name": "Unlock AI with the M1 Dock Development Kit",
+    "description": "M1 Dock AI kit with K210 chip enables advanced AI features like face detection and voice recognition"
+  },
+  {
+    "name": "Argon IoT Development Board: Wi-Fi & Mesh Connectivity",
+    "description": "The Argon board offers Wi-Fi, Mesh, and Bluetooth 5, ideal for IoT projects with Particle Cloud supp"
+  },
+  {
+    "name": "DreamMaker Overlord 3D Printer Mainboard V1.0 Overview",
+    "description": "DreamMaker Overlord 3D Printer Mainboard V1.0 uses Arduino Mega2560 for efficient control, suitable "
+  },
+  {
+    "name": "Compact Beetle RP2040 Development Board",
+    "description": "Beetle RP2040 board offers a compact design, dual-core processor, and flexible GPIO ports for variou"
+  },
+  {
+    "name": "ART-Pi STM32H750: High-Performance Development Board",
+    "description": "Discover the ART-Pi STM32H750 board with a robust Cortex-M7 MCU, ideal for DIY projects and embedded"
+  },
+  {
+    "name": "FireBeetle 2 M0: High-Performance ARM Cortex M0+ Board",
+    "description": "FireBeetle 2 M0 offers ARM Cortex M0+, SPI Flash, and RGB LED for versatile DIY applications."
+  },
+  {
+    "name": "Beetle RP2350: Compact High-Performance Dev Board",
+    "description": "The Beetle RP2350 is a compact, high-performance dev board with dual-core processing, ideal for wear"
+  },
+  {
+    "name": "Calliope Mini Development Board for STEM Education",
+    "description": "Calliope Mini, ideal for STEM education, features nRF51822, Bluetooth, IMU, and unique connectivity "
+  },
+  {
+    "name": "Compact STM32F411 Development Board for Advanced Users",
+    "description": "STM32F411 dev board offers 512KB ROM, 128KB SRAM, 100MHz speed. Supports MicroPython and Arduino, id"
+  },
+  {
+    "name": "Maixduino AI Development Kit: RISC-V AI Processor",
+    "description": "Maixduino AI Development Kit combines K210 RISC-V AI processor and ESP32 module, perfect for AI appl"
+  },
+  {
+    "name": "Maixduino AI Development Board with ESP32 & GC0328 Camera",
+    "description": "Maixduino board with K210 processor, ESP32, and GC0328 camera, supports AI projects in smart home, m"
+  },
+  {
+    "name": "K210 AI Chip Module: High Performance & Efficiency",
+    "description": "K210 AI chip provides faster AI execution with low energy use, featuring dual-core processors, neura"
+  },
+  {
+    "name": "Maix Bit: AI Development Board with K210 RISC-V",
+    "description": "Maix Bit AI board features K210 RISC-V chip, dual-core processor, AI algorithms, and MicroPython sup"
+  },
+  {
+    "name": "Enhance Your WRTnode with Standard Shield for OpenWRT",
+    "description": "The standard shield enhances WRTnode by expanding GPIO, SPI, I2C, USB interfaces, and Ethernet conne"
+  },
+  {
+    "name": "Maix Bit AI Development Board with K210 RISC-V Chip",
+    "description": "Maix Bit AI board with K210 chip offers MicroPython support and AI capabilities, compatible with Ope"
+  },
+  {
+    "name": "LoRaWAN Control Terminal (868MHz) -- 3024",
+    "description": "DFRobot's LoRaWAN Control Terminal (868MHz) -- 3024"
+  },
+  {
+    "name": "PYNQ-Z2 FPGA Development Board: Unlock Embedded Potential",
+    "description": "The PYNQ-Z2 FPGA board revolutionizes embedded design with ZYNQ SoCs, enabling Python-based programm"
+  },
+  {
+    "name": "ESP32-S3 LoRaWAN Development Board for IoT Projects",
+    "description": "The ESP32-S3 LoRaWAN board simplifies IoT prototyping with Arduino compatibility and plug-and-play s"
+  },
+  {
+    "name": "LoRaWAN Control Terminal (915MHz) -- 3023",
+    "description": "DFRobot's LoRaWAN Control Terminal (915MHz) -- 3023"
+  },
+  {
+    "name": "Wido IoT Node: Arduino Compatible WiFi Development Board",
+    "description": "Wido is an Arduino compatible WiFi IoT Node with ATMEL ATmega32U4, ideal for M2M and smart home appl"
+  },
+  {
+    "name": "Photon 2: Versatile IOT Development Module",
+    "description": "Photon 2 offers dual-band Wi-Fi, BLE, enhanced memory, ideal for IoT projects, and smooth transition"
+  },
+  {
+    "name": "10 Segment LED Bar Graph for Easy Prototyping",
+    "description": "10 segment bar graph LEDs offer easy prototyping for audio equipment and more, featuring low power c"
+  },
+  {
+    "name": "Enhance Arduino Projects with 7 Segment LED Keypad Shield",
+    "description": "Upgrade your Arduino setup with the 7 segment LED Keypad Shield featuring easy I2C control and a 4 d"
+  }
+]
