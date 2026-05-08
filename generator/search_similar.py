@@ -61,8 +61,18 @@ def search_similar(idea: dict) -> dict:
         "temperature": 0.3,
     }
 
-    resp = requests.post(XAI_API_URL, json=payload, headers=headers, timeout=60)
-    resp.raise_for_status()
+    for attempt in range(3):
+        try:
+            resp = requests.post(XAI_API_URL, json=payload, headers=headers, timeout=90)
+            resp.raise_for_status()
+            break
+        except (requests.Timeout, requests.ConnectionError) as e:
+            if attempt < 2:
+                wait = (attempt + 1) * 5
+                print(f"    Retry {attempt+1}/2 after {wait}s ({e.__class__.__name__})")
+                time.sleep(wait)
+            else:
+                raise
     data = resp.json()
 
     text = data["choices"][0]["message"]["content"]
