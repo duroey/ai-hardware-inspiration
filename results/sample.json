@@ -1,0 +1,172 @@
+[
+  {
+    "scene": "实时监测穿着者周围风速，提供风力预警和户外活动建议",
+    "selling_point": "智能穿戴，风速实时预警，户外安全助手",
+    "audience": "户外运动爱好者、登山者、风筝冲浪者",
+    "feasibility": 3,
+    "extra_models": [
+      "Weather Forecasting",
+      "Risk Assessment"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "风速传感器",
+    "model": "Tabular Regression",
+    "actuator": "LCD显示屏",
+    "carrier": "裙子",
+    "combination_id": "风速传感器__Tabular Regression__LCD显示屏__裙子"
+  },
+  {
+    "scene": "检测笔周围空气质量，振动提醒用户空气污染水平",
+    "selling_point": "便携式空气质量监测笔，污染即时预警",
+    "audience": "关注健康的上班族、学生、敏感人群",
+    "feasibility": 2,
+    "extra_models": [
+      "Air Quality Prediction",
+      "Health Risk Assessment"
+    ],
+    "valid": false,
+    "reason": "中性笔形态不适合安装粉尘传感器；文本生成模型与振动电机无逻辑关联；笔的电源和空间限制难以支撑传感系统",
+    "sensor": "粉尘传感器",
+    "model": "Text Generation",
+    "actuator": "振动电机",
+    "carrier": "中性笔",
+    "combination_id": "粉尘传感器__Text Generation__振动电机__中性笔"
+  },
+  {
+    "scene": "游戏手柄/方向盘中集成转向角度检测，智能识别驾驶/游戏操作意图",
+    "selling_point": "智能操控识别，自适应反馈增强，沉浸式体验",
+    "audience": "竞技游戏玩家、专业赛车模拟爱好者、VR用户",
+    "feasibility": 4,
+    "extra_models": [
+      "Intent Recognition",
+      "Gesture Prediction"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "旋转传感器",
+    "model": "Tabular Classification",
+    "actuator": "DC-DC转换器",
+    "carrier": "手柄/方向盘",
+    "combination_id": "旋转传感器__Tabular Classification__DC-DC转换器__手柄/方向盘"
+  },
+  {
+    "scene": "员工指纹识别+实时视频分析生成工作报告，在啤酒机上实时展示",
+    "selling_point": "员工打卡自动生成工作日志，透明高效的工作追踪",
+    "audience": "企业HR、工厂/酒吧管理者、大型商用场景",
+    "feasibility": 2,
+    "extra_models": [
+      "Activity Recognition",
+      "Report Generation"
+    ],
+    "valid": false,
+    "reason": "商用啤酒机作为载体不合理，隐私风险极高；在饮料机上进行员工监控伦理问题严重；视频-文本模型与LED显示冗余",
+    "sensor": "指纹传感器",
+    "model": "Video-Text-to-Text",
+    "actuator": "LED显示屏",
+    "carrier": "商用啤酒机",
+    "combination_id": "指纹传感器__Video-Text-to-Text__LED显示屏__商用啤酒机"
+  },
+  {
+    "scene": "监测如厕人员活动，健康异常时振动警示，关联个人健康数据查询",
+    "selling_point": "健康监护马桶垫，异常情况即时预警，家庭健康助手",
+    "audience": "老年人、慢性病患者、重症患者家属、养老机构",
+    "feasibility": 3,
+    "extra_models": [
+      "Health Anomaly Detection",
+      "Personal Health QA"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "运动传感器",
+    "model": "Table Question Answering",
+    "actuator": "振动电机",
+    "carrier": "马桶垫",
+    "combination_id": "运动传感器__Table Question Answering__振动电机__马桶垫"
+  },
+  {
+    "scene": "家庭标签自动生成与定位，机械臂精准放置商品标签",
+    "selling_point": "AI识别商品+机械臂自动贴标，家庭库存管理自动化",
+    "audience": "家庭整理爱好者、小微零售商户",
+    "feasibility": 3,
+    "extra_models": [
+      "Object Detection",
+      "Pose Estimation"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "条码扫描器",
+    "model": "Keypoint Detection",
+    "actuator": "机械臂",
+    "carrier": "家用标签定制",
+    "combination_id": "条码扫描器__Keypoint Detection__机械臂__家用标签定制"
+  },
+  {
+    "scene": "智能插座漏水预警，通过视觉搜索历史报警数据辅助判断",
+    "selling_point": "检测漏水+智能断电保护，防止用电安全隐患",
+    "audience": "家庭安全意识强用户、智能家居用户",
+    "feasibility": 2,
+    "extra_models": [
+      "Anomaly Detection",
+      "Time Series Analysis"
+    ],
+    "valid": false,
+    "reason": "Visual Document Retrieval与漏水检测场景不适配，应用DC-DC转换器也无必要；建议用异常检测模型替代",
+    "sensor": "漏水传感器",
+    "model": "Visual Document Retrieval",
+    "actuator": "DC-DC转换器",
+    "carrier": "轨道插座",
+    "combination_id": "漏水传感器__Visual Document Retrieval__DC-DC转换器__轨道插座"
+  },
+  {
+    "scene": "体温异常者实时追踪与隔离，移动机器人主动靠近高热患者",
+    "selling_point": "红外热成像+AI追踪+自主移动，疫情防控/医疗场景智能巡检",
+    "audience": "医疗机构、隔离点、公共卫生部门",
+    "feasibility": 3,
+    "extra_models": [
+      "Person Tracking",
+      "Temperature Anomaly Detection"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "热像仪",
+    "model": "Video-to-Video",
+    "actuator": "麦克纳姆轮",
+    "carrier": "其它健康电器",
+    "combination_id": "热像仪__Video-to-Video__麦克纳姆轮__其它健康电器"
+  },
+  {
+    "scene": "智能柜环境监测与智能问答，用户语音查询物品存储条件",
+    "selling_point": "温湿度监测+AI问答，智能柜自动调节与用户交互",
+    "audience": "高端酒柜/茶叶柜用户、博物馆文物柜管理员",
+    "feasibility": 4,
+    "extra_models": [
+      "Condition Optimization",
+      "Intent Recognition"
+    ],
+    "valid": true,
+    "reason": "",
+    "sensor": "温湿度传感器",
+    "model": "Question Answering",
+    "actuator": "电磁锁",
+    "carrier": "柜类",
+    "combination_id": "温湿度传感器__Question Answering__电磁锁__柜类"
+  },
+  {
+    "scene": "室内空气质量监测与净化，粉尘数据驱动智能风机调速",
+    "selling_point": "粉尘实时监测+AI优化+自适应净化，健康呼吸保障",
+    "audience": "过敏人群、呼吸系统患者、家庭用户",
+    "feasibility": 5,
+    "extra_models": [
+      "Predictive Maintenance",
+      "Air Quality Forecasting"
+    ],
+    "valid": false,
+    "reason": "Fill-Mask模型（NLP掩码预测）与粉尘控制无关联；心理学载体与硬件产品不匹配；应使用环境预测模型替代",
+    "sensor": "粉尘传感器",
+    "model": "Fill-Mask",
+    "actuator": "无刷电机",
+    "carrier": "心理学",
+    "combination_id": "粉尘传感器__Fill-Mask__无刷电机__心理学"
+  }
+]

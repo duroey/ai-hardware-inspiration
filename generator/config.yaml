@@ -1,0 +1,5 @@
+model: bedrock-claude-haiku
+batch_size: 100
+max_combinations_per_call: 10
+output_dir: ../results
+catalog_dir: ../catalog
