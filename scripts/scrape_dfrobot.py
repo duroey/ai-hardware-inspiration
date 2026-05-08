@@ -15,15 +15,13 @@ HEADERS = {
     "Accept": "application/json",
 }
 
-# DFRobot category IDs (from their category page URLs: /category-{id}.html)
+# DFRobot category IDs (from /api/main/category/top)
 CATEGORIES = {
     "sensors": {"id": "36", "label": "Sensors"},
-    "actuators": {"id": "173", "label": "Actuators"},
-    "motors": {"id": "49", "label": "Motors & Servos"},
-    "displays": {"id": "53", "label": "Displays"},
-    "leds": {"id": "54", "label": "LEDs"},
-    "relays": {"id": "133", "label": "Relays"},
-    "robotics": {"id": "77", "label": "Robotics"},
+    "motors_actuators": {"id": "51", "label": "Motors & Actuators & Drivers"},
+    "displays": {"id": "53", "label": "LCDs/LEDs/E-ink/Displays"},
+    "robotics": {"id": "279", "label": "Robotics"},
+    "robot_kits": {"id": "160", "label": "Robot Kits"},
     "communication": {"id": "52", "label": "Communication"},
 }
 

@@ -1,0 +1,3392 @@
+[
+  {
+    "product_id": 2403,
+    "name": "Ultra Thin 5V Ice Blue LED Strip - 60 LEDs/m",
+    "sku": "FIT0841",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-thin 5V Ice Blue LED strip with 60 LEDs/m, ideal for narrow spaces and DIY projects.",
+    "url": "https://www.dfrobot.com/product-2403.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0841/FIT0841_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 636,
+    "name": "10 Segment LED Bar Graph for Easy Prototyping",
+    "sku": "FIT0188",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Segment LCDs"
+    ],
+    "category_ids": [
+      "53",
+      "133",
+      "156",
+      "277"
+    ],
+    "description": "10 segment bar graph LEDs offer easy prototyping for audio equipment and more, featuring low power consumption and bright red color.",
+    "url": "https://www.dfrobot.com/product-636.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0188/SP/IMGP9525.jpg",
+    "price": "1.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 451,
+    "name": "Standard 16x2 Character LCD Display",
+    "sku": "FIT0127",
+    "categories": [
+      "All Products",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156"
+    ],
+    "description": "Standard 16x2 LCD with blue background and white text, compatible with I2C backpack.",
+    "url": "https://www.dfrobot.com/product-451.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0127/FIT0127_Main_01.jpg",
+    "price": "3.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 456,
+    "name": "Standard 16x2 Character LCD Display - 5V",
+    "sku": "FIT0128",
+    "categories": [
+      "All Products",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156"
+    ],
+    "description": "Explore the 16x2 character LCD with 5V supply, yellow background, and black characters. Ideal for diverse projects.",
+    "url": "https://www.dfrobot.com/product-456.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0128/FIT0128_Main_01.jpg",
+    "price": "1.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 491,
+    "name": "Green LED Light Module for Arduino Beginners",
+    "sku": "DFR0021-G",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Green LED module for Arduino starters, safe setup with IO/Sensor shield. Includes digital sensor cable.",
+    "url": "https://www.dfrobot.com/product-491.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0021-G/DFR0021-G_Detail_004.jpg",
+    "price": "1.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 232,
+    "name": "Optimize Your Arduino Projects with Piranha LED",
+    "sku": "DFR0031-W",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Piranha LED module enhances Arduino projects with PWM brightness control and ambient sensor interaction for dynamic light applications.",
+    "url": "https://www.dfrobot.com/product-232.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0031-W/DFR0031-W_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1555,
+    "name": "8x8 RGB LED Matrix Module with WS2812 Control",
+    "sku": "DFR0459",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "8x8 RGB LED Matrix with WS2812 LEDs offers 16777216 colors, 256 brightness levels, and supports cascading control with Arduino library.",
+    "url": "https://www.dfrobot.com/product-1555.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0459/DFR0459_Main_01.jpg",
+    "price": "25",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1556,
+    "name": "Flexible 8x32 RGB LED Matrix Module - Gravity",
+    "sku": "DFR0462",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "A flexible 8x32 RGB LED Matrix module, compatible with Arduino, features WS2812/SK6812 LEDs and supports cascading control.",
+    "url": "https://www.dfrobot.com/product-1556.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0462/DFR0462_Detail_08.jpg",
+    "price": "45",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1557,
+    "name": "Flexible 8x8 RGB LED Matrix: Cascade Control",
+    "sku": "DFR0461",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "Sales"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "237",
+      "282"
+    ],
+    "description": "Explore the Flexible 8x8 RGB LED Matrix, featuring WS2812 or SK6812 LEDs, offering cascade control and Arduino integration.",
+    "url": "https://www.dfrobot.com/product-1557.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0461/DFR0461_Detail_08.jpg",
+    "price": "19",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1562,
+    "name": "Flexible 16x16 RGB LED Matrix: Full Color Control",
+    "sku": "DFR0463",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "The Flexible 16x16 RGB LED Matrix offers full color control with WS2812 or SK6812 LEDs, compatible with Arduino for cascading control.",
+    "url": "https://www.dfrobot.com/product-1562.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0463/DFR0463_Main_01.jpg",
+    "price": "45",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1569,
+    "name": "Control 64x32 RGB LED Matrix Panel with Raspberry Pi",
+    "sku": "DFR0460",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 64x32 RGB LED Matrix Panel with 2048 LEDs is ideal for dynamic displays with Raspberry Pi, perfect for indoor and outdoor use.",
+    "url": "https://www.dfrobot.com/product-1569.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0460/DFR0460_260213 (1).jpg",
+    "price": "49",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1593,
+    "name": "FireBeetle 24x8 LED Matrix: IoT Display Solution",
+    "sku": "DFR0484",
+    "categories": [
+      "All Products",
+      "FireBeetle (ESP32 / ESP8266)",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "276",
+      "302"
+    ],
+    "description": "FireBeetle 24x8 LED Matrix is perfect for IoT projects, offering low power consumption, Arduino compatibility, and dynamic display features.",
+    "url": "https://www.dfrobot.com/product-1593.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0484/DFR0484_Detail_010.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1595,
+    "name": "FireBeetle 24x8 LED Matrix: Low Power IoT Display",
+    "sku": "DFR0485",
+    "categories": [
+      "All Products",
+      "FireBeetle (ESP32 / ESP8266)",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "276",
+      "302"
+    ],
+    "description": "The FireBeetle 24x8 LED Matrix offers low-power consumption and compatibility with Arduino, making it ideal for IoT applications.",
+    "url": "https://www.dfrobot.com/product-1595.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0485/DFR0485_Detail_010.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1596,
+    "name": "FireBeetle 24x8 LED Matrix: Low Power IoT Display",
+    "sku": "DFR0487",
+    "categories": [
+      "All Products",
+      "FireBeetle (ESP32 / ESP8266)",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "276",
+      "302"
+    ],
+    "description": "FireBeetle 24x8 LED Matrix offers low-power use, ideal for IoT with HT1632C driver and Arduino compatibility.",
+    "url": "https://www.dfrobot.com/product-1596.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0487/DFR0487_Detail_06.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1597,
+    "name": "FireBeetle 24x8 LED Matrix Display for IoT Applications",
+    "sku": "DFR0488",
+    "categories": [
+      "All Products",
+      "FireBeetle (ESP32 / ESP8266)",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "276",
+      "302"
+    ],
+    "description": "FireBeetle 24x8 LED Matrix is designed for IoT, featuring low-power HT1632C chip, Arduino compatibility, and scrolling display.",
+    "url": "https://www.dfrobot.com/product-1597.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0488/DFR0488_Detail_07.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1602,
+    "name": "Gravity Colorful LED: Easy Cascade Control",
+    "sku": "DFR0474",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Gravity Colorful LED module offers seven colors, easy cascade control, and creates a harmonious atmosphere.",
+    "url": "https://www.dfrobot.com/product-1602.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0474/DFR0474_ShipList_06.jpg",
+    "price": "1.95",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1609,
+    "name": "Colorful I2C 16x2 Arduino LCD with RGB Backlight",
+    "sku": "DFR0464",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "DFR0464 I2C 16x2 Arduino LCD offers RGB backlight with 16 million colors, utilizing I2C interface for efficient pin use in projects.",
+    "url": "https://www.dfrobot.com/product-1609.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0464/DFR0464_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1639,
+    "name": "32x32 RGB LED Matrix Panel - High Brightness Display",
+    "sku": "DFR0472",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "1024 full-color RGB LEDs make up this versatile 32x32 matrix panel, ideal for high brightness displays indoors and outdoors.",
+    "url": "https://www.dfrobot.com/product-1639.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0472/DFR0472_Main_01.jpg",
+    "price": "38.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1644,
+    "name": "64x64 RGB LED Matrix Panel - High Brightness & Versatile",
+    "sku": "DFR0499",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 64x64 RGB LED Matrix Panel offers vibrant, pollution-free displays with 4096 LEDs, suitable for high-speed microcontrollers.",
+    "url": "https://www.dfrobot.com/product-1644.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0499/DFR0499-45度900x600.jpg",
+    "price": "59",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1657,
+    "name": "10.1\" IPS Display for LattePanda V1: High-Resolution Monitor",
+    "sku": "FIT0515",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "10.1\" IPS display designed for LattePanda V1, connects via FPC cable, freeing HDMI for dual-screen projects.",
+    "url": "https://www.dfrobot.com/product-1657.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0515/FIT0515_Detail_13.jpg",
+    "price": "119",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1829,
+    "name": "Enhance Your Space with 5050 RGB LED Strip Lights",
+    "sku": "FIT0614",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "5050 RGB LED strips offer vibrant, flexible lighting for decor and projects, with 300 LEDs and stunning effects.",
+    "url": "https://www.dfrobot.com/product-1829.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0614/FIT0614-detail-004.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1833,
+    "name": "Flexible RGB LED Matrix Panel - 64x32, 256x128mm",
+    "sku": "DFR0595",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Flexible 64x32 RGB LED Matrix Panel offers creative freedom with 4mm pitch and 256x128mm size. Ideal for microcontroller projects like Raspberry Pi.",
+    "url": "https://www.dfrobot.com/product-1833.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0595/DFR0595_Detail_07.jpg",
+    "price": "79",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1835,
+    "name": "Digital RGB LED Strip - Bright, Flexible and Easy to Use",
+    "sku": "FIT0612",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Explore the WS2812 RGB LED strip with 256 brightness levels and 16 million colors. Perfect for DIY and home decor.",
+    "url": "https://www.dfrobot.com/product-1835.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0612/FIT0612_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1848,
+    "name": "Gravity: Digital RGB LED Module - High Performance & Flexibility",
+    "sku": "DFR0605",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Gravity Digital RGB LED Module offers cascading WS2812 LEDs with low power consumption, compatible with Arduino and Raspberry Pi.",
+    "url": "https://www.dfrobot.com/product-1848.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0605/DFR0605_Main_01.jpg",
+    "price": "1.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1858,
+    "name": "Flexible RGB LED Matrix: 64x32 P5 Panel",
+    "sku": "DFR0596",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156"
+    ],
+    "description": "Discover the flexible 64x32 RGB LED Matrix Panel, ideal for creative projects with Raspberry Pi or Mega 2560 control.",
+    "url": "https://www.dfrobot.com/product-1858.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0596/DFR0596_Main_01.jpg",
+    "price": "69",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1885,
+    "name": "2*16 RGB LCD Keypad HAT for Raspberry Pi",
+    "sku": "DFR0514",
+    "categories": [
+      "All Products",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "272"
+    ],
+    "description": "This 2*16 RGB LCD+Keypad plate for Raspberry Pi offers I2C interface and adjustable RGB backlight for enhanced data monitoring and control.",
+    "url": "https://www.dfrobot.com/product-1885.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0514/DFR0514_250325 (1).jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1723,
+    "name": "Enhanced LCD1602 Module: I2C Gravity Series Display",
+    "sku": "DFR0556",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "Optimized LCD1602 module with I2C, 3.3V/5V compatibility, green backlight. Ideal for electronics enthusiasts and Arduino projects.",
+    "url": "https://www.dfrobot.com/product-1723.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0556/DFR0556_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1724,
+    "name": "Optimized Gravity I2C LCD1602 Display Module",
+    "sku": "DFR0555",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "The Gravity I2C LCD1602 module features adjustable contrast and voltage compatibility for improved functionality and user experience.",
+    "url": "https://www.dfrobot.com/product-1724.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0555/DFR0555_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1725,
+    "name": "Gravity: I2C 8x16 RGB LED Matrix Panel - Versatile Display",
+    "sku": "DFR0522",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "282"
+    ],
+    "description": "Gravity: I2C 8x16 RGB LED Matrix Panel supports custom images and easy control, ideal for robots and smart home systems.",
+    "url": "https://www.dfrobot.com/product-1725.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0522/DFR0522_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1737,
+    "name": "RGB LCD1602: A New Visual Experience",
+    "sku": "DFR0554",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "RGB LCD1602 offers full-color font support, 16 million colors, easy Arduino integration via Gravity I2C interface.",
+    "url": "https://www.dfrobot.com/product-1737.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0554/DFR0554_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1744,
+    "name": "FireBeetle OLED12864 Display for IoT Projects",
+    "sku": "DFR0507",
+    "categories": [
+      "All Products",
+      "FireBeetle (ESP32 / ESP8266)",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "276",
+      "302"
+    ],
+    "description": "The FireBeetle OLED12864 Display is perfect for IoT projects, offering 128x64 resolution, SSD1360 driver IC, and support for Arduino and microPython.",
+    "url": "https://www.dfrobot.com/product-1744.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0507/DFR0507_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1784,
+    "name": "5\" Raspberry Pi LCD Touchscreen: High Resolution, Multiple Touch Points",
+    "sku": "DFR0550",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272"
+    ],
+    "description": "5\" Raspberry Pi LCD touchscreen with 800x480 resolution, DSI interface, capacitive touch panel, and 5 touch points for enhanced interaction.",
+    "url": "https://www.dfrobot.com/product-1784.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0550/DFR0550_Detail_08.jpg",
+    "price": "44.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1499,
+    "name": "Battery Capacity Indicator for Easy Monitoring",
+    "sku": "FIT0466",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "User-friendly Battery Capacity Indicator for clear battery info with 3.3V-5.5V operation and 8 brightness levels.",
+    "url": "https://www.dfrobot.com/product-1499.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0466/FIT0466_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1501,
+    "name": "10.1\" IPS Display for Raspberry Pi & LattePanda",
+    "sku": "FIT0476",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272",
+      "278"
+    ],
+    "description": "The 10.1 inch 1280x800 IPS display is compatible with Raspberry Pi and LattePanda, offering HDMI/VGA/AV interfaces for diverse projects.",
+    "url": "https://www.dfrobot.com/product-1501.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0476/FIT0476_Main_01.jpg",
+    "price": "119",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1511,
+    "name": "Bright LED Module for Special Applications",
+    "sku": "DFR0438",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "The Bright LED Module offers intense lighting for special applications, compatible with gravity 3-Pin interface, easy to use.",
+    "url": "https://www.dfrobot.com/product-1511.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0438/DFR0438_Main_01.jpg",
+    "price": "2.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1514,
+    "name": "Portable OLED Display for Raspberry Pi Projects",
+    "sku": "DFR0413",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs",
+      "Raspberry Pi"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "272"
+    ],
+    "description": "A portable 0.96\" OLED display for Raspberry Pi projects, featuring high contrast and wide viewing angle.",
+    "url": "https://www.dfrobot.com/product-1514.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0413/DFR0413_Main_01.jpg",
+    "price": "23.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1544,
+    "name": "Warm White LED String Lights for Versatile Decoration",
+    "sku": "DFR0448",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Warm white LED string lights for versatile decoration. Compatible with Arduino and Raspberry Pi, suitable for indoor and outdoor use.",
+    "url": "https://www.dfrobot.com/product-1544.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0448/DFR0448_ShipList_06.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1545,
+    "name": "Colorful LED String Lights - Versatile Decor",
+    "sku": "DFR0439",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Colorful LED string lights offer versatile decoration for indoor and outdoor spaces, compatible with Arduino and Raspberry Pi.",
+    "url": "https://www.dfrobot.com/product-1545.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0439/DFR0439_Detail_06.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 994,
+    "name": "2.7 Inch OLED Display for Arduino: High Quality & Affordable",
+    "sku": "FIT0328",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "276",
+      "277"
+    ],
+    "description": "2.7 inch OLED display offers 128x64 resolution, Arduino compatibility, and great image quality. Ideal for projects in dark settings.",
+    "url": "https://www.dfrobot.com/product-994.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0328/FIT0328_Main_01.jpg",
+    "price": "42",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1414,
+    "name": "LattePanda V1 Touch Panel Overlay",
+    "sku": "FIT0478",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "Capacitive touch panel overlay for LattePanda V1, offering improved interface. Pre-installed drivers for boards after May 2016.",
+    "url": "https://www.dfrobot.com/product-1414.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0478/FIT0478_Main_01.jpg",
+    "price": "19",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 900,
+    "name": "Programmable RGB LED Module for Arduino",
+    "sku": "DFR0238",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Programmable RGB LED module for dynamic displays, ideal for hobbyists and designers. Easy to integrate into existing projects.",
+    "url": "https://www.dfrobot.com/product-900.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0238/DFR0238_Main_01.jpg",
+    "price": "1.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2680,
+    "name": "Flexible LED Filament: Perfect for DIY Lighting Projects",
+    "sku": "FIT0927",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Explore the 1200mm flexible LED filament, ideal for DIY lighting, with 640 LEDs, 360° illumination, and adjustable brightness. Requires 21-24V power supply.",
+    "url": "https://www.dfrobot.com/product-2680.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0927/FIT0927_Detail_07.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2682,
+    "name": "Flexible LED Filament: 360° Lighting Solution",
+    "sku": "FIT0929",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "1200mm flexible LED filament with 640 LEDs, ideal for DIY lighting with 360° coverage and adjustable brightness.",
+    "url": "https://www.dfrobot.com/product-2682.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0929/FIT0929_Main_01.jpg",
+    "price": "13.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2683,
+    "name": "High-Brightness Flexible LED Filament for DIY Projects",
+    "sku": "FIT0930",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "1200mm LED filament with 640 LEDs for DIY lighting, offering 360° coverage, adjustable brightness, and requiring 21-24V power supply.",
+    "url": "https://www.dfrobot.com/product-2683.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0930/FIT0930_Main_01.jpg",
+    "price": "13.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2684,
+    "name": "Flexible LED Filament: Perfect for DIY Lighting",
+    "sku": "FIT0931",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "640 LEDs in a 1200mm flexible filament, perfect for 360° DIY lighting, requires 21-24V power supply.",
+    "url": "https://www.dfrobot.com/product-2684.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0931/FIT0931_Main_01.jpg",
+    "price": "13.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2758,
+    "name": "Arduino GIGA Display Shield: Touchscreen Solution",
+    "sku": "DFR1107",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "277"
+    ],
+    "description": "The Arduino GIGA Display Shield enhances projects with a touchscreen, digital mic, 6-axis IMU, and Arducam connector for seamless integration.",
+    "url": "https://www.dfrobot.com/product-2758.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1107/DFR1107_Main_01.jpg",
+    "price": "63.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2828,
+    "name": "8.8-inch Raspberry Pi Bar Touch Display: Features & Applications",
+    "sku": "FIT0941",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272"
+    ],
+    "description": "A unique 8.8-inch capacitive touch bar display, perfect for Raspberry Pi applications with versatile uses and high-quality features.",
+    "url": "https://www.dfrobot.com/product-2828.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0941/FIT0941_Main_01.jpg",
+    "price": "72",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2859,
+    "name": "16-inch Portable Touch Display with 4K OLED",
+    "sku": "DFR1178",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272",
+      "278"
+    ],
+    "description": "The 16-inch Portable Touch Display features Samsung OLED tech, 3840x2400 resolution, HDMI/Type-C ports, ideal for design, gaming, and more.",
+    "url": "https://www.dfrobot.com/product-2859.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1178/DFR1178_250520 (1).jpg",
+    "price": "398",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2873,
+    "name": "Enhance Your Workspace with a 14-inch 4K Touch Display",
+    "sku": "DFR1125",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272",
+      "278"
+    ],
+    "description": "The 14-inch 4K IPS bar touch screen offers a unique 3.5:1 ratio, ideal for multitasking and enhancing workspace efficiency with Type-C and HDMI compatibility.",
+    "url": "https://www.dfrobot.com/product-2873.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1125/DFR1125_Main_01.jpg",
+    "price": "249",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2323,
+    "name": "ESP32 E Ink Display: Enhanced Reading & Low Power",
+    "sku": "DFR0835",
+    "categories": [
+      "All Products",
+      "E-Ink",
+      "ESP32/ESP8266",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "222",
+      "276",
+      "316"
+    ],
+    "description": "The ESP32 E Ink Display features a 4.7-inch screen, 540x960 resolution, ESP32-S3 controller, perfect for IoT and STEM applications.",
+    "url": "https://www.dfrobot.com/product-2323.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0835/DFR0835_Main_01.jpg",
+    "price": "55",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2332,
+    "name": "3V 260mm Flexible LED Filament Chip for DIY Lighting",
+    "sku": "FIT0808",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible LED filament chip with 3V power supply for DIY lighting, bendable and 360° illumination.",
+    "url": "https://www.dfrobot.com/product-2332.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0808/FIT0808_Detail_09.jpg",
+    "price": "12.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2333,
+    "name": "Flexible 260mm LED Filament for DIY Lighting",
+    "sku": "FIT0809",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible 260mm LED filament with 3V power for DIY lighting. Bendable and emits 360° light, perfect for creative projects.",
+    "url": "https://www.dfrobot.com/product-2333.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0809/FIT0809_Detail_07.jpg",
+    "price": "11.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2334,
+    "name": "Flexible LED Filament 260mm for DIY Lighting Projects",
+    "sku": "FIT0811",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible 260mm LED filament offers 360° light emission at 3V, ideal for DIY lighting and decoration projects.",
+    "url": "https://www.dfrobot.com/product-2334.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0811/FIT0811_Detail_07.jpg",
+    "price": "11.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2335,
+    "name": "260mm Flexible LED Filament Chip for DIY Projects",
+    "sku": "FIT0812",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible 260mm LED filament chip emits 360-degree light, ideal for DIY lighting with a bendable design and 3V power supply.",
+    "url": "https://www.dfrobot.com/product-2335.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0812/FIT0812_Detail_07.jpg",
+    "price": "10",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2396,
+    "name": "Ultra Slim 5V Flexible LED Strip - Green",
+    "sku": "FIT0839",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra slim 5V LED strip with 60 LEDs per meter for DIY and narrow space decoration.",
+    "url": "https://www.dfrobot.com/product-2396.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0839/FIT0839_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2397,
+    "name": "Ultra-Slim 5V Flexible LED Strip - 60 LEDs Per Meter",
+    "sku": "FIT0837",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-slim 5V LED strip with 60 LEDs per meter, ideal for narrow spaces, compatible with Arduino.",
+    "url": "https://www.dfrobot.com/product-2397.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0837/FIT0837_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2399,
+    "name": "Ultra Thin 3V Flexible LED Strip - 2.5mm Width",
+    "sku": "FIT0835",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra thin 3V LED strip, 2.5mm wide, with 138 LEDs/m, perfect for tight spaces and DIY projects. Compatible with Arduino.",
+    "url": "https://www.dfrobot.com/product-2399.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0835/FIT0835_Detail_07.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2400,
+    "name": "Ultra Slim 12V Flexible LED Strip: Ice Blue",
+    "sku": "FIT0843",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra slim Ice Blue LED strip with 120 LEDs per meter, 2.5mm width, ideal for narrow spaces and DIY projects.",
+    "url": "https://www.dfrobot.com/product-2400.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0843/FIT0843_Detail_07.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2401,
+    "name": "Ultra Thin 2.5mm Flexible LED Strip - 120 LEDs",
+    "sku": "FIT0842",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-slim 2.5mm LED strip, 120 LEDs/meter, ideal for narrow space lighting and DIY projects.",
+    "url": "https://www.dfrobot.com/product-2401.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0842/FIT0842_Detail_07.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2402,
+    "name": "Ultra-Slim Flexible LED Strip - 2.5mm Wide, 3V",
+    "sku": "FIT0834",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-slim 2.5mm flexible LED strip, 138 LEDs/meter, ideal for narrow spaces, DIY lighting. Operates at 3V, warm white.",
+    "url": "https://www.dfrobot.com/product-2402.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0834/FIT0834_Detail_07.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2404,
+    "name": "Ultra-Thin Flexible LED Strip - 5V Blue 60 LEDs",
+    "sku": "FIT0838",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-thin 2.5mm LED strip with 60 LEDs for DIY projects, operates at 5V, ideal for narrow spaces and Arduino applications.",
+    "url": "https://www.dfrobot.com/product-2404.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0838/FIT0838_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2405,
+    "name": "Ultra-Slim 2.5mm Flexible LED Strip - Purple",
+    "sku": "FIT0840",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra-slim 2.5mm LED strip, 60 LEDs/m, 5V, perfect for narrow spaces and DIY projects, available in purple.",
+    "url": "https://www.dfrobot.com/product-2405.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0840/FIT0840_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2541,
+    "name": "Create Interactive Projects with WS2812 RGB LED Ring",
+    "sku": "DFR0888-16",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "280"
+    ],
+    "description": "Explore the WS2812 RGB LED Ring for creative, interactive projects with full-color control and easy cascading options.",
+    "url": "https://www.dfrobot.com/product-2541.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0888-16/DFR0888-16_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2542,
+    "name": "WS2812 RGB LED Ring: Interactive Full-Color Lighting",
+    "sku": "DFR0888-24",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "280"
+    ],
+    "description": "The WS2812 RGB LED Ring provides full-color, interactive lighting with cascading control for versatile STEM and DIY applications.",
+    "url": "https://www.dfrobot.com/product-2542.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0888-24/DFR0888-24-detail-005.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2580,
+    "name": "1.8\" 128x160 IPS TFT Display with MicroSD",
+    "sku": "DFR0928",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "277",
+      "292"
+    ],
+    "description": "ST7735S 1.8\" TFT Display offers 128x160 resolution, SPI communication, and SD card slot for versatile Arduino applications.",
+    "url": "https://www.dfrobot.com/product-2580.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0928/DFR0928_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2638,
+    "name": "1.47\" IPS LCD Display Module for Arduino Projects",
+    "sku": "DFR0995",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "1.47\" IPS LCD Display Module with 172x320 pixels and SPI interface for dynamic Arduino projects.",
+    "url": "https://www.dfrobot.com/product-2638.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0995/DFR0995_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2447,
+    "name": "10.1-Inch Raspberry Pi Industrial Touchscreen for IoT Projects",
+    "sku": "DFR0910",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206"
+    ],
+    "description": "10.1-inch Raspberry Pi industrial touchscreen with 1280*800 resolution, LVDS multi-touch. Ideal for IoT projects and industrial applications.",
+    "url": "https://www.dfrobot.com/product-2447.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0910/DFR0910_Main_01.jpg",
+    "price": "1010",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2491,
+    "name": "5V COB LED Strip Light - Purple for Versatile Decoration",
+    "sku": "FIT0882",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Versatile 5V COB LED strip lights offer high brightness and purple glow, ideal for indoor decorations and various lighting projects.",
+    "url": "https://www.dfrobot.com/product-2491.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0882/FIT0882_Detail_06.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2492,
+    "name": "5V COB LED Strip Light - Warm White with High Brightness",
+    "sku": "FIT0876",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "5V COB LED Strip Light provides high brightness and uniform luminosity for indoor decoration.",
+    "url": "https://www.dfrobot.com/product-2492.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0876/FIT0876_Detail_06.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2493,
+    "name": "5V COB LED Strip Light - High Brightness & Versatile",
+    "sku": "FIT0877",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 5V COB LED strip light offers high brightness and versatile powering options for indoor decoration.",
+    "url": "https://www.dfrobot.com/product-2493.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0877/FIT0877_Detail_06.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2494,
+    "name": "5V COB LED Strip Light - High Brightness, No Shadows",
+    "sku": "FIT0878",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 5V COB LED strip light features high brightness, no shadows, and versatile powering options for indoor lighting projects.",
+    "url": "https://www.dfrobot.com/product-2494.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0878/FIT0878_Detail_06.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2495,
+    "name": "COB LED Strip Light: High Brightness, 5V Power Supply",
+    "sku": "FIT0879",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "5V COB LED strip with 16 LEDs offers high brightness, no shadows, and versatile indoor applications. Ideal for various decoration and lighting projects.",
+    "url": "https://www.dfrobot.com/product-2495.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0879/FIT0879_251216 (1).jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2496,
+    "name": "5V COB LED Strip Light - Red: Bright, Versatile & Durable",
+    "sku": "FIT0880",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 5V COB LED Strip Light provides bright, shadow-free illumination, perfect for various indoor lighting decor projects.",
+    "url": "https://www.dfrobot.com/product-2496.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0880/FIT0880_Detail_06.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2498,
+    "name": "5V COB LED Strip Light: High Brightness & Versatile Decor",
+    "sku": "FIT0875",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "High brightness 5V COB LED strip light, perfect for indoor decor and lighting. Suitable for wardrobes, stairs, and more, offering uniform luminosity.",
+    "url": "https://www.dfrobot.com/product-2498.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0875/FIT0875_Detail_06.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2067,
+    "name": "12.5\" 4K IPS Touch Display for Raspberry Pi & LattePanda",
+    "sku": "DFR0698",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206"
+    ],
+    "description": "12.5\" 4K IPS touchscreen display for Raspberry Pi and LattePanda, offering vivid colors and smooth touch experience with wide viewing angles.",
+    "url": "https://www.dfrobot.com/product-2067.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0698/DFR0698_Main_01.jpg",
+    "price": "0",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2071,
+    "name": "2.0” LCD Display with ST7789V Driver Chip",
+    "sku": "DFR0664",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "292"
+    ],
+    "description": "2.0” LCD display with ST7789V chip, 320x240 resolution, SPI & GDI interfaces, perfect for various display applications.",
+    "url": "https://www.dfrobot.com/product-2071.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0664/DFR0664_Main_01.jpg",
+    "price": "17.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2072,
+    "name": "1.54” IPS TFT LCD Display Module with MicroSD",
+    "sku": "DFR0649",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "292"
+    ],
+    "description": "High-resolution 1.54” IPS TFT LCD with SPI and MicroSD slot for versatile electronic applications.",
+    "url": "https://www.dfrobot.com/product-2072.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0649/DFR0649_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2091,
+    "name": "WS2812B RGB LED Ring Lamp: 93 LEDs, Full Control",
+    "sku": "FIT0676",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The WS2812B RGB LED ring lamp offers 93 LEDs in 6 rings, customizable brightness and full-color display for versatile lighting solutions.",
+    "url": "https://www.dfrobot.com/product-2091.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0676/FIT0676_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2103,
+    "name": "Extremely Bright Flexible LED Strip - Warm White",
+    "sku": "FIT0710",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible LED strip with 160 LEDs per 50cm, high brightness, cuttable, easy mounting, perfect for indoor decoration and lighting.",
+    "url": "https://www.dfrobot.com/product-2103.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0710/FIT0710_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2106,
+    "name": "2.8” LCD Display Module with SPI and Touchscreen",
+    "sku": "DFR0665",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "292"
+    ],
+    "description": "The 2.8” LCD module offers high resolution, SPI communication, and a resistive touchscreen, suitable for various display applications.",
+    "url": "https://www.dfrobot.com/product-2106.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0665/DFR0665_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2255,
+    "name": "High Brightness COB Programmable LED Strip",
+    "sku": "FIT0750",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "COB Programmable LED strip provides high brightness, uniform light, and flexible design for creative indoor lighting solutions.",
+    "url": "https://www.dfrobot.com/product-2255.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0750/FIT0750_Main_01.jpg",
+    "price": "22.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 473,
+    "name": "Piranha LED Light Module for Arduino Projects",
+    "sku": "DFR0031-Y",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Piranha LED module for Arduino offers RGB colors and PWM control for interactive light projects.",
+    "url": "https://www.dfrobot.com/product-473.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0031-Y/DFR0031-Y_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2993,
+    "name": "7&quot; Touch Display for LattePanda IOTA -- 2993",
+    "sku": "FIT1030",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "DFRobot's 7&quot; Touch Display for LattePanda IOTA -- 2993",
+    "url": "https://www.dfrobot.com/product-2993.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1030/FIT1030_Main_01.jpg",
+    "price": "74.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1966,
+    "name": "4-Digital LED Segment Display Module Features",
+    "sku": "DFR0645-G",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "282"
+    ],
+    "description": "Learn about the 4-Digital LED Segment Display Module, featuring I2C communication and 8-level brightness adjustment for varied applications.",
+    "url": "https://www.dfrobot.com/product-1966.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0645-G/DFR0645-G-detail-003.JPG",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1978,
+    "name": "8-Digital LED Segment Display Module: Features & Specs",
+    "sku": "DFR0646-R",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "282"
+    ],
+    "description": "The 8-Digital LED Segment Display Module offers 8x8 segments, 16-level brightness, and I2C communication for versatile electronic projects.",
+    "url": "https://www.dfrobot.com/product-1978.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0646-R/DFR0646-R-detail-003.JPG",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1979,
+    "name": "8-Digital LED Segment Display Module - Green",
+    "sku": "DFR0646-G",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "282"
+    ],
+    "description": "The 8-Digital LED Segment Display Module features 8 segment×8 digit display, 16-level brightness adjustment, and I2C communication.",
+    "url": "https://www.dfrobot.com/product-1979.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0646-G/DFR0646-G_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2018,
+    "name": "High-Contrast 0.91\" OLED Display Module: SSD1306",
+    "sku": "DFR0648",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "292"
+    ],
+    "description": "The SSD1306-driven 0.91-inch OLED display module offers 128x32 pixels, low power, and I2C compatibility for versatile applications.",
+    "url": "https://www.dfrobot.com/product-2018.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0648/DFR0648_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2019,
+    "name": "0.91\" 128x32 I2C OLED Display Module with SSD1306",
+    "sku": "DFR0647",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "292"
+    ],
+    "description": "0.91\" OLED display with SSD1306 offers low power, high contrast, and is perfect for wearables and mini consoles.",
+    "url": "https://www.dfrobot.com/product-2019.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0647/DFR0647_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3113,
+    "name": "6.67'' Flexible AMOLED Display -- 3113",
+    "sku": "DFR1262",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "278"
+    ],
+    "description": "DFRobot's 6.67'' Flexible AMOLED Display -- 3113",
+    "url": "https://www.dfrobot.com/product-3113.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1262/DFR1262_Detail_04.jpg",
+    "price": "199",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2017,
+    "name": "0.96\" OLED Display Module with SSD1306 Driver",
+    "sku": "DFR0650",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "292"
+    ],
+    "description": "The 0.96\" OLED display module with SSD1306 driver offers high contrast, supports I2C/SPI communication, suitable for wearables and mini consoles.",
+    "url": "https://www.dfrobot.com/product-2017.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0650/DFR0650_Main_01.jpg",
+    "price": "14.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2445,
+    "name": "0.96\" 160x80 Color TFT Display for Diverse Projects",
+    "sku": "DFR0847",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "277"
+    ],
+    "description": "Small 0.96\" TFT screen with 160x80 resolution, supports GDI interface, ideal for wearables and smart devices.",
+    "url": "https://www.dfrobot.com/product-2445.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0847/DFR0847_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 350,
+    "name": "RGB LED Module for Arduino Lighting Projects",
+    "sku": "DFR0106",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Explore a 7 SMD RGB LED module ideal for Arduino projects, offering USB power compatibility and impressive brightness for creative lighting solutions.",
+    "url": "https://www.dfrobot.com/product-350.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0106/DFR0106_Main_01.jpg",
+    "price": "2.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1576,
+    "name": "Gravity I2C OLED 128x64 Display: Compact, Efficient & Durable",
+    "sku": "DFR0486",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "282"
+    ],
+    "description": "The Gravity OLED 128x64 display is ideal for mobile devices, featuring SSD1306 chip, I2C interface, and durable construction for easy integration.",
+    "url": "https://www.dfrobot.com/product-1576.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0486/DFR0486_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2102,
+    "name": "Flexible LED Strip: 160 LEDs, High Brightness",
+    "sku": "FIT0709",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "This flexible LED strip features 160 LEDs per 50cm for bright, even light. Cuttable, it suits indoor decoration, DIY, and architectural lighting.",
+    "url": "https://www.dfrobot.com/product-2102.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0709/FIT0709_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2540,
+    "name": "WS2812 RGB LED Ring: Brighten Your Projects",
+    "sku": "DFR0888-12",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "280"
+    ],
+    "description": "WS2812 RGB LED Ring offers full-color control, cascading, and supports various programming platforms for interactive projects.",
+    "url": "https://www.dfrobot.com/product-2540.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0888-12/DFR0888-12_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1032,
+    "name": "Arduino-Compatible RGB LED Strip Driver Board",
+    "sku": "DFR0274",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Arduino-compatible RGB LED strip driver board with MOS tubes, IR control, optimized interfaces for easy wiring and interactive projects.",
+    "url": "https://www.dfrobot.com/product-1032.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0274/DFR0274_260429 (1).jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 490,
+    "name": "Red LED Light Module for Arduino Starter",
+    "sku": "DFR0021-R",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Red LED module ideal for Arduino starters, ensures safe usage with easy plug-in on IO/Sensor expansion shield.",
+    "url": "https://www.dfrobot.com/product-490.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0021-R/DFR0021-R_Main_01.jpg",
+    "price": "1.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 374,
+    "name": "8 Digital Bits Serial LED Display with SPI Interface",
+    "sku": "DFR0090",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "8 digital bits serial LED display with SPI interface, flick-free, supports multiple module connections.",
+    "url": "https://www.dfrobot.com/product-374.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0090/DFR0090_Main_01.jpg",
+    "price": "8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1836,
+    "name": "Digital RGB LED Strip - WS2812 RGB LED, Flexible Lighting",
+    "sku": "FIT0613",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "The WS2812 RGB LED strip offers vibrant displays with 256 brightness levels. Ideal for home decor, DIY projects, and flexible installations.",
+    "url": "https://www.dfrobot.com/product-1836.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0613/FIT0613_Detail_09.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1353,
+    "name": "0.5\" Micro OLED Display for Arduino - High Contrast",
+    "sku": "DFR0376",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "277"
+    ],
+    "description": "0.5\" micro OLED display, 450cd/m^2 brightness, SPI/I2C interfaces, ideal for Arduino, high contrast, low power consumption.",
+    "url": "https://www.dfrobot.com/product-1353.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0376/DFR0376_Main_01.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 240,
+    "name": "128x64 LCD Display for Arduino Projects",
+    "sku": "FIT0021",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "128x64 graphic LCD display with ST7920 controller for Arduino, supports Chinese/English characters and graphics.",
+    "url": "https://www.dfrobot.com/product-240.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0021/FIT0021_Main_01.jpg",
+    "price": "13.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2193,
+    "name": "7” Raspberry Pi LCD Touchscreen - 800x480 DSI Display",
+    "sku": "DFR0678",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272"
+    ],
+    "description": "This 7” Raspberry Pi LCD touchscreen features 800x480 resolution, DSI interface, capacitive touch panel, and supports Pi models 5/4B/3B+/3B.",
+    "url": "https://www.dfrobot.com/product-2193.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0678/DFR0911_Main_01.jpg",
+    "price": "54.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 471,
+    "name": "Piranha LED Light Module - Red for Arduino Projects",
+    "sku": "DFR0031-R",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "The Piranha LED light module connects to Arduino for digital control and PWM brightness, offering vibrant red light for interactive projects.",
+    "url": "https://www.dfrobot.com/product-471.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0031-R/DFR0031-R_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2107,
+    "name": "3.5\" ILI9488 LCD Display Module with Touch Support",
+    "sku": "DFR0669",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "292"
+    ],
+    "description": "3.5\" LCD display with ILI9488 and GT911 chips, offering high resolution, SPI communication, and capacitive touch for diverse applications.",
+    "url": "https://www.dfrobot.com/product-2107.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0669/DFR0669_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2331,
+    "name": "Flexible LED Filament Chip: 260mm, 3V Power",
+    "sku": "FIT0810",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Flexible 260mm LED filament chip with 3V power for DIY lighting, high brightness, and 360-degree illumination.",
+    "url": "https://www.dfrobot.com/product-2331.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0810/FIT0810_Detail_07.jpg",
+    "price": "11.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1853,
+    "name": "7\" eDP Touch Display for LattePanda: High Res & Versatile",
+    "sku": "FIT0551",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "7-inch eDP touch display with IPS screen technology, ideal for LattePanda, offers high resolution and dust prevention for HMI and portable projects.",
+    "url": "https://www.dfrobot.com/product-1853.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0551/FIT0551_Main_01.jpg",
+    "price": "79.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 372,
+    "name": "3-Wire Serial LCD Module for Arduino - 128x64 Display",
+    "sku": "DFR0091",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "128x64 LCD module compatible with Arduino, supports SPI and parallel modes with adjustable contrast and backlit control.",
+    "url": "https://www.dfrobot.com/product-372.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0091/DFR0091_Main_01.jpg",
+    "price": "16.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1407,
+    "name": "Enhance Arduino Projects with 7 Segment LED Keypad Shield",
+    "sku": "DFR0382",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "Segment LCDs"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "133",
+      "156",
+      "277"
+    ],
+    "description": "Upgrade your Arduino setup with the 7 segment LED Keypad Shield featuring easy I2C control and a 4 digit display with 5 buttons.",
+    "url": "https://www.dfrobot.com/product-1407.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0382/DFR0382_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1655,
+    "name": "7'' HDMI Display with Capacitive Touchscreen for Raspberry Pi",
+    "sku": "DFR0506",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272"
+    ],
+    "description": "The 7'' HDMI display with capacitive touchscreen supports Raspberry Pi and HDMI devices. Enjoy driver-free use and multi-touch functionality.",
+    "url": "https://www.dfrobot.com/product-1655.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0506/DFR0506_Main_01.jpg",
+    "price": "79",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1722,
+    "name": "Optimized LCD1602 Module: Enhanced Display Features",
+    "sku": "DFR0557",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "282"
+    ],
+    "description": "Discover the optimized LCD1602 module with adjustable backlight and dual voltage compatibility for a better display experience.",
+    "url": "https://www.dfrobot.com/product-1722.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0557/DFR0557_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1893,
+    "name": "5.5\" FHD AMOLED Touchscreen Display for Raspberry Pi",
+    "sku": "DFR0524",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156"
+    ],
+    "description": "5.5\" FHD AMOLED display with HDMI output, capacitive touchscreen, multi-touch support, USB powered, Raspberry Pi compatible.",
+    "url": "https://www.dfrobot.com/product-1893.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0524/DFR0524_Detail_05.jpg",
+    "price": "119",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1967,
+    "name": "4-Digital LED Segment Display Module Features",
+    "sku": "DFR0645-R",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "282"
+    ],
+    "description": "The 4-Digital LED Segment Display features I2C communication and adjustable brightness, ideal for versatile applications.",
+    "url": "https://www.dfrobot.com/product-1967.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0645-R/DFR0645-R_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2101,
+    "name": "ESP32 E-Ink Display Module for IoT Applications",
+    "sku": "DFR0676",
+    "categories": [
+      "All Products",
+      "E-Ink",
+      "Internet of Things - IoT",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "222",
+      "276"
+    ],
+    "description": "Discover the ESP32 E-Ink display module ideal for IoT applications like price tags and weather displays.",
+    "url": "https://www.dfrobot.com/product-2101.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0676/DFR0676_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2521,
+    "name": "1.51” Transparent OLED Display: High-Resolution Module",
+    "sku": "DFR0934",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Fermion",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "OLEDs"
+    ],
+    "category_ids": [
+      "53",
+      "143",
+      "156",
+      "277",
+      "292"
+    ],
+    "description": "1.51” SSD1309 transparent OLED display offers high-resolution, full-view, blue display ideal for smart home and interactive projects.",
+    "url": "https://www.dfrobot.com/product-2521.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0934/DFR0934_Main_01.jpg",
+    "price": "34.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2612,
+    "name": "Enhance Your Projects with 1602 RGB LCD Keypad Shield",
+    "sku": "DFR0936",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "The 1602 RGB LCD Keypad Shield offers easy Arduino integration, programmable keys, and vibrant displays for interactive and monitoring projects.",
+    "url": "https://www.dfrobot.com/product-2612.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0936/DFR0936_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2681,
+    "name": "Flexible LED Filament: 640 LEDs for 360° Lighting",
+    "sku": "FIT0928",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "1200mm flexible LED filament with 640 LEDs for DIY lighting and 360° illumination. Power supply: 21-24V. Bendable design.",
+    "url": "https://www.dfrobot.com/product-2681.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0928/FIT0928_Detail_07.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2747,
+    "name": "15.6-Inch IPS Touch Screen: Clear Display & Versatility",
+    "sku": "DFR1045",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272",
+      "278"
+    ],
+    "description": "Explore the 15.6-inch IPS touch screen with high resolution and compatibility for multiple devices.",
+    "url": "https://www.dfrobot.com/product-2747.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1045/DFR1045_Main_01.jpg",
+    "price": "150",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2763,
+    "name": "7\" Touch Display with eDP Interface for HMI Projects",
+    "sku": "FIT0950",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "The 7-inch touch display with eDP interface offers vibrant IPS screen visuals, perfect for HMI and portable projects.",
+    "url": "https://www.dfrobot.com/product-2763.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0950/FIT0950_Main_01.jpg",
+    "price": "79.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2794,
+    "name": "11.6-inch eDP Touch Display for LattePanda Projects",
+    "sku": "FIT0955",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "11.6-inch eDP touch display with 1920x1080 resolution, multi-touch, full-view design, ideal for HMI and portable projects with LattePanda.",
+    "url": "https://www.dfrobot.com/product-2794.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0955/FIT0955_Main_01_250520 (6).jpg",
+    "price": "129",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3025,
+    "name": "3.5 Inch IPS Capacitive Touch Screen with Optical Bonding",
+    "sku": "DFR1092",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "FireBeetle (ESP32 / ESP8266)",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277",
+      "302"
+    ],
+    "description": "3.5-inch IPS Capacitive Touch Screen with optical bonding offers clarity, reduced glare, and seamless ESP32/Arduino integration.",
+    "url": "https://www.dfrobot.com/product-3025.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1092/DFR1092_Detail_05.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2791,
+    "name": "5-Inch IPS Touchscreen for Raspberry Pi with DSI Interface",
+    "sku": "DFR0550-V2",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272"
+    ],
+    "description": "A 5-inch IPS touchscreen for Raspberry Pi with high brightness, full lamination, and anti-glare, ideal for various projects and applications.",
+    "url": "https://www.dfrobot.com/product-2791.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0550-V2/DFR0550-V2_Main_01.jpg",
+    "price": "49.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 593,
+    "name": "I2C LCD Backpack for Easy LCD Control",
+    "sku": "DFR0175",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "The I2C LCD Backpack simplifies LCD control via I2C, supporting various LCDs like LCD1602, and reducing pin usage efficiently.",
+    "url": "https://www.dfrobot.com/product-593.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0175/DFR0175_ShipList_06.jpg",
+    "price": "6.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1084,
+    "name": "LCD12864 Shield for Arduino Projects",
+    "sku": "DFR0287",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Gravity",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277",
+      "282"
+    ],
+    "description": "LCD12864 Shield for Arduino features LED backlight, joystick control, and supports English/Chinese display for interactive projects.",
+    "url": "https://www.dfrobot.com/product-1084.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0287/DFR0287_TOP_03.jpg",
+    "price": "19.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 632,
+    "name": "Piranha RGB LED Module for Arduino Projects",
+    "sku": "DFR0031-G",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Piranha RGB LED Module for Arduino offers adjustable brightness, ideal for DIY, toys, and indicators.",
+    "url": "https://www.dfrobot.com/product-632.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0031-G/DFR0031-G_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2863,
+    "name": "2.0\" Color IPS Display: Versatile I2C & UART Support",
+    "sku": "DFR0997",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Screens &amp; Displays",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "277",
+      "281"
+    ],
+    "description": "The 2.0\" Color IPS Display Screen supports I2C and UART, ideal for vibrant, interactive visuals on Arduino and ESP32 projects.",
+    "url": "https://www.dfrobot.com/product-2863.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0997/DFR0997_Detail_250721 (1).jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2868,
+    "name": "10.5-Inch Portable HD Touch Display with Speakers",
+    "sku": "DFR1170",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Raspberry Pi",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "272",
+      "278"
+    ],
+    "description": "The 10.5-inch HD touch display offers vibrant visuals, stereo sound, and versatile connectivity, ideal for gaming and development applications.",
+    "url": "https://www.dfrobot.com/product-2868.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1170/DFR1170_Main_01.jpg",
+    "price": "129",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2398,
+    "name": "Ultra Slim 5V Flexible LED Strip: Perfect for Tight Spaces",
+    "sku": "FIT0836",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Ultra slim 5V LED strip with 60 LEDs/meter, 2.5mm wide, ideal for DIY and tight spaces.",
+    "url": "https://www.dfrobot.com/product-2398.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0836/FIT0836_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 901,
+    "name": "Programmable RGB LED Breakout for Prototyping",
+    "sku": "DFR0239",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Small RGB LED breakout for easy dynamic lighting in projects, controlled by PWM channels.",
+    "url": "https://www.dfrobot.com/product-901.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0239/DFR0239_ShipList_06.jpg",
+    "price": "1.95",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1643,
+    "name": "32x16 RGB LED Matrix Panel - High Brightness LED Display",
+    "sku": "DFR0471",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "The 32x16 RGB LED Matrix Panel boasts 512 RGB LEDs, perfect for vibrant indoor and outdoor displays. Requires 5V@2A power supply.",
+    "url": "https://www.dfrobot.com/product-1643.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0471/DFR0471_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 492,
+    "name": "Arduino Blue LED Module Guide: Plug and Play",
+    "sku": "DFR0021-B",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "Explore the Blue LED module for Arduino, perfect for starters with easy setup and wiring tips to prevent microcontroller damage.",
+    "url": "https://www.dfrobot.com/product-492.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0021-B/DFR0021-B_Main_01.jpg",
+    "price": "1.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2746,
+    "name": "Powerful 275nm UVC LED Strip Light for Germicidal Use",
+    "sku": "FIT0948",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "A 275nm UVC LED strip offering powerful germicidal abilities for small-scale applications like mite removal and sterilization.",
+    "url": "https://www.dfrobot.com/product-2746.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0948/FIT0948_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2679,
+    "name": "Flexible LED Filament for DIY Lighting Decoration",
+    "sku": "FIT0926",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "277"
+    ],
+    "description": "Explore flexible LED filament with 320 LEDs, 360° lighting, and adjustable brightness for DIY decoration and lighting projects.",
+    "url": "https://www.dfrobot.com/product-2679.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0926/FIT0926_Detail_07.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 472,
+    "name": "Piranha LED Light Module - Blue for Arduino Projects",
+    "sku": "DFR0031-B",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "The Piranha LED Light Module (Blue) supports Arduino projects with 3.3~5v voltage and PWM control, perfect for interactive light applications.",
+    "url": "https://www.dfrobot.com/product-472.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0031-B/DFR0031-B_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 590,
+    "name": "20x4 I2C Arduino LCD Display Module: Save Pins",
+    "sku": "DFR0154",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "20x4 I2C LCD module for Arduino, saves pins, adjustable contrast, blue LED backlight. Perfect for efficient Arduino projects.",
+    "url": "https://www.dfrobot.com/product-590.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0154/DFR0154_Main_01.jpg",
+    "price": "14",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 487,
+    "name": "Rainbow LED Ring V3: Upgrade Your Arduino Projects",
+    "sku": "DFR0141",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Rainbow LED Ring V3 enhances projects with 12 RGB LEDs, Arduino programming, and I2C/Serial communication.",
+    "url": "https://www.dfrobot.com/product-487.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0141/111.jpg",
+    "price": "11.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1413,
+    "name": "7\" IPS Display for LattePanda V1: High-Resolution Screen",
+    "sku": "FIT0477",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LattePanda",
+      "Modules",
+      "Screens &amp; Displays"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "206",
+      "278"
+    ],
+    "description": "Explore a 7\" IPS display for LattePanda V1, offering high resolution and easy connectivity for enhancing project interfaces.",
+    "url": "https://www.dfrobot.com/product-1413.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0477/FIT0477_Main_01.jpg",
+    "price": "45",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 133,
+    "name": "Arduino-Compatible White LED Light Module",
+    "sku": "DFR0021-W",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156",
+      "282"
+    ],
+    "description": "White LED module for Arduino, easy integration, shiny white light, ideal for starters.",
+    "url": "https://www.dfrobot.com/product-133.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0021-W/DFR0021-W_Main_01.jpg",
+    "price": "1.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 135,
+    "name": "Optimize Arduino Projects with I2C 16x2 LCD Display",
+    "sku": "DFR0063",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "Explore the benefits of a 16x2 I2C LCD display for simplifying Arduino projects with fewer pins and adjustable contrast.",
+    "url": "https://www.dfrobot.com/product-135.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0063/DFR0063_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1363,
+    "name": "Arduino 1602 RGB LCD Shield: Enhanced Display & Control",
+    "sku": "DFR0374",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156",
+      "277"
+    ],
+    "description": "The 1602 RGB LCD Shield enhances Arduino projects with vivid color displays and programmable keys, ideal for interactive and monitoring applications.",
+    "url": "https://www.dfrobot.com/product-1363.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0374/DFR0374_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3014,
+    "name": "Flexible RGB LCD Backlight Module: Versatile Illumination",
+    "sku": "FIT1033",
+    "categories": [
+      "All Products",
+      "LCD",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "130",
+      "156"
+    ],
+    "description": "The Flexible RGB LCD Backlight Module offers versatile illumination with 16 million colors and high brightness, ideal for custom applications.",
+    "url": "https://www.dfrobot.com/product-3014.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1033/FIT1033_Detail_03.jpg",
+    "price": "1.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2583,
+    "name": "Inductive Wireless LEDs: Ultra-Low Power Lighting Solution",
+    "sku": "DFR0937",
+    "categories": [
+      "All Products",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "156"
+    ],
+    "description": "Innovative inductive wireless LEDs offer ultra-low power, safe, and efficient lighting using magnetic resonance coupling technology for decoration projects.",
+    "url": "https://www.dfrobot.com/product-2583.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0937/DFR0937_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 51,
+    "name": "LCD Keypad Shield for Arduino: Easy Menu Selection & Control",
+    "sku": "DFR0009",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Gravity",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules"
+    ],
+    "category_ids": [
+      "53",
+      "156",
+      "277",
+      "282"
+    ],
+    "description": "The LCD Keypad Shield for Arduino provides a 2x16 display and 5 buttons for menu navigation, perfect for monitoring and debugging projects.",
+    "url": "https://www.dfrobot.com/product-51.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0009/DFR0009_Min_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]

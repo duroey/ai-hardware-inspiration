@@ -1,0 +1,54 @@
+[
+  {
+    "product_id": 2724,
+    "name": "Effortless STEM Exploration with SCI DAQ Module",
+    "sku": "EDU0170",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Kits",
+      "Gravity",
+      "Kits",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "49",
+      "140",
+      "277",
+      "280",
+      "282"
+    ],
+    "description": "The SCI DAQ Module Kit offers plug-and-play STEM experimentation, enabling rapid data acquisition without programming expertise.",
+    "url": "https://www.dfrobot.com/product-2724.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/EDU0170/EDU0170_Main_01.jpg",
+    "price": "89.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2360,
+    "name": "MindPlus Coding Kit for Arduino: Empowering Kids with IoT",
+    "sku": "KIT0152-EN",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Kits",
+      "Gravity",
+      "Kits",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "49",
+      "140",
+      "277",
+      "280",
+      "282"
+    ],
+    "description": "MindPlus Coding Kit offers a creative coding experience for kids with Arduino Uno R3 and 18 sensors, supporting IoT and AI projects.",
+    "url": "https://www.dfrobot.com/product-2360.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/KIT0152-EN/KIT0152-EN_Main_01.jpg",
+    "price": "99",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]

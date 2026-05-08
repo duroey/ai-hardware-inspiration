@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": 636,
+    "name": "10 Segment LED Bar Graph for Easy Prototyping",
+    "sku": "FIT0188",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "Modules",
+      "Segment LCDs"
+    ],
+    "category_ids": [
+      "53",
+      "133",
+      "156",
+      "277"
+    ],
+    "description": "10 segment bar graph LEDs offer easy prototyping for audio equipment and more, featuring low power consumption and bright red color.",
+    "url": "https://www.dfrobot.com/product-636.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0188/SP/IMGP9525.jpg",
+    "price": "1.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1407,
+    "name": "Enhance Arduino Projects with 7 Segment LED Keypad Shield",
+    "sku": "DFR0382",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "LCDs/LEDs/E-ink/Displays",
+      "LEDs",
+      "Modules",
+      "Segment LCDs"
+    ],
+    "category_ids": [
+      "53",
+      "131",
+      "133",
+      "156",
+      "277"
+    ],
+    "description": "Upgrade your Arduino setup with the 7 segment LED Keypad Shield featuring easy I2C control and a 4 digit display with 5 buttons.",
+    "url": "https://www.dfrobot.com/product-1407.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0382/DFR0382_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]

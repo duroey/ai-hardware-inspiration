@@ -1,0 +1,4805 @@
+[
+  {
+    "product_id": 777,
+    "name": "High Torque 12V DC Motor with Encoder",
+    "sku": "FIT0277",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Our 12V DC motor with hall encoder offers high torque and precision, ideal for robotics and automation applications.",
+    "url": "https://www.dfrobot.com/product-777.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0277/FIT0277_Main_01.jpg",
+    "price": "39",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 582,
+    "name": "Waterproof DC-DC Converter: Ideal for Robots",
+    "sku": "FIT0168",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter with 12V/24V input for 7.5V@5A output, designed for robotics with high efficiency and protection features.",
+    "url": "https://www.dfrobot.com/product-582.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0168/FIT0168_Main_01.jpg",
+    "price": "17",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 583,
+    "name": "Waterproof 45W DC-DC Converter for Robotics",
+    "sku": "FIT0169",
+    "categories": [
+      "All Products",
+      "Clearance",
+      "Internet of Things - IoT",
+      "Modules",
+      "Power Modules",
+      "Robotics",
+      "Sales"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "237",
+      "255",
+      "276",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter, 16-36V input to 9V@5A output, ideal for robotics with safety features.",
+    "url": "https://www.dfrobot.com/product-583.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0169/FIT0169_Main_01.jpg",
+    "price": "12.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 586,
+    "name": "Waterproof DC-DC Converter 24V 10A Ideal for Robots",
+    "sku": "FIT0172",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "276",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter, 8-18V input to 24V@10A, ideal for robots with multiple protections and high efficiency.",
+    "url": "https://www.dfrobot.com/product-586.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0172/FIT0172_Main_01.jpg",
+    "price": "45",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 656,
+    "name": "Romeo All-in-One Controller for Robotics",
+    "sku": "DFR0004",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Board",
+      "Development Boards",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "185",
+      "277",
+      "279",
+      "312",
+      "318"
+    ],
+    "description": "Romeo is an all-in-one robot control board designed for robotics applications with Arduino compatibility and built-in motor drivers.",
+    "url": "https://www.dfrobot.com/product-656.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0004/DFR0004_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 352,
+    "name": "A4WD Mobile Platform Wheel Specifications",
+    "sku": "FIT0003",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Wheel for A4WD and 2WD Arduino platforms, mounts on micro gear motors, sold in pairs. Ideal for robotics projects.",
+    "url": "https://www.dfrobot.com/product-352.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0003/FIT0003_Main_01.jpg",
+    "price": "2.4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 361,
+    "name": "Advanced HCR Mobile Robot Kit",
+    "sku": "ROB0021",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "The HCR Mobile Robot Kit offers advanced features like high-torque motors and ultrasonic sensors for versatile robotics applications.",
+    "url": "https://www.dfrobot.com/product-361.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0021/_W4A9931.jpg",
+    "price": "630",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 192,
+    "name": "6-DOF Robotic Arm V2: Efficient and Compact",
+    "sku": "ROB0036",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Explore the efficient and compact 6-DOF Robotic Arm V2, featuring high-torque servos and aluminum alloy for scientific and automation use.",
+    "url": "https://www.dfrobot.com/product-192.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0036/ROB0036_Main_01.jpg",
+    "price": "259",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 261,
+    "name": "4WD Arduino-Compatible Robot Platform w/Encoders",
+    "sku": "ROB0025",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "DFRobot 4WD Arduino-Compatible Platform features encoders for precise control, strong obstacle climbing, and sensor compatibility.",
+    "url": "https://www.dfrobot.com/product-261.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0025/ROB00251.jpg",
+    "price": "49.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1599,
+    "name": "TF02-Pro ToF LiDAR: Accurate 40m Range Sensor",
+    "sku": "SEN0238",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TF02-Pro ToF LiDAR sensor offers high precision with a 40m range, ideal for various intelligent applications.",
+    "url": "https://www.dfrobot.com/product-1599.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0238/SEN0238_Main_01.jpg",
+    "price": "87.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1623,
+    "name": "Bionic Robot Hand with Servo Control for DIY Projects",
+    "sku": "ROB0143",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Bionic robot hand with servo control for each finger, spring damping protection. Compatible with Arduino, ideal for DIY projects.",
+    "url": "https://www.dfrobot.com/product-1623.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0143/ROB0143_Main_01.jpg",
+    "price": "199",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1624,
+    "name": "Bionic Robot Hand with Arduino Control",
+    "sku": "ROB0142",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Bionic robot hand with acrylic build, separate finger control, and Arduino compatibility for DIY robotics.",
+    "url": "https://www.dfrobot.com/product-1624.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0142/ROB0142_Main_01.jpg",
+    "price": "199",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1802,
+    "name": "Li-ion Battery Holder for micro:bit Maqueen",
+    "sku": "FIT0611",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Power",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "66",
+      "92",
+      "279",
+      "319"
+    ],
+    "description": "Li-ion Battery Holder for micro:bit Maqueen. Holds CR123A battery, 8+ hours power, USB charging and safety protections.",
+    "url": "https://www.dfrobot.com/product-1802.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0611/FIT0611_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1803,
+    "name": "Multi-functional Line-tracking Map for Robotics",
+    "sku": "MBT0011",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281"
+    ],
+    "description": "A 120cm×90cm map designed for Maqueen robots, featuring calibration and advanced line-tracking patterns.",
+    "url": "https://www.dfrobot.com/product-1803.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0011/MBT0011_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1817,
+    "name": "Weather Resistant MB8450 Car Detection Sensor",
+    "sku": "SEN0268",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "The MB8450 sensor provides precise vehicle detection using ultrasonic technology, with reliable long-range readings and easy USB interfacing.",
+    "url": "https://www.dfrobot.com/product-1817.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0268/SEN0268_ShipList_06.jpg",
+    "price": "99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1837,
+    "name": "Yuewalker Agile Tracked Chassis for DIY Robots",
+    "sku": "ROB0154",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Yuewalker tracked chassis is ideal for DIY robots with high-strength aluminium base and quality motors, perfect for Arduino projects.",
+    "url": "https://www.dfrobot.com/product-1837.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0154/ROB0154_Main_01.jpg",
+    "price": "75",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1861,
+    "name": "Dual Channel DC Motor Driver: Compact & Powerful",
+    "sku": "DFR0601",
+    "categories": [
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Compact dual channel DC motor driver with 12A output, 290W max power, and built-in protection for efficient control.",
+    "url": "https://www.dfrobot.com/product-1861.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0601/DFR0601_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1870,
+    "name": "Maqueen: micro:bit Educational Robot for STEM Learning",
+    "sku": "ROB0148-EN-2",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen is a micro:bit robot for STEAM education, supporting Makecode and Mind+ to foster kids' interest in science and logical thinking.",
+    "url": "https://www.dfrobot.com/product-1870.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-2/ROB0148-EN-2_Main_01.jpg",
+    "price": "95.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1882,
+    "name": "24GHz Microwave Radar Sensor for Accurate Ranging",
+    "sku": "SEN0306",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Internet of Things - IoT",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "276",
+      "277",
+      "279"
+    ],
+    "description": "24GHz microwave radar sensor offers precise distance measurement with FMCW modulation, ideal for harsh environments and multiple target detection.",
+    "url": "https://www.dfrobot.com/product-1882.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0306/SEN0306_Main_01.jpg",
+    "price": "65.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1915,
+    "name": "TFmini Plus: High-Performance Solid State LiDAR",
+    "sku": "SEN0309",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TFmini Plus is a compact solid-state LiDAR with high accuracy, improved range, and IP65 protection, ideal for various applications.",
+    "url": "https://www.dfrobot.com/product-1915.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0309/SEN0309_Main_01.jpg",
+    "price": "49.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1702,
+    "name": "TFmini-S: Compact High-Performance LiDAR Sensor",
+    "sku": "SEN0259",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TFmini-S is a compact ToF LiDAR sensor offering high precision with 12m range and Arduino compatibility, ideal for various applications.",
+    "url": "https://www.dfrobot.com/product-1702.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0259/SEN0259-250402.jpg",
+    "price": "39.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1772,
+    "name": "RPLIDAR A3: High-Speed 360° Laser Scanner",
+    "sku": "DFR0583",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "RPLIDAR A3 offers 360-degree scanning with a 25-meter range and 16000 samples/sec, enhancing mapping accuracy indoors and outdoors.",
+    "url": "https://www.dfrobot.com/product-1772.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0583/DFR0583_Main_01.jpg",
+    "price": "599",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1790,
+    "name": "Max:Bot DIY Robot Kit for Kids - Learn Robotics",
+    "sku": "ROB0147",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281"
+    ],
+    "description": "Max:Bot is a DIY robot kit for kids aged 8+, teaching robotics with micro:bit using Scratch, MakeCode, Python, and JavaScript.",
+    "url": "https://www.dfrobot.com/product-1790.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0147/ROB0147_Main_01.jpg",
+    "price": "159.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1092,
+    "name": "Sparki Robot: Affordable Intro to Robotics and Programming",
+    "sku": "ROB0109",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280"
+    ],
+    "description": "Sparki is an affordable robot for learning programming, electronics, and robotics. Perfect for kids, educators, and DIY enthusiasts.",
+    "url": "https://www.dfrobot.com/product-1092.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0109/ROB0109_Main_01.jpg",
+    "price": "149",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1171,
+    "name": "Turn miniQ 2WD into Sumo Fighter with Bumper Add-on",
+    "sku": "FIT0378",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279"
+    ],
+    "description": "Sumo Bumper for miniQ 2WD turns your robot into a sumo fighter with durable aluminum alloy.",
+    "url": "https://www.dfrobot.com/product-1171.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0378/FIT0378_Main_01.jpg",
+    "price": "0.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1462,
+    "name": "Gear Motor with Encoder: Ideal for Mobile Robot Projects",
+    "sku": "FIT0493",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "This 12V DC gear motor with encoder is perfect for mobile robots, offering precise control with Arduino and extended service life.",
+    "url": "https://www.dfrobot.com/product-1462.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0493/FIT0493_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1512,
+    "name": "Compact DC Motor Driver with LM2575 for 36V 15A Motors",
+    "sku": "DRI0042",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Ultra-small DC motor driver with LM2575 controls 36V@15A motors, UVLO safety, and 5V Arduino output.",
+    "url": "https://www.dfrobot.com/product-1512.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0042/DRI0042_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1203,
+    "name": "Rubber Wheel & Motor Kit for Home Care Robots",
+    "sku": "KIT0085",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "The kit includes a 12V DC motor and rubber wheels, ideal for home care robots. Offers low noise, high torque, and anti-slip design.",
+    "url": "https://www.dfrobot.com/product-1203.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0085/KIT0085_ShipList_06.jpg",
+    "price": "116",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1287,
+    "name": "Mr. NEON: Light Chaser Beam Robot for Beginners",
+    "sku": "TOY0060",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280"
+    ],
+    "description": "Mr. NEON is a light chaser robot for learning soldering and circuits. It moves faster with stronger light and is perfect for novices.",
+    "url": "https://www.dfrobot.com/product-1287.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/TOY0060/_DSC6273.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1006,
+    "name": "136mm Rubber Wheel Kit for Indoor Robots",
+    "sku": "KIT0044",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "DFRobot's rubber wheel kit offers anti-slip 136mm tires with couplings, screws, and washers for indoor robots.",
+    "url": "https://www.dfrobot.com/product-1006.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0044/KIT0044_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 860,
+    "name": "2 DOF Robot Gripper with Servo Motion Control",
+    "sku": "FIT0300",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279"
+    ],
+    "description": "2 DOF robot gripper offers servo-controlled opening and rotation. Compatible with various servos, lightweight and easy to install.",
+    "url": "https://www.dfrobot.com/product-860.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0300/FIT0300_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 896,
+    "name": "Cherokey 4WD Mobile Robot Platform for Arduino",
+    "sku": "ROB0102",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Cherokey 4WD robot is a versatile platform for Arduino-based projects, featuring integrated motor drivers and prototyping areas for expansion.",
+    "url": "https://www.dfrobot.com/product-896.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0102/134.jpg",
+    "price": "66.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2667,
+    "name": "270° 2D ToF LiDAR: Precision Scanning for Robotics",
+    "sku": "SEN0576",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "The 270° 2D ToF LiDAR offers precise scanning for robotics with 2cm accuracy, high sampling rate, and VCSEL emitter.",
+    "url": "https://www.dfrobot.com/product-2667.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0576/SEN0576_Main_01.jpg",
+    "price": "309",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2668,
+    "name": "270° Single-line 2D ToF LiDAR: High Precision & Versatility",
+    "sku": "SEN0577",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "Explore the 270° Single-line 2D ToF LiDAR, offering precise detection, compact design, and high sampling rate for diverse applications.",
+    "url": "https://www.dfrobot.com/product-2668.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0577/SEN0577_Main_01.jpg",
+    "price": "399",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2669,
+    "name": "270° 2D ToF LiDAR Sensor for Precision Mapping and Security",
+    "sku": "SEN0578",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "The 270° 2D ToF LiDAR sensor provides precision mapping and security applications with high sampling rates and IP65 waterproofing.",
+    "url": "https://www.dfrobot.com/product-2669.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0578/SEN0578_Main_01.jpg",
+    "price": "499",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2670,
+    "name": "CS20 Dual-Resolution 3D TOF LiDAR: Efficient & Accurate",
+    "sku": "SEN0579",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "CS20 LiDAR offers 640x480 resolution and precise 3D measurements up to 5m, optimizing applications like robot SLAM and face recognition.",
+    "url": "https://www.dfrobot.com/product-2670.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0579/SEN0579_Main_01.jpg",
+    "price": "160",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2674,
+    "name": "ROCK 5B: Powerful ARM SBC with Rockchip RK3588",
+    "sku": "DFR1052",
+    "categories": [
+      "ARM",
+      "All Products",
+      "Development Boards",
+      "Robotics",
+      "Single Board Computer"
+    ],
+    "category_ids": [
+      "184",
+      "279",
+      "294",
+      "311"
+    ],
+    "description": "ROCK 5B is a high-performing ARM SBC with Rockchip RK3588, 8GB RAM, dual HDMI, and 8K display support, ideal for multimedia and industrial applications.",
+    "url": "https://www.dfrobot.com/product-2674.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1052/DFR1052_Main_01.jpg",
+    "price": "199",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2675,
+    "name": "Explore the Powerful ROCK 5B ARM Single Board Computer",
+    "sku": "DFR1053",
+    "categories": [
+      "ARM",
+      "All Products",
+      "Development Boards",
+      "Robotics",
+      "Single Board Computer"
+    ],
+    "category_ids": [
+      "184",
+      "279",
+      "294",
+      "311"
+    ],
+    "description": "The ROCK 5B is a high-performance ARM SBC with Rockchip RK3588, dual HDMI ports for 8K displays, versatile OS compatibility, and robust storage options.",
+    "url": "https://www.dfrobot.com/product-2675.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1053/DFR1053_Main_01.jpg",
+    "price": "243",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2726,
+    "name": "STL27L 360° DTOF LIDAR: High Precision Sensor",
+    "sku": "SEN0589",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "STL27L 360° DTOF LIDAR offers precision, 0.03-25m range, ROS compatibility, anti-glare, ideal for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-2726.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0589/SEN0589_Main_01.jpg",
+    "price": "160",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2730,
+    "name": "LPB60B ToF LiDAR Sensor: Precise Outdoor Ranging",
+    "sku": "SEN0587",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "LPB60B ToF LiDAR Sensor offers precise ranging up to 60m, ideal for drones and IoT applications, with strong outdoor performance and IP65 protection.",
+    "url": "https://www.dfrobot.com/product-2730.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0587/SEN0587_Main_01.jpg",
+    "price": "105",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2731,
+    "name": "LPB40B Single-Point Ranging LiDAR with DToF Technology",
+    "sku": "SEN0586",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "LPB40B LiDAR sensor offers 40m range, ±5cm accuracy, adjustable frequency, and DToF technology for high-speed scenarios.",
+    "url": "https://www.dfrobot.com/product-2731.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0586/SEN0586_Main_01.jpg",
+    "price": "69",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2737,
+    "name": "High-Performance ROCK 4SE Heat Sink for Optimal Cooling",
+    "sku": "FIT0943",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "303"
+    ],
+    "description": "The ROCK 4SE heat sink ensures efficient cooling for the ROCK Pi 4SE, offering stable performance with its large aluminum design.",
+    "url": "https://www.dfrobot.com/product-2737.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0943/FIT0943_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2738,
+    "name": "ROCK 5B Metal Case: Easy Installation & Effective Cooling",
+    "sku": "FIT0944",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "303"
+    ],
+    "description": "ROCK 5B metal case offers strength, easy installation, and efficient cooling for your single-board computer.",
+    "url": "https://www.dfrobot.com/product-2738.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0944/FIT0944_Update260327 (1).jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2741,
+    "name": "3D TOF Depth Camera with Built-in LCD Screen",
+    "sku": "SEN0581",
+    "categories": [
+      "All Products",
+      "Light &amp; Imaging Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "58",
+      "279"
+    ],
+    "description": "The 3D TOF depth camera offers a 1.5m range and real-time depth map preview on its LCD screen, ideal for IoT applications and ROS support.",
+    "url": "https://www.dfrobot.com/product-2741.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0581/SEN0581_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2743,
+    "name": "Romeo ESP32-S3: Advanced Robotics Development Board",
+    "sku": "DFR0994",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "ESP32 &amp; ESP8266",
+      "ESP32/ESP8266",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "271",
+      "279",
+      "312",
+      "316",
+      "318"
+    ],
+    "description": "Romeo ESP32-S3 is a robust development board for robotics, featuring ESP32-S3, OV2640 camera, and dual-mode Wi-Fi/Bluetooth 5 for advanced capabilities.",
+    "url": "https://www.dfrobot.com/product-2743.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0994/DFR0994_Main_01.jpg",
+    "price": "46.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2786,
+    "name": "35kg Waterproof Digital Servo with Metal Gears",
+    "sku": "SER0064",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 35kg waterproof digital servo offers high torque, metal gears, and safety features, ideal for robotics and Arduino applications.",
+    "url": "https://www.dfrobot.com/product-2786.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0064/SER0064_Main_01.jpg",
+    "price": "21.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2788,
+    "name": "High-Torque Waterproof Coreless Digital Servo 35kg",
+    "sku": "SER0065",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A 35kg waterproof coreless digital servo with metal gears, precise control, and enhanced durability for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-2788.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0065/SER0065_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2789,
+    "name": "High Torque Waterproof Servo with Magnetic Encoder",
+    "sku": "SER0066",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A 25kg waterproof servo with a 12-bit magnetic encoder for precise 360-degree control, exceptional performance, and durability in robotics.",
+    "url": "https://www.dfrobot.com/product-2789.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0066/SER0066_Main_01.jpg",
+    "price": "21.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2792,
+    "name": "Romeo Mini ESP32-C3: Compact Robot Control Board",
+    "sku": "DFR1063",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "ESP32 &amp; ESP8266",
+      "ESP32/ESP8266",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "271",
+      "279",
+      "312",
+      "316",
+      "318"
+    ],
+    "description": "Compact and powerful, the Romeo Mini ESP32-C3 offers Wi-Fi, Bluetooth 5, and versatile motor & servo control for robotics projects.",
+    "url": "https://www.dfrobot.com/product-2792.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1063/DFR1063_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2305,
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "sku": "FIT0790",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact 6mm coreless motors offer 45000rpm power at 3.7V, ideal for DIY drone enthusiasts seeking high performance and easy wiring.",
+    "url": "https://www.dfrobot.com/product-2305.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0790/FIT0790_Main_01.jpg",
+    "price": "5.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2309,
+    "name": "High-Performance 50,000rpm Coreless Micro Motor for DIY",
+    "sku": "FIT0793",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motor for DIY drones, offering high performance at 50,000rpm with 3.7V voltage. Perfect for remote control models.",
+    "url": "https://www.dfrobot.com/product-2309.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0793/FIT0793_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2310,
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "sku": "FIT0795",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motors ideal for DIY drones, offering 50,000rpm speed at 3.7V for high performance in drone models.",
+    "url": "https://www.dfrobot.com/product-2310.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0795/FIT0795_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2311,
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "sku": "FIT0796",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Coreless motors deliver 46000rpm at 3.7V. Perfect for DIY drone models with compact size and high power.",
+    "url": "https://www.dfrobot.com/product-2311.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0796/FIT0796_Main_01.jpg",
+    "price": "12",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2322,
+    "name": "High-Performance Coreless Motor for DIY Drones",
+    "sku": "FIT0794",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motors provide 50,000rpm at 3.7V, ideal for DIY drone projects and remote control applications.",
+    "url": "https://www.dfrobot.com/product-2322.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0794/FIT0794_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2556,
+    "name": "micro: Maqueen Lite - STEAM Educational Programming Robot",
+    "sku": "ROB0148-EN-LG",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "micro: Maqueen Lite offers a fun, educational experience for kids, supporting micro:bit V1 & V2 with features like sensors and lights.",
+    "url": "https://www.dfrobot.com/product-2556.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-LG/ROB0148-EN-LG_Main_01.jpg",
+    "price": "36.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2557,
+    "name": "Maqueen Lite: STEAM Educational Robot Platform for Kids",
+    "sku": "ROB0148-EN-LW",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Lite is a micro:bit-compatible STEAM robot, ideal for teaching kids programming with its vibrant design and rich features.",
+    "url": "https://www.dfrobot.com/product-2557.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-LW/ROB0148-EN-LW_Main_01.jpg",
+    "price": "36.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2558,
+    "name": "Maqueen Lite: Engage Kids with STEAM Learning",
+    "sku": "ROB0148-EN-LR",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Lite is a micro:bit robot offering STEAM education with features like line tracking and RGB lights, designed for children 8+.",
+    "url": "https://www.dfrobot.com/product-2558.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-LR/ROB0148-EN-LR_Main_01.jpg",
+    "price": "36.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2559,
+    "name": "Maqueen Lite: STEAM Educational Robot Kit for Kids",
+    "sku": "ROB0148-EN-LB",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Lite is a STEAM educational robot kit for kids, compatible with micro:bit, featuring rich peripherals and vibrant colors.",
+    "url": "https://www.dfrobot.com/product-2559.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-LB/ROB0148-EN-LB_Main_01.jpg",
+    "price": "36.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2560,
+    "name": "Maqueen Lite Skin: Colorful Protection for Kids",
+    "sku": "FIT0883-W",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "280",
+      "303"
+    ],
+    "description": "Maqueen Lite skin offers vibrant protection, engaging kids and safeguarding circuits, ideal for STEM education.",
+    "url": "https://www.dfrobot.com/product-2560.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0883-W/FIT0883-W_Main_01.jpg",
+    "price": "5.9",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2561,
+    "name": "Colorful ABS Shell for Maqueen Lite Robot",
+    "sku": "FIT0883-B",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "280",
+      "303"
+    ],
+    "description": "ABS shell for Maqueen Lite in four colors, supports Maqueen 3.0, easy installation, popular with children.",
+    "url": "https://www.dfrobot.com/product-2561.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0883-B/FIT0883-B_Main_01.jpg",
+    "price": "5.9",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2562,
+    "name": "Maqueen Lite Skin Kit: Vibrant Protection for Robots",
+    "sku": "FIT0883-G",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "280",
+      "303"
+    ],
+    "description": "Enhance Maqueen Lite with vibrant, protective ABS skins for STEM education.",
+    "url": "https://www.dfrobot.com/product-2562.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0883-G/FIT0883-G_Main_01.jpg",
+    "price": "5.9",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2563,
+    "name": "Maqueen Lite Skin: Vibrant Protection for STEM Robots",
+    "sku": "FIT0883-R",
+    "categories": [
+      "All Products",
+      "Enclosure&amp;Case",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "66",
+      "279",
+      "280",
+      "303"
+    ],
+    "description": "Vibrant Maqueen Lite skin adds appeal and protection for Maqueen 3.0, ideal for kids in STEM. Available in four lively colors.",
+    "url": "https://www.dfrobot.com/product-2563.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0883-R/FIT0883-R_Main_01.jpg",
+    "price": "5.9",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2570,
+    "name": "Intelligent Servo Motor with 2.3kg.cm Torque and 180° Rotation",
+    "sku": "SER0059",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "This servo motor offers 2.3kg.cm torque, 180° rotation, and real-time feedback, perfect for robotics and education.",
+    "url": "https://www.dfrobot.com/product-2570.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0059/SER0059_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2573,
+    "name": "45KG IP67 Waterproof Coreless Servo Motor for Robotics",
+    "sku": "SER0061",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "This 45KG IP67 waterproof coreless servo is perfect for robotics, offering precision, durability, and quiet operation with a 360-degree rotation capability.",
+    "url": "https://www.dfrobot.com/product-2573.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0061/SER0061_Main_01.jpg",
+    "price": "40.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2589,
+    "name": "Micro:bit Maqueen Robot Kit for STEAM Education",
+    "sku": "ROB0148-EN-6",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "The micro:bit Maqueen Robot Kit is designed for STEAM education, offering creative programming with Maqueen Lite and micro:bit V2.",
+    "url": "https://www.dfrobot.com/product-2589.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0148-EN-6/ROB0148-EN-6_Detail_01.jpg",
+    "price": "129.7",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2596,
+    "name": "Explore Robotics with Raspberry Pi Six-axis Arm",
+    "sku": "ROB0182",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "284"
+    ],
+    "description": "The Raspberry Pi Six-axis Robotic Arm offers independent operation, multi-language support, and versatile applications in research and smart home settings.",
+    "url": "https://www.dfrobot.com/product-2596.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0182/ROB0182_Main_01.jpg",
+    "price": "918",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2597,
+    "name": "Explore Raspberry Pi Six-axis Robotic Arm",
+    "sku": "ROB0182-1",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "284"
+    ],
+    "description": "Raspberry Pi Six-axis Robotic Arm: 280mm range, independent, multi-platform support for research and smart applications.",
+    "url": "https://www.dfrobot.com/product-2597.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0182-1/ROB0182-1_Main_01.jpg",
+    "price": "958",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2598,
+    "name": "Raspberry Pi Six-axis Robotic Arm: Compact & Powerful",
+    "sku": "ROB0182-2",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "284"
+    ],
+    "description": "The Raspberry Pi Six-axis Robotic Arm is versatile, supporting multi-language coding and independent operations, perfect for research and smart home applications.",
+    "url": "https://www.dfrobot.com/product-2598.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/cache3/data/ROB0182-2/ROB0182-2.jpg",
+    "price": "958",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2411,
+    "name": "TFmini-i LiDAR: Industrial Grade Laser Ranging Sensor",
+    "sku": "SEN0505",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TFmini-i LiDAR offers a 12m detection range and RS485 interface, ideal for industrial applications with IP65 protection and ToF technology.",
+    "url": "https://www.dfrobot.com/product-2411.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0505/SEN0505_Main_01.jpg",
+    "price": "71.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2418,
+    "name": "TF02-i LiDAR: 40m Range Industrial Sensor",
+    "sku": "SEN0504",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TF02-i LiDAR: 40m range, RS485, IP65, ideal for UAVs & smart systems.",
+    "url": "https://www.dfrobot.com/product-2418.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0504/SEN0504_Main_01.jpg",
+    "price": "109.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2451,
+    "name": "Micro: Maqueen Lite Educational Robot Kit",
+    "sku": "ROB0148-EN-5",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Micro: Maqueen Lite is a micro:bit robot kit for STEAM education, ideal for ages 8+, supports Mind+ programming.",
+    "url": "https://www.dfrobot.com/product-2451.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0148-EN-5/ROB0148-EN-5_Mian_01.jpg",
+    "price": "61.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2476,
+    "name": "18650 Battery Protection Module: Safety & Efficiency",
+    "sku": "FIT0869",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "The 18650 Battery Protection Module offers essential safeguards like overcharge and short-circuit protection, enhancing battery pack reliability and safety.",
+    "url": "https://www.dfrobot.com/product-2476.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0869/FIT0869_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2505,
+    "name": "Maqueen Plus V2: Enhanced STEM Robot for K12",
+    "sku": "MBT0021-EN-18650-3",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 offers advanced STEM education features, including expanded ports and micro:bit compatibility, ideal for K12 classrooms.",
+    "url": "https://www.dfrobot.com/product-2505.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0021-EN-18650-3/MBT0021-EN-18650-3_Mian_01.jpg",
+    "price": "94.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2506,
+    "name": "Maqueen Plus V2: Enhanced STEAM Robot",
+    "sku": "MBT0021-EN-18650-4",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is an advanced micro:bit robot tailored for STEM education, featuring enhanced sensors and compatibility with HuskyLens AI camera.",
+    "url": "https://www.dfrobot.com/product-2506.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0021-EN-18650-4/MBT0021-EN-18650-4_Mian_01.jpg",
+    "price": "116.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2509,
+    "name": "Maqueen Plus V2: Advanced STEAM Robot Kit",
+    "sku": "MBT0021-EN-18650-5",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is a versatile robot kit for K12 STEM education, featuring easy assembly and enhanced programming capabilities.",
+    "url": "https://www.dfrobot.com/product-2509.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0021-EN-18650-5/MBT0021-EN-18650-5_Mian_01.jpg",
+    "price": "153.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2053,
+    "name": "9g Servo for Maqueen: Reliable Metal Gear",
+    "sku": "SER0048",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "9g Servo for Maqueen offers metal gear, 180° rotation, and manual 360° rotation for smooth movement without getting stuck.",
+    "url": "https://www.dfrobot.com/product-2053.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0048/SER0048_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2118,
+    "name": "9g 300° Clutch Servo: Safe and Reliable Operation",
+    "sku": "SER0053",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 9g 300° Clutch Servo offers clutch function and electronic protection, preventing damage under complex conditions with 300° rotation and easy control.",
+    "url": "https://www.dfrobot.com/product-2118.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0053/SER0053_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2119,
+    "name": "6Kg 180° Clutch Servo with Electronic Protection",
+    "sku": "SER0051",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 6Kg 180° clutch servo offers electronic protection to prevent damage, ideal for robotics and models with easy Arduino control.",
+    "url": "https://www.dfrobot.com/product-2119.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0051/SER0051_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2121,
+    "name": "6Kg 300° Clutch Servo with Electronic Protection",
+    "sku": "SER0057",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "6Kg 300° clutch servo with electronic protection prevents damage in robotics and models, ensuring smooth operation even under external force.",
+    "url": "https://www.dfrobot.com/product-2121.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0057/SER0057_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2127,
+    "name": "Transform Your Maqueen Plus with Mechanic-Push Kit",
+    "sku": "ROB0156-P",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Mechanic-Push kit transforms Maqueen Plus into a bulldozer, ideal for football and cleaning tasks, with rich mechanical knowledge benefits.",
+    "url": "https://www.dfrobot.com/product-2127.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0156-P/ROB0156-P_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2128,
+    "name": "Transform Maqueen into a Mechanic Beetle Kit",
+    "sku": "ROB0156-B",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Convert Maqueen Lite or Plus into a Mechanic Beetle with metal servo and parts. Ideal for educational fun.",
+    "url": "https://www.dfrobot.com/product-2128.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0156-B/ROB0156-B_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2129,
+    "name": "Maqueen Mechanic-Forklift Kit: Transform Your Robot",
+    "sku": "ROB0156-F",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Equip Maqueen Plus with the Mechanic-Forklift kit for forklift simulations, enabling hands-on mechanical learning experiences.",
+    "url": "https://www.dfrobot.com/product-2129.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0156-F/ROB0156-F_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2907,
+    "name": "DC-DC Buck Converter Module: High Efficiency & Protection",
+    "sku": "DFR1202",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "DC-DC buck converter provides 5V output, up to 16A, over 90% efficiency, with robust protection, ideal for sensitive electronics.",
+    "url": "https://www.dfrobot.com/product-2907.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1202/DFR1202_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2908,
+    "name": "Efficient DC-DC Step-Down Converter Module for 12V Output",
+    "sku": "DFR1208",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "DC-DC converter reduces 15-24V to 12V with 95% efficiency, featuring protection and thermal management.",
+    "url": "https://www.dfrobot.com/product-2908.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1208/DFR1208_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2919,
+    "name": "High-Precision ToF Laser Ranging Sensor for Robotics",
+    "sku": "SEN0646",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "276",
+      "279",
+      "313"
+    ],
+    "description": "Ultra-lightweight ToF sensor with dToF technology for precise measurements up to 7.8m, ideal for robotics and drone navigation.",
+    "url": "https://www.dfrobot.com/product-2919.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0646/SEN0646_Main_01.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2935,
+    "name": "Maqueen Plus V3: Advanced STEM Educational Robot Kit",
+    "sku": "MBT0050-AA",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V3 is designed for STEM education, offering features like laser sensors and PID control for advanced learning and robotics competitions.",
+    "url": "https://www.dfrobot.com/product-2935.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0050-AA/MBT0050-AA_251022Update (1).jpg",
+    "price": "69.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2937,
+    "name": "Maqueen Lite V5: Effortless STEM Learning with Micro:bit",
+    "sku": "MBT0046",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Lite V5 is a micro:bit-compatible STEM robot with effortless setup, powerful multitasking, and reliable motors for classroom learning.",
+    "url": "https://www.dfrobot.com/product-2937.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0046/MBT0046_Main_08.jpg",
+    "price": "34",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2938,
+    "name": "SLAMTEC Aurora: Revolutionizing Robot Navigation",
+    "sku": "DFR1220",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "SLAMTEC Aurora combines LiDAR, vision, IMU, and AI for seamless 3D mapping and navigation, revolutionizing robot perception and application in complex environments.",
+    "url": "https://www.dfrobot.com/product-2938.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1220/DFR1220_Main_01.jpg",
+    "price": "859",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2940,
+    "name": "YDLIDAR GS5: Reliable Solid-State LiDAR for Robotics",
+    "sku": "DFR1219",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "YDLIDAR GS5: Solid-state LiDAR sensor with 85° FOV, 1000mm range, ideal for AGVs and robotics, ensures precision and reliability in diverse environments.",
+    "url": "https://www.dfrobot.com/product-2940.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1219/DFR1219_Main_01.jpg",
+    "price": "50",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2953,
+    "name": "Maqueen V5 N20 Motor Replacement Kit for Easy Repair",
+    "sku": "DFR1224",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "66",
+      "110",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "Repair your Maqueen V5 easily with the N20 motor kit—includes all parts needed for a quick, solder-free motor replacement.",
+    "url": "https://www.dfrobot.com/product-2953.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1224/DFR1224_Main_01.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2954,
+    "name": "Maqueen Plus V3 Motor Replacement Kit",
+    "sku": "DFR1225",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "Effortlessly repair your Maqueen Plus V3 with the N20 motor kit, ensuring perfect compatibility and functionality.",
+    "url": "https://www.dfrobot.com/product-2954.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1225/DFR1225_Main_01.jpg",
+    "price": "7",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2955,
+    "name": "CS30 RGBD ToF Depth Camera: High-Fidelity 3D Vision",
+    "sku": "SEN0673",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors",
+      "Serial"
+    ],
+    "category_ids": [
+      "36",
+      "82",
+      "279",
+      "313"
+    ],
+    "description": "The CS30 RGBD ToF Depth Camera integrates ToF and HD imaging for precise 3D perception, ideal for robotics and AI applications.",
+    "url": "https://www.dfrobot.com/product-2955.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0673/SEN0673_Main_01.jpg",
+    "price": "299",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2962,
+    "name": "ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "sku": "SER0070",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "url": "https://www.dfrobot.com/product-2962.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0070/SER0070_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2965,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "sku": "SER0071",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "url": "https://www.dfrobot.com/product-2965.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0071/1.jpg",
+    "price": "399",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2966,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "sku": "SER0074",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "url": "https://www.dfrobot.com/product-2966.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0074/1.jpg",
+    "price": "650",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2967,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "sku": "SER0073",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "url": "https://www.dfrobot.com/product-2967.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0073/1.jpg",
+    "price": "550",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2970,
+    "name": "GNSS-RTK High Precision Positioning Kit(US) -- 2970",
+    "sku": "KIT0198-US",
+    "categories": [
+      "All Products",
+      "Communications",
+      "GSM/GPRS/GPS",
+      "Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "45",
+      "156",
+      "234",
+      "279"
+    ],
+    "description": "DFRobot's GNSS-RTK High Precision Positioning Kit(US) -- 2970",
+    "url": "https://www.dfrobot.com/product-2970.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0198-EU/KIT0198-EU-260423.jpg",
+    "price": "169",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2971,
+    "name": "GNSS-RTK Kit: Centimeter-Level Positioning Accuracy",
+    "sku": "KIT0198-EU",
+    "categories": [
+      "All Products",
+      "Communications",
+      "GSM/GPRS/GPS",
+      "Internet of Things - IoT",
+      "Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "45",
+      "156",
+      "234",
+      "276",
+      "279"
+    ],
+    "description": "Achieve high-precision positioning with GNSS-RTK Kit, featuring LoRa communication and multi-constellation support for reliable data transmission.",
+    "url": "https://www.dfrobot.com/product-2971.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0198-EU/KIT0198-EU-260423.jpg",
+    "price": "169",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2975,
+    "name": "600kg Torque Industrial Servo: Precision & Durability",
+    "sku": "SER0072",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Experience unmatched precision and reliability with the 600kg torque brushless servo, featuring IP65 protection and advanced magnetic encoder technology.",
+    "url": "https://www.dfrobot.com/product-2975.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0072/1.jpg",
+    "price": "450",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2173,
+    "name": "URM14 RS485 Ultrasonic Distance Sensor: Precision & Durability",
+    "sku": "SEN0358",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "The URM14 RS485 ultrasonic sensor offers 1mm accuracy and IP65 protection for reliable industrial measurements.",
+    "url": "https://www.dfrobot.com/product-2173.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0358/SEN0358_Main_01.jpg",
+    "price": "99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2268,
+    "name": "Optimize Your Robot with Mecanum Wheels: 60mm Design",
+    "sku": "FIT0765",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Explore Mecanum wheels for robots, offering low noise, flexible control, and omnidirectional movement with durable 60mm design.",
+    "url": "https://www.dfrobot.com/product-2268.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0765/FIT0765_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2269,
+    "name": "Mecanum Wheel for Robot Cars: Omnidirectional Movement",
+    "sku": "FIT0766",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Mecanum wheels offer robot cars omnidirectional movement with low noise and high friction for stable, flexible operations.",
+    "url": "https://www.dfrobot.com/product-2269.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0766/FIT0766_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2270,
+    "name": "Ultimate Mecanum Wheel for Omnidirectional Robot Cars",
+    "sku": "FIT0767",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Mecanum wheels offer omnidirectional movement for robots, allowing precision control even in tight spaces.",
+    "url": "https://www.dfrobot.com/product-2270.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0767/FIT0767_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2271,
+    "name": "Optimize Your Robot with 97mm Mecanum Wheels",
+    "sku": "FIT0768",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "97mm Mecanum wheels offer omnidirectional movement for robots with low noise and durable silicone rollers.",
+    "url": "https://www.dfrobot.com/product-2271.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0768/FIT0768_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1217,
+    "name": "Insectbot Hexa: The Ultimate DIY Six-legged Robot Kit",
+    "sku": "KIT0090",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280"
+    ],
+    "description": "Insectbot Hexa is a DIY robot kit with advanced features like Bluetooth connectivity and enhanced obstacle avoidance, ideal for learning and fun.",
+    "url": "https://www.dfrobot.com/product-1217.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0090/_DSC0930.jpg",
+    "price": "45.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1873,
+    "name": "Explore Maqueen: Micro:bit Programming Robot for STEAM",
+    "sku": "ROB0148-EN-3",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen is a micro:bit programming robot for STEAM education, enabling fun and engaging graphical programming with micro:bit V2.",
+    "url": "https://www.dfrobot.com/product-1873.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-3/ROB0148-EN-3_Main_01.jpg",
+    "price": "66.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1874,
+    "name": "Discover Maqueen: The Ultimate micro:bit Robot for STEM Learning",
+    "sku": "ROB0148-EN-4",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen is a micro:bit robot for STEM education, offering easy programming and fostering logical thinking in children.",
+    "url": "https://www.dfrobot.com/product-1874.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN-4/ROB0148-EN-4_Main_01.jpg",
+    "price": "105.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2031,
+    "name": "Maqueen Plus V2: Advanced STEM Education Robot",
+    "sku": "MBT0021-EN-4",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is a versatile STEM robot optimized for micro:bit V2, enhancing educational experiences with new features and expanded compatibility.",
+    "url": "https://www.dfrobot.com/product-2031.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-4/MBT0021-EN-4_Main_01.jpg",
+    "price": "116.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2032,
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "sku": "MBT0021-EN-5",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 enhances STEM learning with micro:bit compatibility, improved sensors, and expansion ports, suitable for education and competitions.",
+    "url": "https://www.dfrobot.com/product-2032.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-5/MBT0021-EN-5_Main_01.jpg",
+    "price": "153.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2787,
+    "name": "20KG 180° Digital Servo with Formidable Torque",
+    "sku": "SER0063",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 20KG 180° waterproof digital servo offers formidable torque, copper gears, and dual ball bearings for enhanced motion and durability.",
+    "url": "https://www.dfrobot.com/product-2787.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0063/SER0063_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1959,
+    "name": "Brushless DC Motor MTO1804: Power and Efficiency",
+    "sku": "FIT0632",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "The Brushless DC Motor MTO1804 is perfect for drones, offering high torque, efficiency, and durability for stable and powerful flights.",
+    "url": "https://www.dfrobot.com/product-1959.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0632/FIT0632_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1963,
+    "name": "TF03 Long-Distance ToF LiDAR: Industrial-Grade Precision",
+    "sku": "SEN0328",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "TF03 is a robust 100m range industrial-grade LiDAR sensor, ideal for drones, transportation, and safety applications.",
+    "url": "https://www.dfrobot.com/product-1963.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0328/SEN0328_Main_01.jpg",
+    "price": "219.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1995,
+    "name": "TF-Luna: Compact ToF Single-Point LiDAR Solution",
+    "sku": "SEN0340",
+    "categories": [
+      "All Products",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "279"
+    ],
+    "description": "TF-Luna LiDAR offers precise, sensitive range measurement, easy integration, and wide application in robotics, UAVs, and smart cities.",
+    "url": "https://www.dfrobot.com/product-1995.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0340/SEN0340_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2006,
+    "name": "Transform Your Maqueen into a Loader with Mechanic Kit",
+    "sku": "ROB0156-L",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Loader Kit allows simple transformation into a loader, ideal for K12 STEM education and hands-on learning.",
+    "url": "https://www.dfrobot.com/product-2006.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0156-L/ROB0156-L_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2008,
+    "name": "Maqueen Loader Kit for Micro:bit STEM Education",
+    "sku": "ROB0156-L-1",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Loader kit includes mechanical parts for transforming Maqueen into a loader, enhancing STEM education with hands-on learning.",
+    "url": "https://www.dfrobot.com/product-2008.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0156-L-1/ROB0156-L-1_Main_01.jpg",
+    "price": "42",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2038,
+    "name": "Mecanum Wheel Right (48mm) for Omnidirectional Robots",
+    "sku": "FIT0662",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "48mm Mecanum Wheel enables omnidirectional movement for robots with durable, low-noise operation and silicone rubber rollers.",
+    "url": "https://www.dfrobot.com/product-2038.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0662/FIT0662_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2039,
+    "name": "Explore the Versatile Mecanum Wheels for Robots",
+    "sku": "FIT0661",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Mecanum wheels enable robots to move in any direction, offering flexibility, low noise, and stability, ideal for navigating tight spaces.",
+    "url": "https://www.dfrobot.com/product-2039.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0661/FIT0661_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2041,
+    "name": "Discover Mecanum Wheels for Omnidirectional Robots",
+    "sku": "FIT0662-1",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Mecanum wheels enable omnidirectional movement for robots, perfect for versatile navigation in tight spaces.",
+    "url": "https://www.dfrobot.com/product-2041.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0662-1/FIT0662_Main_01.jpg",
+    "price": "15.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2042,
+    "name": "Mecanum Wheel Kit: 80mm Omnidirectional Control",
+    "sku": "FIT0654-1",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Mecanum wheels offer 80mm omnidirectional movement for robots, ideal for tight spaces with rugged, low-noise operation.",
+    "url": "https://www.dfrobot.com/product-2042.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0654/FIT0654.jpg",
+    "price": "19.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3007,
+    "name": "2208 Three-Phase BLDC Motor with High-Precision Encoder",
+    "sku": "FIT1035",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "The 2208 BLDC motor with AS5600 encoder provides high precision for FOC applications, ideal for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-3007.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1035/FIT1035_Main_01.jpg",
+    "price": "16.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2307,
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "sku": "FIT0791",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "High-performance coreless motors, 50000rpm at 3.7V, ideal for DIY drone models and remote control projects.",
+    "url": "https://www.dfrobot.com/product-2307.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0791/FIT0791_Main_01.jpg",
+    "price": "6.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2951,
+    "name": "Benewake TFS20-L ToF LiDAR Sensor for Drones & Robots",
+    "sku": "SEN0672",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "The Benewake TFS20-L LiDAR sensor provides precise, long-range distance measurement ideal for UAVs and robots, even in challenging sunlight.",
+    "url": "https://www.dfrobot.com/product-2951.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0672/SEN0672_Main_01.jpg",
+    "price": "43.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 225,
+    "name": "Metal Ball Caster - 15KG Load Lightweight Design",
+    "sku": "FIT0007",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279"
+    ],
+    "description": "Metal ball caster supports 15KG payload, offering smooth movement with 40 bearing balls and lightweight design.",
+    "url": "https://www.dfrobot.com/product-225.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0007/FIT0007_Main_01.jpg",
+    "price": "2.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1219,
+    "name": "Devastator Tank Mobile Robot Platform: Durable & Swift",
+    "sku": "ROB0112",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Devastator Tank Mobile Platform is a durable, swift robot compatible with Arduino and Raspberry Pi, ideal for education and research.",
+    "url": "https://www.dfrobot.com/product-1219.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0112/_DSC1430.jpg",
+    "price": "69.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1783,
+    "name": "Maqueen: Easy-to-Use micro:bit Robot for STEAM Education",
+    "sku": "ROB0148-EN",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen is a micro:bit robot for STEAM education, supporting Makecode and enhancing programming skills in an engaging way.",
+    "url": "https://www.dfrobot.com/product-1783.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0148-EN/ROB0148-EN_Main_01.jpg",
+    "price": "32",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 65,
+    "name": "2WD Mobile Robot Platform for Arduino",
+    "sku": "ROB0005",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "The 2WD Mobile Robot Platform for Arduino is a versatile, affordable kit for creating robots, featuring durable materials and differential drives.",
+    "url": "https://www.dfrobot.com/product-65.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0005/ROB0005_Detail_05.jpg",
+    "price": "34.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 628,
+    "name": "Enhance Your Robot with LG-NS Gripper",
+    "sku": "FIT0014",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "279"
+    ],
+    "description": "LG-NS robot gripper enhances small arms with 1.3\" clamp and 180-degree rotation, compatible with hobby servos.",
+    "url": "https://www.dfrobot.com/product-628.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0014/FIT0014_Main_01.jpg",
+    "price": "16",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2649,
+    "name": "AA Battery Holder Case with DC 2.1 Jack and Switch",
+    "sku": "FIT0918",
+    "categories": [
+      "AA Batteries",
+      "All Products",
+      "Power",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "66",
+      "92",
+      "224",
+      "279"
+    ],
+    "description": "Hold four AA batteries securely with a DC 2.1 jack, removable cover, and ON/OFF switch. Eco-friendly and RoHS compliant for safe and efficient power control.",
+    "url": "https://www.dfrobot.com/product-2649.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0918/FIT0918_Main_01.jpg",
+    "price": "2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2949,
+    "name": "TF-NOVA Line Laser LiDAR: Enhanced Detection",
+    "sku": "SEN0671",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "TF-NOVA Line Laser LiDAR offers enhanced detection with a 14° laser FoV, stable outdoor performance, and easy integration for drones and robotics.",
+    "url": "https://www.dfrobot.com/product-2949.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/20250620/SEN0671_Main_01.jpg",
+    "price": "34.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2852,
+    "name": "2x3A DC Motor Driver Carrier for UNIHIKER M10",
+    "sku": "DFR1136",
+    "categories": [
+      "All Products",
+      "IO Expansion Shields &amp; HATs",
+      "Modules",
+      "Robotics",
+      "UNIHIKER"
+    ],
+    "category_ids": [
+      "156",
+      "269",
+      "279",
+      "314"
+    ],
+    "description": "Versatile 2x3A DC Motor Driver Carrier for UNIHIKER M10 with flexible power options, RGB lights, and infrared functions for enhanced robotics and IoT projects.",
+    "url": "https://www.dfrobot.com/product-2852.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1136/DFR1136_Main_01.jpg",
+    "price": "13.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 633,
+    "name": "83 RPM Metal DC Motor GB37Y3530 with Encoder",
+    "sku": "FIT0185",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "The 83 RPM Metal DC Motor GB37Y3530-12V-83R is ideal for mobile robots with its powerful 12V operation, 131:1 gearbox, and quadrature encoder.",
+    "url": "https://www.dfrobot.com/product-633.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0185/FIT0185_Main_01.jpg",
+    "price": "16.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2301,
+    "name": "Enhance Robot Mobility with 65mm Metal Mecanum Wheels",
+    "sku": "FIT0780",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Explore 65mm Metal Mecanum Wheels for flexible robot control. Easy installation, high-friction rollers, and omnidirectional movement.",
+    "url": "https://www.dfrobot.com/product-2301.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0780/FIT0780_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2487,
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "sku": "MBT0021-EN-18650",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is a versatile robot optimized for STEM education, ideal for primary and secondary school students.",
+    "url": "https://www.dfrobot.com/product-2487.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-18650/MBT0021-EN-18650_Main_01.jpg",
+    "price": "49.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2503,
+    "name": "Maqueen Plus V2: Advanced STEM Educational Robot",
+    "sku": "MBT0021-EN-18650-1",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is a powerful STEM educational robot, ideal for students with enhanced features and compatibility for programming and competitions.",
+    "url": "https://www.dfrobot.com/product-2503.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0021-EN-18650-1/MBT0021-EN-18650-1_Mian_01.jpg",
+    "price": "104.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2504,
+    "name": "Maqueen Plus V2: Advanced STEAM Robot for Education",
+    "sku": "MBT0021-EN-18650-2",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2, a STEAM robot with micro:bit compatibility, ideal for education and competitions, offering rich features and easy expansion.",
+    "url": "https://www.dfrobot.com/product-2504.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0021-EN-18650-2/MBT0021-EN-18650-2_Mian_01.jpg",
+    "price": "127.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3066,
+    "name": "Graphene Circular Flex Force Sensor: High Precision & Durability",
+    "sku": "SEN0684",
+    "categories": [
+      "All Products",
+      "Flex Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "202",
+      "279"
+    ],
+    "description": "Graphene Circular Flex Force Sensor withstands up to 120°C, offering precision for robotics and industrial tasks.",
+    "url": "https://www.dfrobot.com/product-3066.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0684/SEN0684_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3076,
+    "name": "M0601 Hub Motor: Integrated Design for Robotics",
+    "sku": "FIT1038",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "The M0601 hub motor integrates motor, driver, and encoder for plug-and-play deployment, offering precise control and quiet operation for robotics applications.",
+    "url": "https://www.dfrobot.com/product-3076.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1038/FIT1038_260205 (1).jpg",
+    "price": "64.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3077,
+    "name": "M0601 Hub Motor for AGVs and AMRs: Integrated Design",
+    "sku": "FIT1042",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "The M0601 hub motor offers integrated design for robots, AGVs, AMRs, with precise control, low noise, and high torque.",
+    "url": "https://www.dfrobot.com/product-3077.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1042/FIT1042_Main_01.jpg",
+    "price": "64.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2740,
+    "name": "Explore RGB-D Camera: High-Resolution 3D ToF Imaging",
+    "sku": "SEN0583",
+    "categories": [
+      "All Products",
+      "Light &amp; Imaging Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "58",
+      "279"
+    ],
+    "description": "Explore RGB-D camera with 3D ToF technology, seamless Linux compatibility, Python SDK, and ROS1/ROS2 support for IoT applications.",
+    "url": "https://www.dfrobot.com/product-2740.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0583/SEN0583_Main_01.jpg",
+    "price": "109",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2026,
+    "name": "Discover the Upgraded Maqueen Plus V2 for STEM Education",
+    "sku": "MBT0021-EN",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is a STEM educational robot featuring enhanced expansion ports, larger power supply, and compatibility with micro:bit.",
+    "url": "https://www.dfrobot.com/product-2026.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN/MBT0021-EN_Main_01.jpg",
+    "price": "49.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2027,
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "sku": "MBT0021-EN-1",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is an upgraded STEM educational robot, optimized for micro:bit, with enhanced sensors and features for K12 learning.",
+    "url": "https://www.dfrobot.com/product-2027.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-1/MBT0021-EN-1_Main_01.jpg",
+    "price": "104.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2029,
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "sku": "MBT0021-EN-3",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 is an educational STEM robot optimized for micro:bit, offering expanded features and compatibility for enhanced learning.",
+    "url": "https://www.dfrobot.com/product-2029.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-3/MBT0021-EN-3_Main_01.jpg",
+    "price": "94.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2030,
+    "name": "Maqueen Plus V2: Advanced STEM Robot for micro:bit",
+    "sku": "MBT0021-EN-2",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V2 enhances STEM education with micro:bit compatibility and rich features, ideal for classrooms and robotics competitions.",
+    "url": "https://www.dfrobot.com/product-2030.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/MBT0021-EN-2/MBT0021-EN-2_Main_01.jpg",
+    "price": "127.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2302,
+    "name": "65mm Metal Mecanum Wheel - Left for Robot Cars",
+    "sku": "FIT0779",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "65mm Metal Mecanum Wheel offers omnidirectional movement for robot cars, ensuring stability and easy installation with metal structure and plastic rollers.",
+    "url": "https://www.dfrobot.com/product-2302.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0779/FIT0779_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 504,
+    "name": "Waterproof DC-DC Converter: 8-40V to 12V@6A",
+    "sku": "FIT0145",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter transforms 8-40V to 12V@6A, ideal for embedded PC and robot power with high efficiency.",
+    "url": "https://www.dfrobot.com/product-504.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0145/FIT0145_Back_04.jpg",
+    "price": "27",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2117,
+    "name": "Discover the 2Kg 180° Clutch Servo with Protection",
+    "sku": "SER0050",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 2Kg 180° Clutch Servo features clutch function and electronic protection, ideal for robotics and models, ensuring durability and smooth operation.",
+    "url": "https://www.dfrobot.com/product-2117.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0050/SER0050_Main_01.jpg",
+    "price": "6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 584,
+    "name": "Waterproof DC-DC Converter: 12V@10A Supply",
+    "sku": "FIT0170",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "276",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter with 15-40V input converts to 12V@10A, ideal for PCs and robots.",
+    "url": "https://www.dfrobot.com/product-584.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0170/FIT0170_Back_04.jpg",
+    "price": "13",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 585,
+    "name": "Waterproof DC-DC Converter: 8-40V to 24V@6A",
+    "sku": "FIT0171",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "276",
+      "279"
+    ],
+    "description": "Waterproof DC-DC converter with 8-40V input, converts to 24V@6A, ideal for mobile robots and motors with multiple protections.",
+    "url": "https://www.dfrobot.com/product-585.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0171/IMGP4639.jpg",
+    "price": "39",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2939,
+    "name": "Maqueen Plus V3: Cutting-Edge STEM Robot Kit",
+    "sku": "MBT0050-18650",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen Plus V3 is an advanced STEM robot with matrix laser sensors, PID control, and built-in algorithms for precise autonomous movement.",
+    "url": "https://www.dfrobot.com/product-2939.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/MBT0050-18650/MBT0050-18650_UPDATE260327 (1).jpg",
+    "price": "69.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2297,
+    "name": "Mini Vibration Motor: Compact & Powerful",
+    "sku": "FIT0774",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "A 10*2.7mm mini vibration motor with strong vibration, low noise, easy embedding, and long lifespan. Ideal for phones, watches, and toys.",
+    "url": "https://www.dfrobot.com/product-2297.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0774/FIT0774_Main_01.jpg",
+    "price": "0.99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2732,
+    "name": "Enhance Robot Navigation with RPLIDAR S3 LiDAR",
+    "sku": "DFR1097",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "The RPLIDAR S3 features SLAMTEC's SL-TOF technology for precise 40m distance measurement, high-speed sampling, and strong light immunity, enhancing robotics.",
+    "url": "https://www.dfrobot.com/product-2732.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1097/DFR1097_Main_01.JPG",
+    "price": "549",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2945,
+    "name": "RDK X5 AI Board: Transform AI Robotics",
+    "sku": "DFR1238",
+    "categories": [
+      "ARM",
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "Robotics",
+      "Single Board Computer"
+    ],
+    "category_ids": [
+      "184",
+      "279",
+      "284",
+      "294",
+      "311"
+    ],
+    "description": "The RDK X5 AI Board empowers ROS robotics with 10 TOPS NPU, enabling real-time AI execution and seamless project integration.",
+    "url": "https://www.dfrobot.com/product-2945.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1238/RDK-1560.jpg",
+    "price": "100",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2958,
+    "name": "High-Speed TFA300-L LiDAR for Drone Applications",
+    "sku": "SEN0675",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "The TFA300-L LiDAR is a lightweight, high-speed sensor offering 10,000Hz frequency and 290m range for drone obstacle avoidance and positioning.",
+    "url": "https://www.dfrobot.com/product-2958.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0675/SEN0675_Main_01.jpg",
+    "price": "349",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2961,
+    "name": "ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "sku": "SER0069",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "url": "https://www.dfrobot.com/product-2961.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0069/SER0069_Main_01.png",
+    "price": "17.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3002,
+    "name": "Serial Bus Servo Driver Board: Control Up to 253 Servos",
+    "sku": "DRI0057",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Efficiently control up to 253 bus servos with USB/UART interfaces, real-time feedback, and advanced configuration for robotics.",
+    "url": "https://www.dfrobot.com/product-3002.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0057/DRI0057_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3003,
+    "name": "Gravity: Haptic Motor Driver -- 3003",
+    "sku": "DRI0056",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's Gravity: Haptic Motor Driver -- 3003",
+    "url": "https://www.dfrobot.com/product-3003.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0056/DRI0056_Main_01-1.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2120,
+    "name": "9g 180° Clutch Servo with Electronic Protection",
+    "sku": "SER0049",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 9g 180° Clutch Servo offers clutch function and electronic protection, preventing damage in robotic and model applications.",
+    "url": "https://www.dfrobot.com/product-2120.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0049/SER0049_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 367,
+    "name": "Versatile 2WD MiniQ Robot Platform for Education",
+    "sku": "ROB0049",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Brakets &amp; Platforms",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "98",
+      "277",
+      "279",
+      "280"
+    ],
+    "description": "2WD MiniQ robot platform is compact, versatile, and ideal for educational use, featuring powerful metal gear motors for speed.",
+    "url": "https://www.dfrobot.com/product-367.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/ROB0049/ROB0049_Main_01.jpg",
+    "price": "25",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 827,
+    "name": "MiniQ Motor Wheel Set for Robotics Education",
+    "sku": "KIT0015",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "MiniQ motor wheel set designed for educational robotics with metal gear motors and PID speed control, ideal for maze competitions.",
+    "url": "https://www.dfrobot.com/product-827.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0015/KIT0015_ShipList_06.jpg",
+    "price": "13",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1534,
+    "name": "Ultra Small Dual DC Motor Driver with UVLO & ESD Protection",
+    "sku": "DRI0041",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Ultra small Dual DC motor driver with UVLO, Photo Coupler isolation, and ESD protection for safe operation in compact projects.",
+    "url": "https://www.dfrobot.com/product-1534.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0041/DRI0041_Main_01.jpg",
+    "price": "21",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1535,
+    "name": "High-Quality Silicone Wheel for TT Motors",
+    "sku": "FIT0500",
+    "categories": [
+      "All Products",
+      "Mechanics",
+      "Prototyping &amp; Accessories",
+      "Robotics",
+      "Wheels and Casters"
+    ],
+    "category_ids": [
+      "46",
+      "66",
+      "101",
+      "279"
+    ],
+    "description": "Silicone wheel with ABS hub, designed for TT motors, enhances robot projects with soft tire and stunning design.",
+    "url": "https://www.dfrobot.com/product-1535.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0500/FIT0500_Main_01.jpg",
+    "price": "1.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2999,
+    "name": "3D Depth Sensing with 8*8 Matrix Time-of-Flight Sensor",
+    "sku": "SEN0628",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Range &amp; Distance Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "55",
+      "277",
+      "279"
+    ],
+    "description": "The 8*8 Matrix ToF Sensor offers real-time depth data for robotics, gesture control, and smart automation. Compatible with major development platforms.",
+    "url": "https://www.dfrobot.com/product-2999.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0628/SEN0628_260130 (1).jpg",
+    "price": "22",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3006,
+    "name": "High-Performance 2804 BLDC Motor with AS5600 Encoder",
+    "sku": "FIT1036",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "2804 BLDC motor with AS5600 encoder offers high efficiency and precision, ideal for robotics and camera gimbals.",
+    "url": "https://www.dfrobot.com/product-3006.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1036/FIT1036_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3013,
+    "name": "SimpleFOCmini: Compact BLDC Motor Control with FOC",
+    "sku": "DRI0058",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "SimpleFOCmini offers compact, high-performance BLDC motor control with advanced FOC for precise torque, speed, and position management.",
+    "url": "https://www.dfrobot.com/product-3013.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0058/DRI0058_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 913,
+    "name": "DIY Spider Robot: Build Your Own Robotic Creature",
+    "sku": "ROB0103",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280"
+    ],
+    "description": "Create a DIY Spider Robot, customize its features, and learn robotic science. Perfect for children to foster innovation and intelligence.",
+    "url": "https://www.dfrobot.com/product-913.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0103/ROB0103_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1477,
+    "name": "Devastator Tank Mobile Robot Platform: Shock Absorption & Easy Programming",
+    "sku": "ROB0128",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "The Devastator tank mobile robot platform offers robust construction, shock absorption, easy programming, and high expandability for executing complex tasks.",
+    "url": "https://www.dfrobot.com/product-1477.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0112/_DSC1430.jpg",
+    "price": "84.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 444,
+    "name": "20W Adjustable DC-DC Boost Converter with Display",
+    "sku": "DFR0123",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "20W adjustable DC-DC boost converter with digital display offers high efficiency and protective functions for seamless voltage adjustments.",
+    "url": "https://www.dfrobot.com/product-444.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0123/DFR0123_Main_01.jpg",
+    "price": "7.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1872,
+    "name": "Micro:Maqueen - Educational Robot for STEM Learning",
+    "sku": "ROB0148-EN-1",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Maqueen",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279",
+      "280",
+      "281",
+      "319"
+    ],
+    "description": "Maqueen is a micro:bit robot platform for STEAM education, promoting science interest and logical thinking through easy programming.",
+    "url": "https://www.dfrobot.com/product-1872.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0148-EN-1/ROB0148-EN-1_Detail_01.jpg",
+    "price": "54.4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 63,
+    "name": "HCR Mobile Robot Kit: Versatile Home Care Robot Platform",
+    "sku": "ROB0004",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "The HCR Mobile Robot Kit offers a versatile home care robot platform with enhanced sensors and expandability options.",
+    "url": "https://www.dfrobot.com/product-63.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0004/ROB0004.jpg",
+    "price": "530",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 97,
+    "name": "DFRobot 4WD Mobile Platform for Arduino",
+    "sku": "ROB0003",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "The DFRobot 4WD Mobile Platform for Arduino offers robust construction, flexibility for sensors, and suitability for competitive robotics.",
+    "url": "https://www.dfrobot.com/product-97.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0003/123.jpg",
+    "price": "39.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1125,
+    "name": "RPLIDAR A1: Affordable 360° 2D Laser Scanner",
+    "sku": "DFR0315",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "RPLIDAR A1 is a low-cost 360° laser scanner for mapping and localization, ideal for robotics and SLAM applications.",
+    "url": "https://www.dfrobot.com/product-1125.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0315/DFR0315_Main_01.jpg",
+    "price": "99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2056,
+    "name": "Explore HuskyLens AI Vision Sensor With Mobile Robot",
+    "sku": "SEN0305-2",
+    "categories": [
+      "All Products",
+      "HUSKYLENS",
+      "Interactive Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "76",
+      "279",
+      "315"
+    ],
+    "description": "HuskyLens AI vision sensor simplifies face recognition and object tracking, easily integrating with popular platforms like Arduino and Raspberry Pi.",
+    "url": "https://www.dfrobot.com/product-2056.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/cache3/data/SEN0305/SEN0305-2.jpg",
+    "price": "131.7",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2796,
+    "name": "N20 Miniature Metal Motor: Compact, Efficient & Reliable",
+    "sku": "DFR1114",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279",
+      "282"
+    ],
+    "description": "The N20 Miniature Metal Motor is compact, reliable, and efficient, ideal for robots and mechanical motion control with integrated drive and PWM control.",
+    "url": "https://www.dfrobot.com/product-2796.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1114/DFR1114_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2578,
+    "name": "2-Way 18650 Battery Holder with USB-C & Protection",
+    "sku": "DFR0969",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "A versatile 2-way 18650 battery holder with USB-C input, offering multiple outputs with protective features for enhanced battery lifespan.",
+    "url": "https://www.dfrobot.com/product-2578.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0969/DFR0305_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1461,
+    "name": "RPLIDAR A2M12: Advanced 360° LiDAR for Robotics",
+    "sku": "DFR0445",
+    "categories": [
+      "All Products",
+      "LiDAR",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "313"
+    ],
+    "description": "RPLIDAR A2M12 provides 360-degree scanning with high precision for robotics, featuring low noise and extended lifespan.",
+    "url": "https://www.dfrobot.com/product-1461.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0445/DFR0445_Main_01.jpg",
+    "price": "229",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1552,
+    "name": "20W LM2596 Buck Converter with Digital Display",
+    "sku": "DFR0379",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Internet of Things - IoT",
+      "Modules",
+      "Power Modules",
+      "Raspberry Pi",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "272",
+      "276",
+      "277",
+      "279"
+    ],
+    "description": "Adjustable 20W buck converter with LM2596, featuring digital display for precise voltage adjustments and multiple DC applications.",
+    "url": "https://www.dfrobot.com/product-1552.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0379/DFR0379_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2240,
+    "name": "20W DC-DC Buck Converter Power Module 5V/4A Output",
+    "sku": "DFR0831",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Power Modules",
+      "Robotics"
+    ],
+    "category_ids": [
+      "70",
+      "156",
+      "279"
+    ],
+    "description": "20W DC-DC buck converter with 7-24V input and 5V/4A output, ideal for servos and LED strips, featuring high efficiency and multiple ports.",
+    "url": "https://www.dfrobot.com/product-2240.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0831/DFR0831_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2308,
+    "name": "High Performance Coreless Micro Motor for DIY Drones",
+    "sku": "FIT0792",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Explore powerful coreless motors for DIY drones, offering 55,000rpm speed and perfect for remote control models.",
+    "url": "https://www.dfrobot.com/product-2308.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0792/FIT0792_Main_01.jpg",
+    "price": "7.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2571,
+    "name": "Waterproof High Torque Servo with Metal Gear for Robotics",
+    "sku": "SER0060",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Waterproof high-torque metal gear servo with IP67 rating, ideal for robotics and remote applications. Offers precise control and long-lasting performance.",
+    "url": "https://www.dfrobot.com/product-2571.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0060/SER0060_Min_01.jpg",
+    "price": "28.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2572,
+    "name": "45KG Torque Brushless IP67 Waterproof Servo Motor",
+    "sku": "SER0062",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A robust 45KG Torque Brushless Servo with IP67 waterproofing, ensuring precision and durability for robotics and remote control applications.",
+    "url": "https://www.dfrobot.com/product-2572.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0062/SER0062_Main_01.jpg",
+    "price": "48.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2673,
+    "name": "ROCK 4 SE: Superior ARM SBC Performance",
+    "sku": "DFR1051",
+    "categories": [
+      "ARM",
+      "All Products",
+      "Development Boards",
+      "Robotics",
+      "Single Board Computer"
+    ],
+    "category_ids": [
+      "184",
+      "279",
+      "294",
+      "311"
+    ],
+    "description": "ROCK 4 SE offers superior performance with Rockchip RK3399-T, extensive storage, and multimedia capabilities, making it an ideal Raspberry Pi alternative.",
+    "url": "https://www.dfrobot.com/product-2673.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1051/DFR1051_Main_01.jpg",
+    "price": "85",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2790,
+    "name": "35kg Metal Waterproof Servo with Magnetic Encoder",
+    "sku": "SER0067",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "High-torque 35kg waterproof digital servo with magnetic encoder for precise control, ideal for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-2790.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0067/SER0067_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3005,
+    "name": "2804 Brushless DC Motor with AS5600 Encoder for FOC",
+    "sku": "FIT1034",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "Explore the 2804 brushless DC motor with AS5600 encoder for precise FOC control, perfect for robotics and camera gimbals.",
+    "url": "https://www.dfrobot.com/product-3005.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1034/FIT1034_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2963,
+    "name": "Unlock UNIHIKER K10's Potential with IO Extender",
+    "sku": "DFR1231",
+    "categories": [
+      "All Products",
+      "IO Expansion Shields &amp; HATs",
+      "Modules",
+      "Robotics",
+      "UNIHIKER",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "156",
+      "269",
+      "279",
+      "281",
+      "314"
+    ],
+    "description": "The IO Extender for UNIHIKER K10 enhances power and connectivity for servos and AI cameras, ideal for STEM and robotics projects.",
+    "url": "https://www.dfrobot.com/product-2963.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/20250811/DFR1231_Main_01.jpg",
+    "price": "7",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 98,
+    "name": "TT Motor Encoder Kit for Precise Wheel Rotation",
+    "sku": "SEN0038",
+    "categories": [
+      "All Products",
+      "Encoders",
+      "Gravity",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "279",
+      "282",
+      "301"
+    ],
+    "description": "TT Motor Encoder Kit provides precise wheel rotation measurement, compatible with Arduino and Raspberry Pi via Gravity interface.",
+    "url": "https://www.dfrobot.com/product-98.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0038/SEN0038_ShipList_06.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1494,
+    "name": "HCR Mobile Platform with Omni Wheels for Robotics",
+    "sku": "ROB0124",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "HCR is a mobile robot platform with omni wheels, ideal for robotics research and development with Arduino and Raspberry Pi.",
+    "url": "https://www.dfrobot.com/product-1494.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0124/_W4A0013.jpg",
+    "price": "556",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 818,
+    "name": "10 DOF Mems IMU Sensor: Compact and Versatile",
+    "sku": "SEN0140",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Fermion",
+      "IMU Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "65",
+      "277",
+      "279",
+      "292"
+    ],
+    "description": "A compact 10 DOF Mems IMU Sensor integrating accelerometer, gyro, compass, and pressure sensor for versatile navigation and robotics applications.",
+    "url": "https://www.dfrobot.com/product-818.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SEN0140/SEN0140_Detail_05.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 880,
+    "name": "MPU6050: Advanced 6-Axis MotionTracking Sensor",
+    "sku": "SEN0142",
+    "categories": [
+      "All Products",
+      "Fermion",
+      "IMU Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "65",
+      "279",
+      "292"
+    ],
+    "description": "The MPU6050 is a 6-axis motion tracking sensor ideal for smartphones, wearables, and Arduino projects, featuring gyroscope and accelerometer integration.",
+    "url": "https://www.dfrobot.com/product-880.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SEN0142/SEN0142_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1144,
+    "name": "MiniQ 2WD Robot Kit with Upper Deck Innovation",
+    "sku": "KIT0071",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "277",
+      "279",
+      "280"
+    ],
+    "description": "The MiniQ 2WD Robot Kit includes an upper deck for sensor installation and prototyping, ideal for educational robotics and competitions.",
+    "url": "https://www.dfrobot.com/product-1144.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0071/_DSC6453.jpg",
+    "price": "79.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1176,
+    "name": "Romeo BLE: Arduino Motor Controller with BLE",
+    "sku": "DFR0305",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Board",
+      "Development Boards",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "185",
+      "277",
+      "279",
+      "312",
+      "318"
+    ],
+    "description": "Romeo BLE is an Arduino-based controller with Bluetooth 4.0, allowing wireless updates, ideal for robotics projects.",
+    "url": "https://www.dfrobot.com/product-1176.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0305/DFR0305_Main_01.jpg",
+    "price": "39.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1189,
+    "name": "Enhanced 4WD MiniQ Mobile Robot for Education",
+    "sku": "ROB0111",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Kits",
+      "Robot Kits",
+      "Robotics",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "277",
+      "279",
+      "280"
+    ],
+    "description": "Upgraded 4WD MiniQ robot with Arduino Leonardo, improved off-road capacity, and education-focused tutorials for beginners.",
+    "url": "https://www.dfrobot.com/product-1189.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0111/ROB0111_ShipList_06.jpg",
+    "price": "99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1233,
+    "name": "Cherokey 4WD Robot Kit for Arduino Beginners",
+    "sku": "ROB0117",
+    "categories": [
+      "All Products",
+      "Kits",
+      "Robot Kits",
+      "Robotics"
+    ],
+    "category_ids": [
+      "140",
+      "160",
+      "279"
+    ],
+    "description": "Cherokey 4WD Robot Kit for Arduino: Learn robotics, sensors, Bluetooth, obstacle avoidance, remote control with this versatile kit.",
+    "url": "https://www.dfrobot.com/product-1233.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/ROB0117/ROB0117_Main_01.jpg",
+    "price": "109",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1364,
+    "name": "Brushless DC Motor with Encoder: Easy Control & High Efficiency",
+    "sku": "FIT0441",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "Introducing the brushless DC motor with built-in driver for easy Arduino integration, featuring PWM control and speed feedback for robotics.",
+    "url": "https://www.dfrobot.com/product-1364.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0441/FIT0441_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1367,
+    "name": "Romeo BLE Mini V2.0: Compact Robot Control Board",
+    "sku": "DFR0351",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Board",
+      "Development Boards",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "185",
+      "277",
+      "279",
+      "312",
+      "318"
+    ],
+    "description": "Romeo BLE Mini V2.0 offers Bluetooth 4.0 and TB6612 motor driver for compact robotics solutions, ideal for makers.",
+    "url": "https://www.dfrobot.com/product-1367.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0351/DFR0351_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2857,
+    "name": "ZL9NSQ Wireless IMU Sensor: High Precision Motion Capture",
+    "sku": "DFR1179",
+    "categories": [
+      "All Products",
+      "Motion Sensors",
+      "Robotics",
+      "Sensors"
+    ],
+    "category_ids": [
+      "36",
+      "204",
+      "279"
+    ],
+    "description": "The ZL9NSQ 9-axis IMU sensor provides high precision motion capture for VR and robotics, featuring wireless integration and developer-ready platform.",
+    "url": "https://www.dfrobot.com/product-2857.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1179/DFR1179_Main_01.jpg",
+    "price": "69",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 844,
+    "name": "Romeo V2 Robot Control Board with Motor Driver",
+    "sku": "DFR0225",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Board",
+      "Development Boards",
+      "MCU",
+      "Robotics",
+      "Romeo"
+    ],
+    "category_ids": [
+      "184",
+      "185",
+      "277",
+      "279",
+      "312",
+      "318"
+    ],
+    "description": "Romeo V2 is a robot control board with Arduino compatibility, featuring motor driver and ATmega32u4 microcontroller for easy expansion and use.",
+    "url": "https://www.dfrobot.com/product-844.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0225/DFR0225_Main_01.jpg",
+    "price": "26.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]

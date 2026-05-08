@@ -1,0 +1,4271 @@
+[
+  {
+    "product_id": 777,
+    "name": "High Torque 12V DC Motor with Encoder",
+    "sku": "FIT0277",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Our 12V DC motor with hall encoder offers high torque and precision, ideal for robotics and automation applications.",
+    "url": "https://www.dfrobot.com/product-777.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0277/FIT0277_Main_01.jpg",
+    "price": "39",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 783,
+    "name": "Miga Analog Driver V5: Versatile MOSFET Switch for Actuators",
+    "sku": "FIT0261",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Muscles"
+    ],
+    "category_ids": [
+      "51",
+      "152",
+      "156"
+    ],
+    "description": "The Miga Analog Driver V5 safely powers shape memory alloy actuators for robotics, automotive, and consumer applications.",
+    "url": "https://www.dfrobot.com/product-783.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0261/FIT0261_Main_01.jpg",
+    "price": "14.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 563,
+    "name": "USB-RLY16L: 16 Channel Low Power USB Relay Module",
+    "sku": "DFR0173",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "USB-RLY16L is a 16 channel USB relay module with 16Amp SPCO contacts and LED indicators for efficient power management.",
+    "url": "https://www.dfrobot.com/product-563.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0173/DFR0173_Main_01.jpg",
+    "price": "83",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 304,
+    "name": "Sabertooth 2x12 Motor Driver: Efficient Dual Control",
+    "sku": "DRI0003",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "Sabertooth 2x12 offers efficient dual DC motor control with regenerative drive, multiple operating modes, and protection features for versatile robotics use.",
+    "url": "https://www.dfrobot.com/product-304.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0003/DRI0003_Main_01.jpg",
+    "price": "79",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 307,
+    "name": "Sabertooth 2x32 Motor Driver: Power and Flexibility",
+    "sku": "DRI0004",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "Sabertooth 2x32 motor driver delivers 32A continuous and 64A peak per channel. Versatile inputs, regenerative drive, real-time monitoring, and enhanced flexibility.",
+    "url": "https://www.dfrobot.com/product-307.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0004/DRI0004_250618 (1).jpg",
+    "price": "125",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 354,
+    "name": "Micro Metal Gearmotor 50:1 with D-shaped Shaft",
+    "sku": "FIT0094",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro Metal Gearmotor 50:1 offers high-speed and torque, perfect for Pololu wheels, with solid mounting options.",
+    "url": "https://www.dfrobot.com/product-354.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0094/FIT0094_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 503,
+    "name": "Ethernet Controlled 8 Channel Relay - Up to 16A",
+    "sku": "DFR0146",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "The ETH008-B offers Ethernet control, TCP/IP interface, eight 16A relays, and LED indicators, ideal for various electrical applications.",
+    "url": "https://www.dfrobot.com/product-503.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0146/DFR0146_Main_01.jpg",
+    "price": "83",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 510,
+    "name": "Convenient Mounting Bracket for Micro Metal Gearmotors",
+    "sku": "FIT0160",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact bracket for micro metal gearmotors, easy installation, compatible with 49x12 Wheels.",
+    "url": "https://www.dfrobot.com/product-510.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0160/FIT0160_250912 (1).jpg",
+    "price": "3.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 120,
+    "name": "High Torque DSS-M15 Metal Gear Servo 15Kg",
+    "sku": "SER0019",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "DSS-M15 servo offers 180° angle, 15Kg torque power, ensuring stability and durability for demanding projects.",
+    "url": "https://www.dfrobot.com/product-120.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0019/SER0019_Min_01.jpg",
+    "price": "14",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1617,
+    "name": "High-Efficiency 6V DC Motor with Encoder & Gearbox",
+    "sku": "FIT0521",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Metal geared 6V DC motor with encoder, 341.2 counts/revolution, ideal for mobile robot applications.",
+    "url": "https://www.dfrobot.com/product-1617.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0521/FIT0521_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1619,
+    "name": "6V Metal Geared DC Motor with Encoder: Ideal for Robotics",
+    "sku": "FIT0520",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "A 6V metal geared DC motor with encoder, providing high precision and ideal for mobile robotics projects.",
+    "url": "https://www.dfrobot.com/product-1619.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0520/FIT0520_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1667,
+    "name": "Gravity IO Expansion Shield with Motor Driver for Arduino",
+    "sku": "DFR0502",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277",
+      "282"
+    ],
+    "description": "Gravity IO Expansion Shield combines IO Expansion and DC Motor Driver Shields for Arduino, featuring TB6612FNG motor driver for efficient control.",
+    "url": "https://www.dfrobot.com/product-1667.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0502/DFR0502_Main_01.jpg",
+    "price": "16.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1857,
+    "name": "12V Solenoid Valve DN15 for Precise Water Control",
+    "sku": "FIT0616",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156"
+    ],
+    "description": "Automated 12V solenoid valve DN15 with high torque and low noise for precise water control in smart home and agriculture applications.",
+    "url": "https://www.dfrobot.com/product-1857.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0616/FIT0616_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1859,
+    "name": "12V Solenoid Valve DN20: Control Liquid Flow Efficiently",
+    "sku": "FIT0617",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156"
+    ],
+    "description": "Automate liquid flow control using the 12V Solenoid Valve DN20, ideal for smart home and agriculture projects.",
+    "url": "https://www.dfrobot.com/product-1859.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0617/FIT0617_Main_01.jpg",
+    "price": "24.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1861,
+    "name": "Dual Channel DC Motor Driver: Compact & Powerful",
+    "sku": "DFR0601",
+    "categories": [
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Compact dual channel DC motor driver with 12A output, 290W max power, and built-in protection for efficient control.",
+    "url": "https://www.dfrobot.com/product-1861.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0601/DFR0601_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1891,
+    "name": "12V Electromagnetic Lock - Durable & Versatile Use",
+    "sku": "FIT0624",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156"
+    ],
+    "description": "12V electromagnetic lock with nickel plating, copper bolt, and versatile use for smart homes, cabinets, and more.",
+    "url": "https://www.dfrobot.com/product-1891.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0624/FIT0624_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1710,
+    "name": "Versatile Immersible Water Pump for Aquatic Applications",
+    "sku": "FIT0563",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258"
+    ],
+    "description": "Ideal for watering, fountains, and aquariums, the pump operates quietly and securely with a suction cup.",
+    "url": "https://www.dfrobot.com/product-1710.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0563/FIT0563_Main_01.jpg",
+    "price": "9.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1718,
+    "name": "PPM Signal Motor Driver for Aero Modeling",
+    "sku": "DFR0513",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "PPM signal motor driver for aeromodelling, supports 7-12V input and provides 2-way motor drive with overload protection.",
+    "url": "https://www.dfrobot.com/product-1718.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0513/DFR0513_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1733,
+    "name": "6V DC Gearmotor with Integrated Lead Screw",
+    "sku": "FIT0577",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact 6V DC gearmotor with integrated lead screw offers precise linear actuation at 98RPM, suitable for confined spaces.",
+    "url": "https://www.dfrobot.com/product-1733.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0577/FIT0577_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1735,
+    "name": "High-Torque DC Gear Motor with Lead Screw - 6V 98RPM",
+    "sku": "FIT0578",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Featuring a 6V voltage and 98RPM speed, this DC gear motor with lead screw offers precise linear motion and robust mounting options.",
+    "url": "https://www.dfrobot.com/product-1735.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0578/FIT0578_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1749,
+    "name": "Compact Mini DC Gear Motor with Metal Gears",
+    "sku": "FIT0565",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Mini DC motor with 1:35 reduction box, metal gears, low noise, and compact design for tight spaces.",
+    "url": "https://www.dfrobot.com/product-1749.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0565/FIT0565_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1750,
+    "name": "Mini DC Motor with 1:35 Reduction Box - Compact & Durable",
+    "sku": "FIT0564",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Mini DC motor with 1:35 reduction box; compact, durable, low noise, 570rpm.",
+    "url": "https://www.dfrobot.com/product-1750.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0564/FIT0564_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1106,
+    "name": "360 Degree Micro Servo for Arduino - Versatile Motor",
+    "sku": "SER0037",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The 360-degree micro servo offers continuous rotation for Arduino, ideal for micro robots with 0.7kg torque and easy PWM control.",
+    "url": "https://www.dfrobot.com/product-1106.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0037/SER0037_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1427,
+    "name": "130 DC Motor with Built-in Transistor for DIY Projects",
+    "sku": "DFR0411",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "282"
+    ],
+    "description": "130 DC motor with integrated transistor, no driver needed, uses Gravity 3-pin for easy wiring in DIY projects.",
+    "url": "https://www.dfrobot.com/product-1427.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0411/DFR0411_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1431,
+    "name": "Micro Metal Gear Motor with Encoder: High Resolution",
+    "sku": "FIT0481",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro metal gear motor with encoder offers real-time speed measurement and high resolution, compatible with various robotics applications.",
+    "url": "https://www.dfrobot.com/product-1431.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0481/FIT0481_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1434,
+    "name": "Micro Metal Gear Motor with Hall Encoder",
+    "sku": "FIT0484",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "A micro metal gear motor with built-in Hall encoder, offering real-time speed measurement, 150:1 gear ratio, ideal for robotics applications.",
+    "url": "https://www.dfrobot.com/product-1434.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0484/FIT0484_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1435,
+    "name": "Micro Metal Gear Motor with Built-in Encoder",
+    "sku": "FIT0485",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro metal gear motor with encoder offers precision speed feedback, ideal for robotics. Compatible with miniQ chassis.",
+    "url": "https://www.dfrobot.com/product-1435.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0485/FIT0485_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1436,
+    "name": "Micro Metal Gear Motor with Encoder for Precision Control",
+    "sku": "FIT0486",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro metal gear motor with built-in encoder offers real-time speed measurement and high precision, compatible with Pololu wheels for robotics use.",
+    "url": "https://www.dfrobot.com/product-1436.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0486/FIT0486_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1437,
+    "name": "Micro Metal Gear Motor with Hall Encoder for Precision Control",
+    "sku": "FIT0487",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Our micro metal gear motor features a Hall encoder for precise speed measurement, ideal for robotics and compatible with various chassis.",
+    "url": "https://www.dfrobot.com/product-1437.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0487/FIT0487_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1462,
+    "name": "Gear Motor with Encoder: Ideal for Mobile Robot Projects",
+    "sku": "FIT0493",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "This 12V DC gear motor with encoder is perfect for mobile robots, offering precise control with Arduino and extended service life.",
+    "url": "https://www.dfrobot.com/product-1462.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0493/FIT0493_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1476,
+    "name": "Powerful 45:1 Metal DC Geared Motor with 4.5kg.cm Torque",
+    "sku": "FIT0473",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Metal DC geared motor with 45:1 ratio offers 4.5kg.cm torque, operates from 2-7.5V, and runs at 133 RPM. Ideal for stable applications.",
+    "url": "https://www.dfrobot.com/product-1476.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0473/FIT0473_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1479,
+    "name": "DC Gear Motor with Lead Screw: 6V 150RPM",
+    "sku": "FIT0491",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Explore the 6V DC gear motor featuring a lead screw, 150RPM speed, and reduction ratio of 100:1, ideal for linear motion applications.",
+    "url": "https://www.dfrobot.com/product-1479.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0491/FIT0491_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1480,
+    "name": "Turbo Worm Gear Motor: High Torque and Self-Locking",
+    "sku": "FIT0489-A",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Turbo worm gear motor with self-locking output, 160RPM, 2.8kg/cm torque, and durable metal gearbox for precise control.",
+    "url": "https://www.dfrobot.com/product-1480.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0489-A/FIT0489-A_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1481,
+    "name": "Turbo Metal Gear Worm Motor for High Torque Output",
+    "sku": "FIT0489-B",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "High torque turbo metal gear worm motor with self-locking shaft, PWM speed control, durable for precise applications.",
+    "url": "https://www.dfrobot.com/product-1481.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0489-B/FIT0489-B_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1482,
+    "name": "High Torque Turbo Worm Gear Motor - 12V 160RPM",
+    "sku": "FIT0489-C",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Turbo worm gear motor with metal gearbox provides high torque and self-locking output at 12V, 160RPM, perfect for precise applications.",
+    "url": "https://www.dfrobot.com/product-1482.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0489-C/FIT0489-C_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1484,
+    "name": "Turbo Metal Gear Worm Motor: High Torque & Self-Locking",
+    "sku": "FIT0489-D",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Turbo metal gear worm motor offers high torque, self-locking feature, and supports direction and PWM speed control at 12V.",
+    "url": "https://www.dfrobot.com/product-1484.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0489-D/FIT0489-D_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1487,
+    "name": "DC Micro Metal Gear Motor w/Driver - Easy Control",
+    "sku": "DFR0430",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "282"
+    ],
+    "description": "Control the DC Micro Metal Gear Motor easily with Gravity interface for Arduino projects, combining DC motor and servo features.",
+    "url": "https://www.dfrobot.com/product-1487.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0430/DFR0430_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1512,
+    "name": "Compact DC Motor Driver with LM2575 for 36V 15A Motors",
+    "sku": "DRI0042",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Ultra-small DC motor driver with LM2575 controls 36V@15A motors, UVLO safety, and 5V Arduino output.",
+    "url": "https://www.dfrobot.com/product-1512.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0042/DRI0042_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1523,
+    "name": "478:1 Metal DC Geared Motor - High Torque, Compact Design",
+    "sku": "FIT0495-A",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact 478:1 metal DC motor with high torque up to 10 kg.cm, ideal for robotics due to its stability and durability.",
+    "url": "https://www.dfrobot.com/product-1523.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-A/FIT0495-A_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1524,
+    "name": "Metal DC Geared Motor - Compact and Powerful",
+    "sku": "FIT0495-B",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact metal DC geared motor offers 362:1 reduction, 7.5 kg.cm torque, ideal for stable applications.",
+    "url": "https://www.dfrobot.com/product-1524.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-B/FIT0495-B_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1525,
+    "name": "Metal DC Geared Motor: Compact, High Torque Solution",
+    "sku": "FIT0495-E",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "A metal DC geared motor with a 99:1 reducer, providing high torque in a small, durable package. Ideal for stable applications, 2.5 kg.cm torque.",
+    "url": "https://www.dfrobot.com/product-1525.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-E/FIT0495-E_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1528,
+    "name": "Compact Metal DC Geared Motor with High Torque",
+    "sku": "FIT0495-H",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "This metal DC geared motor features a 34:1 reduction ratio, delivering maximum torque of 1 kg.cm with stability and durability.",
+    "url": "https://www.dfrobot.com/product-1528.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-H/FIT0495-H_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1529,
+    "name": "20:1 Metal DC Geared Motor - High Torque & Durability",
+    "sku": "FIT0495-I",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "This compact metal DC geared motor offers high torque and durability with a 20:1 reduction ratio, rated voltage 6V.",
+    "url": "https://www.dfrobot.com/product-1529.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-I/FIT0495-I_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1203,
+    "name": "Rubber Wheel & Motor Kit for Home Care Robots",
+    "sku": "KIT0085",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "The kit includes a 12V DC motor and rubber wheels, ideal for home care robots. Offers low noise, high torque, and anti-slip design.",
+    "url": "https://www.dfrobot.com/product-1203.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0085/KIT0085_ShipList_06.jpg",
+    "price": "116",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1218,
+    "name": "Ethernet Relay Controller RLY-8-POE-USB for IoT",
+    "sku": "DFR0289",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "RLY-8-POE-USB: An Ethernet relay controller for IoT, enabling easy remote power management with POE & USB control.",
+    "url": "https://www.dfrobot.com/product-1218.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0289/DFR0289_Main_01.jpg",
+    "price": "59.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 958,
+    "name": "Smart Arduino Digital Servo Shield for AX-12",
+    "sku": "DRI0027",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motor Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "107",
+      "156",
+      "277"
+    ],
+    "description": "Easily drive AX-12 servos with Arduino using the Smart Digital Servo Shield, perfect for robotic projects like dogs and hexapods.",
+    "url": "https://www.dfrobot.com/product-958.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0027/DRI0027 (4).jpg",
+    "price": "24.95",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 959,
+    "name": "DF15RSMG 360-degree Servo Motor for Robotics",
+    "sku": "SER0035",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "DF15RSMG servo motor provides large torque and stability, ideal for robot joints and mobile robots, with PWM control for direction and speed.",
+    "url": "https://www.dfrobot.com/product-959.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0035/SER0035_Main_01.jpg",
+    "price": "11.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 963,
+    "name": "Herkulex DRS-0101 Smart Servo for Robotics",
+    "sku": "SER0032",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "Herkulex DRS-0101 is a modular smart servo ideal for robotics, offering integrated control, diagnostics, and easy assembly with precise movement.",
+    "url": "https://www.dfrobot.com/product-963.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0032/SER0032_Detail_04.jpg",
+    "price": "61",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 964,
+    "name": "Herkulex DRS-0201: Advanced Modular Smart Servo",
+    "sku": "SER0033",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "Herkulex DRS-0201 smart servo offers 24kg.cm torque, advanced control algorithms, and easy assembly, ideal for robotics applications.",
+    "url": "https://www.dfrobot.com/product-964.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0033/SER0033_Main_01.jpg",
+    "price": "158",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1395,
+    "name": "Arduino Motor Shield: Dual DC Motor Driver",
+    "sku": "DFR0406",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277"
+    ],
+    "description": "The Arduino Motor Shield drives two DC motors using Arduino, with independent speed and direction control, ideal for creative projects.",
+    "url": "https://www.dfrobot.com/product-1395.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0406/DFR0406_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1409,
+    "name": "Micro Metal Gear Motor 30:1 with PH2.0 Connector",
+    "sku": "FIT0467",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact Micro Metal Gear Motor with 30:1 ratio, PH2.0 port, and anti-jamming circuit for robotics.",
+    "url": "https://www.dfrobot.com/product-1409.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0467/FIT0467_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1418,
+    "name": "Micro Metal Gear Motor with Connector 50:1",
+    "sku": "FIT0468",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact gear motor with PH2.0 connector, anti-jamming capabilities, and 50:1 gear ratio, suitable for robot chassis applications.",
+    "url": "https://www.dfrobot.com/product-1418.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0468/FIT0468_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 833,
+    "name": "Powerful DF15RMG Servo Motor for Robotics",
+    "sku": "SER0030",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "DF15RMG servo motor provides high torque and precision for robotics, with versatile shell options, perfect for robot arms and joints.",
+    "url": "https://www.dfrobot.com/product-833.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0030/SER0030_Min_01.jpg",
+    "price": "12.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 859,
+    "name": "SyRen 10A DC Motor Driver for Efficient Robotics",
+    "sku": "DRI0024",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "SyRen 10A DC Motor Driver offers regenerative drive, thermal protection, and versatile input modes for efficient robotics.",
+    "url": "https://www.dfrobot.com/product-859.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0024/DRI0024_Main_01.jpg",
+    "price": "49.99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 861,
+    "name": "SyRen 25A DC Motor Driver for Versatile Robotics",
+    "sku": "DRI0025",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "SyRen 25A motor driver powers medium robots. Offers regenerative braking, multiple control modes, and protection features.",
+    "url": "https://www.dfrobot.com/product-861.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0025/DRI0025_Main_01.jpg",
+    "price": "74.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 863,
+    "name": "SyRen 50A DC Motor Driver: Versatile & Efficient",
+    "sku": "DRI0026",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "SyRen 50A motor driver offers versatile control for DC motors, with regenerative capabilities and robust protection features.",
+    "url": "https://www.dfrobot.com/product-863.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0026/SyRen50big.jpg",
+    "price": "119.99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 874,
+    "name": "Micro Metal Gearmotor 30:1 for Mini Platforms",
+    "sku": "FIT0302",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro Metal Gearmotor 30:1 provides high torque for mini platforms, compatible with various chassis and mounting options.",
+    "url": "https://www.dfrobot.com/product-874.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0302/FIT0302_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2657,
+    "name": "Magnetic Latching Relay: Energy Efficient Switching Solution",
+    "sku": "DFR0996",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "Magnetic latching relays offer energy efficiency and noiseless operation, ideal for smart home applications with compatibility for popular microcontrollers.",
+    "url": "https://www.dfrobot.com/product-2657.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0996/DFR0996_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2694,
+    "name": "Arduino Opta: Secure Micro PLC with IoT Capabilities",
+    "sku": "DFR1057",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "277"
+    ],
+    "description": "Arduino Opta is a secure micro PLC designed for industrial IoT, offering support for Arduino sketches and PLC languages for real-time control and maintenance.",
+    "url": "https://www.dfrobot.com/product-2694.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1057/DFR1057_Main_01.jpg",
+    "price": "193.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2695,
+    "name": "Arduino Opta RS485 Micro PLC for Industrial IoT",
+    "sku": "DFR1058",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "277"
+    ],
+    "description": "Arduino Opta is a secure micro PLC for industrial IoT, supporting RS485 and PLC programming, ideal for real-time control and monitoring applications.",
+    "url": "https://www.dfrobot.com/product-2695.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1058/DFR1058_Main_01.jpg",
+    "price": "160.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2696,
+    "name": "Arduino Opta Lite: Secure Micro PLC for Industrial IoT",
+    "sku": "DFR1059",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "Arduino Opta Lite is a secure micro PLC with STM32H747XI, perfect for industrial IoT and real-time control applications.",
+    "url": "https://www.dfrobot.com/product-2696.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1059/DFR1059_Main_01.jpg",
+    "price": "146.4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2786,
+    "name": "35kg Waterproof Digital Servo with Metal Gears",
+    "sku": "SER0064",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 35kg waterproof digital servo offers high torque, metal gears, and safety features, ideal for robotics and Arduino applications.",
+    "url": "https://www.dfrobot.com/product-2786.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0064/SER0064_Main_01.jpg",
+    "price": "21.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2788,
+    "name": "High-Torque Waterproof Coreless Digital Servo 35kg",
+    "sku": "SER0065",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A 35kg waterproof coreless digital servo with metal gears, precise control, and enhanced durability for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-2788.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0065/SER0065_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2789,
+    "name": "High Torque Waterproof Servo with Magnetic Encoder",
+    "sku": "SER0066",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A 25kg waterproof servo with a 12-bit magnetic encoder for precise 360-degree control, exceptional performance, and durability in robotics.",
+    "url": "https://www.dfrobot.com/product-2789.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0066/SER0066_Main_01.jpg",
+    "price": "21.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2856,
+    "name": "Direct Drive Servo Motor V2.0: High Precision & Quiet",
+    "sku": "FIT1001",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "277"
+    ],
+    "description": "Upgrade your robotics with the direct-drive servo motor V2.0, featuring wide voltage, IPX4 rating, and precise control.",
+    "url": "https://www.dfrobot.com/product-2856.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1001/FIT1001_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2305,
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "sku": "FIT0790",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact 6mm coreless motors offer 45000rpm power at 3.7V, ideal for DIY drone enthusiasts seeking high performance and easy wiring.",
+    "url": "https://www.dfrobot.com/product-2305.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0790/FIT0790_Main_01.jpg",
+    "price": "5.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2306,
+    "name": "High Performance Coreless Micro Motor for DIY Projects",
+    "sku": "FIT0789",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact coreless motors with 60,000rpm speed, perfect for DIY remote control drones.",
+    "url": "https://www.dfrobot.com/product-2306.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0789/FIT0789_Main_01.jpg",
+    "price": "4.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2309,
+    "name": "High-Performance 50,000rpm Coreless Micro Motor for DIY",
+    "sku": "FIT0793",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motor for DIY drones, offering high performance at 50,000rpm with 3.7V voltage. Perfect for remote control models.",
+    "url": "https://www.dfrobot.com/product-2309.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0793/FIT0793_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2310,
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "sku": "FIT0795",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motors ideal for DIY drones, offering 50,000rpm speed at 3.7V for high performance in drone models.",
+    "url": "https://www.dfrobot.com/product-2310.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0795/FIT0795_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2311,
+    "name": "High-Performance Coreless Motors for DIY Drone Models",
+    "sku": "FIT0796",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Coreless motors deliver 46000rpm at 3.7V. Perfect for DIY drone models with compact size and high power.",
+    "url": "https://www.dfrobot.com/product-2311.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0796/FIT0796_Main_01.jpg",
+    "price": "12",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2322,
+    "name": "High-Performance Coreless Motor for DIY Drones",
+    "sku": "FIT0794",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Compact coreless motors provide 50,000rpm at 3.7V, ideal for DIY drone projects and remote control applications.",
+    "url": "https://www.dfrobot.com/product-2322.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0794/FIT0794_Main_01.jpg",
+    "price": "8.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2366,
+    "name": "Mini Electric Push Rod 6V - 30mm Stroke & 128N Thrust",
+    "sku": "FIT0804",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277"
+    ],
+    "description": "Compact electric push rod with 128N thrust and 30mm stroke. Perfect for DIY projects and access control applications.",
+    "url": "https://www.dfrobot.com/product-2366.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0804/FIT0804_Main_01.jpg",
+    "price": "26",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2367,
+    "name": "6V Electric Push Rod with 128N Thrust - Ultra Short Stroke",
+    "sku": "FIT0803",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277"
+    ],
+    "description": "Explore this 6V electric push rod with 128N thrust and 10mm stroke, ideal for DIY projects and access control.",
+    "url": "https://www.dfrobot.com/product-2367.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0803/FIT0803_Main_01.jpg",
+    "price": "24",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2368,
+    "name": "Mini Electric Push Rod: 6V, 50mm Stroke, 128N Thrust",
+    "sku": "FIT0805",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277"
+    ],
+    "description": "Compact 6V electric push rod with 128N thrust and 50mm stroke for versatile applications like DIY projects and access control.",
+    "url": "https://www.dfrobot.com/product-2368.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0805/FIT0805_Main_01.jpg",
+    "price": "27",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2369,
+    "name": "6V Electric Push Rod: Compact Power Solution",
+    "sku": "FIT0806",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277"
+    ],
+    "description": "Compact 6V electric push rod with 128N thrust and 100mm stroke, ideal for DIY and access applications.",
+    "url": "https://www.dfrobot.com/product-2369.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0806/FIT0806_Main_01.jpg",
+    "price": "30",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2570,
+    "name": "Intelligent Servo Motor with 2.3kg.cm Torque and 180° Rotation",
+    "sku": "SER0059",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "This servo motor offers 2.3kg.cm torque, 180° rotation, and real-time feedback, perfect for robotics and education.",
+    "url": "https://www.dfrobot.com/product-2570.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0059/SER0059_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2573,
+    "name": "45KG IP67 Waterproof Coreless Servo Motor for Robotics",
+    "sku": "SER0061",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "This 45KG IP67 waterproof coreless servo is perfect for robotics, offering precision, durability, and quiet operation with a 360-degree rotation capability.",
+    "url": "https://www.dfrobot.com/product-2573.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0061/SER0061_Main_01.jpg",
+    "price": "40.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2448,
+    "name": "Raspberry Pi PLC with Relay Output for Industrial Use",
+    "sku": "DFR0909",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Raspberry Pi",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "272"
+    ],
+    "description": "Powerful Raspberry Pi PLC with relay output, high-speed processing, secure data, and versatile connectivity for industrial applications.",
+    "url": "https://www.dfrobot.com/product-2448.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0909/DFR0909_Main_01.jpg",
+    "price": "568",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2449,
+    "name": "Raspberry Pi PLC with Optoisolated Output for Industrial Use",
+    "sku": "DFR0908",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "276"
+    ],
+    "description": "Raspberry Pi PLC with optoisolated output is ideal for industrial use, offering flexibility, Linux OS, and multiple communication options.",
+    "url": "https://www.dfrobot.com/product-2449.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0908/DFR0908_Main_01.jpg",
+    "price": "560",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2453,
+    "name": "M-DUINO PLC: Arduino-Based Industrial Control",
+    "sku": "DFR0905",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "M-DUINO PLC harnesses Arduino Mega2560 for flexible industrial control with 17 I/Os and remote programming via Ethernet.",
+    "url": "https://www.dfrobot.com/product-2453.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0905/DFR0905_Main_01.jpg",
+    "price": "355",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2454,
+    "name": "M-DUINO PLC: Arduino-based Industrial Controller",
+    "sku": "DFR0904",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "The M-DUINO PLC is an Arduino-based controller with 21 I/Os and versatile communication ports, perfect for industrial applications.",
+    "url": "https://www.dfrobot.com/product-2454.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0904/DFR0904_Main_01.jpg",
+    "price": "257",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2455,
+    "name": "Spartan Arduino PLC 16RDA: Easy Industrial Control",
+    "sku": "DFR0903",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "Spartan Arduino PLC 16RDA provides easy USB programming, 8 inputs, 6 relay outputs, and scalable I2C communication for industrial control.",
+    "url": "https://www.dfrobot.com/product-2455.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0903/DFR0903_Main_01.jpg",
+    "price": "150",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2456,
+    "name": "Spartan Arduino PLC 16DA: Optoisolated Output Ready",
+    "sku": "DFR0902",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "An Arduino-based industrial PLC with optoisolated outputs, featuring 8 inputs and outputs for streamlined control.",
+    "url": "https://www.dfrobot.com/product-2456.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0902/DFR0902_Main_01.jpg",
+    "price": "118",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2457,
+    "name": "ESP32 Devkit Industrial Controller with Relay Output",
+    "sku": "DFR0901",
+    "categories": [
+      "All Products",
+      "ESP32/ESP8266",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "316"
+    ],
+    "description": "ESP32 devkit controller with relay output provides flexible industrial control solutions, supporting RS485, Ethernet, and optically isolated inputs.",
+    "url": "https://www.dfrobot.com/product-2457.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0901/DFR0901_Main_01.jpg",
+    "price": "219",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2458,
+    "name": "10 I/Os ESP32 PLC Module for Industrial Automation",
+    "sku": "DFR0900",
+    "categories": [
+      "All Products",
+      "ESP32/ESP8266",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "316"
+    ],
+    "description": "This 10 I/Os ESP32 PLC module provides cost-effective industrial control, supporting RS485, Ethernet, and optoisolated I/O for versatile automation.",
+    "url": "https://www.dfrobot.com/product-2458.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0900/DFR0900_Main_01.jpg",
+    "price": "239",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2459,
+    "name": "Arduino Nano Industrial Relay Module: 10 I/Os",
+    "sku": "DFR0899",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "The 10 I/Os relay module offers Arduino Nano-based industrial monitoring and control with RS485, Ethernet, and optoisolated I/O.",
+    "url": "https://www.dfrobot.com/product-2459.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0899/DFR0899_Main_01.jpg",
+    "price": "219",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2460,
+    "name": "10 I/Os Industrial PLC Module with Arduino Nano",
+    "sku": "DFR0898",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277"
+    ],
+    "description": "10 I/Os PLC module based on Arduino Nano for industrial control, supports RS485, Ethernet, and optoisolated I/Os, perfect for machine automation.",
+    "url": "https://www.dfrobot.com/product-2460.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0898/DFR0898_Main_01.jpg",
+    "price": "123",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2053,
+    "name": "9g Servo for Maqueen: Reliable Metal Gear",
+    "sku": "SER0048",
+    "categories": [
+      "All Products",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "9g Servo for Maqueen offers metal gear, 180° rotation, and manual 360° rotation for smooth movement without getting stuck.",
+    "url": "https://www.dfrobot.com/product-2053.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0048/SER0048_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2118,
+    "name": "9g 300° Clutch Servo: Safe and Reliable Operation",
+    "sku": "SER0053",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 9g 300° Clutch Servo offers clutch function and electronic protection, preventing damage under complex conditions with 300° rotation and easy control.",
+    "url": "https://www.dfrobot.com/product-2118.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0053/SER0053_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2119,
+    "name": "6Kg 180° Clutch Servo with Electronic Protection",
+    "sku": "SER0051",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 6Kg 180° clutch servo offers electronic protection to prevent damage, ideal for robotics and models with easy Arduino control.",
+    "url": "https://www.dfrobot.com/product-2119.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0051/SER0051_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2121,
+    "name": "6Kg 300° Clutch Servo with Electronic Protection",
+    "sku": "SER0057",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "6Kg 300° clutch servo with electronic protection prevents damage in robotics and models, ensuring smooth operation even under external force.",
+    "url": "https://www.dfrobot.com/product-2121.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0057/SER0057_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2126,
+    "name": "2Kg 300° Clutch Servo with Protection",
+    "sku": "SER0056",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277"
+    ],
+    "description": "The 2Kg 300° clutch servo offers electronic protection, large torque, and smooth rotation for robotics and models.",
+    "url": "https://www.dfrobot.com/product-2126.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0056/SER0056_Main_01.jpg",
+    "price": "6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2953,
+    "name": "Maqueen V5 N20 Motor Replacement Kit for Easy Repair",
+    "sku": "DFR1224",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Prototyping &amp; Accessories",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "66",
+      "110",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "Repair your Maqueen V5 easily with the N20 motor kit—includes all parts needed for a quick, solder-free motor replacement.",
+    "url": "https://www.dfrobot.com/product-2953.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1224/DFR1224_Main_01.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2954,
+    "name": "Maqueen Plus V3 Motor Replacement Kit",
+    "sku": "DFR1225",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Maqueen",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279",
+      "319"
+    ],
+    "description": "Effortlessly repair your Maqueen Plus V3 with the N20 motor kit, ensuring perfect compatibility and functionality.",
+    "url": "https://www.dfrobot.com/product-2954.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1225/DFR1225_Main_01.jpg",
+    "price": "7",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2962,
+    "name": "ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "sku": "SER0070",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's ST3215 Serial Bus Servo-12V 30kg 360° -- 2962",
+    "url": "https://www.dfrobot.com/product-2962.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0070/SER0070_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2965,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "sku": "SER0071",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 450kg -- 2965",
+    "url": "https://www.dfrobot.com/product-2965.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0071/1.jpg",
+    "price": "399",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2966,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "sku": "SER0074",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 750kg -- 2966",
+    "url": "https://www.dfrobot.com/product-2966.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0074/1.jpg",
+    "price": "650",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2967,
+    "name": "All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "sku": "SER0073",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "DFRobot's All-Metal PWM Magnetic Encoder Brushless Servo-24V 600kg -- 2967",
+    "url": "https://www.dfrobot.com/product-2967.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0073/1.jpg",
+    "price": "550",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2975,
+    "name": "600kg Torque Industrial Servo: Precision & Durability",
+    "sku": "SER0072",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Experience unmatched precision and reliability with the 600kg torque brushless servo, featuring IP65 protection and advanced magnetic encoder technology.",
+    "url": "https://www.dfrobot.com/product-2975.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0072/1.jpg",
+    "price": "450",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2199,
+    "name": "10mm Micro Stepper Motor: 18° per Step, No Driver Needed",
+    "sku": "FIT0708",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motors"
+    ],
+    "category_ids": [
+      "51",
+      "109",
+      "156",
+      "277"
+    ],
+    "description": "10mm micro stepper motor with 18° per step; ideal for Arduino and ESP32 projects such as smart home automation.",
+    "url": "https://www.dfrobot.com/product-2199.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0708/FIT0708_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 146,
+    "name": "DSS-P05 Servo Gimbal: Versatile Robotics Kit",
+    "sku": "FIT0045",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "282"
+    ],
+    "description": "The DSS-P05 gimbal offers flexible movement for camera setups and obstacle detection, ideal for robotics and Arduino projects.",
+    "url": "https://www.dfrobot.com/product-146.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0045/FIT0045_Main_01.jpg",
+    "price": "15",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2373,
+    "name": "Versatile 6V 3-Way Air Valve for Pneumatic Systems",
+    "sku": "DFR0866",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258",
+      "277"
+    ],
+    "description": "Efficient 6V 3-way air valve for pneumatic systems, offering reliable direction control and valve switching.",
+    "url": "https://www.dfrobot.com/product-2373.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0866/DFR0866_Main_01.jpg",
+    "price": "4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1210,
+    "name": "Powerful 12V Motor with Encoder GB37Y3530",
+    "sku": "FIT0403",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "The GB37Y3530-12V-90EN motor with encoder offers precision with 1440 counts per gearbox revolution, making it ideal for mobile robotics.",
+    "url": "https://www.dfrobot.com/product-1210.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0403/FIT0403_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2787,
+    "name": "20KG 180° Digital Servo with Formidable Torque",
+    "sku": "SER0063",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 20KG 180° waterproof digital servo offers formidable torque, copper gears, and dual ball bearings for enhanced motion and durability.",
+    "url": "https://www.dfrobot.com/product-2787.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0063/SER0063_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1959,
+    "name": "Brushless DC Motor MTO1804: Power and Efficiency",
+    "sku": "FIT0632",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "The Brushless DC Motor MTO1804 is perfect for drones, offering high torque, efficiency, and durability for stable and powerful flights.",
+    "url": "https://www.dfrobot.com/product-1959.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0632/FIT0632_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1960,
+    "name": "Brushless DC Motor MTO1804: High Efficiency for Drones",
+    "sku": "FIT0633",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228"
+    ],
+    "description": "Brushless DC Motor MTO1804 offers high efficiency and low noise, ideal for drones and intelligent robots.",
+    "url": "https://www.dfrobot.com/product-1960.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0633/FIT0633_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1970,
+    "name": "9g 270° Metal Servo with Analog Feedback",
+    "sku": "SER0046",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The 9g 270° Metal Servo offers durable metal gears and analog feedback for precise micro-robot control.",
+    "url": "https://www.dfrobot.com/product-1970.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0046/SER0046_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3007,
+    "name": "2208 Three-Phase BLDC Motor with High-Precision Encoder",
+    "sku": "FIT1035",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "The 2208 BLDC motor with AS5600 encoder provides high precision for FOC applications, ideal for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-3007.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1035/FIT1035_Main_01.jpg",
+    "price": "16.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2307,
+    "name": "High-Performance Coreless Motors for DIY Drones",
+    "sku": "FIT0791",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "High-performance coreless motors, 50000rpm at 3.7V, ideal for DIY drone models and remote control projects.",
+    "url": "https://www.dfrobot.com/product-2307.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0791/FIT0791_Main_01.jpg",
+    "price": "6.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 496,
+    "name": "4-Channel Optocoupler Relay Shield for Arduino",
+    "sku": "DFR0144",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "277"
+    ],
+    "description": "A 4-channel optocoupler relay shield for Arduino, controls high-power devices safely, enhancing smart home automation with wireless integration.",
+    "url": "https://www.dfrobot.com/product-496.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0144/DFR0144_Main_01.jpg",
+    "price": "13.99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 992,
+    "name": "16A Relay Module for Arduino Projects",
+    "sku": "DFR0251",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "282"
+    ],
+    "description": "The 16A Relay Module offers enhanced control for high current devices, making it ideal for interactive Arduino projects.",
+    "url": "https://www.dfrobot.com/product-992.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0251/DFR0251_Main_01.jpg",
+    "price": "9.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 785,
+    "name": "High Torque 42BYGH40 Stepper Motor for 3D Printers",
+    "sku": "FIT0278",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motors"
+    ],
+    "category_ids": [
+      "51",
+      "109",
+      "156"
+    ],
+    "description": "The 42BYGH40 stepper motor delivers high torque for CNC and 3D printers, tested for reliability and compatibility with major control boards.",
+    "url": "https://www.dfrobot.com/product-785.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0278/FIT0278_260213 (1).jpg",
+    "price": "6.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1542,
+    "name": "Implementing Vibration Motors: Arduino Projects",
+    "sku": "DFR0440",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "282"
+    ],
+    "description": "Learn to use DFRobot's Gravity Vibration Module for creative Arduino projects like alarms and vibrating robots, compatible with various controllers.",
+    "url": "https://www.dfrobot.com/product-1542.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0440/DFR0440_Main_01.jpg",
+    "price": "2.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1410,
+    "name": "Micro Metal Gear Motor for Robotics Projects",
+    "sku": "FIT0457",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro Metal Gear Motor with 75:1 ratio, anti-jamming, PH2.0 port, ideal for robotics.",
+    "url": "https://www.dfrobot.com/product-1410.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0457/FIT0457_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1180,
+    "name": "Arduino Motor Shield: Drive 2A Motors with L298P Chip",
+    "sku": "DRI0017",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "282"
+    ],
+    "description": "The Arduino Motor Shield with L298P chip drives 7-12V DC motors at 2A, ideal for high-power robotics projects with Arduino compatibility.",
+    "url": "https://www.dfrobot.com/product-1180.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0017/DRI0017_Main_01.jpg",
+    "price": "16.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2647,
+    "name": "Versatile 6V Electric Water Pump: Ideal for DIY Projects",
+    "sku": "FIT0910",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258",
+      "277"
+    ],
+    "description": "This 6V electric water pump is perfect for creating fountains, changing aquarium water, or watering plants. Easy to use with a DC2.1 connector and 1m wire.",
+    "url": "https://www.dfrobot.com/product-2647.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0910/FIT0910_Main_01.jpg",
+    "price": "2.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2429,
+    "name": "PWM Motor & Light Driver Board: Versatile Control & High Load",
+    "sku": "DRI0050",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "LattePanda",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Raspberry Pi"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "272",
+      "277",
+      "278"
+    ],
+    "description": "Versatile PWM driver board for DC motor and LED control, supports Python, PC, UART, potentiometer control, 10A load capacity.",
+    "url": "https://www.dfrobot.com/product-2429.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0050/DRI0050_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1488,
+    "name": "Easy Control with DC Micro Metal Gear Motor",
+    "sku": "DFR0429",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "282"
+    ],
+    "description": "The DC Micro Metal Gear Motor simplifies motor control, offering PWM speed control and reduced power consumption for DIY projects.",
+    "url": "https://www.dfrobot.com/product-1488.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0429/DFR0429_Main_01.jpg",
+    "price": "12",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1177,
+    "name": "DSS-M15S Heavy-Duty Metal Gear Servo with 270° Rotation",
+    "sku": "SER0038",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "DSS-M15S servo offers 270° rotation and 15Kg torque, ensuring superior stability and durability for high-load tasks.",
+    "url": "https://www.dfrobot.com/product-1177.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0038/SER0038_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 633,
+    "name": "83 RPM Metal DC Motor GB37Y3530 with Encoder",
+    "sku": "FIT0185",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "The 83 RPM Metal DC Motor GB37Y3530-12V-83R is ideal for mobile robots with its powerful 12V operation, 131:1 gearbox, and quadrature encoder.",
+    "url": "https://www.dfrobot.com/product-633.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0185/FIT0185_Main_01.jpg",
+    "price": "16.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1530,
+    "name": "12V Normally Closed Solenoid Valve for Water Flow Control",
+    "sku": "FIT0498",
+    "categories": [
+      "All Products",
+      "Internet of Things - IoT",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "276"
+    ],
+    "description": "A 12V solenoid valve for precise water flow control, ideal for agriculture and fisheries, offering reliability and high sensitivity.",
+    "url": "https://www.dfrobot.com/product-1530.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0498/FIT0498_Main_01.jpg",
+    "price": "7.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3076,
+    "name": "M0601 Hub Motor: Integrated Design for Robotics",
+    "sku": "FIT1038",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "The M0601 hub motor integrates motor, driver, and encoder for plug-and-play deployment, offering precise control and quiet operation for robotics applications.",
+    "url": "https://www.dfrobot.com/product-3076.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1038/FIT1038_260205 (1).jpg",
+    "price": "64.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3077,
+    "name": "M0601 Hub Motor for AGVs and AMRs: Integrated Design",
+    "sku": "FIT1042",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "The M0601 hub motor offers integrated design for robots, AGVs, AMRs, with precise control, low noise, and high torque.",
+    "url": "https://www.dfrobot.com/product-3077.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1042/FIT1042_Main_01.jpg",
+    "price": "64.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1579,
+    "name": "DF9GMS 360 Degree Micro Servo: Compact & Versatile",
+    "sku": "SER0043",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The DF9GMS 360 degree micro servo is compact and versatile, ideal for DIY projects like toy cars, offering easy control and impressive torque.",
+    "url": "https://www.dfrobot.com/product-1579.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0043/SER0043_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1971,
+    "name": "9g 180° Metal Servo with Feedback - Precision Control",
+    "sku": "SER0047",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The 9g 180° Metal Servo offers analog feedback, durable metal gears, and precise control for micro-robot projects.",
+    "url": "https://www.dfrobot.com/product-1971.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0047/SER0047_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2321,
+    "name": "Amphibious Micro Submersible Pump for DIY Projects",
+    "sku": "FIT0800",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258",
+      "277"
+    ],
+    "description": "Use this 3-6V amphibious pump for DIY fountains, water changers, or plant watering with low noise and high efficiency.",
+    "url": "https://www.dfrobot.com/product-2321.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0800/FIT0800_Main_01.jpg",
+    "price": "2.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2117,
+    "name": "Discover the 2Kg 180° Clutch Servo with Protection",
+    "sku": "SER0050",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 2Kg 180° Clutch Servo features clutch function and electronic protection, ideal for robotics and models, ensuring durability and smooth operation.",
+    "url": "https://www.dfrobot.com/product-2117.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0050/SER0050_Main_01.jpg",
+    "price": "6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2349,
+    "name": "Industrial 4-Channel Relay Module with RS485 Interface",
+    "sku": "FIT0827",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "277"
+    ],
+    "description": "Efficiently control devices with the Industrial 4-Channel Relay Module using RS485 and Modbus RTU protocol, suitable for various applications.",
+    "url": "https://www.dfrobot.com/product-2349.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0827/FIT0827_Main_01.jpg",
+    "price": "27.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1526,
+    "name": "Metal DC Geared Motor: Compact, Powerful Torque",
+    "sku": "FIT0495-F",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact metal DC geared motor with 75:1 reducer, delivering maximum torque of 1.9 kg.cm, built for stability and durability.",
+    "url": "https://www.dfrobot.com/product-1526.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495-F/FIT0495-F_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2094,
+    "name": "Gravity Simple Relay Module: Easy Wiring Solution",
+    "sku": "DFR0643",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "282"
+    ],
+    "description": "Gravity's relay module offers easy wiring and compatibility with Arduino for smart home and robotics applications.",
+    "url": "https://www.dfrobot.com/product-2094.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0643/DFR0643_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1082,
+    "name": "Bipolar Stepper Motor with Planet Gear Box",
+    "sku": "FIT0349",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motors"
+    ],
+    "category_ids": [
+      "51",
+      "109",
+      "156"
+    ],
+    "description": "The 42BYGH40-18-22A-C5.18 stepper motor offers precision with 18kg-cm torque and 5.18:1 gear ratio for advanced applications.",
+    "url": "https://www.dfrobot.com/product-1082.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0349/FIT0349_Main_01.jpg",
+    "price": "36.55",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1458,
+    "name": "TT Micro DC Motor with Encoder for Robotics Projects",
+    "sku": "FIT0458",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "The TT Micro DC Motor with Encoder is perfect for robotics, offering a 120:1 gearbox and precise control for mobile robot applications.",
+    "url": "https://www.dfrobot.com/product-1458.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0458/FIT0458_Main_01.jpg",
+    "price": "7.4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1489,
+    "name": "Effortless Control with DC Micro Metal Gear Motor",
+    "sku": "DFR0399",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "282"
+    ],
+    "description": "The DC Micro Metal Gear Motor simplifies control with Gravity interface and PWM, ideal for DIY projects, offering low power consumption and effortless operation.",
+    "url": "https://www.dfrobot.com/product-1489.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0399/DFR0399_Main_01.jpg",
+    "price": "12",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1508,
+    "name": "Miniature Stepper Motor with 100:1 Gear Box",
+    "sku": "FIT0503",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motors"
+    ],
+    "category_ids": [
+      "51",
+      "109",
+      "156"
+    ],
+    "description": "Miniature stepper motor with metal gear box, ideal for precise rotation control in 3D printers.",
+    "url": "https://www.dfrobot.com/product-1508.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0503/FIT0503_Main_01.jpg",
+    "price": "5.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1618,
+    "name": "6V Metal Geared DC Motor with Encoder for Robotics",
+    "sku": "FIT0522",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Explore the 6V metal geared DC motor with encoder, ideal for precise mobile robotics applications.",
+    "url": "https://www.dfrobot.com/product-1618.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0522/FIT0522_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2297,
+    "name": "Mini Vibration Motor: Compact & Powerful",
+    "sku": "FIT0774",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "A 10*2.7mm mini vibration motor with strong vibration, low noise, easy embedding, and long lifespan. Ideal for phones, watches, and toys.",
+    "url": "https://www.dfrobot.com/product-2297.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0774/FIT0774_Main_01.jpg",
+    "price": "0.99",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2961,
+    "name": "ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "sku": "SER0069",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's ST3215 Serial Bus Servo-7.4V 19.5kg 360° -- 2961",
+    "url": "https://www.dfrobot.com/product-2961.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0069/SER0069_Main_01.png",
+    "price": "17.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3002,
+    "name": "Serial Bus Servo Driver Board: Control Up to 253 Servos",
+    "sku": "DRI0057",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Efficiently control up to 253 bus servos with USB/UART interfaces, real-time feedback, and advanced configuration for robotics.",
+    "url": "https://www.dfrobot.com/product-3002.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0057/DRI0057_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3003,
+    "name": "Gravity: Haptic Motor Driver -- 3003",
+    "sku": "DRI0056",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279"
+    ],
+    "description": "DFRobot's Gravity: Haptic Motor Driver -- 3003",
+    "url": "https://www.dfrobot.com/product-3003.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0056/DRI0056_Main_01-1.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2120,
+    "name": "9g 180° Clutch Servo with Electronic Protection",
+    "sku": "SER0049",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "The 9g 180° Clutch Servo offers clutch function and electronic protection, preventing damage in robotic and model applications.",
+    "url": "https://www.dfrobot.com/product-2120.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0049/SER0049_Main_01.jpg",
+    "price": "5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1527,
+    "name": "45:1 Metal DC Geared Motor with High Torque",
+    "sku": "FIT0495-G",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact metal DC geared motor with 45:1 reduction ratio and 1.2 kg.cm torque. Ideal for stable and durable applications.",
+    "url": "https://www.dfrobot.com/product-1527.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0495/1.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1060,
+    "name": "Drive Stepper Motors Easily with DRV8825 Shield",
+    "sku": "DRI0023",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motor Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "106",
+      "156",
+      "277",
+      "282"
+    ],
+    "description": "The DRV8825 stepper motor shield offers easy driving of dual motors for Arduino projects using minimal I/O pins.",
+    "url": "https://www.dfrobot.com/product-1060.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0023/DRI0023_Main_01.jpg",
+    "price": "32.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 827,
+    "name": "MiniQ Motor Wheel Set for Robotics Education",
+    "sku": "KIT0015",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "MiniQ motor wheel set designed for educational robotics with metal gear motors and PID speed control, ideal for maze competitions.",
+    "url": "https://www.dfrobot.com/product-827.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0015/KIT0015_ShipList_06.jpg",
+    "price": "13",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1339,
+    "name": "Micro DC Geared Motor with Planetary Gear Mechanism",
+    "sku": "FIT0419",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact micro DC geared motor with planetary gear mechanism suitable for DIY projects, featuring 6V voltage and low noise operation.",
+    "url": "https://www.dfrobot.com/product-1339.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0419/FIT0419_Main_01.jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1433,
+    "name": "Micro Metal Gear Motor with Built-in Encoder",
+    "sku": "FIT0483",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "A micro metal gear motor with built-in encoder, providing 1400 Hall feedback resolution and enhanced performance for robotics.",
+    "url": "https://www.dfrobot.com/product-1433.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0483/FIT0483_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1471,
+    "name": "Compact DC Geared Motor: 26kg.cm Torque",
+    "sku": "FIT0492-A",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Compact DC geared motor offers 26kg.cm torque and 100:1 reduction ratio, ensuring durability and high performance.",
+    "url": "https://www.dfrobot.com/product-1471.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0492-A/FIT0492-A_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1472,
+    "name": "Metal DC Geared Motor - 12V 100RPM, 12kg.cm Torque",
+    "sku": "FIT0492-B",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Metal DC geared motor, 12V, 50:1 reduction ratio, 12kg.cm torque, copper coils, stable and durable.",
+    "url": "https://www.dfrobot.com/product-1472.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0492-B/FIT0492-B_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1534,
+    "name": "Ultra Small Dual DC Motor Driver with UVLO & ESD Protection",
+    "sku": "DRI0041",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "279"
+    ],
+    "description": "Ultra small Dual DC motor driver with UVLO, Photo Coupler isolation, and ESD protection for safe operation in compact projects.",
+    "url": "https://www.dfrobot.com/product-1534.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0041/DRI0041_Main_01.jpg",
+    "price": "21",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1698,
+    "name": "Gravity Digital Peristaltic Pump for Precision Fluid Control",
+    "sku": "DFR0523",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258",
+      "282"
+    ],
+    "description": "The Gravity digital peristaltic pump offers precise liquid control for various applications, enhancing efficiency in scientific and industrial settings.",
+    "url": "https://www.dfrobot.com/product-1698.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0523/DFR0523_Main_01.jpg",
+    "price": "24",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3006,
+    "name": "High-Performance 2804 BLDC Motor with AS5600 Encoder",
+    "sku": "FIT1036",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "2804 BLDC motor with AS5600 encoder offers high efficiency and precision, ideal for robotics and camera gimbals.",
+    "url": "https://www.dfrobot.com/product-3006.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1036/FIT1036_Main_01.jpg",
+    "price": "29.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3013,
+    "name": "SimpleFOCmini: Compact BLDC Motor Control with FOC",
+    "sku": "DRI0058",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "SimpleFOCmini offers compact, high-performance BLDC motor control with advanced FOC for precise torque, speed, and position management.",
+    "url": "https://www.dfrobot.com/product-3013.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0058/DRI0058_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2374,
+    "name": "Super-Easy Mini Air Pump for Beginners",
+    "sku": "FIT0801",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Pump"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "258",
+      "277"
+    ],
+    "description": "Effortlessly create pneumatic projects with our mini air pump, featuring 2.2 LPM flow and -58kpa suction, suitable for various applications.",
+    "url": "https://www.dfrobot.com/product-2374.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0801/FIT0801_Main_01.jpg",
+    "price": "5.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1567,
+    "name": "Gravity: Efficient MOSFET Power Controller for MCUs",
+    "sku": "DFR0457",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "282"
+    ],
+    "description": "Gravity MOSFET Power Controller drives high current devices with limited GPIO, compatible with Arduino, Raspberry Pi, and Lattepanda.",
+    "url": "https://www.dfrobot.com/product-1567.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0457/DFR0457_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 121,
+    "name": "Powerful 2.5kg Metal Gear Servo for Robotics",
+    "sku": "SER0011",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "Compact 2.5kg metal gear servo ideal for robotics and aviation use, offering durability and strength in demanding applications.",
+    "url": "https://www.dfrobot.com/product-121.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0011/SER0011_260429 (1).jpg",
+    "price": "7.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 255,
+    "name": "Enhance Your Projects with 9g Micro Servo Motor",
+    "sku": "SER0006",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "Explore the 9g micro servo motor's capabilities in small robotics, offering 1.6kg torque ideal for Arduino applications.",
+    "url": "https://www.dfrobot.com/product-255.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0006/SER0006_Main_01.jpg",
+    "price": "3.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 634,
+    "name": "12V Gear Motor w/Encoder GB37Y3530-12V-251R",
+    "sku": "FIT0186",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "The 12V GB37Y3530 Gear Motor w/Encoder delivers precision and power, perfect for mobile robotics.",
+    "url": "https://www.dfrobot.com/product-634.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0186/FIT0186_Main_01.jpg",
+    "price": "16.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 667,
+    "name": "Efficient Immersible Pump for Aquatic Applications",
+    "sku": "FIT0200",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "156"
+    ],
+    "description": "Versatile immersible pump for plants, fountains, aquariums. Quiet operation, suction cup stability, for underwater use.",
+    "url": "https://www.dfrobot.com/product-667.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0200/FIT0200_Main_01.jpg",
+    "price": "9.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2796,
+    "name": "N20 Miniature Metal Motor: Compact, Efficient & Reliable",
+    "sku": "DFR1114",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "279",
+      "282"
+    ],
+    "description": "The N20 Miniature Metal Motor is compact, reliable, and efficient, ideal for robots and mechanical motion control with integrated drive and PWM control.",
+    "url": "https://www.dfrobot.com/product-2796.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR1114/DFR1114_Main_01.jpg",
+    "price": "7.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 69,
+    "name": "Arduino Motor Shield (L298P) for Efficient Motor Control",
+    "sku": "DRI0009",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277"
+    ],
+    "description": "The Arduino Motor Shield (L298P) allows control of two DC motors with 2A current using PWM and external power. Perfect for robotics projects.",
+    "url": "https://www.dfrobot.com/product-69.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0009/DRI0009_Main_01.jpg",
+    "price": "13.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 59,
+    "name": "Drive Two DC Motors with L293 Arduino Shield",
+    "sku": "DRI0001",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "277"
+    ],
+    "description": "This shield uses L293 chip to drive two DC motors with 7-12V and 1A current each, stackable on Arduino Uno and Mega.",
+    "url": "https://www.dfrobot.com/product-59.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0001/DRI0001_Main_01.jpg",
+    "price": "9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 100,
+    "name": "TT Micro DC Geared Motor with Back Shaft - 6V, 160rpm",
+    "sku": "FIT0016",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "TT Micro DC Geared Motor: 6V, 160rpm, ideal for DIY robots, easy installation, DFRobot Encoder compatible.",
+    "url": "https://www.dfrobot.com/product-100.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT0016/FIT0016_260414 (1).jpg",
+    "price": "3.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1572,
+    "name": "Gravity Digital Relay Module for Arduino & Raspberry Pi",
+    "sku": "DFR0473",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Raspberry Pi",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "272",
+      "282"
+    ],
+    "description": "Gravity Digital Relay Module offers 3.3V and 5V compatibility, handling up to 10A current with no soldering needed for easy plug-and-play use.",
+    "url": "https://www.dfrobot.com/product-1572.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0473/DFR0473_Main_01.jpg",
+    "price": "3.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1704,
+    "name": "Micro Dual DC Motor Driver TB6612FNG Guide",
+    "sku": "DRI0044",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Fermion",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "292"
+    ],
+    "description": "TB6612FNG motor driver enables dual-channel motor control for Arduino projects, offering efficient, GPIO-saving operation.",
+    "url": "https://www.dfrobot.com/product-1704.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0044/DRI0044_ShipList_06.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1709,
+    "name": "DSS-M15S 270° Metal Servo with Feedback Control",
+    "sku": "SER0044",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The DSS-M15S servo features 270° control and analog feedback, compatible with Arduino for precise load management.",
+    "url": "https://www.dfrobot.com/product-1709.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0044/SER0044_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1736,
+    "name": "Micro Metal DC Geared Motor: High Precision & Efficiency",
+    "sku": "FIT0579",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro Metal DC Geared Motor, ideal for mini platforms, offers 6V 50RPM with high precision and efficiency. Perfect for mobile applications.",
+    "url": "https://www.dfrobot.com/product-1736.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0579/FIT0579_Main_01.jpg",
+    "price": "7.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2308,
+    "name": "High Performance Coreless Micro Motor for DIY Drones",
+    "sku": "FIT0792",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156",
+      "279"
+    ],
+    "description": "Explore powerful coreless motors for DIY drones, offering 55,000rpm speed and perfect for remote control models.",
+    "url": "https://www.dfrobot.com/product-2308.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0792/FIT0792_Main_01.jpg",
+    "price": "7.2",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2571,
+    "name": "Waterproof High Torque Servo with Metal Gear for Robotics",
+    "sku": "SER0060",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "Waterproof high-torque metal gear servo with IP67 rating, ideal for robotics and remote applications. Offers precise control and long-lasting performance.",
+    "url": "https://www.dfrobot.com/product-2571.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0060/SER0060_Min_01.jpg",
+    "price": "28.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2572,
+    "name": "45KG Torque Brushless IP67 Waterproof Servo Motor",
+    "sku": "SER0062",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "A robust 45KG Torque Brushless Servo with IP67 waterproofing, ensuring precision and durability for robotics and remote control applications.",
+    "url": "https://www.dfrobot.com/product-2572.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0062/SER0062_Main_01.jpg",
+    "price": "48.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2790,
+    "name": "35kg Metal Waterproof Servo with Magnetic Encoder",
+    "sku": "SER0067",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "277",
+      "279"
+    ],
+    "description": "High-torque 35kg waterproof digital servo with magnetic encoder for precise control, ideal for robotics and automation.",
+    "url": "https://www.dfrobot.com/product-2790.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/SER0067/SER0067_Main_01.jpg",
+    "price": "25.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2979,
+    "name": "28BYJ-48 Stepper Motor Module with A4988 Driver",
+    "sku": "DFR1199",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "STEM Education",
+      "Stepper Motors"
+    ],
+    "category_ids": [
+      "51",
+      "109",
+      "156",
+      "277",
+      "280"
+    ],
+    "description": "The 28BYJ-48 Stepper Motor Module integrates a geared motor with an A4988 driver for easy motion control, ideal for educational and DIY projects.",
+    "url": "https://www.dfrobot.com/product-2979.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1199/DFR1199_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3005,
+    "name": "2804 Brushless DC Motor with AS5600 Encoder for FOC",
+    "sku": "FIT1034",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "Explore the 2804 brushless DC motor with AS5600 encoder for precise FOC control, perfect for robotics and camera gimbals.",
+    "url": "https://www.dfrobot.com/product-3005.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/FIT1034/FIT1034_Main_01.jpg",
+    "price": "18.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 66,
+    "name": "2A Dual Motor Controller with Enhanced Heat Dissipation",
+    "sku": "DRI0002",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156"
+    ],
+    "description": "The 2A Dual Motor Controller offers improved performance with L298N chip, enhanced heat dissipation, and efficient DC motor control.",
+    "url": "https://www.dfrobot.com/product-66.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0002/DRI0002_Main_01.jpg",
+    "price": "12.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1492,
+    "name": "Ultra Compact Dual-H-Bridge DC Motor Driver HR8833",
+    "sku": "DRI0040",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Fermion",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "292"
+    ],
+    "description": "HR8833 motor driver supports two 1.5A motors up to 10V, fits tight spaces, and features XH2.54 pins.",
+    "url": "https://www.dfrobot.com/product-1492.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0040/DRI0040_Main_01.jpg",
+    "price": "4.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1338,
+    "name": "Powerful Mini Metal Servo for Small Robotics Projects",
+    "sku": "SER0039",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156"
+    ],
+    "description": "The DMS-MG90 micro servo with metal gears provides 1.8kg*cm torque, perfect for small robotics projects and automation tasks.",
+    "url": "https://www.dfrobot.com/product-1338.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0039/SER0039_Main_01.jpg",
+    "price": "5.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1360,
+    "name": "TMC260 Stepper Motor Driver Shield for Arduino",
+    "sku": "DRI0035",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motor Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "106",
+      "156",
+      "277"
+    ],
+    "description": "The TMC260 stepper motor driver shield offers high precision and energy efficiency for Arduino projects, supporting up to 2A motor current.",
+    "url": "https://www.dfrobot.com/product-1360.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DRI0035/DRI0035_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1364,
+    "name": "Brushless DC Motor with Encoder: Easy Control & High Efficiency",
+    "sku": "FIT0441",
+    "categories": [
+      "All Products",
+      "Brushless Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Robotics"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "228",
+      "279"
+    ],
+    "description": "Introducing the brushless DC motor with built-in driver for easy Arduino integration, featuring PWM control and speed feedback for robotics.",
+    "url": "https://www.dfrobot.com/product-1364.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0441/FIT0441_Main_01.jpg",
+    "price": "19.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1432,
+    "name": "Micro Metal Gearmotor 50:1 w/Encoder for Precise Control",
+    "sku": "FIT0482",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "Micro Metal Gearmotor 50:1 offers precise control with Hall encoder, real-time speed measurement, and compatibility with various robot chassis.",
+    "url": "https://www.dfrobot.com/product-1432.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0482/FIT0482_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1457,
+    "name": "Micro DC Motor with Encoder for Robotics Projects",
+    "sku": "FIT0450",
+    "categories": [
+      "All Products",
+      "DC Motors",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "110",
+      "156"
+    ],
+    "description": "DFRobot TT Micro DC motor with encoder, 120:1 gearbox, 960 pulses/round, ideal for mobile robots, compatible with Arduino and Gravity interface.",
+    "url": "https://www.dfrobot.com/product-1457.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/FIT0450/FIT0450_Main_01.jpg",
+    "price": "7.4",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1547,
+    "name": "TB6600 Arduino Stepper Motor Driver: Easy Control",
+    "sku": "DRI0043",
+    "categories": [
+      "All Products",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Stepper Motor Drivers"
+    ],
+    "category_ids": [
+      "51",
+      "106",
+      "156"
+    ],
+    "description": "TB6600 Arduino driver simplifies stepper motor control with adjustable micro steps and current settings, ideal for hobbyists and professionals.",
+    "url": "https://www.dfrobot.com/product-1547.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0043/DRI0043_Main_01.jpg",
+    "price": "20",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1513,
+    "name": "Quad Motor Driver Shield for Arduino with TB6612FNG",
+    "sku": "DRI0039",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Arduino Shields",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers"
+    ],
+    "category_ids": [
+      "35",
+      "51",
+      "105",
+      "124",
+      "156"
+    ],
+    "description": "Quad motor driver shield for Arduino with TB6612FNG chips, control four DC motors with PWM speed control and polarity. Ideal for DIY projects.",
+    "url": "https://www.dfrobot.com/product-1513.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DRI0039/DRI0039_Main_01.jpg",
+    "price": "14.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 236,
+    "name": "DSS-P05 Standard Servo: High Torque & Precision",
+    "sku": "SER0020",
+    "categories": [
+      "All Products",
+      "Clearance",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Sales",
+      "Servo Motors"
+    ],
+    "category_ids": [
+      "51",
+      "108",
+      "156",
+      "237",
+      "255"
+    ],
+    "description": "DSS-P05 Standard Servo offers high torque for robotics, ideal for head, arm, and biped robots with 180-degree rotation.",
+    "url": "https://www.dfrobot.com/product-236.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/SER0020/SER0020_Main_001.jpg",
+    "price": "5.8",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 64,
+    "name": "Versatile Gravity Relay Module for Arduino Control",
+    "sku": "DFR0017",
+    "categories": [
+      "All Products",
+      "Gravity",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "Relays"
+    ],
+    "category_ids": [
+      "51",
+      "156",
+      "216",
+      "282"
+    ],
+    "description": "The DFRobot Relay Module is perfect for Arduino projects, enabling easy control of high-power devices with seamless integration and a status LED.",
+    "url": "https://www.dfrobot.com/product-64.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0017/DFR0017_Main_01.jpg",
+    "price": "2.6",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1738,
+    "name": "Micro:bit Motor Driver Expansion Board Guide",
+    "sku": "DFR0548",
+    "categories": [
+      "All Products",
+      "DC Motor Drivers",
+      "Modules",
+      "Motors &amp; Actuators &amp; Drivers",
+      "UNIHIKER",
+      "micro:bit"
+    ],
+    "category_ids": [
+      "51",
+      "105",
+      "156",
+      "281",
+      "314"
+    ],
+    "description": "Micro:bit Driver Expansion Board provides I2C motor control for dual motor and servo use, ideal for makers, students, and small projects.",
+    "url": "https://www.dfrobot.com/product-1738.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0548/DFR0548_Main_01.jpg",
+    "price": "11.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]

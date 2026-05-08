@@ -1,0 +1,584 @@
+[
+  {
+    "product_id": 742,
+    "name": "LilyPad SimpleSnap: Modular E-Textile Innovation",
+    "sku": "DFR0200",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "277",
+      "312"
+    ],
+    "description": "LilyPad SimpleSnap offers modular e-textile design with a rechargeable battery, ideal for removable and shared projects.",
+    "url": "https://www.dfrobot.com/product-742.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0200/DFR0200_Main_01.jpg",
+    "price": "29.95",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1645,
+    "name": "Intel CurieCore: Compact Bluetooth Module for Developers",
+    "sku": "TEL0110",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "CurieCore is a compact Intel Curie module with Bluetooth, ideal for robotics and wearable projects, featuring a powerful 32MHz processor.",
+    "url": "https://www.dfrobot.com/product-1645.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/TEL0110/TEL0110_Main_01.jpg",
+    "price": "29",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1894,
+    "name": "M1W Dock AI Development Kit with K210 Chip for AI Enthusiasts",
+    "sku": "KIT0145",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "The M1W Dock AI Kit with K210 chip supports advanced AI tasks like face and voice recognition.",
+    "url": "https://www.dfrobot.com/product-1894.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/KIT0145/KIT0145_Main_01.jpg",
+    "price": "32.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1896,
+    "name": "Unlock AI with the M1 Dock Development Kit",
+    "sku": "KIT0144",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "M1 Dock AI kit with K210 chip enables advanced AI features like face detection and voice recognition. Ideal for AI development projects.",
+    "url": "https://www.dfrobot.com/product-1896.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/KIT0144/KIT0144_Main_01.jpg",
+    "price": "30",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1900,
+    "name": "Argon IoT Development Board: Wi-Fi & Mesh Connectivity",
+    "sku": "DFR0611",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312"
+    ],
+    "description": "The Argon board offers Wi-Fi, Mesh, and Bluetooth 5, ideal for IoT projects with Particle Cloud support.",
+    "url": "https://www.dfrobot.com/product-1900.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0611/DFR0611_Main_01.jpg",
+    "price": "27.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1443,
+    "name": "DreamMaker Overlord 3D Printer Mainboard V1.0 Overview",
+    "sku": "DFR0372",
+    "categories": [
+      "All Products",
+      "Clearance",
+      "Development Boards",
+      "MCU",
+      "Others",
+      "Sales"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "237",
+      "255",
+      "312"
+    ],
+    "description": "DreamMaker Overlord 3D Printer Mainboard V1.0 uses Arduino Mega2560 for efficient control, suitable for DIY 3D printers.",
+    "url": "https://www.dfrobot.com/product-1443.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0372/DFR0372_Main_01.jpg",
+    "price": "70",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2615,
+    "name": "Compact Beetle RP2040 Development Board",
+    "sku": "DFR0959",
+    "categories": [
+      "All Products",
+      "Beetle",
+      "Development Boards",
+      "MCU",
+      "Others",
+      "Raspberry Pi"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "272",
+      "312",
+      "317"
+    ],
+    "description": "Beetle RP2040 board offers a compact design, dual-core processor, and flexible GPIO ports for various applications, including programmable light control.",
+    "url": "https://www.dfrobot.com/product-2615.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0959/DFR0959_Main_01.jpg",
+    "price": "6.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2497,
+    "name": "ART-Pi STM32H750: High-Performance Development Board",
+    "sku": "DFR0942",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "312"
+    ],
+    "description": "Discover the ART-Pi STM32H750 board with a robust Cortex-M7 MCU, ideal for DIY projects and embedded applications.",
+    "url": "https://www.dfrobot.com/product-2497.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0942/DFR0942_Main_01.jpg",
+    "price": "89",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2095,
+    "name": "FireBeetle 2 M0: High-Performance ARM Cortex M0+ Board",
+    "sku": "DFR0652",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "FireBeetle (ESP32 / ESP8266)",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "302",
+      "312"
+    ],
+    "description": "FireBeetle 2 M0 offers ARM Cortex M0+, SPI Flash, and RGB LED for versatile DIY applications.",
+    "url": "https://www.dfrobot.com/product-2095.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0652/DFR0652_Main_01.jpg",
+    "price": "8.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2913,
+    "name": "Beetle RP2350: Compact High-Performance Dev Board",
+    "sku": "DFR1188",
+    "categories": [
+      "All Products",
+      "Beetle",
+      "Development Boards",
+      "MCU",
+      "Others",
+      "Raspberry Pi"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "272",
+      "312",
+      "317"
+    ],
+    "description": "The Beetle RP2350 is a compact, high-performance dev board with dual-core processing, ideal for wearables, smart homes, and IoT applications.",
+    "url": "https://www.dfrobot.com/product-2913.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1188/DFR1188_250410 (1).jpg",
+    "price": "4.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2275,
+    "name": "Calliope Mini Development Board for STEM Education",
+    "sku": "DFR0840",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "MCU",
+      "Others",
+      "STEM Education"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "280",
+      "312"
+    ],
+    "description": "Calliope Mini, ideal for STEM education, features nRF51822, Bluetooth, IMU, and unique connectivity options.",
+    "url": "https://www.dfrobot.com/product-2275.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0840/DFR0840_Main_01.jpg",
+    "price": "49.95",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2338,
+    "name": "Compact STM32F411 Development Board for Advanced Users",
+    "sku": "DFR0864",
+    "categories": [
+      "All Products",
+      "Arduino",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "277",
+      "312"
+    ],
+    "description": "STM32F411 dev board offers 512KB ROM, 128KB SRAM, 100MHz speed. Supports MicroPython and Arduino, ideal for advanced STM32 projects.",
+    "url": "https://www.dfrobot.com/product-2338.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0864/DFR0864_Main_01.jpg",
+    "price": "16.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1965,
+    "name": "Maixduino AI Development Kit: RISC-V AI Processor",
+    "sku": "KIT0157",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "ESP32/ESP8266",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312",
+      "316"
+    ],
+    "description": "Maixduino AI Development Kit combines K210 RISC-V AI processor and ESP32 module, perfect for AI applications in various fields.",
+    "url": "https://www.dfrobot.com/product-1965.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/KIT0157/KIT0157_Main_01.jpg",
+    "price": "36.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1972,
+    "name": "Maixduino AI Development Board with ESP32 & GC0328 Camera",
+    "sku": "DFR0640",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "ESP32/ESP8266",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312",
+      "316"
+    ],
+    "description": "Maixduino board with K210 processor, ESP32, and GC0328 camera, supports AI projects in smart home, medical, and more. Compatible with Arduino.",
+    "url": "https://www.dfrobot.com/product-1972.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0640/DFR0640_Main_01.jpg",
+    "price": "28",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1984,
+    "name": "K210 AI Chip Module: High Performance & Efficiency",
+    "sku": "DFR0636",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "K210 AI chip provides faster AI execution with low energy use, featuring dual-core processors, neural network, and deep learning support.",
+    "url": "https://www.dfrobot.com/product-1984.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0636/DFR0636_Main_01.jpg",
+    "price": "15.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1985,
+    "name": "Maix Bit: AI Development Board with K210 RISC-V",
+    "sku": "DFR0639",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "Maix Bit AI board features K210 RISC-V chip, dual-core processor, AI algorithms, and MicroPython support for high performance at a low price.",
+    "url": "https://www.dfrobot.com/product-1985.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0639/DFR0639_Main_01.jpg",
+    "price": "20.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1262,
+    "name": "Enhance Your WRTnode with Standard Shield for OpenWRT",
+    "sku": "DFR0352",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "312"
+    ],
+    "description": "The standard shield enhances WRTnode by expanding GPIO, SPI, I2C, USB interfaces, and Ethernet connectivity.",
+    "url": "https://www.dfrobot.com/product-1262.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0352/DFR0352_Main_01.jpg",
+    "price": "9.9",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1973,
+    "name": "Maix Bit AI Development Board with K210 RISC-V Chip",
+    "sku": "KIT0155",
+    "categories": [
+      "All Products",
+      "Artificial Intelligence Hardware",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "284",
+      "312"
+    ],
+    "description": "Maix Bit AI board with K210 chip offers MicroPython support and AI capabilities, compatible with OpenMV algorithms, ideal for developers.",
+    "url": "https://www.dfrobot.com/product-1973.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/KIT0155/KIT0155_ShipList_06.jpg",
+    "price": "33",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3024,
+    "name": "LoRaWAN Control Terminal (868MHz) -- 3024",
+    "sku": "DFR1120-868",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312"
+    ],
+    "description": "DFRobot's LoRaWAN Control Terminal (868MHz) -- 3024",
+    "url": "https://www.dfrobot.com/product-3024.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1120-868/DFR1120-868_Main_01.jpg",
+    "price": "35",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1838,
+    "name": "PYNQ-Z2 FPGA Development Board: Unlock Embedded Potential",
+    "sku": "DFR0600",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "312"
+    ],
+    "description": "The PYNQ-Z2 FPGA board revolutionizes embedded design with ZYNQ SoCs, enabling Python-based programming and versatile expansion options.",
+    "url": "https://www.dfrobot.com/product-1838.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0600/DFR0600_Main_01.jpg",
+    "price": "195",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 2933,
+    "name": "ESP32-S3 LoRaWAN Development Board for IoT Projects",
+    "sku": "DFR1195",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "ESP32/ESP8266",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312",
+      "316"
+    ],
+    "description": "The ESP32-S3 LoRaWAN board simplifies IoT prototyping with Arduino compatibility and plug-and-play sensor interfaces.",
+    "url": "https://www.dfrobot.com/product-2933.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1195/DFR1195_Main_01.jpg",
+    "price": "18.5",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 3023,
+    "name": "LoRaWAN Control Terminal (915MHz) -- 3023",
+    "sku": "DFR1120-915",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312"
+    ],
+    "description": "DFRobot's LoRaWAN Control Terminal (915MHz) -- 3023",
+    "url": "https://www.dfrobot.com/product-3023.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR1120-915/DFR1120-915_Main_01.jpg",
+    "price": "35",
+    "available": "Yes",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1159,
+    "name": "Wido IoT Node: Arduino Compatible WiFi Development Board",
+    "sku": "DFR0321",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312"
+    ],
+    "description": "Wido is an Arduino compatible WiFi IoT Node with ATMEL ATmega32U4, ideal for M2M and smart home applications.",
+    "url": "https://www.dfrobot.com/product-1159.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/image/data/DFR0321/_DSC0698.jpg",
+    "price": "0",
+    "available": "No",
+    "source": "DFRobot"
+  },
+  {
+    "product_id": 1324,
+    "name": "Photon 2: Versatile IOT Development Module",
+    "sku": "DFR0373",
+    "categories": [
+      "All Products",
+      "Development Boards",
+      "Internet of Things - IoT",
+      "MCU",
+      "Others"
+    ],
+    "category_ids": [
+      "52",
+      "184",
+      "276",
+      "312"
+    ],
+    "description": "Photon 2 offers dual-band Wi-Fi, BLE, enhanced memory, ideal for IoT projects, and smooth transition to mass production.",
+    "url": "https://www.dfrobot.com/product-1324.html",
+    "image_url": "https://dfimg.dfrobot.com/enshop/DFR0373/DFR0373_Main_01.jpg",
+    "price": "19",
+    "available": "Yes",
+    "source": "DFRobot"
+  }
+]
