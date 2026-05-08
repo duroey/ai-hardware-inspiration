@@ -1,0 +1,878 @@
+[
+  {
+    "id": "carrier_0001",
+    "name": "冰箱",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0002",
+    "name": "洗衣机",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0003",
+    "name": "空调",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0004",
+    "name": "中央空调",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0005",
+    "name": "电视",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0006",
+    "name": "厨卫大电",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0007",
+    "name": "商用电器",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0008",
+    "name": "家电配件",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0009",
+    "name": "视听影音",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0010",
+    "name": "冷柜",
+    "parent": "冰洗",
+    "level": 3
+  },
+  {
+    "id": "carrier_0011",
+    "name": "空调",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0012",
+    "name": "电视",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0013",
+    "name": "厨卫大电",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0014",
+    "name": "电脑整机",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0015",
+    "name": "电脑配件",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0016",
+    "name": "外设产品",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0017",
+    "name": "游戏设备",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0018",
+    "name": "网络产品",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0019",
+    "name": "办公设备",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0020",
+    "name": "耗材",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0021",
+    "name": "办公用纸",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0022",
+    "name": "财务办公",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0023",
+    "name": "收纳管理",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0024",
+    "name": "书写工具",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0025",
+    "name": "本册纸签",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0026",
+    "name": "学习用品",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0027",
+    "name": "绘画书法",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0028",
+    "name": "商务定制",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0029",
+    "name": "个人定制",
+    "parent": "电脑",
+    "level": 3
+  },
+  {
+    "id": "carrier_0030",
+    "name": "办公",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0031",
+    "name": "文具用品",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0032",
+    "name": "手机通讯",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0033",
+    "name": "手机配件",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0034",
+    "name": "摄影摄像",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0035",
+    "name": "数码配件",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0036",
+    "name": "影音娱乐",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0037",
+    "name": "智能设备",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0038",
+    "name": "电子教育",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0039",
+    "name": "对讲机",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0040",
+    "name": "智能机器人",
+    "parent": "手机",
+    "level": 3
+  },
+  {
+    "id": "carrier_0041",
+    "name": "数码",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0042",
+    "name": "生活电器",
+    "parent": "生活电器",
+    "level": 3
+  },
+  {
+    "id": "carrier_0043",
+    "name": "厨房小电",
+    "parent": "生活电器",
+    "level": 3
+  },
+  {
+    "id": "carrier_0044",
+    "name": "个护健康",
+    "parent": "生活电器",
+    "level": 3
+  },
+  {
+    "id": "carrier_0045",
+    "name": "清洁电器",
+    "parent": "生活电器",
+    "level": 3
+  },
+  {
+    "id": "carrier_0046",
+    "name": "家庭机器人",
+    "parent": "生活电器",
+    "level": 3
+  },
+  {
+    "id": "carrier_0047",
+    "name": "厨房小电",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0048",
+    "name": "个护健康",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0049",
+    "name": "电工电料",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0050",
+    "name": "基建材料",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0051",
+    "name": "锁具五金",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0052",
+    "name": "浴霸吊顶",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0053",
+    "name": "厨房卫浴",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0054",
+    "name": "门/窗",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0055",
+    "name": "暖通设备",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0056",
+    "name": "墙地面材料",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0057",
+    "name": "灯饰照明",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0058",
+    "name": "家具",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0059",
+    "name": "定制家具",
+    "parent": "家装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0060",
+    "name": "建材",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0061",
+    "name": "家具",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0062",
+    "name": "床上用品",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0063",
+    "name": "生活日用",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0064",
+    "name": "居家布艺",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0065",
+    "name": "收纳用品",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0066",
+    "name": "家居饰品",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0067",
+    "name": "茶具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0068",
+    "name": "烘焙用具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0069",
+    "name": "酒杯/酒具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0070",
+    "name": "一次性用品",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0071",
+    "name": "烹饪锅具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0072",
+    "name": "刀剪菜板",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0073",
+    "name": "厨房储物",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0074",
+    "name": "水具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0075",
+    "name": "餐具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0076",
+    "name": "咖啡具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0077",
+    "name": "厨房置物架",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0078",
+    "name": "厨房小工具",
+    "parent": "家居日用",
+    "level": 3
+  },
+  {
+    "id": "carrier_0079",
+    "name": "厨具",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0080",
+    "name": "流行男鞋",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0081",
+    "name": "运动鞋包",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0082",
+    "name": "运动服饰",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0083",
+    "name": "健身训练",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0084",
+    "name": "骑行运动",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0085",
+    "name": "体育用品",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0086",
+    "name": "户外鞋服",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0087",
+    "name": "户外装备",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0088",
+    "name": "垂钓用品",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0089",
+    "name": "游泳用品",
+    "parent": "男鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0090",
+    "name": "运动",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0091",
+    "name": "户外",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0092",
+    "name": "男装",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0093",
+    "name": "女装",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0094",
+    "name": "内衣",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0095",
+    "name": "配饰",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0096",
+    "name": "童装",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0097",
+    "name": "童鞋",
+    "parent": "男装",
+    "level": 3
+  },
+  {
+    "id": "carrier_0098",
+    "name": "女装",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0099",
+    "name": "童装",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0100",
+    "name": "内衣",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0101",
+    "name": "房产",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0102",
+    "name": "汽车车型",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0103",
+    "name": "汽车价格",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0104",
+    "name": "汽车品牌",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0105",
+    "name": "汽车装饰",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0106",
+    "name": "汽车贴膜",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0107",
+    "name": "车载电器",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0108",
+    "name": "美容清洗",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0109",
+    "name": "安全自驾",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0110",
+    "name": "电动车",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0111",
+    "name": "摩托车",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0112",
+    "name": "充电装备",
+    "parent": "房产",
+    "level": 3
+  },
+  {
+    "id": "carrier_0113",
+    "name": "汽车",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0114",
+    "name": "汽车用品",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0115",
+    "name": "文学",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0116",
+    "name": "童书",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0117",
+    "name": "教材教辅",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0118",
+    "name": "人文社科",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0119",
+    "name": "经管励志",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0120",
+    "name": "艺术",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0121",
+    "name": "科学技术",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0122",
+    "name": "生活",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0123",
+    "name": "文娱",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0124",
+    "name": "邮币",
+    "parent": "图书",
+    "level": 3
+  },
+  {
+    "id": "carrier_0125",
+    "name": "文娱",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0126",
+    "name": "教育",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0127",
+    "name": "时尚女鞋",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0128",
+    "name": "潮流女包",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0129",
+    "name": "精品男包",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0130",
+    "name": "功能箱包",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0131",
+    "name": "奢侈品",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0132",
+    "name": "钟表",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0133",
+    "name": "珠宝首饰",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0134",
+    "name": "金银投资",
+    "parent": "女鞋",
+    "level": 3
+  },
+  {
+    "id": "carrier_0135",
+    "name": "箱包",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0136",
+    "name": "钟表",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0137",
+    "name": "珠宝",
+    "parent": "",
+    "level": 2
+  },
+  {
+    "id": "carrier_0138",
+    "name": "尿裤湿巾",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0139",
+    "name": "童车童床",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0140",
+    "name": "喂养用品",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0141",
+    "name": "洗护用品",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0142",
+    "name": "玩具",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0143",
+    "name": "寝居服饰",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0144",
+    "name": "乐器",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0145",
+    "name": "妈妈专区",
+    "parent": "母婴",
+    "level": 3
+  },
+  {
+    "id": "carrier_0146",
+    "name": "玩具乐器",
+    "parent": "",
+    "level": 2
+  }
+]
