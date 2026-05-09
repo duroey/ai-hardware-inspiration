@@ -2,14 +2,10 @@
 
 注意：AI模型不预设，由你来决定这个产品应该用什么AI能力（可以是一个或多个模型串联）。
 
-对于每个组合，请输出：
-1. product_name: 产品名称（简洁有力，不超过10字）
-2. scene: 一句话描述使用场景（不超过30字）
-3. selling_point: 核心价值主张（不超过30字）
-4. audience: 目标用户群体（不超过15字）
-5. ai_models: 推荐的AI模型/能力（列表，说明每个的作用）
-6. feasibility: 可行性评分(1-5, 5=现有技术完全可实现)
-7. valid: 这个组合是否能产出有意义的产品(true/false)
-8. reason: 如果valid=false，简述为什么不合理
+对于每个组合，先判断是否能产出有意义的产品：
+- 如果不行，只输出：{"valid": false}
+- 如果可以，输出完整方案：
+
+{"valid": true, "product_name": "不超过10字", "scene": "不超过30字", "selling_point": "不超过30字", "audience": "不超过15字", "ai_models": [{"model": "名称", "role": "作用"}], "feasibility": 1-5}
 
 请以JSON数组格式输出，每个元素对应一个输入组合。

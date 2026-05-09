@@ -18,6 +18,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 CATALOG_DIR = PROJECT_ROOT / "catalog"
 RESULTS_DIR = PROJECT_ROOT / "results"
 PROMPT_FILE = Path(__file__).parent / "prompt.txt"
+REJECTED_CACHE = RESULTS_DIR / "rejected.json"
 
 
 def load_catalog() -> dict:
@@ -47,6 +48,7 @@ def generate_combinations(catalog: dict, limit: int = None, seed: int = None) ->
 
     Each combination randomly picks 1-5 sensors, 1-4 actuators, 1-2 carriers.
     AI models are NOT pre-selected — left for LLM to decide.
+    Skips combinations that match previously rejected patterns.
 
     Args:
         catalog: Dict with sensor/model/actuator/carrier lists.
@@ -57,21 +59,55 @@ def generate_combinations(catalog: dict, limit: int = None, seed: int = None) ->
         List of combination dicts with variable-length selections.
     """
     rng = random.Random(seed or 42)
+    rejected = load_rejected()
     combos = []
+    attempts = 0
+    max_attempts = (limit or 10) * 5
 
-    for _ in range(limit or 10):
+    while len(combos) < (limit or 10) and attempts < max_attempts:
+        attempts += 1
         n_sensors = rng.randint(1, 5)
         n_actuators = rng.randint(1, 4)
         n_carriers = rng.randint(1, 2)
 
         combo = {
-            "sensors": rng.sample(catalog["sensors"], min(n_sensors, len(catalog["sensors"]))),
-            "actuators": rng.sample(catalog["actuators"], min(n_actuators, len(catalog["actuators"]))),
-            "carriers": rng.sample(catalog["carriers"], min(n_carriers, len(catalog["carriers"]))),
+            "sensors": sorted(rng.sample(catalog["sensors"], min(n_sensors, len(catalog["sensors"])))),
+            "actuators": sorted(rng.sample(catalog["actuators"], min(n_actuators, len(catalog["actuators"])))),
+            "carriers": sorted(rng.sample(catalog["carriers"], min(n_carriers, len(catalog["carriers"])))),
         }
-        combos.append(combo)
+
+        key = combo_key(combo)
+        if key not in rejected:
+            combos.append(combo)
+
+    if attempts >= max_attempts:
+        print(f"  Warning: hit max attempts, generated {len(combos)}/{limit or 10}")
 
     return combos
+
+
+def combo_key(combo: dict) -> str:
+    """Generate a unique key for a combination for deduplication."""
+    return "|".join([
+        ",".join(combo["sensors"]),
+        ",".join(combo["actuators"]),
+        ",".join(combo["carriers"]),
+    ])
+
+
+def load_rejected() -> set:
+    """Load previously rejected combination keys."""
+    if REJECTED_CACHE.exists():
+        with open(REJECTED_CACHE) as f:
+            return set(json.load(f))
+    return set()
+
+
+def save_rejected(rejected: set):
+    """Save rejected combination keys to cache."""
+    REJECTED_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    with open(REJECTED_CACHE, "w") as f:
+        json.dump(sorted(rejected), f)
 
 
 def build_prompt(combinations: list[dict]) -> str:
@@ -179,42 +215,43 @@ def main():
         if batch_idx < len(batches):
             time.sleep(args.delay)
 
-    # Output results
-    if args.output:
-        output_path = args.output
-    elif args.sample:
-        output_path = RESULTS_DIR / "sample.json"
-    else:
-        output_path = RESULTS_DIR / "batch_001.json"
+    # Cache rejected combinations
+    rejected = load_rejected()
+    new_rejected = 0
+    for r in all_results:
+        if not r.get("valid", True):
+            key = combo_key({"sensors": r.get("sensors", []), "actuators": r.get("actuators", []), "carriers": r.get("carriers", [])})
+            if key not in rejected:
+                rejected.add(key)
+                new_rejected += 1
+    if new_rejected:
+        save_rejected(rejected)
+        print(f"\nCached {new_rejected} new rejected combinations (total: {len(rejected)})")
+
+    # Output results (only valid ones)
+    valid_results = [r for r in all_results if r.get("valid", True)]
+    output_path = args.output or RESULTS_DIR / "sample.json"
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, ensure_ascii=False, indent=2)
+        json.dump(valid_results, f, ensure_ascii=False, indent=2)
 
     # Print results to terminal
     print(f"\n{'='*60}")
     print(f"Generated {len(all_results)} results → {output_path}")
     print(f"{'='*60}\n")
 
-    valid_count = sum(1 for r in all_results if r.get("valid", True))
-    print(f"Valid ideas: {valid_count}/{len(all_results)}\n")
+    print(f"Valid: {len(valid_results)}/{len(all_results)}\n")
 
-    for r in all_results:
-        valid = r.get("valid", True)
-        marker = "✓" if valid else "✗"
+    for r in valid_results:
         sensors = ", ".join(r.get("sensors", []))
         actuators = ", ".join(r.get("actuators", []))
         carriers = ", ".join(r.get("carriers", []))
-        print(f"{marker} 传感器=[{sensors}] | 执行器=[{actuators}] | 载体=[{carriers}]")
-        if valid:
-            print(f"  产品: {r.get('product_name', '')}")
-            print(f"  场景: {r.get('scene', '')}")
-            print(f"  卖点: {r.get('selling_point', '')}")
-            print(f"  受众: {r.get('audience', '')}")
-            print(f"  AI: {r.get('ai_models', [])}")
-            print(f"  可行性: {r.get('feasibility', '?')}/5")
-        else:
-            print(f"  原因: {r.get('reason', '')}")
+        print(f"✓ [{r.get('product_name', '')}] 传感器=[{sensors}] | 执行器=[{actuators}] | 载体=[{carriers}]")
+        print(f"  场景: {r.get('scene', '')}")
+        print(f"  卖点: {r.get('selling_point', '')}")
+        print(f"  受众: {r.get('audience', '')} | 可行性: {r.get('feasibility', '?')}/5")
+        print()
         print()
 
 
