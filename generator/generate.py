@@ -24,13 +24,10 @@ def load_catalog() -> dict:
     """Load all four dimensions from catalog files.
 
     Returns:
-        Dict with keys: sensors, models, actuators, carriers.
+        Dict with keys: sensors, actuators, carriers.
     """
     with open(CATALOG_DIR / "classified_sensors.json") as f:
         sensors = list(json.load(f).keys())
-
-    with open(CATALOG_DIR / "raw" / "huggingface_tasks.json") as f:
-        models = [item["name"] for item in json.load(f)]
 
     with open(CATALOG_DIR / "classified_actuators.json") as f:
         actuators = list(json.load(f).keys())
@@ -40,49 +37,48 @@ def load_catalog() -> dict:
 
     return {
         "sensors": sensors,
-        "models": models,
         "actuators": actuators,
         "carriers": carriers,
     }
 
 
-def generate_combinations(catalog: dict, limit: int = None, seed: int = None) -> list[tuple]:
-    """Generate all or sampled combinations from the 4 dimensions.
+def generate_combinations(catalog: dict, limit: int = None, seed: int = None) -> list[dict]:
+    """Generate sampled combinations from the 4 dimensions.
+
+    Each combination randomly picks 1-5 sensors, 1-4 actuators, 1-2 carriers.
+    AI models are NOT pre-selected — left for LLM to decide.
 
     Args:
         catalog: Dict with sensor/model/actuator/carrier lists.
-        limit: If set, randomly sample this many combinations.
+        limit: Number of combinations to sample.
         seed: Random seed for reproducibility.
 
     Returns:
-        List of (sensor, model, actuator, carrier) tuples.
+        List of combination dicts with variable-length selections.
     """
-    if limit:
-        rng = random.Random(seed or 42)
-        combos = []
-        for _ in range(limit):
-            combo = (
-                rng.choice(catalog["sensors"]),
-                rng.choice(catalog["models"]),
-                rng.choice(catalog["actuators"]),
-                rng.choice(catalog["carriers"]),
-            )
-            combos.append(combo)
-        return combos
-    else:
-        return list(product(
-            catalog["sensors"],
-            catalog["models"],
-            catalog["actuators"],
-            catalog["carriers"],
-        ))
+    rng = random.Random(seed or 42)
+    combos = []
+
+    for _ in range(limit or 10):
+        n_sensors = rng.randint(1, 5)
+        n_actuators = rng.randint(1, 4)
+        n_carriers = rng.randint(1, 2)
+
+        combo = {
+            "sensors": rng.sample(catalog["sensors"], min(n_sensors, len(catalog["sensors"]))),
+            "actuators": rng.sample(catalog["actuators"], min(n_actuators, len(catalog["actuators"]))),
+            "carriers": rng.sample(catalog["carriers"], min(n_carriers, len(catalog["carriers"]))),
+        }
+        combos.append(combo)
+
+    return combos
 
 
-def build_prompt(combinations: list[tuple]) -> str:
+def build_prompt(combinations: list[dict]) -> str:
     """Build the full prompt for a batch of combinations.
 
     Args:
-        combinations: List of (sensor, model, actuator, carrier) tuples.
+        combinations: List of combo dicts with sensors/actuators/carriers.
 
     Returns:
         Complete prompt string.
@@ -91,8 +87,11 @@ def build_prompt(combinations: list[tuple]) -> str:
         system_prompt = f.read().strip()
 
     combos_text = ""
-    for i, (sensor, model, actuator, carrier) in enumerate(combinations, 1):
-        combos_text += f"\n组合{i}: 传感器={sensor} | AI模型={model} | 执行器={actuator} | 载体={carrier}"
+    for i, combo in enumerate(combinations, 1):
+        sensors = ", ".join(combo["sensors"])
+        actuators = ", ".join(combo["actuators"])
+        carriers = ", ".join(combo["carriers"])
+        combos_text += f"\n组合{i}: 传感器=[{sensors}] | 执行器=[{actuators}] | 载体=[{carriers}]"
 
     return system_prompt + "\n" + combos_text
 
@@ -146,24 +145,18 @@ def main():
     parser.add_argument("--output", type=Path, default=None, help="Output file (default: results/)")
     args = parser.parse_args()
 
-    if not args.sample and not args.all:
-        parser.error("Specify --sample N or --all")
+    if not args.sample:
+        parser.error("Specify --sample N")
 
     print("Loading catalog...")
     catalog = load_catalog()
-    print(f"  Sensors: {len(catalog['sensors'])}")
-    print(f"  Models: {len(catalog['models'])}")
-    print(f"  Actuators: {len(catalog['actuators'])}")
-    print(f"  Carriers: {len(catalog['carriers'])}")
+    print(f"  Sensors: {len(catalog['sensors'])} types (pick 1-5)")
+    print(f"  Actuators: {len(catalog['actuators'])} types (pick 1-4)")
+    print(f"  Carriers: {len(catalog['carriers'])} items (pick 1-2)")
+    print(f"  AI Models: LLM decides")
 
-    if args.sample:
-        combinations = generate_combinations(catalog, limit=args.sample, seed=args.seed)
-        print(f"\nSampled {len(combinations)} random combinations")
-    else:
-        total = len(catalog["sensors"]) * len(catalog["models"]) * len(catalog["actuators"]) * len(catalog["carriers"])
-        print(f"\nTotal combinations: {total:,}")
-        print("WARNING: Full generation not recommended without filtering. Use --sample first.")
-        return
+    combinations = generate_combinations(catalog, limit=args.sample, seed=args.seed)
+    print(f"\nSampled {len(combinations)} combinations")
 
     # Process in batches
     batches = [combinations[i:i+args.batch_size] for i in range(0, len(combinations), args.batch_size)]
@@ -177,12 +170,9 @@ def main():
         # Attach combination info to results
         for i, result in enumerate(results):
             if i < len(batch):
-                sensor, model, actuator, carrier = batch[i]
-                result["sensor"] = sensor
-                result["model"] = model
-                result["actuator"] = actuator
-                result["carrier"] = carrier
-                result["combination_id"] = f"{sensor}__{model}__{actuator}__{carrier}"
+                result["sensors"] = batch[i]["sensors"]
+                result["actuators"] = batch[i]["actuators"]
+                result["carriers"] = batch[i]["carriers"]
 
         all_results.extend(results)
 
@@ -212,14 +202,17 @@ def main():
     for r in all_results:
         valid = r.get("valid", True)
         marker = "✓" if valid else "✗"
-        print(f"{marker} [{r.get('sensor','')} + {r.get('model','')} + {r.get('actuator','')} + {r.get('carrier','')}]")
+        sensors = ", ".join(r.get("sensors", []))
+        actuators = ", ".join(r.get("actuators", []))
+        carriers = ", ".join(r.get("carriers", []))
+        print(f"{marker} 传感器=[{sensors}] | 执行器=[{actuators}] | 载体=[{carriers}]")
         if valid:
+            print(f"  产品: {r.get('product_name', '')}")
             print(f"  场景: {r.get('scene', '')}")
             print(f"  卖点: {r.get('selling_point', '')}")
             print(f"  受众: {r.get('audience', '')}")
+            print(f"  AI: {r.get('ai_models', [])}")
             print(f"  可行性: {r.get('feasibility', '?')}/5")
-            if r.get("extra_models"):
-                print(f"  额外模型: {r.get('extra_models')}")
         else:
             print(f"  原因: {r.get('reason', '')}")
         print()

@@ -1,272 +1,184 @@
 [
   {
-    "scene": "该组合无法构成有意义的硬件产品",
-    "selling_point": "无",
-    "audience": "无",
-    "feasibility": 1,
-    "extra_models": [],
-    "valid": false,
-    "reason": "\"领导力\"不是物理产品载体，无法承载传感器和执行器；且距离传感器与Text-to-3D模型之间缺乏合理的数据流逻辑，数码管显示也无法呈现3D内容",
-    "sensor": "距离传感器",
-    "model": "Text-to-3D",
-    "actuator": "数码管显示",
-    "carrier": "领导力",
-    "combination_id": "距离传感器__Text-to-3D__数码管显示__领导力"
+    "product_name": "智感沙发",
+    "scene": "用户坐在沙发上，通过触摸手势控制音乐、灯光和按摩",
+    "selling_point": "触摸即交互，沙发变身智能生活中枢",
+    "audience": "追求智能家居的年轻家庭",
+    "ai_models": [
+      {
+        "model": "手势识别模型",
+        "作用": "识别触摸传感器上的滑动、点按等手势模式"
+      },
+      {
+        "model": "用户习惯学习模型",
+        "作用": "根据时间和使用模式自动调节灯光、音量和振动按摩强度"
+      },
+      {
+        "model": "语境感知模型",
+        "作用": "结合多功能传感器(温湿度、光照)判断场景自动切换模式"
+      }
+    ],
+    "feasibility": 4,
+    "valid": true,
+    "reason": "",
+    "sensors": [
+      "触摸传感器",
+      "多功能传感器模块"
+    ],
+    "actuators": [
+      "执行器电机",
+      "扬声器",
+      "DC-DC转换器",
+      "LED显示屏"
+    ],
+    "carriers": [
+      "沙发",
+      "毛线手套"
+    ]
   },
   {
-    "scene": "理发时实时感知头部轮廓，生成3D发型预览供用户选择",
-    "selling_point": "剪发前3D预览效果，告别盲剪",
-    "audience": "理发店及爱美消费者",
+    "product_name": "智工卫衣",
+    "scene": "工地工人穿戴智能卫衣，实时监测环境与体态安全",
+    "selling_point": "穿在身上的AI安全员，实时预警危险",
+    "audience": "建筑工地/矿场一线工人",
+    "ai_models": [
+      {
+        "model": "姿态识别模型",
+        "作用": "通过IMU传感器识别跌倒、异常姿态等危险动作"
+      },
+      {
+        "model": "环境异常检测模型",
+        "作用": "结合气压、光学传感器判断密闭空间、有害环境"
+      },
+      {
+        "model": "语音交互/报警模型",
+        "作用": "通过音频模块实现语音求助和自动报警广播"
+      },
+      {
+        "model": "力学负荷分析模型",
+        "作用": "通过力传感器评估搬运负荷，预防职业伤害"
+      }
+    ],
+    "feasibility": 3,
+    "valid": true,
+    "reason": "",
+    "sensors": [
+      "气压传感器",
+      "音频录音模块",
+      "光学传感器",
+      "力传感器",
+      "IMU传感器"
+    ],
+    "actuators": [
+      "OLED显示屏",
+      "LiDAR传感器",
+      "机器人平台",
+      "扬声器"
+    ],
+    "carriers": [
+      "钻头",
+      "卫衣/套头衫"
+    ]
+  },
+  {
+    "product_name": "智灌棉服",
+    "scene": "户外农业工作者穿着棉服，远程监控并自动灌溉农田",
+    "selling_point": "穿在身上的农田管家，土壤数据随身看",
+    "audience": "小型农场主/农业技术员",
+    "ai_models": [
+      {
+        "model": "土壤状态预测模型",
+        "作用": "根据土壤湿度、养分数据预测最佳灌溉时机"
+      },
+      {
+        "model": "能耗优化模型",
+        "作用": "结合功率传感器优化气动阀开关策略，节约能源"
+      }
+    ],
     "feasibility": 2,
-    "extra_models": [
-      "Depth Estimation",
-      "Image Segmentation"
-    ],
-    "valid": true,
-    "reason": "",
-    "sensor": "人体传感器",
-    "model": "Text-to-3D",
-    "actuator": "触摸屏",
-    "carrier": "理发器",
-    "combination_id": "人体传感器__Text-to-3D__触摸屏__理发器",
-    "market_research": {
-      "exists": "partial",
-      "similar_products": [
-        {
-          "name": "Smart Mirror",
-          "brand": "HiMirror",
-          "description": "HiMirror 是一款智能镜子，可以通过摄像头扫描用户的面部，提供皮肤分析和虚拟化妆效果预览，但主要用于美容而非理发场景。"
-        },
-        {
-          "name": "AR Haircut Simulator",
-          "brand": "YouCam Makeup",
-          "description": "YouCam Makeup 是一款基于 AR 技术的手机应用，支持用户上传照片后尝试不同的发型效果，但不涉及实时头部轮廓感知和理发器硬件结合。"
-        }
-      ],
-      "difference": "本创意结合了实时头部轮廓感知、Text-to-3D 技术以及理发器硬件，专注于理发场景下的 3D 发型预览，相比现有产品更聚焦于理发体验的精准性和硬件集成，而非单纯的虚拟试妆或静态发型模拟。",
-      "market": "微创新空间"
-    }
-  },
-  {
-    "scene": "该组合无法构成有意义的硬件产品",
-    "selling_point": "无",
-    "audience": "无",
-    "feasibility": 1,
-    "extra_models": [],
     "valid": false,
-    "reason": "一次性硅油纸是消耗品，无法作为电子产品载体；气体传感器与零样本图像分类无逻辑关联；DC-DC转换器是电源模块而非面向用户的执行器",
-    "sensor": "气体传感器",
-    "model": "Zero-Shot Image Classification",
-    "actuator": "DC-DC转换器",
-    "carrier": "一次性硅油纸",
-    "combination_id": "气体传感器__Zero-Shot Image Classification__DC-DC转换器__一次性硅油纸"
+    "reason": "棉服作为载体与土壤传感器和气动阀的结合非常牵强，土壤传感器需插入地面，气动阀需连接管路，均不适合穿戴形态，实际产品逻辑不成立",
+    "sensors": [
+      "位置传感器",
+      "功率传感器",
+      "土壤传感器"
+    ],
+    "actuators": [
+      "气动阀"
+    ],
+    "carriers": [
+      "棉服"
+    ]
   },
   {
-    "scene": "按压折纸结构触发文字标注，电子墨水屏显示互动故事内容",
-    "selling_point": "可折叠交互式电子绘本，寓教于乐",
-    "audience": "3-8岁儿童及家长",
-    "feasibility": 3,
-    "extra_models": [
-      "Text Generation"
+    "product_name": "AI营养碗",
+    "scene": "用户泡面/冲泡食品时，碗自动识别食物并显示营养信息",
+    "selling_point": "吃什么心中有数，智能碗管理每一餐",
+    "audience": "独居年轻人/健身控卡人群",
+    "ai_models": [
+      {
+        "model": "食物识别模型",
+        "作用": "通过多功能传感器(温度、重量变化)识别食物类型和分量"
+      },
+      {
+        "model": "营养估算模型",
+        "作用": "根据识别结果计算热量、钠含量等营养数据"
+      },
+      {
+        "model": "饮食习惯分析模型",
+        "作用": "长期记录饮食数据，给出健康建议"
+      }
     ],
+    "feasibility": 3,
     "valid": true,
     "reason": "",
-    "sensor": "力传感器",
-    "model": "Token Classification",
-    "actuator": "电子墨水屏",
-    "carrier": "折纸",
-    "combination_id": "力传感器__Token Classification__电子墨水屏__折纸",
-    "market_research": {
-      "exists": "partial",
-      "similar_products": [
-        {
-          "name": "Tiggly Words",
-          "brand": "Tiggly",
-          "description": "一款针对儿童的互动学习玩具，通过物理字母块与平板电脑应用结合，触发屏幕上的互动内容，帮助儿童学习单词和拼写。"
-        },
-        {
-          "name": "Osmo Genius Starter Kit",
-          "brand": "Osmo",
-          "description": "一款结合物理互动与数字内容的教育工具，使用实体卡片或拼图与iPad应用互动，涵盖数学、拼写和绘图等学习内容。"
-        }
-      ],
-      "difference": "本创意独特地结合了折纸结构与力传感器，通过按压折纸触发电子墨水屏显示互动故事内容，强调可折叠性和物理交互的创新体验。而现有产品更多依赖平板电脑屏幕和实体物件（如字母块或卡片）与数字内容的结合，缺乏折纸结构和电子墨水屏的低功耗、类纸质阅读体验。",
-      "market": "微创新空间"
-    }
-  },
-  {
-    "scene": "餐厅收餐车感知残余食物成分，机械臂自动分类回收厨余",
-    "selling_point": "餐余智能分拣，降低人工分类成本",
-    "audience": "团餐食堂与餐饮企业",
-    "feasibility": 3,
-    "extra_models": [
-      "Object Detection",
-      "Image Classification"
+    "sensors": [
+      "多功能传感器模块"
     ],
-    "valid": true,
-    "reason": "",
-    "sensor": "土壤传感器",
-    "model": "Token Classification",
-    "actuator": "机械臂",
-    "carrier": "收餐车",
-    "combination_id": "土壤传感器__Token Classification__机械臂__收餐车",
-    "market_research": {
-      "exists": "partial",
-      "similar_products": [
-        {
-          "name": "Smart Waste Sorting Robot",
-          "brand": "ZenRobotics",
-          "description": "ZenRobotics 提供基于AI的废物分拣机器人，主要用于工业废物处理，通过传感器和机械臂对废物进行分类，但未专门针对餐厅厨余场景。"
-        },
-        {
-          "name": "Bin-e Smart Waste Bin",
-          "brand": "Bin-e",
-          "description": "Bin-e 是一款智能垃圾桶，能够通过图像识别技术自动分类垃圾，适用于公共场所和办公室，但不具备机械臂和针对餐厅收餐车的特定设计。"
-        },
-        {
-          "name": "TrashBot",
-          "brand": "CleanRobotics",
-          "description": "TrashBot 是一款智能垃圾分类机器人，使用AI和传感器技术自动分拣垃圾，适用于公共场所，但未针对餐厅厨余残余食物成分感知和分类。"
-        }
-      ],
-      "difference": "本创意专注于餐厅收餐车场景，结合土壤传感器和Token Classification技术对残余食物成分进行精准感知，并通过机械臂实现自动化分类回收。现有产品多为通用垃圾分类机器人，未针对餐厅厨余场景优化，且缺乏对食物成分的具体分析功能。",
-      "market": "微创新空间"
-    }
-  },
-  {
-    "scene": "语音指令控制家电开关，实现智能家居语音自动化",
-    "selling_point": "说句话就能控制任意电器，无需改造线路",
-    "audience": "智能家居用户、老年人",
-    "feasibility": 5,
-    "extra_models": [
-      "Speech Recognition (ASR)"
+    "actuators": [
+      "电源管理",
+      "IPS显示屏",
+      "DC-DC转换器"
     ],
-    "valid": true,
-    "reason": null,
-    "sensor": "音频录音模块",
-    "model": "Text Generation",
-    "actuator": "继电器",
-    "carrier": "大容量",
-    "combination_id": "音频录音模块__Text Generation__继电器__大容量",
-    "market_research": {
-      "exists": "yes",
-      "similar_products": [
-        {
-          "name": "Echo Dot",
-          "brand": "Amazon",
-          "description": "一款智能音箱，通过语音助手Alexa实现对智能家居设备的语音控制，支持多种家电设备的开关控制，无需改造线路，只需连接兼容的智能设备或智能插座。"
-        },
-        {
-          "name": "Google Nest Mini",
-          "brand": "Google",
-          "description": "一款智能音箱，内置Google Assistant，可通过语音指令控制智能家居设备，支持与智能插座、灯泡等设备联动，实现家电自动化控制。"
-        },
-        {
-          "name": "HomePod Mini",
-          "brand": "Apple",
-          "description": "一款智能音箱，搭载Siri语音助手，支持通过语音控制HomeKit兼容的智能家居设备，实现家电开关等自动化功能。"
-        }
-      ],
-      "difference": "本创意强调通过音频录音模块和Text Generation技术直接控制任意电器，并结合继电器和大容量设计，可能是为了支持更广泛的非智能家电（无需智能插座或设备兼容性）。而现有产品大多依赖智能家居生态系统和兼容设备（如智能插座或内置智能模块的家电），对非智能家电的支持需要额外硬件（如智能插座）。本创意的‘无需改造线路’和‘任意电器’控制可能涉及更直接的继电器控制方案，技术实现上可能有创新，但具体实现方式和成本控制需进一步明确。",
-      "market": "红海"
-    }
+    "carriers": [
+      "泡面碗"
+    ]
   },
   {
-    "scene": "钻铣床加工时通过电流监测刀具状态自动调整进给",
-    "selling_point": "实时监测刀具磨损，自动优化加工参数延长刀具寿命",
-    "audience": "机加工厂、CNC操作员",
-    "feasibility": 4,
-    "extra_models": [
-      "Anomaly Detection"
+    "product_name": "恒温情侣衣",
+    "scene": "情侣穿着睡衣，衣服根据体温和环境自动调节温度循环",
+    "selling_point": "为爱恒温，智能水循环调温睡衣",
+    "audience": "年轻情侣/新婚夫妇",
+    "ai_models": [
+      {
+        "model": "体温舒适度模型",
+        "作用": "通过接近传感器和液位传感器监测体表温度与水循环状态，预测舒适区间"
+      },
+      {
+        "model": "睡眠阶段识别模型",
+        "作用": "根据微动和温度变化判断睡眠阶段，动态调温"
+      },
+      {
+        "model": "双人协同模型",
+        "作用": "学习两人不同温度偏好，实现个性化独立调温"
+      }
     ],
-    "valid": true,
-    "reason": null,
-    "sensor": "电流传感器",
-    "model": "Feature Extraction",
-    "actuator": "轮子",
-    "carrier": "钻铣床",
-    "combination_id": "电流传感器__Feature Extraction__轮子__钻铣床",
-    "market_research": {
-      "exists": "partial",
-      "similar_products": [
-        {
-          "name": "ToolMonitor",
-          "brand": "Sandvik Coromant",
-          "description": "ToolMonitor 是一种刀具监控系统，通过传感器监测刀具状态和加工过程中的振动、电流等参数，实时分析刀具磨损情况，并提供优化建议，但未明确提及自动调整进给功能。"
-        },
-        {
-          "name": "iTENDO",
-          "brand": "Schunk",
-          "description": "iTENDO 是一款智能刀柄，集成传感器监测刀具振动和加工参数，能够实时反馈刀具状态并与机床控制系统联动调整参数，但主要聚焦于振动分析，未明确强调电流监测。"
-        }
-      ],
-      "difference": "本创意聚焦于通过电流监测刀具状态并自动调整进给参数，而现有产品更多依赖振动或其他传感器数据，且部分产品未实现完全自动化的进给调整。此外，本创意提及的'轮子'元素（可能指移动性或模块化设计）在现有产品中未见明显体现，可能为独特创新点。",
-      "market": "微创新空间"
-    }
-  },
-  {
-    "scene": "鸭舌帽感知环境光线自动调节帽檐补光或遮光功率",
-    "selling_point": "智能调光帽，户外直播/运动自动优化面部光线",
-    "audience": "户外直播博主、运动爱好者",
-    "feasibility": 3,
-    "extra_models": [
-      "Image Classification"
-    ],
-    "valid": true,
-    "reason": null,
-    "sensor": "光学传感器",
-    "model": "Any-to-Any",
-    "actuator": "功率控制模块",
-    "carrier": "鸭舌帽",
-    "combination_id": "光学传感器__Any-to-Any__功率控制模块__鸭舌帽",
-    "market_research": {
-      "exists": "error",
-      "error": "HTTPSConnectionPool(host='api.x.ai', port=443): Read timed out. (read timeout=60)"
-    }
-  },
-  {
-    "scene": "投影机监测供电质量并分类显示电网健康状态报告",
-    "selling_point": "电力质量可视化大屏，异常供电一目了然",
-    "audience": "电力运维人员、数据中心管理者",
-    "feasibility": 4,
-    "extra_models": [],
-    "valid": true,
-    "reason": null,
-    "sensor": "电压传感器",
-    "model": "Tabular Classification",
-    "actuator": "LED显示屏",
-    "carrier": "投影机",
-    "combination_id": "电压传感器__Tabular Classification__LED显示屏__投影机",
-    "market_research": {
-      "exists": "partial",
-      "similar_products": [
-        {
-          "name": "Power Quality Analyzer",
-          "brand": "Fluke",
-          "description": "Fluke 的电力质量分析仪可以监测电压、电流等参数，并通过设备屏幕或软件显示电力质量报告，用于工业和商业环境中的电网健康分析。"
-        },
-        {
-          "name": "PQube 3",
-          "brand": "Power Standards Lab",
-          "description": "PQube 3 是一款紧凑型电力质量监测设备，能够记录电压波动、谐波等数据，并通过网络或本地显示提供详细的电力质量报告。"
-        }
-      ],
-      "difference": "本创意将电力质量监测与投影机和LED显示屏结合，强调大屏可视化和直观呈现，面向更广泛的用户群体（如家庭或小型企业），而现有产品多为专业设备，面向工业用户，注重数据分析而非直观显示。",
-      "market": "微创新"
-    }
-  },
-  {
-    "scene": "雨靴感知雨量大小，LED灯变色提示积水深度警示安全",
-    "selling_point": "雨天夜行安全可见，雨量感知自动亮灯警示",
-    "audience": "儿童、夜间通勤者",
-    "feasibility": 4,
-    "extra_models": [],
+    "feasibility": 2,
     "valid": false,
-    "reason": "Fill-Mask模型用于文本填空，与雨滴传感器+LED灯的物理交互场景无逻辑关联，简单阈值判断即可实现功能，强行加入该模型无实际意义",
-    "sensor": "雨滴传感器",
-    "model": "Fill-Mask",
-    "actuator": "LED灯",
-    "carrier": "雨鞋/雨靴",
-    "combination_id": "雨滴传感器__Fill-Mask__LED灯__雨鞋/雨靴"
+    "reason": "水泵、无刷电机等执行器体积大且需要液路系统，集成到睡衣中重量和安全性(漏水、漏电)问题严重，商业化难度极高",
+    "sensors": [
+      "接近传感器",
+      "电压传感器",
+      "液位传感器"
+    ],
+    "actuators": [
+      "OLED显示屏",
+      "水泵",
+      "舵机",
+      "无刷电机"
+    ],
+    "carriers": [
+      "情侣睡衣"
+    ]
   }
 ]
