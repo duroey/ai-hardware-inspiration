@@ -1,29 +1,5 @@
 [
   {
-    "id": "carrier_0001",
-    "name": "自动制冰",
-    "category_l1": "冰洗",
-    "category_l2": "冰箱"
-  },
-  {
-    "id": "carrier_0002",
-    "name": "超薄嵌入",
-    "category_l1": "冰洗",
-    "category_l2": "冰箱"
-  },
-  {
-    "id": "carrier_0003",
-    "name": "主动除菌",
-    "category_l1": "冰洗",
-    "category_l2": "冰箱"
-  },
-  {
-    "id": "carrier_0004",
-    "name": "大容量",
-    "category_l1": "冰洗",
-    "category_l2": "冰箱"
-  },
-  {
     "id": "carrier_0005",
     "name": "双系统",
     "category_l1": "冰洗",
@@ -50,12 +26,6 @@
   {
     "id": "carrier_0009",
     "name": "多筒洗衣机",
-    "category_l1": "冰洗",
-    "category_l2": "洗衣机"
-  },
-  {
-    "id": "carrier_0010",
-    "name": "洗烘套装",
     "category_l1": "冰洗",
     "category_l2": "洗衣机"
   },
@@ -116,12 +86,6 @@
   {
     "id": "carrier_0020",
     "name": "柜机空调",
-    "category_l1": "冰洗",
-    "category_l2": "空调"
-  },
-  {
-    "id": "carrier_0021",
-    "name": "空调套装",
     "category_l1": "冰洗",
     "category_l2": "空调"
   },
@@ -230,12 +194,6 @@
   {
     "id": "carrier_0039",
     "name": "灶具",
-    "category_l1": "冰洗",
-    "category_l2": "厨卫大电"
-  },
-  {
-    "id": "carrier_0040",
-    "name": "烟灶套装",
     "category_l1": "冰洗",
     "category_l2": "厨卫大电"
   },
@@ -732,12 +690,6 @@
     "category_l2": "视听影音"
   },
   {
-    "id": "carrier_0123",
-    "name": "HIFI专区",
-    "category_l1": "冰洗",
-    "category_l2": "视听影音"
-  },
-  {
     "id": "carrier_0124",
     "name": "家庭影院",
     "category_l1": "冰洗",
@@ -936,12 +888,6 @@
     "category_l2": "外设产品"
   },
   {
-    "id": "carrier_0157",
-    "name": "网络仪表仪器",
-    "category_l1": "电脑",
-    "category_l2": "外设产品"
-  },
-  {
     "id": "carrier_0158",
     "name": "U盘",
     "category_l1": "电脑",
@@ -984,18 +930,6 @@
     "category_l2": "外设产品"
   },
   {
-    "id": "carrier_0165",
-    "name": "电脑工具",
-    "category_l1": "电脑",
-    "category_l2": "外设产品"
-  },
-  {
-    "id": "carrier_0166",
-    "name": "电脑清洁",
-    "category_l1": "电脑",
-    "category_l2": "外设产品"
-  },
-  {
     "id": "carrier_0167",
     "name": "UPS电源",
     "category_l1": "电脑",
@@ -1022,12 +956,6 @@
   {
     "id": "carrier_0171",
     "name": "机柜",
-    "category_l1": "电脑",
-    "category_l2": "外设产品"
-  },
-  {
-    "id": "carrier_0172",
-    "name": "电脑壳/膜",
     "category_l1": "电脑",
     "category_l2": "外设产品"
   },
@@ -1262,12 +1190,6 @@
   {
     "id": "carrier_0211",
     "name": "标签打印设备",
-    "category_l1": "电脑",
-    "category_l2": "办公设备"
-  },
-  {
-    "id": "carrier_0212",
-    "name": "其他打印设备",
     "category_l1": "电脑",
     "category_l2": "办公设备"
   },
@@ -1614,12 +1536,6 @@
     "category_l2": "收纳管理"
   },
   {
-    "id": "carrier_0270",
-    "name": "其他资料袋",
-    "category_l1": "电脑",
-    "category_l2": "收纳管理"
-  },
-  {
     "id": "carrier_0271",
     "name": "档案资料盒",
     "category_l1": "电脑",
@@ -1950,12 +1866,6 @@
     "category_l2": "学习用品"
   },
   {
-    "id": "carrier_0326",
-    "name": "咕卡/咕卡套装",
-    "category_l1": "电脑",
-    "category_l2": "学习用品"
-  },
-  {
     "id": "carrier_0327",
     "name": "折纸",
     "category_l1": "电脑",
@@ -1976,12 +1886,6 @@
   {
     "id": "carrier_0330",
     "name": "火漆印章",
-    "category_l1": "电脑",
-    "category_l2": "学习用品"
-  },
-  {
-    "id": "carrier_0331",
-    "name": "测绘套装",
     "category_l1": "电脑",
     "category_l2": "学习用品"
   },
@@ -2064,12 +1968,6 @@
     "category_l2": "学习用品"
   },
   {
-    "id": "carrier_0345",
-    "name": "学习套装礼盒",
-    "category_l1": "电脑",
-    "category_l2": "学习用品"
-  },
-  {
     "id": "carrier_0346",
     "name": "桌面吸尘器",
     "category_l1": "电脑",
@@ -2102,12 +2000,6 @@
   {
     "id": "carrier_0351",
     "name": "贴纸",
-    "category_l1": "电脑",
-    "category_l2": "学习用品"
-  },
-  {
-    "id": "carrier_0352",
-    "name": "实验器材/套装",
     "category_l1": "电脑",
     "category_l2": "学习用品"
   },
@@ -2162,12 +2054,6 @@
   {
     "id": "carrier_0361",
     "name": "拷贝台临摹台",
-    "category_l1": "电脑",
-    "category_l2": "绘画书法"
-  },
-  {
-    "id": "carrier_0362",
-    "name": "绘画礼盒套装",
     "category_l1": "电脑",
     "category_l2": "绘画书法"
   },
@@ -2250,12 +2136,6 @@
     "category_l2": "绘画书法"
   },
   {
-    "id": "carrier_0376",
-    "name": "文房套装",
-    "category_l1": "电脑",
-    "category_l2": "绘画书法"
-  },
-  {
     "id": "carrier_0377",
     "name": "文房印泥",
     "category_l1": "电脑",
@@ -2324,12 +2204,6 @@
   {
     "id": "carrier_0388",
     "name": "胶带定制",
-    "category_l1": "电脑",
-    "category_l2": "商务定制"
-  },
-  {
-    "id": "carrier_0389",
-    "name": "其他笔类定制",
     "category_l1": "电脑",
     "category_l2": "商务定制"
   },
@@ -2472,12 +2346,6 @@
     "category_l2": "手机通讯"
   },
   {
-    "id": "carrier_0413",
-    "name": "以旧换新",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
     "id": "carrier_0414",
     "name": "AI手机",
     "category_l1": "手机",
@@ -2490,38 +2358,8 @@
     "category_l2": "手机通讯"
   },
   {
-    "id": "carrier_0416",
-    "name": "高端旗舰手机",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
-    "id": "carrier_0417",
-    "name": "合约机",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
-    "id": "carrier_0418",
-    "name": "性价比手机",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
     "id": "carrier_0419",
     "name": "老人机",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
-    "id": "carrier_0420",
-    "name": "小时达手机",
-    "category_l1": "手机",
-    "category_l2": "手机通讯"
-  },
-  {
-    "id": "carrier_0421",
-    "name": "学生手机",
     "category_l1": "手机",
     "category_l2": "手机通讯"
   },
@@ -2612,12 +2450,6 @@
   {
     "id": "carrier_0436",
     "name": "麦克风",
-    "category_l1": "手机",
-    "category_l2": "影音娱乐"
-  },
-  {
-    "id": "carrier_0437",
-    "name": "MP3/MP4",
     "category_l1": "手机",
     "category_l2": "影音娱乐"
   },
@@ -3048,12 +2880,6 @@
     "category_l2": "生活电器"
   },
   {
-    "id": "carrier_0509",
-    "name": "净水滤芯",
-    "category_l1": "生活电器",
-    "category_l2": "生活电器"
-  },
-  {
     "id": "carrier_0510",
     "name": "新风系统",
     "category_l1": "生活电器",
@@ -3068,18 +2894,6 @@
   {
     "id": "carrier_0512",
     "name": "超声波清洗机",
-    "category_l1": "生活电器",
-    "category_l2": "生活电器"
-  },
-  {
-    "id": "carrier_0513",
-    "name": "潮流生活电器",
-    "category_l1": "生活电器",
-    "category_l2": "生活电器"
-  },
-  {
-    "id": "carrier_0514",
-    "name": "潮流净水器",
     "category_l1": "生活电器",
     "category_l2": "生活电器"
   },
@@ -3300,12 +3114,6 @@
     "category_l2": "厨房小电"
   },
   {
-    "id": "carrier_0551",
-    "name": "潮流厨电",
-    "category_l1": "生活电器",
-    "category_l2": "厨房小电"
-  },
-  {
     "id": "carrier_0552",
     "name": "剃须刀",
     "category_l1": "生活电器",
@@ -3372,12 +3180,6 @@
     "category_l2": "个护健康"
   },
   {
-    "id": "carrier_0563",
-    "name": "电动牙刷头",
-    "category_l1": "生活电器",
-    "category_l2": "个护健康"
-  },
-  {
     "id": "carrier_0564",
     "name": "电子秤",
     "category_l1": "生活电器",
@@ -3396,12 +3198,6 @@
     "category_l2": "个护健康"
   },
   {
-    "id": "carrier_0567",
-    "name": "潮流护理电器",
-    "category_l1": "生活电器",
-    "category_l2": "个护健康"
-  },
-  {
     "id": "carrier_0568",
     "name": "直发梳",
     "category_l1": "生活电器",
@@ -3410,12 +3206,6 @@
   {
     "id": "carrier_0569",
     "name": "黑头仪",
-    "category_l1": "生活电器",
-    "category_l2": "个护健康"
-  },
-  {
-    "id": "carrier_0570",
-    "name": "其它健康电器",
     "category_l1": "生活电器",
     "category_l2": "个护健康"
   },
@@ -3564,12 +3354,6 @@
     "category_l2": "清洁电器"
   },
   {
-    "id": "carrier_0595",
-    "name": "其他清洁电器",
-    "category_l1": "生活电器",
-    "category_l2": "清洁电器"
-  },
-  {
     "id": "carrier_0596",
     "name": "扫地机器人",
     "category_l1": "生活电器",
@@ -3648,12 +3432,6 @@
     "category_l2": "电动工具"
   },
   {
-    "id": "carrier_0609",
-    "name": "电动工具套装",
-    "category_l1": "五金机电",
-    "category_l2": "电动工具"
-  },
-  {
     "id": "carrier_0610",
     "name": "热风枪",
     "category_l1": "五金机电",
@@ -3710,12 +3488,6 @@
   {
     "id": "carrier_0619",
     "name": "手动剪",
-    "category_l1": "五金机电",
-    "category_l2": "手动工具"
-  },
-  {
-    "id": "carrier_0620",
-    "name": "套装",
     "category_l1": "五金机电",
     "category_l2": "手动工具"
   },
@@ -4248,12 +4020,6 @@
     "category_l2": "安防用品"
   },
   {
-    "id": "carrier_0709",
-    "name": "监控方案套装",
-    "category_l1": "五金机电",
-    "category_l2": "安防用品"
-  },
-  {
     "id": "carrier_0710",
     "name": "警示牌",
     "category_l1": "五金机电",
@@ -4410,12 +4176,6 @@
     "category_l2": "工控"
   },
   {
-    "id": "carrier_0736",
-    "name": "断路器",
-    "category_l1": "五金机电",
-    "category_l2": "低压配电"
-  },
-  {
     "id": "carrier_0737",
     "name": "变压器",
     "category_l1": "五金机电",
@@ -4560,18 +4320,6 @@
     "category_l2": "流体管材"
   },
   {
-    "id": "carrier_0761",
-    "name": "阀",
-    "category_l1": "五金机电",
-    "category_l2": "流体管材"
-  },
-  {
-    "id": "carrier_0762",
-    "name": "其它流体机械",
-    "category_l1": "五金机电",
-    "category_l2": "流体管材"
-  },
-  {
     "id": "carrier_0763",
     "name": "润滑油",
     "category_l1": "五金机电",
@@ -4712,12 +4460,6 @@
   {
     "id": "carrier_0786",
     "name": "电力金具",
-    "category_l1": "五金机电",
-    "category_l2": "电线电料"
-  },
-  {
-    "id": "carrier_0787",
-    "name": "其他电料辅件",
     "category_l1": "五金机电",
     "category_l2": "电线电料"
   },
@@ -4908,12 +4650,6 @@
     "category_l2": "紧固密封"
   },
   {
-    "id": "carrier_0819",
-    "name": "销",
-    "category_l1": "五金机电",
-    "category_l2": "紧固密封"
-  },
-  {
     "id": "carrier_0820",
     "name": "螺钉",
     "category_l1": "五金机电",
@@ -4970,12 +4706,6 @@
   {
     "id": "carrier_0829",
     "name": "密封件",
-    "category_l1": "五金机电",
-    "category_l2": "紧固密封"
-  },
-  {
-    "id": "carrier_0830",
-    "name": "小五金及其他",
     "category_l1": "五金机电",
     "category_l2": "紧固密封"
   },
@@ -5126,18 +4856,6 @@
   {
     "id": "carrier_0855",
     "name": "智能开关",
-    "category_l1": "家装",
-    "category_l2": "电工电料"
-  },
-  {
-    "id": "carrier_0856",
-    "name": "电线",
-    "category_l1": "家装",
-    "category_l2": "电工电料"
-  },
-  {
-    "id": "carrier_0857",
-    "name": "断路器",
     "category_l1": "家装",
     "category_l2": "电工电料"
   },
@@ -5514,12 +5232,6 @@
     "category_l2": "门/窗"
   },
   {
-    "id": "carrier_0920",
-    "name": "其它商用门",
-    "category_l1": "家装",
-    "category_l2": "门/窗"
-  },
-  {
     "id": "carrier_0921",
     "name": "门附件",
     "category_l1": "家装",
@@ -5678,12 +5390,6 @@
   {
     "id": "carrier_0947",
     "name": "光源",
-    "category_l1": "家装",
-    "category_l2": "灯饰照明"
-  },
-  {
-    "id": "carrier_0948",
-    "name": "吸顶灯套装",
     "category_l1": "家装",
     "category_l2": "灯饰照明"
   },
@@ -6078,12 +5784,6 @@
     "category_l2": "床上用品"
   },
   {
-    "id": "carrier_1014",
-    "name": "婚庆床品",
-    "category_l1": "家居日用",
-    "category_l2": "床上用品"
-  },
-  {
     "id": "carrier_1015",
     "name": "儿童床品",
     "category_l1": "家居日用",
@@ -6106,12 +5806,6 @@
     "name": "凉席",
     "category_l1": "家居日用",
     "category_l2": "床上用品"
-  },
-  {
-    "id": "carrier_1019",
-    "name": "暖贴",
-    "category_l1": "家居日用",
-    "category_l2": "生活日用"
   },
   {
     "id": "carrier_1020",
@@ -6146,12 +5840,6 @@
   {
     "id": "carrier_1025",
     "name": "置地晾衣架",
-    "category_l1": "家居日用",
-    "category_l2": "生活日用"
-  },
-  {
-    "id": "carrier_1026",
-    "name": "洗衣袋",
     "category_l1": "家居日用",
     "category_l2": "生活日用"
   },
@@ -6198,12 +5886,6 @@
     "category_l2": "生活日用"
   },
   {
-    "id": "carrier_1034",
-    "name": "魔术贴",
-    "category_l1": "家居日用",
-    "category_l2": "生活日用"
-  },
-  {
     "id": "carrier_1035",
     "name": "马桶垫",
     "category_l1": "家居日用",
@@ -6238,12 +5920,6 @@
     "name": "雨衣",
     "category_l1": "家居日用",
     "category_l2": "生活日用"
-  },
-  {
-    "id": "carrier_1041",
-    "name": "一次性洗脸巾",
-    "category_l1": "家居日用",
-    "category_l2": "居家布艺"
   },
   {
     "id": "carrier_1042",
@@ -6306,12 +5982,6 @@
     "category_l2": "居家布艺"
   },
   {
-    "id": "carrier_1052",
-    "name": "缝纫DIY",
-    "category_l1": "家居日用",
-    "category_l2": "居家布艺"
-  },
-  {
     "id": "carrier_1053",
     "name": "门帘",
     "category_l1": "家居日用",
@@ -6332,12 +6002,6 @@
   {
     "id": "carrier_1056",
     "name": "蒲团",
-    "category_l1": "家居日用",
-    "category_l2": "居家布艺"
-  },
-  {
-    "id": "carrier_1057",
-    "name": "其他保护罩",
     "category_l1": "家居日用",
     "category_l2": "居家布艺"
   },
@@ -6390,12 +6054,6 @@
     "category_l2": "收纳用品"
   },
   {
-    "id": "carrier_1066",
-    "name": "真空压缩袋",
-    "category_l1": "家居日用",
-    "category_l2": "收纳用品"
-  },
-  {
     "id": "carrier_1067",
     "name": "洗漱包",
     "category_l1": "家居日用",
@@ -6432,18 +6090,6 @@
     "category_l2": "收纳用品"
   },
   {
-    "id": "carrier_1073",
-    "name": "搬家纸箱",
-    "category_l1": "家居日用",
-    "category_l2": "收纳用品"
-  },
-  {
-    "id": "carrier_1074",
-    "name": "防尘罩/膜",
-    "category_l1": "家居日用",
-    "category_l2": "收纳用品"
-  },
-  {
     "id": "carrier_1075",
     "name": "桌面摆件",
     "category_l1": "家居日用",
@@ -6452,12 +6098,6 @@
   {
     "id": "carrier_1076",
     "name": "国学摆件",
-    "category_l1": "家居日用",
-    "category_l2": "家居饰品"
-  },
-  {
-    "id": "carrier_1077",
-    "name": "节庆用品",
     "category_l1": "家居日用",
     "category_l2": "家居饰品"
   },
@@ -6474,26 +6114,8 @@
     "category_l2": "家居饰品"
   },
   {
-    "id": "carrier_1080",
-    "name": "墙纸",
-    "category_l1": "家居日用",
-    "category_l2": "家居饰品"
-  },
-  {
-    "id": "carrier_1081",
-    "name": "婚庆用品",
-    "category_l1": "家居日用",
-    "category_l2": "家居饰品"
-  },
-  {
     "id": "carrier_1082",
     "name": "文创摆件",
-    "category_l1": "家居日用",
-    "category_l2": "家居饰品"
-  },
-  {
-    "id": "carrier_1083",
-    "name": "装扮用品",
     "category_l1": "家居日用",
     "category_l2": "家居饰品"
   },
@@ -6708,12 +6330,6 @@
     "category_l2": "烘焙用具"
   },
   {
-    "id": "carrier_1119",
-    "name": "烘焙包装",
-    "category_l1": "家居日用",
-    "category_l2": "烘焙用具"
-  },
-  {
     "id": "carrier_1120",
     "name": "烘焙烤盘",
     "category_l1": "家居日用",
@@ -6726,32 +6342,14 @@
     "category_l2": "烘焙用具"
   },
   {
-    "id": "carrier_1122",
-    "name": "烘焙套装",
-    "category_l1": "家居日用",
-    "category_l2": "烘焙用具"
-  },
-  {
     "id": "carrier_1123",
     "name": "烘焙小工具",
     "category_l1": "家居日用",
     "category_l2": "烘焙用具"
   },
   {
-    "id": "carrier_1124",
-    "name": "空气炸锅纸",
-    "category_l1": "家居日用",
-    "category_l2": "烘焙用具"
-  },
-  {
     "id": "carrier_1125",
     "name": "量勺",
-    "category_l1": "家居日用",
-    "category_l2": "烘焙用具"
-  },
-  {
-    "id": "carrier_1126",
-    "name": "面粉筛",
     "category_l1": "家居日用",
     "category_l2": "烘焙用具"
   },
@@ -6804,12 +6402,6 @@
     "category_l2": "酒杯/酒具"
   },
   {
-    "id": "carrier_1135",
-    "name": "酒具套装",
-    "category_l1": "家居日用",
-    "category_l2": "酒杯/酒具"
-  },
-  {
     "id": "carrier_1136",
     "name": "啤酒杯",
     "category_l1": "家居日用",
@@ -6834,144 +6426,6 @@
     "category_l2": "酒杯/酒具"
   },
   {
-    "id": "carrier_1140",
-    "name": "保鲜袋",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1141",
-    "name": "保鲜膜",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1142",
-    "name": "保鲜膜套",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1143",
-    "name": "其他一次性餐厨具",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1144",
-    "name": "食物吸油纸",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1145",
-    "name": "塑杯/航空杯",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1146",
-    "name": "锡纸",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1147",
-    "name": "一次性餐厨具套装",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1148",
-    "name": "一次性餐垫",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1149",
-    "name": "一次性餐盒",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1150",
-    "name": "一次性茶具",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1151",
-    "name": "一次性刀/叉/勺",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1152",
-    "name": "一次性硅油纸",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1153",
-    "name": "一次性过滤袋/调料袋",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1154",
-    "name": "一次性筷子",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1155",
-    "name": "一次性盘/碟",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1156",
-    "name": "一次性水槽过滤网",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1157",
-    "name": "一次性碗",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1158",
-    "name": "一次性吸管",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1159",
-    "name": "一次性砧板垫",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1160",
-    "name": "一次性蒸笼纸",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1161",
-    "name": "一次性桌布",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
-    "id": "carrier_1162",
-    "name": "纸杯",
-    "category_l1": "家居日用",
-    "category_l2": "一次性用品"
-  },
-  {
     "id": "carrier_1163",
     "name": "炒锅",
     "category_l1": "家居日用",
@@ -6986,12 +6440,6 @@
   {
     "id": "carrier_1165",
     "name": "高压锅",
-    "category_l1": "家居日用",
-    "category_l2": "烹饪锅具"
-  },
-  {
-    "id": "carrier_1166",
-    "name": "锅具套装",
     "category_l1": "家居日用",
     "category_l2": "烹饪锅具"
   },
@@ -7046,12 +6494,6 @@
   {
     "id": "carrier_1175",
     "name": "菜刀",
-    "category_l1": "家居日用",
-    "category_l2": "刀剪菜板"
-  },
-  {
-    "id": "carrier_1176",
-    "name": "刀具套装",
     "category_l1": "家居日用",
     "category_l2": "刀剪菜板"
   },
@@ -7158,20 +6600,8 @@
     "category_l2": "厨房储物"
   },
   {
-    "id": "carrier_1194",
-    "name": "商用汤桶",
-    "category_l1": "家居日用",
-    "category_l2": "厨房储物"
-  },
-  {
     "id": "carrier_1195",
     "name": "油壶",
-    "category_l1": "家居日用",
-    "category_l2": "厨房储物"
-  },
-  {
-    "id": "carrier_1196",
-    "name": "猪油罐/猪油盆",
     "category_l1": "家居日用",
     "category_l2": "厨房储物"
   },
@@ -7184,12 +6614,6 @@
   {
     "id": "carrier_1198",
     "name": "保温壶",
-    "category_l1": "家居日用",
-    "category_l2": "水具"
-  },
-  {
-    "id": "carrier_1199",
-    "name": "杯具套装",
     "category_l1": "家居日用",
     "category_l2": "水具"
   },
@@ -7234,18 +6658,6 @@
     "name": "智能水杯",
     "category_l1": "家居日用",
     "category_l2": "水具"
-  },
-  {
-    "id": "carrier_1207",
-    "name": "便携餐具套装",
-    "category_l1": "家居日用",
-    "category_l2": "餐具"
-  },
-  {
-    "id": "carrier_1208",
-    "name": "餐具套装",
-    "category_l1": "家居日用",
-    "category_l2": "餐具"
   },
   {
     "id": "carrier_1209",
@@ -7332,12 +6744,6 @@
     "category_l2": "咖啡具"
   },
   {
-    "id": "carrier_1223",
-    "name": "咖啡滤纸",
-    "category_l1": "家居日用",
-    "category_l2": "咖啡具"
-  },
-  {
     "id": "carrier_1224",
     "name": "磨豆机",
     "category_l1": "家居日用",
@@ -7398,18 +6804,6 @@
     "category_l2": "厨房置物架"
   },
   {
-    "id": "carrier_1234",
-    "name": "配菜盘置物架",
-    "category_l1": "家居日用",
-    "category_l2": "厨房置物架"
-  },
-  {
-    "id": "carrier_1235",
-    "name": "燃气/管道置物架",
-    "category_l1": "家居日用",
-    "category_l2": "厨房置物架"
-  },
-  {
     "id": "carrier_1236",
     "name": "水槽/沥水架",
     "category_l1": "家居日用",
@@ -7442,12 +6836,6 @@
   {
     "id": "carrier_1241",
     "name": "包饺子器",
-    "category_l1": "家居日用",
-    "category_l2": "厨房小工具"
-  },
-  {
-    "id": "carrier_1242",
-    "name": "保鲜膜切割器",
     "category_l1": "家居日用",
     "category_l2": "厨房小工具"
   },
@@ -7496,12 +6884,6 @@
   {
     "id": "carrier_1250",
     "name": "电动鱼鳞刨",
-    "category_l1": "家居日用",
-    "category_l2": "厨房小工具"
-  },
-  {
-    "id": "carrier_1251",
-    "name": "调料按压嘴",
     "category_l1": "家居日用",
     "category_l2": "厨房小工具"
   },
@@ -7572,12 +6954,6 @@
     "category_l2": "厨房小工具"
   },
   {
-    "id": "carrier_1263",
-    "name": "其它厨房小工具",
-    "category_l1": "家居日用",
-    "category_l2": "厨房小工具"
-  },
-  {
     "id": "carrier_1264",
     "name": "敲肉锤",
     "category_l1": "家居日用",
@@ -7642,24 +7018,6 @@
     "name": "研磨器",
     "category_l1": "家居日用",
     "category_l2": "厨房小工具"
-  },
-  {
-    "id": "carrier_1275",
-    "name": "灶台防油挡板",
-    "category_l1": "家居日用",
-    "category_l2": "厨房小工具"
-  },
-  {
-    "id": "carrier_1276",
-    "name": "蒸格/架/笼/屉",
-    "category_l1": "家居日用",
-    "category_l2": "厨房小工具"
-  },
-  {
-    "id": "carrier_1277",
-    "name": "新品推荐",
-    "category_l1": "男鞋",
-    "category_l2": "流行男鞋"
   },
   {
     "id": "carrier_1278",
@@ -7814,12 +7172,6 @@
   {
     "id": "carrier_1303",
     "name": "运动套装",
-    "category_l1": "男鞋",
-    "category_l2": "运动服饰"
-  },
-  {
-    "id": "carrier_1304",
-    "name": "运动配饰",
     "category_l1": "男鞋",
     "category_l2": "运动服饰"
   },
@@ -8226,12 +7578,6 @@
     "category_l2": "户外装备"
   },
   {
-    "id": "carrier_1372",
-    "name": "户外配饰",
-    "category_l1": "男鞋",
-    "category_l2": "户外装备"
-  },
-  {
     "id": "carrier_1373",
     "name": "军迷用品",
     "category_l1": "男鞋",
@@ -8352,12 +7698,6 @@
     "category_l2": "垂钓用品"
   },
   {
-    "id": "carrier_1393",
-    "name": "辅助装备",
-    "category_l1": "男鞋",
-    "category_l2": "垂钓用品"
-  },
-  {
     "id": "carrier_1394",
     "name": "女士泳衣",
     "category_l1": "男鞋",
@@ -8398,12 +7738,6 @@
     "name": "泳帽",
     "category_l1": "男鞋",
     "category_l2": "游泳用品"
-  },
-  {
-    "id": "carrier_1401",
-    "name": "新品推荐",
-    "category_l1": "男装",
-    "category_l2": "男装"
   },
   {
     "id": "carrier_1402",
@@ -8478,12 +7812,6 @@
     "category_l2": "男装"
   },
   {
-    "id": "carrier_1414",
-    "name": "大码男装",
-    "category_l1": "男装",
-    "category_l2": "男装"
-  },
-  {
     "id": "carrier_1415",
     "name": "西服套装",
     "category_l1": "男装",
@@ -8550,20 +7878,8 @@
     "category_l2": "男装"
   },
   {
-    "id": "carrier_1426",
-    "name": "设计师/潮牌",
-    "category_l1": "男装",
-    "category_l2": "男装"
-  },
-  {
     "id": "carrier_1427",
     "name": "唐装/中山装",
-    "category_l1": "男装",
-    "category_l2": "男装"
-  },
-  {
-    "id": "carrier_1428",
-    "name": "中老年男装",
     "category_l1": "男装",
     "category_l2": "男装"
   },
@@ -8572,18 +7888,6 @@
     "name": "加绒裤",
     "category_l1": "男装",
     "category_l2": "男装"
-  },
-  {
-    "id": "carrier_1430",
-    "name": "新品推荐",
-    "category_l1": "男装",
-    "category_l2": "女装"
-  },
-  {
-    "id": "carrier_1431",
-    "name": "商场同款",
-    "category_l1": "男装",
-    "category_l2": "女装"
   },
   {
     "id": "carrier_1432",
@@ -8664,18 +7968,6 @@
     "category_l2": "女装"
   },
   {
-    "id": "carrier_1445",
-    "name": "大码女装",
-    "category_l1": "男装",
-    "category_l2": "女装"
-  },
-  {
-    "id": "carrier_1446",
-    "name": "中老年女装",
-    "category_l1": "男装",
-    "category_l2": "女装"
-  },
-  {
     "id": "carrier_1447",
     "name": "短裤",
     "category_l1": "男装",
@@ -8714,12 +8006,6 @@
   {
     "id": "carrier_1453",
     "name": "礼服",
-    "category_l1": "男装",
-    "category_l2": "女装"
-  },
-  {
-    "id": "carrier_1454",
-    "name": "婚纱",
     "category_l1": "男装",
     "category_l2": "女装"
   },
@@ -8780,12 +8066,6 @@
   {
     "id": "carrier_1464",
     "name": "加绒裤",
-    "category_l1": "男装",
-    "category_l2": "女装"
-  },
-  {
-    "id": "carrier_1465",
-    "name": "设计师/潮牌",
     "category_l1": "男装",
     "category_l2": "女装"
   },
@@ -8876,12 +8156,6 @@
   {
     "id": "carrier_1480",
     "name": "抹胸",
-    "category_l1": "男装",
-    "category_l2": "内衣"
-  },
-  {
-    "id": "carrier_1481",
-    "name": "大码内衣",
     "category_l1": "男装",
     "category_l2": "内衣"
   },
@@ -9012,12 +8286,6 @@
     "category_l2": "配饰"
   },
   {
-    "id": "carrier_1503",
-    "name": "毛线/布面料",
-    "category_l1": "男装",
-    "category_l2": "配饰"
-  },
-  {
     "id": "carrier_1504",
     "name": "遮阳帽",
     "category_l1": "男装",
@@ -9058,12 +8326,6 @@
     "name": "女士腰带/礼盒",
     "category_l1": "男装",
     "category_l2": "配饰"
-  },
-  {
-    "id": "carrier_1511",
-    "name": "套装",
-    "category_l1": "男装",
-    "category_l2": "童装"
   },
   {
     "id": "carrier_1512",
@@ -9220,438 +8482,6 @@
     "name": "拖鞋",
     "category_l1": "男装",
     "category_l2": "童鞋"
-  },
-  {
-    "id": "carrier_1538",
-    "name": "小说",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1539",
-    "name": "散文随笔",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1540",
-    "name": "青春文学",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1541",
-    "name": "传记",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1542",
-    "name": "动漫",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1543",
-    "name": "悬疑推理",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1544",
-    "name": "科幻",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1545",
-    "name": "武侠",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1546",
-    "name": "世界名著",
-    "category_l1": "图书",
-    "category_l2": "文学"
-  },
-  {
-    "id": "carrier_1547",
-    "name": "0-2岁",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1548",
-    "name": "3-6岁",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1549",
-    "name": "儿童文学",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1550",
-    "name": "绘本",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1551",
-    "name": "科普百科",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1552",
-    "name": "幼儿启蒙",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1553",
-    "name": "智力开发",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1554",
-    "name": "少儿英语",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1555",
-    "name": "玩具书",
-    "category_l1": "图书",
-    "category_l2": "童书"
-  },
-  {
-    "id": "carrier_1556",
-    "name": "教材",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1557",
-    "name": "中小学教辅",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1558",
-    "name": "外语学习",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1559",
-    "name": "字典词典",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1560",
-    "name": "课外读物",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1561",
-    "name": "英语四六级",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1562",
-    "name": "国家公务员",
-    "category_l1": "图书",
-    "category_l2": "教材教辅"
-  },
-  {
-    "id": "carrier_1563",
-    "name": "历史",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1564",
-    "name": "心理学",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1565",
-    "name": "政治军事",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1566",
-    "name": "传统文化",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1567",
-    "name": "哲学宗教",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1568",
-    "name": "社会科学",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1569",
-    "name": "法律",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1570",
-    "name": "文化",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1571",
-    "name": "党政专区",
-    "category_l1": "图书",
-    "category_l2": "人文社科"
-  },
-  {
-    "id": "carrier_1572",
-    "name": "管理",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1573",
-    "name": "经济",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1574",
-    "name": "市场营销",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1575",
-    "name": "领导力",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1576",
-    "name": "投资",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1577",
-    "name": "励志与成功",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1578",
-    "name": "自我完善",
-    "category_l1": "图书",
-    "category_l2": "经管励志"
-  },
-  {
-    "id": "carrier_1579",
-    "name": "绘画",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1580",
-    "name": "摄影",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1581",
-    "name": "书法",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1582",
-    "name": "连环画",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1583",
-    "name": "设计",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1584",
-    "name": "建筑艺术",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1585",
-    "name": "艺术史",
-    "category_l1": "图书",
-    "category_l2": "艺术"
-  },
-  {
-    "id": "carrier_1586",
-    "name": "计算机与互联网",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1587",
-    "name": "科普",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1588",
-    "name": "建筑",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1589",
-    "name": "工业技术",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1590",
-    "name": "电子通信",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1591",
-    "name": "医学",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1592",
-    "name": "科学与自然",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1593",
-    "name": "农林",
-    "category_l1": "图书",
-    "category_l2": "科学技术"
-  },
-  {
-    "id": "carrier_1594",
-    "name": "育儿家教",
-    "category_l1": "图书",
-    "category_l2": "生活"
-  },
-  {
-    "id": "carrier_1595",
-    "name": "孕产胎教",
-    "category_l1": "图书",
-    "category_l2": "生活"
-  },
-  {
-    "id": "carrier_1596",
-    "name": "健身保健",
-    "category_l1": "图书",
-    "category_l2": "生活"
-  },
-  {
-    "id": "carrier_1597",
-    "name": "手工DIY",
-    "category_l1": "图书",
-    "category_l2": "生活"
-  },
-  {
-    "id": "carrier_1598",
-    "name": "烹饪美食",
-    "category_l1": "图书",
-    "category_l2": "生活"
-  },
-  {
-    "id": "carrier_1599",
-    "name": "IP商品",
-    "category_l1": "图书",
-    "category_l2": "文娱"
-  },
-  {
-    "id": "carrier_1600",
-    "name": "游戏",
-    "category_l1": "图书",
-    "category_l2": "文娱"
-  },
-  {
-    "id": "carrier_1601",
-    "name": "软件",
-    "category_l1": "图书",
-    "category_l2": "文娱"
-  },
-  {
-    "id": "carrier_1602",
-    "name": "纪念币",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1603",
-    "name": "金银币",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1604",
-    "name": "纸币",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1605",
-    "name": "古钱币",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1606",
-    "name": "邮票",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1607",
-    "name": "礼品册",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1608",
-    "name": "收藏工具",
-    "category_l1": "图书",
-    "category_l2": "邮币"
-  },
-  {
-    "id": "carrier_1609",
-    "name": "新品推荐",
-    "category_l1": "女鞋",
-    "category_l2": "时尚女鞋"
   },
   {
     "id": "carrier_1610",
@@ -9942,60 +8772,6 @@
     "category_l2": "奢侈品"
   },
   {
-    "id": "carrier_1658",
-    "name": "萧邦",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1659",
-    "name": "西铁城",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1660",
-    "name": "天王",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1661",
-    "name": "阿玛尼",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1662",
-    "name": "瑞表",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1663",
-    "name": "国表",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1664",
-    "name": "日韩表",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1665",
-    "name": "欧美表",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
-    "id": "carrier_1666",
-    "name": "德表",
-    "category_l1": "女鞋",
-    "category_l2": "钟表"
-  },
-  {
     "id": "carrier_1667",
     "name": "儿童手表",
     "category_l1": "女鞋",
@@ -10098,34 +8874,10 @@
     "category_l2": "珠宝首饰"
   },
   {
-    "id": "carrier_1684",
-    "name": "培育钻石/人工彩宝",
-    "category_l1": "女鞋",
-    "category_l2": "珠宝首饰"
-  },
-  {
     "id": "carrier_1685",
     "name": "发饰",
     "category_l1": "女鞋",
     "category_l2": "珠宝首饰"
-  },
-  {
-    "id": "carrier_1686",
-    "name": "投资金",
-    "category_l1": "女鞋",
-    "category_l2": "金银投资"
-  },
-  {
-    "id": "carrier_1687",
-    "name": "投资银",
-    "category_l1": "女鞋",
-    "category_l2": "金银投资"
-  },
-  {
-    "id": "carrier_1688",
-    "name": "投资收藏",
-    "category_l1": "女鞋",
-    "category_l2": "金银投资"
   },
   {
     "id": "carrier_1689",
@@ -10488,18 +9240,6 @@
     "category_l2": "寝居服饰"
   },
   {
-    "id": "carrier_1749",
-    "name": "隔尿垫巾",
-    "category_l1": "母婴",
-    "category_l2": "寝居服饰"
-  },
-  {
-    "id": "carrier_1750",
-    "name": "尿布",
-    "category_l1": "母婴",
-    "category_l2": "寝居服饰"
-  },
-  {
     "id": "carrier_1751",
     "name": "安全防护",
     "category_l1": "母婴",
@@ -10616,12 +9356,6 @@
   {
     "id": "carrier_1770",
     "name": "文胸/内裤",
-    "category_l1": "母婴",
-    "category_l2": "妈妈专区"
-  },
-  {
-    "id": "carrier_1771",
-    "name": "防溢乳垫",
     "category_l1": "母婴",
     "category_l2": "妈妈专区"
   }
