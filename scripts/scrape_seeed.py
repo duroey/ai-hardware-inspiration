@@ -1,6 +1,7 @@
 """Scrape sensor and actuator products from Seeed Studio via Typesense search API."""
 
 import json
+import os
 import time
 import argparse
 from pathlib import Path
@@ -8,7 +9,7 @@ from pathlib import Path
 import requests
 
 TYPESENSE_HOST = "https://searchv2.seeedstudio.com"
-TYPESENSE_API_KEY = "ZQOZ9ITiLVUzYJtNAraPN7V0CaXHYX4J"
+TYPESENSE_API_KEY = os.environ.get("SEEED_TYPESENSE_KEY", "ZQOZ9ITiLVUzYJtNAraPN7V0CaXHYX4J")
 COLLECTION = "bazaar4_retailer-products"
 
 HEADERS = {
