@@ -253,6 +253,7 @@ def main():
         actuators = ", ".join(r.get("actuators", []))
         carriers = ", ".join(r.get("carriers", []))
         print(f"✓ [{r.get('product_name', '')}] 传感器=[{sensors}] | 执行器=[{actuators}] | 载体=[{carriers}]")
+        print(f"  位置: {r.get('placement', '未指定')}")
         print(f"  场景: {r.get('scene', '')}")
         print(f"  卖点: {r.get('selling_point', '')}")
         print(f"  受众: {r.get('audience', '')} | 可行性: {r.get('feasibility', '?')}/5")
