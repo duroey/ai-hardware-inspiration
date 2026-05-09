@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>灵感推荐器 · AI硬件产品创意</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #fafaf9;
+  --surface: #ffffff;
+  --border: #e7e5e4;
+  --text: #1c1917;
+  --text-secondary: #78716c;
+  --accent: #dc2626;
+  --accent-light: #fef2f2;
+  --green: #16a34a;
+  --green-light: #f0fdf4;
+  --amber: #d97706;
+  --amber-light: #fffbeb;
+  --blue: #2563eb;
+  --blue-light: #eff6ff;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+.header {
+  padding: 48px 48px 32px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.header p {
+  color: var(--text-secondary);
+  margin-top: 6px;
+  font-size: 14px;
+}
+
+.stats {
+  display: flex;
+  gap: 24px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px 20px;
+  min-width: 120px;
+}
+
+.stat-value {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+.controls {
+  padding: 0 48px;
+  max-width: 1400px;
+  margin: 0 auto 24px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.control-group label {
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+select, input[type="text"] {
+  font-size: 13px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+}
+
+select:focus, input:focus {
+  border-color: var(--accent);
+}
+
+input[type="text"] {
+  width: 200px;
+}
+
+.grid {
+  padding: 0 48px 64px;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 24px;
+  transition: box-shadow 0.15s;
+  cursor: default;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.card-title {
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.card-feasibility {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.feasibility-5 { background: var(--green-light); color: var(--green); }
+.feasibility-4 { background: var(--green-light); color: var(--green); }
+.feasibility-3 { background: var(--amber-light); color: var(--amber); }
+.feasibility-2 { background: var(--accent-light); color: var(--accent); }
+.feasibility-1 { background: var(--accent-light); color: var(--accent); }
+
+.card-scene {
+  font-size: 14px;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.card-selling {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.tag {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 3px;
+  background: #f5f5f4;
+  color: var(--text-secondary);
+}
+
+.tag-sensor { background: #ecfdf5; color: #065f46; }
+.tag-actuator { background: #eff6ff; color: #1e40af; }
+.tag-carrier { background: #fef3c7; color: #92400e; }
+
+.card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 12px;
+}
+
+.card-audience {
+  color: var(--text-secondary);
+}
+
+.card-market {
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+.market-蓝海 { background: var(--blue-light); color: var(--blue); }
+.market-微创新 { background: var(--amber-light); color: var(--amber); }
+.market-微创新空间 { background: var(--amber-light); color: var(--amber); }
+.market-红海 { background: var(--accent-light); color: var(--accent); }
+.market-unknown { background: #f5f5f4; color: var(--text-secondary); }
+
+.card-ai {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.card-ai summary {
+  font-size: 12px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  user-select: none;
+}
+
+.card-ai-list {
+  margin-top: 6px;
+  list-style: none;
+}
+
+.card-ai-list li {
+  font-size: 12px;
+  color: var(--text-secondary);
+  padding: 3px 0;
+}
+
+.card-ai-list li strong {
+  color: var(--text);
+  font-weight: 500;
+}
+
+.card-competitors {
+  margin-top: 8px;
+}
+
+.card-competitors summary {
+  font-size: 12px;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.competitor {
+  font-size: 12px;
+  color: var(--text-secondary);
+  padding: 4px 0;
+  border-bottom: 1px solid #f5f5f4;
+}
+
+.competitor:last-child { border-bottom: none; }
+
+.competitor strong {
+  color: var(--text);
+  font-weight: 500;
+}
+
+.empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 64px;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .header, .controls, .grid { padding-left: 20px; padding-right: 20px; }
+  .grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>灵感推荐器</h1>
+  <p>AI硬件产品创意 · 传感器 × 执行器 × 载体 → AI生成场景</p>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="controls" id="controls">
+  <div class="control-group">
+    <label>搜索</label>
+    <input type="text" id="search" placeholder="产品名、场景、卖点...">
+  </div>
+  <div class="control-group">
+    <label>可行性</label>
+    <select id="filter-feasibility">
+      <option value="">全部</option>
+      <option value="5">5 - 完全可实现</option>
+      <option value="4">4</option>
+      <option value="3">3</option>
+      <option value="2">2</option>
+      <option value="1">1</option>
+    </select>
+  </div>
+  <div class="control-group">
+    <label>市场</label>
+    <select id="filter-market">
+      <option value="">全部</option>
+      <option value="蓝海">蓝海</option>
+      <option value="微创新">微创新</option>
+      <option value="红海">红海</option>
+      <option value="unknown">未搜索</option>
+    </select>
+  </div>
+  <div class="control-group">
+    <label>排序</label>
+    <select id="sort">
+      <option value="feasibility-desc">可行性 高→低</option>
+      <option value="feasibility-asc">可行性 低→高</option>
+      <option value="name">产品名 A→Z</option>
+    </select>
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<script>
+let allData = [];
+
+async function loadData() {
+  try {
+    const resp = await fetch('../results/ideas.json');
+    allData = await resp.json();
+  } catch(e) {
+    try {
+      const resp = await fetch('./data.json');
+      allData = await resp.json();
+    } catch(e2) {
+      document.getElementById('grid').innerHTML = '<div class="empty">无法加载数据。请确保 results/ideas.json 或 viewer/data.json 存在。</div>';
+      return;
+    }
+  }
+  renderStats();
+  render();
+}
+
+function renderStats() {
+  const total = allData.length;
+  const avgFeasibility = (allData.reduce((s, d) => s + (d.feasibility || 0), 0) / total).toFixed(1);
+  const markets = {};
+  allData.forEach(d => {
+    const m = getMarket(d);
+    markets[m] = (markets[m] || 0) + 1;
+  });
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="stat-value">${total}</div><div class="stat-label">总创意数</div></div>
+    <div class="stat"><div class="stat-value">${avgFeasibility}</div><div class="stat-label">平均可行性</div></div>
+    <div class="stat"><div class="stat-value">${markets['蓝海'] || 0}</div><div class="stat-label">蓝海机会</div></div>
+    <div class="stat"><div class="stat-value">${markets['微创新'] || 0 + (markets['微创新空间'] || 0)}</div><div class="stat-label">微创新</div></div>
+    <div class="stat"><div class="stat-value">${markets['红海'] || 0}</div><div class="stat-label">红海</div></div>
+  `;
+}
+
+function getMarket(item) {
+  const mr = item.market_research;
+  if (!mr) return 'unknown';
+  if (mr.market) return mr.market;
+  if (mr.exists === 'error') return 'unknown';
+  return 'unknown';
+}
+
+function render() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const feasFilter = document.getElementById('filter-feasibility').value;
+  const marketFilter = document.getElementById('filter-market').value;
+  const sort = document.getElementById('sort').value;
+
+  let filtered = allData.filter(item => {
+    if (search) {
+      const text = [
+        item.product_name, item.scene, item.selling_point, item.audience,
+        ...(item.sensors || []), ...(item.actuators || []), ...(item.carriers || [])
+      ].join(' ').toLowerCase();
+      if (!text.includes(search)) return false;
+    }
+    if (feasFilter && item.feasibility != feasFilter) return false;
+    if (marketFilter) {
+      const m = getMarket(item);
+      if (marketFilter === '微创新') {
+        if (m !== '微创新' && m !== '微创新空间') return false;
+      } else if (m !== marketFilter) return false;
+    }
+    return true;
+  });
+
+  if (sort === 'feasibility-desc') filtered.sort((a, b) => (b.feasibility || 0) - (a.feasibility || 0));
+  else if (sort === 'feasibility-asc') filtered.sort((a, b) => (a.feasibility || 0) - (b.feasibility || 0));
+  else if (sort === 'name') filtered.sort((a, b) => (a.product_name || '').localeCompare(b.product_name || ''));
+
+  const grid = document.getElementById('grid');
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="empty">没有匹配的创意</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map(item => {
+    const market = getMarket(item);
+    const marketClass = market.includes('微创新') ? '微创新' : market;
+    const sensors = (item.sensors || []).map(s => `<span class="tag tag-sensor">${s}</span>`).join('');
+    const actuators = (item.actuators || []).map(a => `<span class="tag tag-actuator">${a}</span>`).join('');
+    const carriers = (item.carriers || []).map(c => `<span class="tag tag-carrier">${c}</span>`).join('');
+
+    const aiModels = (item.ai_models || []).map(m =>
+      `<li><strong>${m.model}</strong> — ${m.role}</li>`
+    ).join('');
+
+    const competitors = (item.market_research?.similar_products || []).map(p =>
+      `<div class="competitor"><strong>${p.name}</strong> (${p.brand}) — ${(p.description || '').slice(0, 60)}</div>`
+    ).join('');
+
+    return `
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">${item.product_name || '未命名'}</div>
+          <div class="card-feasibility feasibility-${item.feasibility || 0}">${item.feasibility}/5</div>
+        </div>
+        <div class="card-scene">${item.scene || ''}</div>
+        <div class="card-selling">${item.selling_point || ''}</div>
+        <div class="card-tags">${sensors}${actuators}${carriers}</div>
+        <div class="card-meta">
+          <span class="card-audience">${item.audience || ''}</span>
+          <span class="card-market market-${marketClass}">${market}</span>
+        </div>
+        ${aiModels ? `<details class="card-ai"><summary>AI 模型 (${item.ai_models.length})</summary><ul class="card-ai-list">${aiModels}</ul></details>` : ''}
+        ${competitors ? `<details class="card-competitors"><summary>竞品参考 (${item.market_research.similar_products.length})</summary>${competitors}</details>` : ''}
+      </div>
+    `;
+  }).join('');
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('filter-feasibility').addEventListener('change', render);
+document.getElementById('filter-market').addEventListener('change', render);
+document.getElementById('sort').addEventListener('change', render);
+
+loadData();
+</script>
+</body>
+</html>
