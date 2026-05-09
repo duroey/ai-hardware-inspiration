@@ -97,7 +97,7 @@ def main():
     parser.add_argument(
         "--input",
         type=Path,
-        default=RESULTS_DIR / "sample.json",
+        default=RESULTS_DIR / "ideas.json",
         help="Input results file to enrich",
     )
     parser.add_argument(
@@ -122,8 +122,12 @@ def main():
     with open(args.input) as f:
         results = json.load(f)
 
-    valid_ideas = [r for r in results if r.get("valid", True)]
-    print(f"Loaded {len(results)} results, {len(valid_ideas)} valid ideas to search")
+    valid_ideas = [r for r in results if r.get("valid", True) and "market_research" not in r]
+    print(f"Loaded {len(results)} results, {len(valid_ideas)} ideas need search (skipping already searched)")
+
+    if not valid_ideas:
+        print("All ideas already have market research. Nothing to do.")
+        return
 
     if args.test:
         valid_ideas = valid_ideas[:1]

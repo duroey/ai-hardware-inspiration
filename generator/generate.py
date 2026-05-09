@@ -106,8 +106,8 @@ def load_rejected() -> set:
 def save_rejected(rejected: set):
     """Save rejected combination keys to cache."""
     REJECTED_CACHE.parent.mkdir(parents=True, exist_ok=True)
-    with open(REJECTED_CACHE, "w") as f:
-        json.dump(sorted(rejected), f)
+    with open(REJECTED_CACHE, "w", encoding="utf-8") as f:
+        json.dump(sorted(rejected), f, ensure_ascii=False, indent=2)
 
 
 def build_prompt(combinations: list[dict]) -> str:
@@ -228,13 +228,18 @@ def main():
         save_rejected(rejected)
         print(f"\nCached {new_rejected} new rejected combinations (total: {len(rejected)})")
 
-    # Output results (only valid ones)
+    # Output results (only valid ones, append to existing)
     valid_results = [r for r in all_results if r.get("valid", True)]
-    output_path = args.output or RESULTS_DIR / "sample.json"
+    output_path = args.output or RESULTS_DIR / "ideas.json"
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    existing = []
+    if output_path.exists():
+        with open(output_path, encoding="utf-8") as f:
+            existing = json.load(f)
+    existing.extend(valid_results)
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(valid_results, f, ensure_ascii=False, indent=2)
+        json.dump(existing, f, ensure_ascii=False, indent=2)
 
     # Print results to terminal
     print(f"\n{'='*60}")
